@@ -1,0 +1,854 @@
+Animal Genetics
+Gene Therapy
+Genetic Counseling
+Behavioral Genetics
+Cancer Genetics
+Cognitive Genetics
+Environmental Genetics
+Evolutionary Genetics
+Genetics of Mammalian Development
+Genetics of Human Infertility
+Immunogenetics
+Microbial Genetics
+Reproductive Genetics
+Radiation Genetics
+Stem Cell Biology
+Splicing
+RNA Editing
+Polyadenylation
+5 capping
+Exon Shuffling
+mRNA Transport
+RNA Polymerases
+Transcription of rRNA
+Transcription of mRNA
+Transcription of tRNA
+Anther Culture
+Callus Culture
+Cell Suspension
+Embryo Culture
+Fusion Regeneration
+Meristem Culture
+Regeneration of Plants
+Protoplast Culture
+Somatic Hybridization
+Spore Culture
+Lipoplexes
+Polyplexes
+Oligonucleotides
+Naked DNA
+Vaccinia Viral Vectors
+Retroviral Vectors
+Lentiviral Vectors
+Herpesvirus Viral Vectors
+Alphavirus Viral Vectors
+Adenoviral Vectors
+Adeno-Associated Viral Vectors
+Germline Engineering
+Somatic Gene Therapy
+Gene Regulation in Eukaryote
+Gene Regulation in Prokaryote
+Family Based Linkages
+Position Cloning
+Physical Mapping
+Genetic Markers
+Population Genetics
+TALEN
+CRISPR-Cas System
+ZFN
+cDNA Synthesis
+Characterization of Cloned Genes
+Chemical Synthesis of DNA
+Cloning Strategies
+Enzymes in Gene Cloning
+Expression Vectors
+Isolation of DNA
+Mechanical Shearing
+Ligation Between Fragments
+Multipurpose Vectors
+Promoter-probe Vectors
+Purification of DNA
+Screening of cDNA Libraries
+Restriction Digestion
+Vectors for Construction of Genomic Libraries
+DNAses
+Phosphatases
+Ligases
+Restriction Enzymes
+Polynucleotide Kinase
+RNAses
+RNA Polymerases
+Yeast Vectors
+YAC Vectors
+Phasmid Vectors
+Phage Vectors
+Cosmid Vectors
+BAC Vectors
+Telomeric DNA Replication
+DNA Polymerases
+Replication in Eukaryote DNA
+Replication in Prokaryote DNA
+Rolling Circle Model
+DNA in Mitochondria
+DNA in Chromoplasts
+Chromosome Structure
+Chromosome Organization in Eukaryotes
+CGH
+Banding Pattern
+Fluorescence Activated Cell Sorting
+Flow Cytometry
+FISH
+Organelle Hereditary
+Callus
+Animal Cloning
+Animal and Stem Cells
+Cell Culture Techniques
+Stem Cell Therapy
+Stem Cell Assays and Protocols
+Selection of Clones
+Plant Tissue Culture - Preparatory Techniques
+Plant Tissue Culture - Media
+Micropropagation
+Genetic Manipulation through Tissue Culture
+Embryonic Stem Cells
+Types of Stem Cells
+Cell Characterization
+Embryonic Cell Isolation and Culture
+Culture of Cell Lines
+Culture Media
+Cryopreservation
+Continuous Cell Lines
+Contamination
+Characteristics
+Cell Transformation
+Cell Separation
+Cell Differentiation
+Immortalization
+Stem Cell Isolation and Culture
+Secondary Cell Lines
+Reagents
+Primary Cell Lines
+Preservation of Cell Cultures
+Organ Culture
+Transcription
+Plant Cell Culture
+Gene Therapy
+Gene Regulation
+Gene Mapping
+Gene Editing
+Gene Cloning
+DNA Replication
+Cytogenetics
+Cell and Tissue Culture
+Animal Cell Culture
+Translation
+RNA processing
+Regulation of RNA
+Recombinant DNA Technology
+Gene Mutation
+DNA Repair
+Cell Characterization
+Embryonic Cell Isolation and Culture
+Culture of Cell Lines
+Culture Media
+Cryopreservation
+Continuous Cell Lines
+Contamination
+Characteristics
+Cell Transformation
+Cell Separation
+Cell Differentiation
+Immortalization
+Stem Cell Isolation and Culture
+Secondary Cell Lines
+Reagents
+Primary Cell Lines
+Preservation of Cell Cultures
+Organ Culture
+Parasitology
+Pathogenesis
+Virology
+Bacteriology
+Immunology
+General Microbiology
+Nematology
+Nano Microbiology
+Mycology
+Protozoology
+Phycology
+Diseases Caused by Dracunculus
+Diseases Caused by Giardia
+Diseases Caused by Entamoeba
+Diseases Caused by Leishmania
+Diseases Caused by Toxoplasma
+Diseases Caused by Plasmodium
+Diseases Caused by Trichomonas
+Diseases Caused by Wuchereria
+Ova and Cysts in Stool Samples
+Stool Examination
+Infectivity
+Adhesion in Hosts
+Virulence
+Transmissibility
+Toxigenicity
+Release of Pathogens
+Architecture of Viruses
+Viral Genomes
+Sub-Viral Agents
+Replication of Viruses
+Purification of Viruses
+Properties of Viruses
+Isolation and Cultivation of Viruses
+Control of Viruses
+Classification of Viruses
+Bacterial Staining
+Antibiotic Sensitivity Test
+Diagnosis of Tuberculosis
+Diagnosis of Bacillary Dysentery
+Diagnosis of Diarrhoeal Diseases
+Diagnosis of Enteric Fever
+Diagnosis of Leprosy
+Diagnosis of LRTI
+Diagnosis of Meningitis
+Diagnosis of Pyogenic Infection
+Diagnosis of URTI
+Diagnosis of Urinary Tract Infection
+High Titre Sera
+Domain Eubacteria
+Domain Archaea
+Morphological Identification
+Reserve Food Materials
+Pathogenic Bacteria
+Non-Pathogenic Bacteria
+Density Gradient Centrifugation
+Ultracentrifugations
+Microcentrifuges
+High-Speed Centrifuges
+Fractionation
+Differential Centrifugation
+Dye-Terminator Sequencing
+DNA Nanoball Sequencing
+Chain-Termination Methods
+Massively Parallel Signature Sequencing
+Large Scale Sequencing
+Ion Torrent semiconductor sequencing
+Illumina Sequencing
+Illumina (Solexa) Sequencing
+High-Throughput - Next Generation Sequencing
+Helioscope(TM) Single Molecule Sequencing
+Maxam ? Gilbert Sequencing
+Single Molecule Smrt(TM) Sequencing
+Single Molecule Real Time (RNAP) Sequencing
+Sanger Sequencing
+Polony Sequencing
+SOLID Sequencing
+PAGE, Native
+Northern Blotting
+Immunoblotting
+Gel Electrophoresis
+Agarose Gel Electrophoresis
+Southern Blotting
+PFGE
+Paper Electrophoresis
+PAGE, SDS
+Reverse Transcriptase PCR
+Real Time Fluorescent PCR
+Rapid Amplification of cDNA Ends
+Randomly Amplified Polymorphic DNA
+Mutagenisis
+Multiplex PCR
+Inverse PCR
+Differential Display PCR
+Deletions and Insertions by PCR
+Confocal
+Confocal Laser Scanning Raman Microscopy
+Infra-Red Microscopy
+Fluorescence
+Dark Field
+Phase Contrast
+SEM with Energy Dispersive X-Ray analysis
+Scanning Electron Microscopy
+Transmission Electron Microscopy
+Attenuated Total Reflection Infra-Red Spectroscopy
+Atomic Emission Spectroscopy (AES)
+Atomic Absorption Spectroscopy
+Circular Dichroism
+Fourier Transform Infrared Spectroscopy
+Far-Infra-Red
+Liquid Chromatography Mass Spectrometry
+Infrared spectroscopy
+Gas Chromatography Mass Spectrometry
+Near Infra-Red
+Raman Spectroscopy
+UV-visible Spectroscopy
+X-Ray Fluorescence Analysis
+Centrifugation
+DNA Sequencing
+Electrophoresis and Blotting
+PCR
+Microscopy
+Spectroscopy
+Envrionmental Microbiology
+Medical Microbiology
+Agricultural Microbiology
+Food Microbiology
+Microbial Biotechnology
+Industrial Microbiology
+Pharmaceutical Microbiology
+Plant Microbiology
+Aquatic Microbiology
+Biofouling and corrosion
+Degradation of Xenobiotics
+Bioremediation
+Habitat of Microorganisms
+Microbiology of Air
+Population interactions
+Processing of solid wastes
+Sewage Microbiology
+Space Microbiology
+Diagnosis
+Disease Caused by Dermatophyte Fungi
+Disease Caused by Dimorphic Fungi
+Disease Caused by Opportunistic Fungal Pathogens
+Botulism
+Dengue Fever
+Mad Cow Disease
+Malaria
+MRSA
+Meningitis
+West Nile Virus
+Thrush
+Staph Infection
+Rabies
+Bacterial Diseases, Types
+Fungal Diseases
+Infectious Disease
+Parasitic Diseases
+Viral Diseases
+Lab Technician
+Guide
+Supervisor
+Manager
+Teaching
+Calibrating Laboratory Equipments
+Collecting Samples
+Data Entry into LIMS
+Data entry into EHR
+Labeling of Biological Wastes
+Maintaining Inventory in the Laboratory
+Safe Disposal of Biological Wastes
+Antiamoebic Drugs
+Anti-AIDS Drugs
+Anthelmintic Agents
+Aminoglycosides
+Chemotherapy of Urinary tract infection
+Beta-Lactam Antibiotics
+AntiViral Drugs
+Antitubercular Drugs
+Antiprotozoal Drugs
+Antimycobacterial Drugs
+Antimalarial Drugs
+Antileprosy Drugs
+Antifungal Drugs
+Drugs for Filariasis
+Oxazolidinones, Streptogramin
+Macrolides and Ketolides
+Tetracycline and Chloramphenicol
+Sulfonamides
+Quinolones
+Treatment of MDR and XDR Tuberculosis
+Experimentation on Animals
+Animal Handling
+Laboratory Animals
+Physiological Characteristics
+Dose Response Relationship
+Desensitization and Tachphylaxis
+Drug Receptor Interaction
+Drug Dependence and Withdrawal Responses
+Receptor Characterization
+Non Therapeutic Use of Drugs
+Receptor Response Relationship
+Receptor Occupation
+Receptor Down Regulation and Up Regulation
+Transmembrane Signal Mechanisms
+Thermodynamics of Drug Interactions
+Drugs Acting on Blood
+Drugs Affecting Kidney Function
+Drugs Affecting Gastro-intestinal System
+Drugs Affecting Endocrine System
+Drugs Affecting Central Nervous System
+Drugs Affecting Cardiovascular System (CVS)
+Drugs Affecting Autonomic Nervous System (ANS)
+Drugs Affecting Autacoids, Inflammation and Gout
+Drugs Affecting Peripheral Nervous System (PNS)
+Drugs Affecting Respiratory System
+Immunopharmacology
+Other Drugs, Treatments
+Pharmacokinetics and Drug Metabolism
+Spectroscopy
+PCR
+Microscopy
+Electrophoresis and Blotting
+DNA Sequencing
+Centrifugation
+Endocrinology
+DNA
+Cell and Tissue Culture
+Animal Cell Culture
+Lipids
+Enzymes
+RNA
+Proteins
+Plant Cell Culture
+Carbohydrates
+Metabolism
+Estimation of hCG
+Estimation of FSH
+Estimation of Cortisol
+Classification of Hormones
+Biosynthesis of Hormones
+Estimation of LH
+Estimation of T3
+Estimation of Progesterone
+Estimation of Testosterone
+Estimation of T4
+Estimation of TSH
+Transport of Hormones
+Secretion of Hormones
+Regulation of Hormones
+Mechanisms of Actions of Hormones
+DNA Synthesis
+DNA Repair
+DNA Polymerases
+DNA Ligase
+Chemical Synthesis of DNA
+Manipulating DNA
+Labeling of Nucleic Acids
+Protein Binding
+Replication of DNA
+Animal and Stem Cells
+Animal Cloning
+Genetic Manipulation through Tissue Culture
+Embryonic Stem Cells
+Callus
+Cell Culture Techniques
+Plant Tissue Culture - Media
+Micropropagation
+Plant Tissue Culture - Preparatory Techniques
+Selection of Clones
+Stem Cell Therapy
+Stem Cell Assays and Protocols
+Types of Stem Cells
+Cell Separation
+Cell Differentiation
+Cell Characterization
+Cell Transformation
+Characteristics
+Contamination
+Embryonic Cell Isolation and Culture
+Culture of Cell Lines
+Culture Media
+Cryopreservation
+Continuous Cell Lines
+Immortalization
+Preservation of Cell Cultures
+Organ Culture
+Primary Cell Lines
+Stem Cell Isolation and Culture
+Secondary Cell Lines
+Reagents
+Biosynthesis
+Classification
+Glycolipids
+Fatty Acids
+Oxidation
+Phospholipids
+Triacyl Glycerols
+Aeration
+Agitation
+Enzyme Catalyzed Reactions
+Co-Enzymes
+Enzyme Isolation
+Enzyme Inhibition
+Enzyme Assays
+Enzyme Purification
+Inversible Inhibition
+Monomeric enzymes
+RNA Synthesis
+Biosynthesis of tRNA
+Biosynthesis of rRNA
+Biosynthesis of mRNA
+Yeast Two Hybrid Analysis
+SELDI - TOF MS
+MALDI TOF
+lc-ms/ms analysis
+ITRAQ
+ICAT
+ESI-QITMS
+AQUA
+2DE
+Docking
+Prediction of Protein Structure
+Identification of Active Sites
+Ramachandran Plot
+Protein Target Prediction
+Protein Ligand Interactions
+Prediction of Protein Function
+Protein Interactions
+Protein Arrays
+Mass Spectrometry of Protein Identification
+ELISA
+Western Blotting of Proteins
+Protein Tagging
+Anther Culture
+Embryo Culture
+Cell Suspension
+Callus Culture
+Fusion Regeneration
+Protoplast Culture
+Meristem Culture
+Regeneration of Plants
+Somatic Hybridization
+Spore Culture
+Docking
+Ligplot Interactions
+Protein Modeling
+Primer Designing
+Prediction of Protein Structure
+Phylogenetic Analysis
+Molecular Modeling
+Protein Structure Analysis
+Sequence Alignment
+Sequence Manipulation
+FASTA
+Blast
+EMBL
+ECDC
+MIPS
+Hovergen
+PlasmoDB
+TIGR
+TAIR
+Assignment Problem
+Backtracking
+Branch and Bound
+Hamiltonian Circuit Problem
+Knapsack Problem
+n-Queen?s Problem
+Subset-Sum Problem
+Traveling Salesman Problem
+AVL Trees
+Balanced Search Trees
+Heaps and Heap Sort
+Greedy Techniques
+Huffman Trees
+Dijkstra?s Algorithm
+Dynamic Programming
+Optimal Binary Search Trees
+Kruskal?s Algorithm
+Prim?s Algorithm
+Presorting
+Transform and Conquer
+Warshall?s and Floyd?s Algorithm
+Binary Search
+Breadth First Search
+Binary Tree Traversal
+Bubble Sort
+Brute-Force String Matching
+Brute Force
+Decrease and Conquer
+Depth First Search
+Divide and Conquer
+Insertion Sort
+Selection Sort
+Merge Sort
+Quick Sort
+Sequential Search
+Computational Models
+Programming
+Machine Learning
+Data Analytics
+Qualitative and Structural Activity Relationship
+Predictive Analysis
+Time series Analysis
+T Test
+Sequence Analysis
+Non linear Regression
+MARIMA Model
+Methodologies
+Micro array Analysis
+Multidimensional Scaling
+MANOVA / MANCOVA
+Linear Regression
+Hypothesis Testing
+Hidden Markov Models
+Factor Analysis
+Discriminant Analysis
+Cross-Tabulation
+Conjoint Analysis
+Correlation
+Clustering and Diversity analysis
+Canonical Correlation
+Chi Square Test
+CHAID
+Association Analysis
+Artificial Neural Network
+ARIMA Model
+ANOVA
+ANCOVA
+GraphPad Prism
+Gensat
+GAUSS
+Excel
+EViews
+CPLEX
+BMDP
+Analyze-it
+ADamSoft
+JMP
+Gretl
+LMDEP
+KXEN
+NCSS
+Minitab
+MedCalc
+Mathematica
+Maple
+NLOGIT
+NumXL
+OpenBUGS
+Octave
+OxMetrics
+Ox
+Origin
+OpenEpi
+Primer
+PSPP
+R
+ROOT
+Salstat
+Sage
+SAS
+Scipy
+SigmaXL
+SkyTree Infinity
+SOFA
+Stata
+SPSS
+SPlus
+Statgraphics
+SYSTAT
+STATISTICA
+Statsmodels
+StatPlus
+Statwing
+TSP
+UNISTAT
+Weka
+WINKS
+Wizard
+DDBJ
+EMBL
+SANGER
+NCBI
+GenBank
+EMBL
+PDB
+PIR
+TrEMBL
+Swissprot
+Water Pollution
+Sampling
+Marine Water
+Marine Polysaccharides
+Fresh Water
+Analysis of Water
+Studying Clams
+Salinity, Testing Water for
+Oxygen, Testing Water for
+Studying Lobsters
+Studying Fresh Water Species
+Studying Fish
+Studying Salt Water Species
+Studying Oysters
+Studying Shrimps
+Temperature, Testing Water for
+Stem Cells
+Prokaryotic Cells
+Mutants and Transgenics
+Morphogenesis and organogenesis in plants
+Morphogenesis and organogenesis in animals
+Membrane Transport
+Imprinting
+Eukaryotic Cells
+Cell Signaling
+Cell Response
+Cell Lines
+Cell Division
+Cell Adhesion
+Replication of DNA
+Protein Binding
+Manipulating DNA
+Labeling of Nucleic Acids
+Chemical Synthesis of DNA
+DNA Ligase
+DNA Polymerases
+DNA Repair
+DNA Synthesis
+Column Chromatography
+Affinity Chromatography
+Adsorption Chromatography
+Gel Filtration Chromatography
+Fast Protein Liquid Chromatography
+Metal Affinity Chromatography
+Ion Exchange Chromatography
+Counter Current Chromatography
+Pyrolysis Gas Chromatography
+High Performance Liquid Chromatography
+Reversed Phase Chromatography
+Paper Chromatography
+Two Dimensional Chromatography
+Thin Layer Chromatography
+Supercritical Fluid Chromatography
+Biosynthesis of Hormones
+Estimation of Cortisol
+Classification of Hormones
+Estimation of T4
+Estimation of T3
+Estimation of Progesterone
+Estimation of LH
+Estimation of FSH
+Estimation of hCG
+Estimation of Testosterone
+Mechanisms of Actions of Hormones
+Estimation of TSH
+Regulation of Hormones
+Secretion of Hormones
+Transport of Hormones
+Triacyl Glycerols
+Phospholipids
+Oxidation
+Glycolipids
+Fatty Acids
+Classification
+Biosynthesis
+Biosynthesis of mRNA
+RNA Synthesis
+Biosynthesis of tRNA
+Biosynthesis of rRNA
+Biochemical and Biophysical Methods
+Amino Acids
+Biomolecules
+Carbohydrates
+DNA and RNA Replication
+Immunology
+Enzymes
+Metabolism
+Porphyrins
+Proteins
+Biosynthesis of mRNA
+RNA Synthesis
+Biosynthesis of tRNA
+Biosynthesis of rRNA
+Analytical Thinking
+Complying to Processes
+Constant Updation of Knowledge
+Data Presentation
+Documentation
+Eye for detail
+Inter-disciplinary Collaboration
+Observation
+Persevarance
+Researching for Information
+Natural Resource Management
+Horticulture
+Forestry
+Food Sciences
+Economic Botany
+Breeding
+Agronomy
+Biotechnology
+Plant Pathology
+Biochemistry Of Plants
+Anatomy of Plants
+Biophysics Of Plants
+Cytology Of Plants
+Ecology
+Taxonomy of Plants
+Systems Ecology
+Plant Physiology
+Plant Genetics
+Paleobotany
+Morphology
+Molecular Biology of Plants
+CRP Test
+HIV Test
+RA Test
+Pregnancy Test
+VDRL Test
+WIDAL Test
+Immunopathology
+Immune Response to Diseases
+Immunotechniques
+Antibodies
+Cells
+Organs of the Immune system
+Antigens
+Humoral Immune Response
+Immunity
+Responses
+Immunodeficiencies
+Immune Dysfunction
+Comparative Immunity
+Adaptive Immunity
+Innate Immunity
+Agglutinations Tests
+Complement Fixation Tests
+Enzyme Linked Immunosorbent Assays
+Immuno Electrophoresis Tests
+Immuno Specific Electron Microscopy
+Infectivity Neutralization Test
+Immunofluorescent
+Precipitation Tests
+Labeled Antibody Based Tests
+Radio Immuno Assay
+Western blotting
+Neutralization Tests
+Opsonization Tests
+Protection Tests
+Phagocytosis Tests
+Molecular Toxicology
+Target Organ Toxicology
+Genotoxicity
+Carcinogenicity
+Reproductive Toxicology
+Toxicity
+Toxicogeneomics
+Signaling and Apoptosis
+Second Messengers
+Oxidative Stress
+Cytokines Toxicity
+Cell Signaling and Receptors
+Calcium Mediated Toxicity
+Targets of Toxic Drugs
+Neurotoxicity
+Nephrotoxicity
+Local Toxicity
+Hepatotoxicity
+Haematotoxicity
+Endocrine Disruptors
+Cardiotoxicity
+Genetics
+Microbiology
+Roles in Life Sciences
+Pharmacology
+Molecular Biology
+Biochemistry
+BioInformatics
+Aquatic Biology
+Biochemistry
+Botany
+Plant Biology
+Immunology
+Serology
+Toxicology

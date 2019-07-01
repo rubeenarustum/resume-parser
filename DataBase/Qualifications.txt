@@ -1,0 +1,6898 @@
+AgrB
+Agr.B
+Agr.B.
+Bachelor of Agriculture
+BA
+B.A
+B.A.
+Bachelor of Arts
+Bachelor of Arts in Administration
+Bachelor of Arts in Education
+Bachelor of Arts in Financial Studies
+BSc
+B.Sc
+B.Sc.
+Bachelor of Science
+BAcc
+B.Acc
+B.Acc.
+Bachelor of Accounting
+BACom
+B.A.Com
+B.A.Com.
+Bachelor of Arts in Commerce
+BAdmin
+B.Admin
+B.Admin.
+Bachelor of Administration
+BAEcon
+B.A.Econ
+B.A.Econ.
+Bachelor of Arts in Economics
+BAgr
+B.Agr
+B.Agr.
+BAH
+B.A.H
+B.A.H.
+Bachelor of Animal Health
+BAI
+B.A.I
+B.A.I.
+Bachelor of Engineering
+Bachelor of Electrical Engineering
+Bachelor of Mechanical Engineering
+BALaw
+B.A.Law
+B.A.Law.
+Bachelor of Arts in Law
+BAO
+B.A.O
+B.A.O.
+Bachelor of Obstetrics
+BArch
+B.Arch
+B.Arch.
+Bachelor of Architecture
+BArchSc
+B.Arch.Sc
+B.Arch.Sc.
+Bachelor of Architectural Science
+BARelSt
+B.A.Rel.St
+B.A.Rel.St.
+Bachelor of Arts on Religious Studies
+BASc
+B.A.Sc
+B.A.Sc.
+Bachelor of Arts and Science
+BASoc
+B.A.Soc
+B.A.Soc.
+Bachelor of Arts in Sociology
+BATheol
+B.A.Theol
+B.A.Theol.
+Bachelor of Arts in Theology
+BBA
+B.B.A
+B.B.A.
+Bachelor of Business Administration
+BBLS
+B.B.L.S
+B.B.L.S.
+Bachelor of Business and Legal Studies
+BBS
+B.B.S
+B.B.S.
+Bachelor of Business Studies
+BBus
+B.Bus
+B.Bus.
+Bachelor of Business
+BChem
+B.Chem
+B.Chem.
+Bachelor of Chemistry
+BCL
+B.C.L
+B.C.L.
+Bachelor of Civil Law
+BCLD
+B.C.L.D
+B.C.L.D.
+Bachelor of Community Learning and Development in Social Sciences
+BClinSci
+B.Clin.Sci
+B.Clin.Sci.
+Bachelor of Clinical Science
+BCom
+B.Com
+B.Com.
+Bachelor of Commerce
+BCombSt
+B.Comb.St
+B.Comb.St.
+Bachelor of Combined Studies
+BCommEdCommDev
+B.Comm.Ed.Comm.Dev
+B.Comm.Ed.Comm.Dev.
+Bachelor of Community Education and Community Development
+BComSc
+B.Com.Sc
+B.Com.Sc.
+Bachelor of Commercial Science
+BD
+B.D
+B.D.
+Bachelor of Divinity
+BDes
+B.Des
+B.Des.
+Bachelor of Design
+BDiv
+B.Div
+B.Div.
+BEconSc
+B.Econ.Sc
+B.Econ.Sc.
+Bachelor of Economic Science
+BEconSci
+B.Econ.Sci
+B.Econ.Sci.
+Bachelor of Science in Economics
+BEd
+B.Ed
+B.Ed.
+Bachelor of Education
+BEng
+B.Eng
+B.Eng.
+BES
+B.E.S
+B.E.S.
+Bachelor of Engineering Studies
+BEngTech
+B.Eng.Tech
+B.Eng.Tech.
+Bachelor of Engineering in Technology
+BFA
+B.F.A
+B.F.A.
+Bachelor of Fine Art
+BFin
+B.Fin
+B.Fin.
+Bachelor of Finance
+BFLS
+B.F.L.S
+B.F.L.S.
+Bachelor of Financial and Legal Studies
+BFST
+B.F.S.T
+B.F.S.T.
+Bachelor of Food Science and Technology
+BH
+B.H
+B.H.
+Bachelor of Humanities
+BHealthSc
+B.Health.Sc
+B.Health.Sc.
+Bachelor of Health Sciences
+BHSc
+B.H.Sc
+B.H.Sc.
+Bachelor of Health Science
+BHy
+B.Hy
+B.Hy.
+Bachelor of Hygiene
+BIBA
+B.I.B.A
+B.I.B.A.
+Bachelor of International Business Administration
+BJur
+B.Jur
+B.Jur.
+Bachelor of Jurisprudence
+BL
+B.L
+B.L.
+Bachelor of Law
+BLE
+B.L.E
+B.L.E.
+Bachelor of Land Economy
+BLegSc
+B.Leg.Sc
+B.Leg.Sc.
+Bachelor of Legal Science
+BLib
+B.Lib
+B.Lib.
+Bachelor of Librarianship
+BLing
+B.Ling
+B.Ling.
+Bachelor of Linguistics
+BLitt
+B.Litt
+B.Litt.
+Bachelor of Letters
+Bachelor of Literature
+BLittCelt
+B.Litt.Celt
+B.Litt.Celt.
+Bachelor of Celtic Letters
+BLS
+B.L.S
+B.L.S.
+Bachelor of Library Studies
+BM
+B.M
+B.M.
+Bachelor of Medicine
+Bachelor of Midwifery
+BMedSc
+B.Med.Sc
+B.Med.Sc.
+Bachelor of Medical Sciences
+BMedSci
+B.Med.Sci
+B.Med.Sci.
+Bachelor of Medical Science
+BMet
+B.Met
+B.Met.
+Bachelor of Metallurgy
+BMid
+B.Mid
+B.Mid.
+BMidWif
+B.Mid.Wif
+B.Mid.Wif.
+BMin
+B.Min
+B.Min.
+Bachelor of Ministry
+BMS
+B.M.S
+B.M.S.
+Bachelor of Midwifery Studies
+BMSc
+B.M.Sc
+B.M.Sc.
+BMus
+B.Mus
+B.Mus.
+Bachelor of Music
+BMusEd
+B.Mus.Ed
+B.Mus.Ed.
+Bachelor of Music Education
+BMusPerf
+B.Mus.Perf
+B.Mus.Perf.
+Bachelor of Music Performance
+BN
+B.N
+B.N.
+Bachelor of Nursing
+BNatSci
+B.Nat.Sci
+B.Nat.Sci.
+Bachelor of Natural Science
+BNS
+B.N.S
+B.N.S.
+Bachelor of Nursing Studies
+BNurs
+B.Nurs
+B.Nurs.
+BOptom
+B.Optom
+B.Optom.
+Bachelor of Optometry
+BOst
+B.Ost
+B.Ost.
+Bachelor of Osteopathy
+BPA
+B.P.A
+B.P.A.
+Bachelor of Public Administration
+Bachelor of Performing Arts
+BPharm
+B.Pharm
+B.Pharm.
+Bachelor of Pharmacy
+BPhil
+B.Phil
+B.Phil.
+Bachelor of Philosophy
+Bachelor of Philosophy in Education
+BPhys
+B.Phys
+B.Phys.
+Bachelor of Physics
+BPhysio
+B.Physio
+B.Physio.
+Bachelor of Physiotherapy
+BPl
+B.Pl
+B.Pl.
+Bachelor of Planning
+BRadiog
+B.Radiog
+B.Radiog.
+Bachelor of Radiography
+Bachelor of Science in Dairying
+Bachelor of Science in Domestic Science
+Bachelor of Science in Education
+Bachelor of Science in Engineering
+Bachelor of Science in Health Science
+Bachelor of Science in Horticulture
+Bachelor of Science in Marine and Coastal Reserve Management
+Bachelor of Science in Medicine
+Bachelor of Science in Midwifery
+Bachelor of Science in Mining
+Bachelor of Science in Psychology
+BScAgr
+B.Sc.Agr
+B.Sc.Agr.
+Bachelor of Science in Agriculture
+BScEc
+B.Sc.Ec
+B.Sc.Ec.
+Bachelor of Economic and Social Studies
+BScEcon
+B.Sc.Econ
+B.Sc.Econ.
+BScFor
+B.Sc.For
+B.Sc.For.
+Bachelor of Science in Forestry
+BScPH
+B.Sc.P.H
+B.Sc.P.H.
+Bachelor of Science in Public Health
+BScTech
+B.Sc.Tech
+B.Sc.Tech.
+Bachelor of Science in Technology
+BSD
+B.S.D
+B.S.D.
+Bachelor of Science in Dentistry
+BSocSc
+B.Soc.Sc
+B.Soc.Sc.
+Bachelor of Social Sciences
+BSS
+B.S.S
+B.S.S.
+Bachelor of Social Studies
+BStSu
+B.St.Su
+B.St.Su.
+Bachelor of Deaf Studies
+BSW
+B.S.W
+B.S.W.
+Bachelor of Social Work
+BTCP
+B.T.C.P
+B.T.C.P.
+Bachelor of Town and County Planning
+BTech
+B.Tech
+B.Tech.
+Bachelor of Technology
+BTEC
+B.T.E.C
+B.T.E.C.
+BTechEd
+B.Tech.Ed
+B.Tech.Ed.
+Bachelor of Technological Education
+BTh
+B.Th
+B.Th.
+Bachelor of Theology
+BTheol
+B.Theol
+B.Theol.
+BTS
+B.T.S
+B.T.S.
+Bachelor of Theatre Studies
+EdB
+Ed.B
+Ed.B.
+LittB
+Litt.B
+Litt.B.
+Bachelor of Letters
+LLB
+L.L.B
+L.L.B.
+Bachelor of Laws
+MA
+M.A
+M.A.
+Master of Arts
+MusB
+Mus.B
+Mus.B.
+ScBTech
+Sc.B.Tech
+Sc.B.Tech.
+Master of Accountancy
+MAcc
+M.Acc
+M.Acc.
+MAc
+M.Ac
+M.Ac.
+MAcy
+M.Acy
+M.Acy.
+Master of Advanced Study
+MAS
+M.A.S
+M.A.S.
+Master of Economics
+MEcon
+M.Econ
+M.Econ.
+Master of Architecture
+MArch
+M.Arch
+M.Arch.
+Master of Applied Science
+MASc
+M.A.Sc
+M.A.Sc.
+MAppSc
+M.App.Sc
+M.App.Sc.
+MApplSc
+M.Appl.Sc
+M.Appl.Sc.
+AM
+A.M
+10Th
+10 Th
+A.M.
+Master of Arts in Teaching
+MAT
+M.A.T
+M.A.T.
+Master of Arts in Liberal Studies
+Diploma in Computer Engineering
+Diploma In Computer Engineering
+ALM
+A.L.M
+A.L.M.
+MLA
+M.L.A
+M.L.A.
+MLS
+M.L.S
+M.L.S.
+MALS
+M.A.L.S
+M.A.L.S.
+Master of Business
+MBus
+M.Bus
+M.Bus.
+Master of Business Administration
+MBA
+M.B.A
+M.B.A.
+Master of Business Informatics
+MBI
+M.B.I
+M.B.I.
+Master of City Planning
+Master of Chemistry
+MChem
+M.Chem
+M.Chem.
+Master of Commerce
+MCom
+M.Com
+M.Com.
+MComm
+M.Comm
+M.Comm.
+Master of Computational Finance or Quantitative Finance
+Master of Computer Applications
+MCA
+M.C.A
+M.C.A.
+Master in Creative Technologies
+Master of Criminal Justice
+MCJ
+M.C.J
+M.C.J.
+Master of Design
+MDes
+M.Des
+M.Des.
+MDesign
+M.Design
+M.Design.
+Master of Divinity
+MDiv
+M.Div
+M.Div.
+Master of Education
+MEd
+M.Ed
+M.Ed.
+EdM
+Ed.M
+Ed.M.
+MAEd
+M.A.Ed
+M.A.Ed.
+MSEd
+M.S.Ed
+M.S.Ed.
+MSE
+M.S.E
+M.S.E.
+MEdL
+M.Ed.L
+M.Ed.L.
+Master of Enterprise
+MEnt
+M.Ent
+M.Ent.
+Master of Engineering
+MEng
+M.Eng
+M.Eng.
+ME
+M.E
+M.E.
+Master of Engineering Management
+MEM
+M.E.M
+M.E.M.
+Master of European Law
+LLM
+L.L.M
+L.L.M.
+Eur
+Master of Finance
+MFin
+M.Fin
+M.Fin.
+Master of Financial Mathematics
+Master of Quantitative Finance
+Master of Financial Economics
+Master of Fine Arts
+MFA
+M.F.A
+M.F.A.
+Master of Health Administration
+MHA
+M.H.A
+M.H.A.
+Master of Health Science
+MHS
+M.H.S
+M.H.S.
+Master of Humanities
+MH
+M.H
+M.H.
+Master of Industrial and Labor Relations
+MILR
+H.S.C
+H.S.C.
+M.I.L.R
+M.I.L.R.
+Master of International Affairs
+Master of International Business
+Master of International Studies
+MIS
+M.I.S
+M.I.S.
+Masters in International Economics
+Master of Information System Management abbreviated
+MISM
+M.I.S.M
+M.I.S.M.
+MasterofIT
+Masterof.I.T
+Masterof.I.T.
+MSIT
+M.S.I.T
+M.S.I.T.
+MScIT
+M.Sc.I.T
+M.Sc.I.T.
+Master of Jurisprudence
+MJ
+M.J
+M.J.
+MJur
+M.Jur
+M.Jur.
+Master of Laws
+Master of Studies in Law
+MSL
+M.S.L
+M.S.L.
+Master of Landscape Architecture
+Master of Letters
+MLitt
+M.Litt
+M.Litt.
+Master of Liberal Arts
+Master of Library and Information Science
+MLIS
+M.L.I.S
+M.L.I.S.
+Master of Management
+MM
+M.M
+M.M.
+Master of Mathematics
+MMath
+M.Math
+M.Math.
+Master of Mathematical Finance
+Master of Medical Science
+Master of Music
+MMus
+M.Mus
+M.Mus.
+Master of Occupational Therapy
+OT
+O.T
+O.T.
+Master of Pharmacy
+MPharm
+M.Pharm
+M.Pharm.
+Master of Philosophy
+MPhil
+M.Phil
+M.Phil.
+Master of Physics
+MPhys
+M.Phys
+M.Phys.
+Master of Physician Assistant Studies
+Master of Political Science
+Master of Professional Studies
+MPS
+M.P.S
+M.P.S.
+Master of Public Administration
+MPA
+M.P.A
+M.P.A.
+Master of Public Affairs
+MPAff
+M.P.Aff
+M.P.Aff.
+Master of Public Health
+MPH
+M.P.H
+M.P.H.
+Master of Public Management
+Master of Public Policy
+MPP
+M.P.P
+M.P.P.
+Master of Rabbinic Studies
+MRb
+M.Rb
+M.Rb.
+Master of Real Estate Development
+Master of Religious Education
+Master of Research
+MScR
+M.Sc.R
+M.Sc.R.
+Master of Sacred Theology
+STM
+S.T.M
+S.T.M.
+Master of Sacred Music
+MSM
+M.S.M
+M.S.M.
+Master of Science
+MSc
+M.Sc
+M.Sc.
+MSci
+M.Sci
+M.Sci.
+MSi
+M.Si
+M.Si.
+ScM
+Sc.M
+Sc.M.
+MS
+M.S
+M.S.
+MSHS
+M.S.H.S
+M.S.H.S.
+SM
+S.M
+S.M.
+Master of Science in Education
+Master of Science in Engineering
+Master of Science in Finance
+Master of Science in Human Resource Development
+HRD
+H.R.D
+H.R.D.
+MSHRD
+M.S.H.R.D
+M.S.H.R.D.
+Master of Science in Information Systems Management
+MSMIS
+M.S.M.I.S
+M.S.M.I.S.
+Master of Science in Information Systems
+MSIS
+M.S.I.S
+M.S.I.S.
+Master of Science in Information Technology
+IT
+I.T
+I.T.
+Master of Science in Nursing
+MSN
+M.S.N
+M.S.N.
+Master of Science in Project Management
+MSPM
+M.S.P.M
+M.S.P.M.
+Master of Science in Management
+Master of Science in Leadership
+Master of Science in Supply Chain Management
+SCM
+S.C.M
+S.C.M.
+MSSCM
+M.S.S.C.M
+M.S.S.C.M.
+Master of Science in Taxation
+Master of Science in Teaching
+MST
+M.S.T
+M.S.T.
+Master of Social Work
+MSW
+M.S.W
+M.S.W.
+Master of Social Science
+MSSc
+M.S.Sc
+M.S.Sc.
+Master of Surgery
+ChM
+Ch.M
+Ch.M.
+MCh
+M.Ch
+M.Ch.
+MChir
+M.Chir
+M.Chir.
+Master of Studies
+MSt
+M.St
+M.St.
+Master of Theology
+ThM
+Th.M
+Th.M.
+MTh
+M.Th
+M.Th.
+Master of Theological Studies
+MTS
+M.T.S
+M.T.S.
+Master of Urban Planning
+Master of Veterinary Science
+MVSC
+M.V.S.C
+M.V.S.C.
+MVSc
+M.V.Sc
+M.V.Sc.
+AB
+A.B
+A.B.
+BS
+B.S
+B.S.
+SB
+S.B
+S.B.
+ScB
+Sc.B
+Sc.B.
+Bachelor of Applied Arts
+BAA
+B.A.A
+B.A.A.
+Bachelor of Applied Arts and Science
+BAAS
+B.A.A.S
+B.A.A.S.
+Bachelor of Applied Science in Information Technology
+BAppScIT
+B.App.Sc.I.T
+B.App.Sc.I.T.
+SDes
+S.Des
+S.Des.
+BE
+B.E
+B.E.
+BSE
+B.S.E
+B.S.E.
+BESc
+B.E.Sc
+B.E.Sc.
+BSEng
+B.S.Eng
+B.S.Eng.
+BScEng
+B.Sc.Eng
+B.Sc.Eng.
+Bachelor of Science in Business
+BSBA
+B.S.B.A
+B.S.B.A.
+Bachelor of Engineering Technology
+BSET
+B.S.E.T
+B.S.E.T.
+International Business Economics
+BIBE
+B.I.B.E
+B.I.B.E.
+Bachelor of Management Studies
+Bachelor of Administrative Studies
+Bachelor of International Business Economics
+BComm
+B.Comm
+B.Comm.
+Bachelor of Fine Arts
+Bachelor of Management and Organizational Studies
+BMOS
+B.M.O.S
+B.M.O.S.
+Bachelor of Business Science
+BBusSc
+B.Bus.Sc
+B.Bus.Sc.
+Bachelor of Accountancy
+BAcy
+B.Acy
+B.Acy.
+BAccty
+B.Accty
+B.Accty.
+Bachelor of Comptrolling
+BAccSci
+B.Acc.Sci
+B.Acc.Sci.
+S.S.C
+S.S.C.
+BCompt
+B.Compt
+B.Compt.
+Bachelor of Economics
+BEc
+B.Ec
+B.Ec.
+Bachelor of Arts in Organizational Management
+BAOM
+B.A.O.M
+B.A.O.M.
+Bachelor of Computer Science
+BCompSc
+B.Comp.Sc
+B.Comp.Sc.
+Bachelor of Computing
+BComp
+B.Comp
+B.Comp.
+Bachelor of Science in Information Technology
+Bachelor of Computer Applications
+BCA
+B.C.A
+B.C.A.
+Bachelor of Business Information Systems
+BBIS
+B.B.I.S
+B.B.I.S.
+Intercalated
+Bachelor of Medical Biology
+BMedBiol
+B.Med.Biol
+B.Med.Biol.
+BSPH
+B.S.P.H
+B.S.P.H.
+Bachelor of Science in Nursing
+BNSc
+B.N.Sc
+B.N.Sc.
+BScN
+B.Sc.N
+B.Sc.N.
+BSN
+B.S.N
+B.S.N.
+BHS
+B.H.S
+B.H.S.
+Bachelor of Kinesiology
+BKin
+B.Kin
+B.Kin.
+BScKin
+B.Sc.Kin
+B.Sc.Kin.
+BHK
+B.H.K
+B.H.K.
+Bachelor of Arts for Teaching
+BAT
+B.A.T
+B.A.T.
+Bachelor of Aviation
+BAvn
+B.Avn
+B.Avn.
+ThB
+Th.B
+Th.B.
+Bachelor of Religious Education
+BRE
+B.R.E
+B.R.E.
+Bachelor of Religious Studies
+BRS
+B.R.S
+B.R.S.
+Bachelor of Film and Television
+BFTV
+B.F.T.V
+B.F.T.V.
+Bachelor of Integrated studies
+BIS
+B.I.S
+B.I.S.
+Bachelor of Journalism
+BJ
+B.J
+B.J.
+BAJ
+B.A.J
+B.A.J.
+BSJ
+B.S.J
+B.S.J.
+BJourn
+B.Journ
+B.Journ.
+Bachelor of Landscape Architecture
+BLArch
+B.L.Arch
+B.L.Arch.
+Bachelor of Liberal Arts
+BLA
+B.L.A
+B.L.A.
+ALB
+A.L.B
+A.L.B.
+Bachelor of General Studies
+BGS
+B.G.S
+B.G.S.
+BSGS
+B.S.G.S
+B.S.G.S.
+Bachelor of Science in Human Biology
+Bachelor of Applied Studies
+BAS
+B.A.S
+B.A.S.
+Bachelor of Liberal Studies
+Bachelor of Professional Studies
+BPS
+B.P.S
+B.P.S.
+Bachelor of Library Science
+Bachelor of Library and Information Science
+BLIS
+B.L.I.S
+B.L.I.S.
+Bachelor of Art in Music
+BME
+B.M.E
+B.M.E.
+PhB
+Ph.B
+Ph.B.
+Bachelor of Arts in Psychology
+BAPSY
+B.A.P.S.Y
+B.A.P.S.Y.
+Bachelor of Mortuary Science
+BScPsych
+B.Sc.Psych
+B.Sc.Psych.
+Bachelor of Science education degree
+BScEd
+B.Sc.Ed
+B.Sc.Ed.
+BSF
+B.S.F
+B.S.F.
+BScF
+B.Sc.F
+B.Sc.F.
+Bachelor of Applied Science
+Bachelor of Science in Law
+BSL
+B.S.L
+B.S.L.
+Bachelor of Social Science
+Bachelor of Arts in Social Work
+BASW
+B.A.S.W
+B.A.S.W.
+Bachelor of Talmudic Law
+BTL
+B.T.L
+B.T.L.
+Bachelor of Tourism Studies
+Bachelor of Mathematics
+BMath
+B.Math
+B.Math.
+Bachelor of Mathematical Sciences
+BMathSc
+B.Math.Sc
+B.Math.Sc.
+Bachelor of Public Affairs and Policy Management
+BPAPM
+B.P.A.P.M
+B.P.A.P.M.
+Bachelor of Urban and Regional Planning
+BURP
+B.U.R.P
+B.U.R.P. and BPlan
+B.Plan
+B.Plan.
+Doctor of Arts
+DA
+D.A
+D.A.
+Doctor of Business Administration
+DBA
+D.B.A
+D.B.A.
+Doctor of Canon Law
+JCD
+J.C.D
+J.C.D.
+Doctor of Design
+DDes
+D.Des
+D.Des.
+Doctor of Engineering or Engineering Science
+DEng
+D.Eng
+D.Eng.
+DESc
+D.E.Sc
+D.E.Sc.
+DES
+D.E.S
+D.E.S.
+Doctor of Education
+EdD
+Ed.D
+Ed.D.
+Doctor of Fine Arts
+DFA
+D.F.A
+D.F.A.
+Doctor of Hebrew Letters
+DHL
+D.H.L
+D.H.L.
+Doctor of Juridical Science
+JSD
+J.S.D
+J.S.D.
+SJD
+S.J.D
+S.J.D.
+Doctor of Musical Arts
+DMA
+D.M.A
+D.M.A.
+Doctor of Music Education
+DME
+D.M.E
+D.M.E.
+Doctor of Modern Languages
+DML
+D.M.L
+D.M.L.
+Doctor of Nursing Science
+DNSc
+D.N.Sc
+D.N.Sc.
+Doctor of Philosophy
+PhD
+Ph.D
+Ph.D.
+Doctor of Public Health
+DPH
+D.P.H
+D.P.H.
+Doctor of Sacred Theology
+STD
+S.T.D
+S.T.D.
+Doctor of Science
+DSc
+D.Sc
+D.Sc.
+ScD
+Sc.D
+Sc.D.
+Doctor of Theology
+ThD
+Th.D
+Th.D.
+Master of Applied Finance
+Master of Arts in Special Education
+Master of Business Engineering
+Master of Computational Finance
+Master of Counselling
+Master of Financial Engineering
+Master of Information Management
+Master of Information System Management
+Master of Mass Communication
+Master of Medicine
+Masters of Military Art and Science
+Master of Psychology
+Master of Public Relations
+Master of Public Service
+Master of Science in Bioinformatics
+Master of Science in Computer Science
+Master of Science in Counselling
+Master of Science in Cyber Security
+Master of Science in Development Administration
+Master of Science in Health Informatics
+Master of Science in Information Assurance
+Master of Technology
+Master of Veterinary Science Doctor of Audiology
+AuD
+Au.D
+Au.D.
+Doctor of Chiropractic
+DC
+D.C
+D.C.
+Doctor of Dental Surgery
+DDS
+D.D.S
+D.D.S.
+Doctor of Divinity
+DD
+D.D
+D.D.
+Doctor of Jurisprudence
+JD
+J.D
+J.D.
+Doctor of Medical Dentistry
+DMD
+D.M.D
+D.M.D.
+Doctor of Medicine
+MD
+M.D
+M.D.
+Doctor of Ministry
+DMin
+D.Min
+D.Min.
+Doctor of Naturopathy
+ND
+N.D
+N.D.
+Doctor of Nursing Practice
+DNP
+D.N.P
+D.N.P.
+Doctor of Optometry
+OD
+O.D
+O.D.
+Doctor of Osteopathy
+DO
+D.O
+D.O.
+Doctor of Pharmacy
+PharmD
+Pharm.D
+Pharm.D.
+DPhil
+D.Phil
+D.Phil.
+DPh
+D.Ph
+D.Ph.
+Doctor of Physical Therapy
+DPT
+D.P.T
+D.P.T.
+Doctor of Psychology
+PsyD
+Psy.D
+Psy.D.
+DrPH
+Dr.P.H
+Dr.P.H.
+Doctor of Veterinary Medicine
+DVM
+D.V.M
+D.V.M.
+Master of Library Science
+Master of Strategic Foresight
+MSF
+M.S.F
+M.S.F.
+BArts
+B.Arts
+B.Arts.
+Bachelor of Animal and Veterinary Bioscience
+BAnVetBioSc
+B.An.Vet.Bio.Sc
+B.An.Vet.Bio.Sc.
+BAppSc
+B.App.Sc
+B.App.Sc.
+Bachelor of Civil Engineering
+BCE
+B.C.E
+B.C.E.
+Bachelor of Communications
+Bachelor of Dental Medicine
+BDM
+B.D.M
+B.D.M.
+Bachelor of Dental Science
+BDSc
+B.D.Sc
+B.D.Sc.
+Bachelor of Dental Surgery
+BDS
+B.D.S
+B.D.S.
+BChD
+B.Ch.D
+B.Ch.D.
+Bachelor of Dentistry
+BDent
+B.Dent
+B.Dent.
+Bachelor of Design Computing
+BDesComp
+B.Des.Comp
+B.Des.Comp.
+Bachelor of Design in Architecture
+BDesArch
+B.Des.Arch
+B.Des.Arch.
+BDesSrch
+B.Des.Srch
+B.Des.Srch.
+Bachelor of Electronic Commerce
+BEC
+B.E.C
+B.E.C.
+BECOM
+B.E.C.O.M
+B.E.C.O.M.
+BEcom
+B.Ecom
+B.Ecom.
+BEE
+B.E.E
+B.E.E.
+BHlthSci
+B.Hlth.Sci
+B.Hlth.Sci.
+Bachelor of Information Technology
+BIT
+B.I.T
+B.I.T.
+Bachelor of International and Global Studies
+BIGS
+B.I.G.S
+B.I.G.S.
+Bachelor of Liberal Arts and Sciences
+BLAS
+B.L.A.S
+B.L.A.S.
+BLit
+B.Lit
+B.Lit.
+MB
+M.B
+M.B.
+Bachelor of Music Studies
+BMusStudies
+B.Mus.Studies
+B.Mus.Studies.
+Bachelor of Political Economic and Social Sciences
+BPESS
+B.P.E.S.S
+B.P.E.S.S.
+Bachelor of Resource Economics
+BResEc
+B.Res.Ec
+B.Res.Ec.
+Bachelor of SocioLegal Studies
+BSLS
+B.S.L.S
+B.S.L.S.
+Bachelor of Surgery
+Bachelor of Veterinary Science
+BVSc
+B.V.Sc
+B.V.Sc.
+Bachelor of Visual Arts
+BVA
+B.V.A
+B.V.A.
+AA
+A.A
+A.A.
+Associate of Arts
+AAS
+A.A.S
+A.A.S.
+Associate of Applied Science
+AAT
+A.A.T
+A.A.T.
+Associate in Applied Tech.
+AOT
+A.O.T
+A.O.T.
+Associate in Occupational Technology
+AS
+A.S
+A.S.
+Associate of Science
+BABA
+B.A.B.A
+B.A.B.A.
+Bach of Arts of Business Administration
+Bachelor of Arts in Communication
+BAE
+B.A.E
+B.A.E.
+Bachelor of Art Education
+Bachelor of Aerospace Engineering
+BAg
+B.Ag
+B.Ag.
+BChE
+B.Ch.E
+B.Ch.E.
+Bachelor of Chemical Engineering
+BInDsn
+B.In.Dsn
+B.In.Dsn.
+Bachelor of Industrial Design
+BMEd
+B.M.Ed
+B.M.Ed.
+Bachelor of Music Education B. Pharm.
+BSAE
+B.S.A.E
+B.S.A.E. in Aerospace Engineering
+B.S. in Business Administration
+BSCS
+B.S.C.S
+B.S.C.S.
+B.S. in Computer Science
+BSChem
+B.S.Chem
+B.S.Chem.
+B.S. in Chemistry
+B.S. in Engineering
+BSEd
+B.S.Ed
+B.S.Ed.
+B.S. in Education
+BSME
+B.S.M.E
+B.S.M.E.
+B.S. in Mechanical Engineering
+BSMicr
+B.S.Micr
+B.S.Micr.
+B.S. in Microbiology
+BSSW
+B.S.S.W
+B.S.S.W.
+B.S. in Social Work
+MAcct
+M.Acct
+M.Acct.
+Master of Accounting
+MAqua
+M.Aqua
+M.Aqua.
+Master of Aquaculture
+MCD
+M.C.D
+M.C.D.
+Master of Communication Disorders
+MCS
+M.C.S
+M.C.S.
+Master of Computer Science
+MFstry
+M.Fstry
+M.Fstry.
+Master of Forestry
+MLArch
+M.L.Arch
+M.L.Arch.
+Master of Library & Information Studies
+MSCJ
+M.S.C.J
+M.S.C.J.
+M.S. in Criminal Justice
+MSCS
+M.S.C.S
+M.S.C.S.
+M.S. in Computer Science
+MSChem
+M.S.Chem
+M.S.Chem.
+M.S. in Chemistry
+MSFS
+M.S.F.S
+M.S.F.S.
+M.S. in Forensic Science
+MSMSci
+M.S.M.Sci
+M.S.M.Sci.
+M.S. in Marine Science
+MSMet
+M.S.Met
+M.S.Met.
+M.S. in Metallurgical Engineering
+MSwE
+M.Sw.E
+M.Sw.E.
+Master of Software Engineering
+Master of Theology B. N.
+B.S. in Nursing
+MN
+M.N
+M.N.
+Master of Nursing
+MNA
+M.N.A
+M.N.A.
+Master of Nurse Anesthesia
+Doctor of Dental Medicine Doctor of Medical Dentistry
+Doctor of Osteopathic Medicine
+DSN
+D.S.N
+D.S.N.
+Doctor of Science in Nursing
+DScPT
+D.Sc.P.T
+D.Sc.P.T.
+Doctor of Science in Physical Therapy
+Bachelor of Music Education B. Pharm
+B.S in Aerospace Engineering
+B.S in Business Administration
+B.S in Computer Science
+B.S in Chemistry
+B.S in Engineering
+B.S in Education
+B.S in Mechanical Engineering
+B.S in Microbiology
+B.S in Social Work
+Associate in Arts
+Bachelor in Arts
+AE
+A.E
+A.E.
+Aeronautical Engineer
+Associate in Science
+AN
+A.N
+A.N.
+Associate in Nursing
+BAC
+B.A.C
+B.A.C.
+BAR
+B.A.R
+B.A.R.
+Bachelor in Architecture
+Bachelor in Business Administration
+BCH
+B.C.H
+B.C.H.
+BCP
+B.C.P
+B.C.P.
+Bachelor in City Planning
+Building Engineer
+BED
+B.E.D
+B.E.D.
+BOC
+B.O.C
+B.O.C.
+BOE
+B.O.E
+B.O.E.
+BTE
+B.T.E
+B.T.E.
+Bachelor of Theological Studies
+CE
+C.E
+C.E.
+Civil Engineer
+CHE
+C.H.E
+C.H.E.
+Chemical Engineer
+CPH
+C.P.H
+C.P.H.
+Certificate of Public Health
+CSE
+C.S.E
+C.S.E.
+Engineering in Computer Science
+Doctor of Business Adminstration
+Doctor of Dental Science
+DIE
+D.I.E
+D.I.E.
+Diploma of Engineering
+DIP
+D.I.P
+D.I.P.
+Diploma
+DSC
+D.S.C
+D.S.C.
+EAA
+E.A.A
+E.A.A.
+Aeronautical & Astronautical Engineer
+EDU
+E.D.U
+E.D.U.
+EE
+E.E
+E.E.
+Electrical Engineer
+EGD
+E.G.D
+E.G.D.
+Doctor of Engineering
+ENE
+E.N.E
+E.N.E.
+Environmental Engineer
+ENG
+E.N.G
+E.N.G.
+HM
+H.M
+H.M.
+Honorary Degree
+ING
+I.N.G
+I.N.G.
+Juris Doctor
+LLD
+L.L.D
+L.L.D.
+Doctor of Laws
+MAA
+M.A.A
+M.A.A.
+Master in Architecture Advanced Studies
+MAE
+M.A.E
+M.A.E.
+Materials Engineer
+MAR
+M.A.R
+M.A.R.
+Master of Arts Teaching
+Masters in Business Administration
+MCP
+M.C.P
+M.C.P.
+Master in City Planning
+MDV
+M.D.V
+M.D.V.
+Mechanical Engineer
+MEC
+M.E.C
+M.E.C.
+MED
+M.E.D
+M.E.D.
+Masters in Education
+MEE
+M.E.E
+M.E.E.
+Master of Mechnaical Engineering
+MEN
+M.E.N
+M.E.N.
+Master of Electrical Engineering
+MET
+M.E.T
+M.E.T.
+Meteorologist
+MIE
+M.I.E
+M.I.E.
+Mineral Engineer
+MME
+M.M.E
+M.M.E.
+Marine Mechanical Engineer
+MMG
+M.M.G
+M.M.G.
+Master in Management
+MNG
+M.N.G
+M.N.G.
+Master in Public Health Administration
+Master in Public Health
+MPL
+M.P.L
+M.P.L.
+Master in Patent Law
+MRE
+M.R.E
+M.R.E.
+Master of Research Development
+MTE
+M.T.E
+M.T.E.
+Metallurgical Engineer
+MUD
+M.U.D
+M.U.D.
+Master of Urban Design
+MUP
+M.U.P
+M.U.P.
+NA
+N.A
+N.A.
+Naval Architect
+NE
+N.E
+N.E.
+Naval Engineer
+NUE
+N.U.E
+N.U.E.
+Nuclear Engineer
+OCE
+O.C.E
+O.C.E.
+Ocean Engineer
+PHB
+P.H.B
+P.H.B.
+PHC
+P.H.C
+P.H.C.
+Pharmaceutical Chemist
+PHM
+P.H.M
+P.H.M.
+PHS
+P.H.S
+P.H.S.
+Public Health Service
+SE
+S.E
+S.E.
+Sanitary Engineer
+ATD
+A.T.D
+A.T.D.
+Art Teaching Diploma
+BAgrSc
+B.Agr.Sc
+B.Agr.Sc.
+Bachelor of Agriculture Science
+BAMus
+B.A.Mus
+B.A.Mus.
+Bachelor of Arts in Music
+Bachelor of Arts in Religion
+BBM
+B.B.M
+B.B.M.
+Bachelor of Business Management
+BCh
+B.Ch
+B.Ch.
+BChe
+B.Che
+B.Che.
+BChir
+B.Chir
+B.Chir.
+BCS
+B.C.S
+B.C.S.
+Bachelor ofEnvironmental Studies
+BHA
+B.H.A
+B.H.A.
+Bachelor of Health Administration
+Bachelor of Healthcare Administration
+Bachelor of Humanities and Arts
+BHScPT
+B.H.Sc.P.T
+B.H.Sc.P.T.
+Bachelor of Health Science in Physiotherapy
+Bachelor of Independent Studies
+Bachelor of Interdisciplinary Studies
+BMLS
+B.M.L.S
+B.M.L.S.
+Bachelor of Medical Library Science
+BMR
+B.M.R
+B.M.R.
+Bachelor of Medical Rehabilitation in Physical Therapy
+Bachelor of Nursing Science
+BOTh
+B.O.Th
+B.O.Th.
+Bachelor of Occupational Therapy
+BPHE
+B.P.H.E
+B.P.H.E.
+Bachelor of Physical Health and Education
+BPhm
+B.Phm
+B.Phm.
+BPT
+B.P.T
+B.P.T.
+BSA
+B.S.A
+B.S.A.
+Bachelor of Science and Arts
+Bachelor of Science in Accounting
+Bachelor of Science in Community Development
+BSCCE
+B.S.C.C.E
+B.S.C.C.E.
+Bachelor of Science in Computer and Communications Engineering
+BScD
+B.Sc.D
+B.Sc.D.
+BSChE
+B.S.Ch.E
+B.S.Ch.E.
+Bachelor of Science in Chemical Engineering
+BScEE
+B.Sc.E.E
+B.Sc.E.E.
+Bachelor of Science in Electrical Engineering
+BScMed
+B.Sc.Med
+B.Sc.Med.
+Bachelor of Science in Occupational Therapy
+BScPhm
+B.Sc.Phm
+B.Sc.Phm.
+Bachelor of Science in Pharmacy
+Bachelor of Science in Physical Therapy
+BSP
+B.S.P
+B.S.P.
+ChB
+Ch.B
+Ch.B.
+CPsych
+C.Psych
+C.Psych.
+Certified Psychologist
+DChem
+D.Chem
+D.Chem.
+Doctor of Chemistry
+DCl
+D.Cl
+D.Cl.
+Doctor of Civil Law
+DDSc
+D.D.Sc
+D.D.Sc.
+DE
+D.E
+D.E.
+DGO
+D.G.O
+D.G.O.
+Diploma in Gynecology and Obstetrics
+DHA
+D.H.A
+D.H.A.
+Doctor of Health Administration
+DIC
+D.I.C
+D.I.C.
+Diploma of the Imperial College
+DIFA
+D.I.F.A
+D.I.F.A.
+Diploma in Investigative and Forensic Accounting
+DipCH
+Dip.C.H
+Dip.C.H.
+Graduate Diploma in Community Health
+DipChem
+Dip.Chem
+Dip.Chem.
+Diploma in Chemistry
+DipCrim
+Dip.Crim
+Dip.Crim.
+Diploma in Criminology
+DipEd
+Dip.Ed
+Dip.Ed.
+Diploma of Education
+DipFor
+Dip.For
+Dip.For.
+Diploma in Forestry
+DipIng
+Dip.Ing
+Dip.Ing.
+Diploma of Engineer
+DipIngArch
+Dip.Ing.Arch
+Dip.Ing.Arch.
+DiplGeol
+Dipl.Geol
+Dipl.Geol.
+Diploma in Geology
+DipLib
+Dip.Lib
+Dip.Lib.
+Diploma in Librarianship
+DipNP
+Dip.N.P
+Dip.N.P.
+Nurse Practitioner Diploma
+DipOrH
+Dip.Or.H
+Dip.Or.H.
+Diploma in Oral Health
+DipOT
+Dip.O.T
+Dip.O.T.
+Diploma in Occupational Therapy
+DipP
+Dip.P
+Dip.P.
+Diploma in Physiotherapy
+DipPE
+Dip.P.E
+Dip.P.E.
+Diploma in Physical Education
+DipPerio
+Dip.Perio
+Dip.Perio.
+Diploma in Periodontics
+DipPhysEd
+Dip.Phys.Ed
+Dip.Phys.Ed.
+Diploma of Physical Education
+DipSportMed
+Dip.Sport.Med
+Dip.Sport.Med.
+Diploma in Sport and Exercise Medicine
+DLitt
+D.Litt
+D.Litt.
+Doctor of Letters
+DP
+D.P
+D.P.
+Doctor of Paediatrics
+DPHN
+D.P.H.N
+D.P.H.N.
+Diploma in Public Health Nursing
+DPM
+D.P.M
+D.P.M.
+Doctor of Podiatric Medicine
+DPsych
+D.Psych
+D.Psych.
+DrEng
+Dr.Eng
+Dr.Eng.
+DrMed
+Dr.Med
+Dr.Med.
+DrMedDent
+Dr.Med.Dent
+Dr.Med.Dent.
+Doctorate in Dental Medicine
+DrMedSc
+Dr.Med.Sc
+Dr.Med.Sc.
+Doctor of Medical Sciences
+DrMedVet
+Dr.Med.Vet
+Dr.Med.Vet.
+Doctorate in Veterinary Medicine
+DrRerNat
+Dr.Rer.Nat
+Dr.Rer.Nat.
+Doctorate in Natural Sciences
+DrRerPol
+Dr.Rer.Pol
+Dr.Rer.Pol.
+Doctor of Economics and Social Sciences
+DSSA
+D.S.S.A
+D.S.S.A.
+Diploma in Social Service Administration
+DSW
+D.S.W
+D.S.W.
+Doctor of Social Work
+DTh
+D.Th
+D.Th.
+GPLLM
+G.P.L.L.M
+G.P.L.L.M.
+Global Professional
+GDipNPAC
+G.Dip.N.P.A.C
+G.Dip.N.P.A.C.
+Graduate Diploma in Anaesthesia Care
+GDipISt
+G.Dip.I.St
+G.Dip.I.St.
+Graduate Diploma of Advanced Study in Information
+LicScChem
+Lic.Sc.Chem
+Lic.Sc.Chem.
+License in Chemical Physics
+LittD
+Litt.D
+Litt.D.
+LTh
+L.Th
+L.Th.
+License in Theology
+Master of Arts inTeaching
+MBChB
+M.B.Ch.B
+M.B.Ch.B.
+Bachelor of Medicine and Surgery
+MBiotech
+M.Biotech
+M.Biotech.
+Master of Biotechnology
+MBBS
+M.B.B.S
+M.B.B.S.
+Bachelor of Medicine Bachelor of Surgery
+MC
+M.C
+M.C.
+MClSc
+M.Cl.Sc
+M.Cl.Sc.
+Master of Clinical Science
+Master of Computer Sciences
+MDCM
+M.D.C.M
+M.D.C.M.
+Doctor of Medicine and Master ofSurgery
+MDS
+M.D.S
+M.D.S.
+Master of Dental Surgery
+MEc
+M.Ec
+M.Ec.
+MedScD
+Med.Sc.D
+Med.Sc.D.
+Doctor of Medical Science
+MEngCEM
+M.Eng.C.E.M
+M.Eng.C.E.M.
+Master of Engineering in Cities Engineering and Management
+MEngDM
+M.Eng.D.M
+M.Eng.D.M.
+Master of Engineering in Design and Manufacturing
+MEngTel
+M.Eng.Tel
+M.Eng.Tel.
+Master of Engineering in Telecommunications
+MEnvSc
+M.Env.Sc
+M.Env.Sc.
+Master of Environmental Science
+MESci
+M.E.Sci
+M.E.Sci.
+Master of Earth Science
+MF
+M.F
+M.F.
+MFC
+M.F.C
+M.F.C.
+Master of Forest Conservation
+MFE
+M.F.E
+M.F.E.
+MFS
+M.F.S
+M.F.S.
+Master of Forest Science
+MGA
+M.G.A
+M.G.A.
+Master of Global Affairs
+MHI
+M.H.I
+M.H.I.
+Master of Health Informatics
+MHK
+M.H.K
+M.H.K.
+Master of Human Kinetics
+MHPE
+M.H.P.E
+M.H.P.E.
+Master of Health Professions Education
+MHSA
+M.H.S.A
+M.H.S.A.
+Master of Health Services Administration
+MHSc
+M.H.Sc
+M.H.Sc.
+MIA
+M.I.A
+M.I.A.
+MI
+M.I
+M.I.
+Master of Information
+MIR
+M.I.R
+M.I.R.
+Master of Industrial Relations
+MIRHR
+M.I.R.H.R
+M.I.R.H.R.
+Master of Industrial Relations and Human Resources
+MISt
+M.I.St
+M.I.St.
+Master of Information Studies
+MMed
+M.Med
+M.Med.
+MMPA
+M.M.P.A
+M.M.P.A.
+Master of Management and Professional Accounting
+MMI
+M.M.I
+M.M.I.
+Master of Management of Innovation
+MMF
+M.M.F
+M.M.F.
+MMSt
+M.M.St
+M.M.St.
+Master of Museum Studies
+Master of Professional Accountancy
+MPE
+M.P.E
+M.P.E.
+Master of Physical Education
+MPsy
+M.Psy
+M.Psy.
+MPsych
+M.Psych
+M.Psych.
+MRP
+M.R.P
+M.R.P.
+Master of Regional Planning
+MSA
+M.S.A
+M.S.A.
+Master of Science in Administration
+MScAC
+M.Sc.A.C
+M.Sc.A.C.
+Master of Applied Computing
+MScBMC
+M.Sc.B.M.C
+M.Sc.B.M.C.
+Master of Science in Biomedical Communications
+MScCH
+M.Sc.C.H
+M.Sc.C.H.
+Master of Science in Community Health
+MScD
+M.Sc.D
+M.Sc.D.
+Master of Science in Dentistry
+MScEE
+M.Sc.E.E
+M.Sc.E.E.
+Master of Science in Electrical Engineering
+MScF
+M.Sc.F
+M.Sc.F.
+Master of Science in Forestry
+MScOT
+M.Sc.O.T
+M.Sc.O.T.
+Master of Science in Occupational Therapy
+MScPhm
+M.Sc.Phm
+M.Sc.Phm.
+Master of Science in Pharmacy
+MScPl
+M.Sc.Pl
+M.Sc.Pl.
+Master of Science in Planning
+MScPT
+M.Sc.P.T
+M.Sc.P.T.
+Master of Science in Physical Therapy
+MScSM
+M.Sc.S.M
+M.Sc.S.M.
+Master of Science in Sustainability Management
+MSD
+M.S.D
+M.S.D.
+MSEE
+M.S.E.E
+M.S.E.E.
+MSS
+M.S.S
+M.S.S.
+Master of Social Service
+MT
+M.T
+M.T.
+Master of Teaching
+MTech
+M.Tech
+M.Tech.
+MUDS
+M.U.D.S
+M.U.D.S.
+Master of Urban Design Studies
+MusBac
+Mus.Bac
+Mus.Bac.
+MusD
+Mus.D
+Mus.D.
+Doctor of Music
+MusDoc
+Mus.Doc
+Mus.Doc.
+MusM
+Mus.M
+Mus.M.
+MVS
+M.V.S
+M.V.S.
+Master of Visual Studies
+STB
+S.T.B
+S.T.B.
+Bachelor of Sacred Theology
+12th
+10th
+X
+XII
+10+2
+Xth
+XIIth
+xth
+xiith
+HSC
+SSC
+Inter
+Intermediate
+Agr. B
+Agr. B.
+B.sc.I.T
+B. A
+B. A.
+B. Sc
+B. Sc.
+B. Acc
+B. Acc.
+B. A. Com
+B. A. Com.
+B. Admin
+B. Admin.
+B. A. Econ
+B. A. Econ.
+B. Agr
+B. Agr.
+B. A. H
+B. A. H.
+B. A. I
+B. A. I.
+B. A. Law
+B. A. Law.
+B. A. O
+B. A. O.
+B. Arch
+B. Arch.
+B. Arch. Sc
+B. Arch. Sc.
+B. A. Rel. St
+B. A. Rel. St.
+B. A. Sc
+B. A. Sc.
+B. A. Soc
+B. A. Soc.
+B. A. Theol
+B. A. Theol.
+B. B. A
+B. B. A.
+B. B. L. S
+B. B. L. S.
+B. B. S
+B. B. S.
+B. Bus
+B. Bus.
+B. Chem
+B. Chem.
+B. C. L
+B. C. L.
+B. C. L. D
+B. C. L. D.
+B. Clin. Sci
+B. Clin. Sci.
+B. Com
+B. Com.
+B. Comb. St
+B. Comb. St.
+B. Comm. Ed. Comm. Dev
+B. Comm. Ed. Comm. Dev.
+B. Com. Sc
+B. Com. Sc.
+B. D
+B. D.
+B. Des
+B. Des.
+B. Div
+B. Div.
+B. Econ. Sc
+B. Econ. Sc.
+B. Econ. Sci
+B. Econ. Sci.
+B. Ed
+B. Ed.
+B. Eng
+B. Eng.
+B. E. S
+B. E. S.
+B. Eng. Tech
+B. Eng. Tech.
+B. F. A
+B. F. A.
+B. Fin
+B. Fin.
+B. F. L. S
+B. F. L. S.
+B. F. S. T
+B. F. S. T.
+B. H
+B. H.
+B. Health. Sc
+B. Health. Sc.
+B. H. Sc
+B. H. Sc.
+B. Hy
+B. Hy.
+B. I. B. A
+B. I. B. A.
+B. Jur
+B. Jur.
+B. L
+B. L.
+B. L. E
+B. L. E.
+B. Leg. Sc
+B. Leg. Sc.
+B. Lib
+B. Lib.
+B. Ling
+B. Ling.
+B. Litt
+B. Litt.
+B. Litt. Celt
+B. Litt. Celt.
+B. L. S
+B. L. S.
+B. M
+B. M.
+B. Med. Sc
+B. Med. Sc.
+B. Med. Sci
+B. Med. Sci.
+B. Met
+B. Met.
+B. Mid
+B. Mid.
+B. Mid. Wif
+B. Mid. Wif.
+B. Min
+B. Min.
+B. M. S
+B. M. S.
+B. M. Sc
+B. M. Sc.
+B. Mus
+B. Mus.
+B. Mus. Ed
+B. Mus. Ed.
+B. Mus. Perf
+B. Mus. Perf.
+B. N
+B. N.
+B. Nat. Sci
+B. Nat. Sci.
+B. N. S
+B. N. S.
+B. Nurs
+B. Nurs.
+B. Optom
+B. Optom.
+B. Ost
+B. Ost.
+B. P. A
+B. P. A.
+B. Pharm
+B. Pharm.
+B. Phil
+B. Phil.
+B. Phys
+B. Phys.
+B. Physio
+B. Physio.
+B. Pl
+B. Pl.
+B. Radiog
+B. Radiog.
+B. Sc. Agr
+B. Sc. Agr.
+B. Sc. Ec
+B. Sc. Ec.
+B. Sc. Econ
+B. Sc. Econ.
+B. Sc. For
+B. Sc. For.
+B. Sc. P. H
+B. Sc. P. H.
+B. Sc. Tech
+B. Sc. Tech.
+B. S. D
+B. S. D.
+B. Soc. Sc
+B. Soc. Sc.
+B. S. S
+B. S. S.
+B. St. Su
+B. St. Su.
+B. S. W
+B. S. W.
+B. T. C. P
+B. T. C. P.
+B. Tech
+B. Tech.
+B. T. E. C
+B. T. E. C.
+B. Tech. Ed
+B. Tech. Ed.
+B. Th
+B. Th.
+B. Theol
+B. Theol.
+B. T. S
+B. T. S.
+Ed. B
+Ed. B.
+Litt. B
+Litt. B.
+L. L. B
+L. L. B.
+M. A
+M. A.
+Mus. B
+Mus. B.
+Sc. B. Tech
+Sc. B. Tech.
+M. Acc
+M. Acc.
+M. Ac
+M. Ac.
+M. Acy
+M. Acy.
+M. A. S
+M. A. S.
+M. Econ
+M. Econ.
+M. Arch
+M. Arch.
+M. A. Sc
+M. A. Sc.
+M. App. Sc
+M. App. Sc.
+M. Appl. Sc
+M. Appl. Sc.
+A. M
+A. M.
+M. A. T
+M. A. T.
+A. L. M
+A. L. M.
+M. L. A
+M. L. A.
+M. L. S
+M. L. S.
+M. A. L. S
+M. A. L. S.
+M. Bus
+M. Bus.
+M. B. A
+M. B. A.
+M. B. I
+M. B. I.
+M. Chem
+M. Chem.
+M. Com
+M. Com.
+M. Comm
+M. Comm.
+M. C. A
+M. C. A.
+M. C. J
+M. C. J.
+M. Des
+M. Des.
+M. Design
+M. Design.
+M. Div
+M. Div.
+M. Ed
+M. Ed.
+Ed. M
+Ed. M.
+M. A. Ed
+M. A. Ed.
+M. S. Ed
+M. S. Ed.
+M. S. E
+M. S. E.
+M. Ed. L
+M. Ed. L.
+M. Ent
+M. Ent.
+M. Eng
+M. Eng.
+M. E
+M. E.
+M. E. M
+M. E. M.
+L. L. M
+L. L. M.
+M. Fin
+M. Fin.
+M. F. A
+M. F. A.
+M. H. A
+M. H. A.
+M. H. S
+M. H. S.
+M. H
+M. H.
+M. I. L. R
+M. I. L. R.
+M. I. S
+M. I. S.
+M. I. S. M
+M. I. S. M.
+Masterof. I. T
+Masterof. I. T.
+M. S. I. T
+M. S. I. T.
+M. Sc. I. T
+M. Sc. I. T.
+M. J
+M. J.
+M. Jur
+M. Jur.
+M. S. L
+M. S. L.
+M. Litt
+M. Litt.
+M. L. I. S
+M. L. I. S.
+M. M
+M. M.
+M. Math
+M. Math.
+M. Mus
+M. Mus.
+O. T
+O. T.
+M. Pharm
+M. Pharm.
+M. Phil
+M. Phil.
+M. Phys
+M. Phys.
+M. P. S
+M. P. S.
+M. P. A
+M. P. A.
+M. P. Aff
+M. P. Aff.
+M. P. H
+M. P. H.
+M. P. P
+M. P. P.
+M. Rb
+M. Rb.
+M. Sc. R
+M. Sc. R.
+S. T. M
+S. T. M.
+M. S. M
+M. S. M.
+M. Sc
+M. Sc.
+M. Sci
+M. Sci.
+M. Si
+M. Si.
+Sc. M
+Sc. M.
+M. S
+M. S.
+M. S. H. S
+M. S. H. S.
+S. M
+S. M.
+H. R. D
+H. R. D.
+M. S. H. R. D
+M. S. H. R. D.
+M. S. M. I. S
+M. S. M. I. S.
+M. S. I. S
+M. S. I. S.
+I. T
+I. T.
+M. S. N
+M. S. N.
+M. S. P. M
+M. S. P. M.
+S. C. M
+S. C. M.
+M. S. S. C. M
+M. S. S. C. M.
+M. S. T
+M. S. T.
+M. S. W
+M. S. W.
+M. S. Sc
+M. S. Sc.
+Ch. M
+Ch. M.
+M. Ch
+M. Ch.
+M. Chir
+M. Chir.
+M. St
+M. St.
+Th. M
+Th. M.
+M. Th
+M. Th.
+M. T. S
+M. T. S.
+M. V. S. C
+M. V. S. C.
+M. V. Sc
+M. V. Sc.
+A. B
+A. B.
+B. S
+B. S.
+S. B
+S. B.
+Sc. B
+Sc. B.
+B. A. A
+B. A. A.
+B. A. A. S
+B. A. A. S.
+B. App. Sc. I. T
+B. App. Sc. I. T.
+S. Des
+S. Des.
+B. E
+B. E.
+B. S. E
+B. S. E.
+B. E. Sc
+B. E. Sc.
+B. S. Eng
+B. S. Eng.
+B. Sc. Eng
+B. Sc. Eng.
+B. S. B. A
+B. S. B. A.
+B. S. E. T
+B. S. E. T.
+B. I. B. E
+B. I. B. E.
+B. Comm
+B. Comm.
+B. M. O. S
+B. M. O. S.
+B. Bus. Sc
+B. Bus. Sc.
+B. Acy
+B. Acy.
+B. Accty
+B. Accty.
+B. Acc. Sci
+B. Acc. Sci.
+B. Compt
+B. Compt.
+B. Ec
+B. Ec.
+B. A. O. M
+B. A. O. M.
+B. Comp. Sc
+B. Comp. Sc.
+B. Comp
+B. Comp.
+B. C. A
+B. C. A.
+B. B. I. S
+B. B. I. S.
+B. Med. Biol
+B. Med. Biol.
+B. S. P. H
+B. S. P. H.
+B. N. Sc
+B. N. Sc.
+B. Sc. N
+B. Sc. N.
+B. S. N
+B. S. N.
+B. H. S
+B. H. S.
+B. Kin
+B. Kin.
+B. Sc. Kin
+B. Sc. Kin.
+B. H. K
+B. H. K.
+B. A. T
+B. A. T.
+B. Avn
+B. Avn.
+Th. B
+Th. B.
+B. R. E
+B. R. E.
+B. R. S
+B. R. S.
+B. F. T. V
+B. F. T. V.
+B. I. S
+B. I. S.
+B. J
+B. J.
+B. A. J
+B. A. J.
+B. S. J
+B. S. J.
+B. Journ
+B. Journ.
+B. L. Arch
+B. L. Arch.
+B. L. A
+B. L. A.
+A. L. B
+A. L. B.
+B. G. S
+B. G. S.
+B. S. G. S
+B. S. G. S.
+B. A. S
+B. A. S.
+B. P. S
+B. P. S.
+B. L. I. S
+B. L. I. S.
+B. M. E
+B. M. E.
+Ph. B
+Ph. B.
+B. A. P. S. Y
+B. A. P. S. Y.
+B. Sc. Psych
+B. Sc. Psych.
+B. Sc. Ed
+B. Sc. Ed.
+B. S. F
+B. S. F.
+B. Sc. F
+B. Sc. F.
+B. S. L
+B. S. L.
+B. A. S. W
+B. A. S. W.
+B. T. L
+B. T. L.
+B. Math
+B. Math.
+B. Math. Sc
+B. Math. Sc.
+B. P. A. P. M
+B. P. A. P. M.
+B. U. R. P
+B. U. R. P.  and BPlan
+B. Plan
+B. Plan.
+D. A
+D. A.
+D. B. A
+D. B. A.
+J. C. D
+J. C. D.
+D. Des
+D. Des.
+D. Eng
+D. Eng.
+D. E. Sc
+D. E. Sc.
+D. E. S
+D. E. S.
+Ed. D
+Ed. D.
+D. F. A
+D. F. A.
+D. H. L
+D. H. L.
+J. S. D
+J. S. D.
+S. J. D
+S. J. D.
+D. M. A
+D. M. A.
+D. M. E
+D. M. E.
+D. M. L
+D. M. L.
+D. N. Sc
+D. N. Sc.
+Ph. D
+Ph. D.
+D. P. H
+D. P. H.
+S. T. D
+S. T. D.
+D. Sc
+D. Sc.
+Sc. D
+Sc. D.
+Th. D
+Th. D.
+Au. D
+Au. D.
+D. C
+D. C.
+D. D. S
+D. D. S.
+D. D
+D. D.
+J. D
+J. D.
+D. M. D
+D. M. D.
+M. D
+M. D.
+D. Min
+D. Min.
+N. D
+N. D.
+D. N. P
+D. N. P.
+O. D
+O. D.
+D. O
+D. O.
+Pharm. D
+Pharm. D.
+D. Phil
+D. Phil.
+D. Ph
+D. Ph.
+D. P. T
+D. P. T.
+Psy. D
+Psy. D.
+Dr. P. H
+Dr. P. H.
+D. V. M
+D. V. M.
+M. S. F
+M. S. F.
+B. Arts
+B. Arts.
+B. An. Vet. Bio. Sc
+B. An. Vet. Bio. Sc.
+B. App. Sc
+B. App. Sc.
+B. C. E
+B. C. E.
+B. D. M
+B. D. M.
+B. D. Sc
+B. D. Sc.
+B. D. S
+B. D. S.
+B. Ch. D
+B. Ch. D.
+B. Dent
+B. Dent.
+B. Des. Comp
+B. Des. Comp.
+B. Des. Arch
+B. Des. Arch.
+B. Des. Srch
+B. Des. Srch.
+B. E. C
+B. E. C.
+B. E. C. O. M
+B. E. C. O. M.
+B. Ecom
+B. Ecom.
+B. E. E
+B. E. E.
+B. Hlth. Sci
+B. Hlth. Sci.
+B. I. T
+B. I. T.
+B. I. G. S
+B. I. G. S.
+B. L. A. S
+B. L. A. S.
+B. Lit
+B. Lit.
+M. B
+M. B.
+B. Mus. Studies
+B. Mus. Studies.
+B. P. E. S. S
+B. P. E. S. S.
+B. Res. Ec
+B. Res. Ec.
+B. S. L. S
+B. S. L. S.
+B. V. Sc
+B. V. Sc.
+B. V. A
+B. V. A.
+A. A
+A. A.
+A. A. S
+A. A. S.
+A. A. T
+A. A. T.
+Associate in Applied Tech.
+A. O. T
+A. O. T.
+A. S
+A. S.
+B. A. B. A
+B. A. B. A.
+B. A. E
+B. A. E.
+B. Ag
+B. Ag.
+B. Ch. E
+B. Ch. E.
+B. In. Dsn
+B. In. Dsn.
+B. M. Ed
+B. M. Ed.
+Bachelor of Music Education B.  Pharm.
+B. S. A. E
+B. S. A. E.  in Aerospace Engineering
+B. S.  in Business Administration
+B. S. C. S
+B. S. C. S.
+B. S.  in Computer Science
+B. S. Chem
+B. S. Chem.
+B. S.  in Chemistry
+B. S.  in Engineering
+B. S. Ed
+B. S. Ed.
+B. S.  in Education
+B. S. M. E
+B. S. M. E.
+B. S.  in Mechanical Engineering
+B. S. Micr
+B. S. Micr.
+B. S.  in Microbiology
+B. S. S. W
+B. S. S. W.
+B. S.  in Social Work
+M. Acct
+M. Acct.
+M. Aqua
+M. Aqua.
+M. C. D
+M. C. D.
+M. C. S
+M. C. S.
+M. Fstry
+M. Fstry.
+M. L. Arch
+M. L. Arch.
+M. S. C. J
+M. S. C. J.
+M. S.  in Criminal Justice
+M. S. C. S
+M. S. C. S.
+M. S.  in Computer Science
+M. S. Chem
+M. S. Chem.
+M. S.  in Chemistry
+M. S. F. S
+M. S. F. S.
+M. S.  in Forensic Science
+M. S. M. Sci
+M. S. M. Sci.
+M. S.  in Marine Science
+M. S. Met
+M. S. Met.
+M. S.  in Metallurgical Engineering
+M. Sw. E
+M. Sw. E.
+Master of Theology B.  N.
+B. S.  in Nursing
+M. N
+M. N.
+M. N. A
+M. N. A.
+D. S. N
+D. S. N.
+D. Sc. P. T
+D. Sc. P. T.
+Bachelor of Music Education B.  Pharm
+B. S in Aerospace Engineering
+B. S in Business Administration
+B. S in Computer Science
+B. S in Chemistry
+B. S in Engineering
+B. S in Education
+B. S in Mechanical Engineering
+B. S in Microbiology
+B. S in Social Work
+A. E
+A. E.
+A. N
+A. N.
+B. A. C
+B. A. C.
+B. A. R
+B. A. R.
+B. C. H
+B. C. H.
+B. C. P
+B. C. P.
+B. E. D
+B. E. D.
+B. O. C
+B. O. C.
+B. O. E
+B. O. E.
+B. T. E
+B. T. E.
+C. E
+C. E.
+C. H. E
+C. H. E.
+C. P. H
+C. P. H.
+C. S. E
+C. S. E.
+D. I. E
+D. I. E.
+D. I. P
+D. I. P.
+D. S. C
+D. S. C.
+E. A. A
+E. A. A.
+E. D. U
+E. D. U.
+E. E
+E. E.
+E. G. D
+E. G. D.
+E. N. E
+E. N. E.
+E. N. G
+E. N. G.
+H. M
+H. M.
+I. N. G
+I. N. G.
+L. L. D
+L. L. D.
+M. A. A
+M. A. A.
+M. A. E
+M. A. E.
+M. A. R
+M. A. R.
+M. C. P
+M. C. P.
+M. D. V
+M. D. V.
+M. E. C
+M. E. C.
+M. E. D
+M. E. D.
+M. E. E
+M. E. E.
+M. E. N
+M. E. N.
+M. E. T
+M. E. T.
+M. I. E
+M. I. E.
+M. M. E
+M. M. E.
+M. M. G
+M. M. G.
+M. N. G
+M. N. G.
+M. P. L
+M. P. L.
+M. R. E
+M. R. E.
+M. T. E
+M. T. E.
+M. U. D
+M. U. D.
+M. U. P
+M. U. P.
+N. A
+N. A.
+N. E
+N. E.
+N. U. E
+N. U. E.
+O. C. E
+O. C. E.
+P. H. B
+P. H. B.
+P. H. C
+P. H. C.
+P. H. M
+P. H. M.
+P. H. S
+P. H. S.
+S. E
+S. E.
+A. T. D
+A. T. D.
+B. Agr. Sc
+B. Agr. Sc.
+B. A. Mus
+B. A. Mus.
+B. B. M
+B. B. M.
+B. Ch
+B. Ch.
+B. Che
+B. Che.
+B. Chir
+B. Chir.
+B. C. S
+B. C. S.
+B. H. A
+B. H. A.
+B. H. Sc. P. T
+B. H. Sc. P. T.
+B. M. L. S
+B. M. L. S.
+B. M. R
+B. M. R.
+B. O. Th
+B. O. Th.
+B. P. H. E
+B. P. H. E.
+B. Phm
+B. Phm.
+B. P. T
+B. P. T.
+B. S. A
+B. S. A.
+B. S. C. C. E
+B. S. C. C. E.
+B. Sc. D
+B. Sc. D.
+B. S. Ch. E
+B. S. Ch. E.
+B. Sc. E. E
+B. Sc. E. E.
+B. Sc. Med
+B. Sc. Med.
+B. Sc. Phm
+B. Sc. Phm.
+B. S. P
+B. S. P.
+Ch. B
+Ch. B.
+C. Psych
+C. Psych.
+D. Chem
+D. Chem.
+D. Cl
+D. Cl.
+D. D. Sc
+D. D. Sc.
+D. E
+D. E.
+D. G. O
+D. G. O.
+D. H. A
+D. H. A.
+D. I. C
+D. I. C.
+D. I. F. A
+D. I. F. A.
+Dip. C. H
+Dip. C. H.
+Dip. Chem
+Dip. Chem.
+Dip. Crim
+Dip. Crim.
+Dip. Ed
+Dip. Ed.
+Dip. For
+Dip. For.
+Dip. Ing
+Dip. Ing.
+Dip. Ing. Arch
+Dip. Ing. Arch.
+Dipl. Geol
+Dipl. Geol.
+Dip. Lib
+Dip. Lib.
+Dip. N. P
+Dip. N. P.
+Dip. Or. H
+Dip. Or. H.
+Dip. O. T
+Dip. O. T.
+Dip. P
+Dip. P.
+Dip. P. E
+Dip. P. E.
+Dip. Perio
+Dip. Perio.
+Dip. Phys. Ed
+Dip. Phys. Ed.
+Dip. Sport. Med
+Dip. Sport. Med.
+D. Litt
+D. Litt.
+D. P
+D. P.
+D. P. H. N
+D. P. H. N.
+D. P. M
+D. P. M.
+D. Psych
+D. Psych.
+Dr. Eng
+Dr. Eng.
+Dr. Med
+Dr. Med.
+Dr. Med. Dent
+Dr. Med. Dent.
+Dr. Med. Sc
+Dr. Med. Sc.
+Dr. Med. Vet
+Dr. Med. Vet.
+Dr. Rer. Nat
+Dr. Rer. Nat.
+Dr. Rer. Pol
+Dr. Rer. Pol.
+D. S. S. A
+D. S. S. A.
+D. S. W
+D. S. W.
+D. Th
+D. Th.
+G. P. L. L. M
+G. P. L. L. M.
+G. Dip. N. P. A. C
+G. Dip. N. P. A. C.
+G. Dip. I. St
+G. Dip. I. St.
+Lic. Sc. Chem
+Lic. Sc. Chem.
+Litt. D
+Litt. D.
+L. Th
+L. Th.
+M. B. Ch. B
+M. B. Ch. B.
+M. Biotech
+M. Biotech.
+M. B. B. S
+M. B. B. S.
+M. C
+M. C.
+M. Cl. Sc
+M. Cl. Sc.
+M. D. C. M
+M. D. C. M.
+M. D. S
+M. D. S.
+M. Ec
+M. Ec.
+Med. Sc. D
+Med. Sc. D.
+M. Eng. C. E. M
+M. Eng. C. E. M.
+M. Eng. D. M
+M. Eng. D. M.
+M. Eng. Tel
+M. Eng. Tel.
+M. Env. Sc
+M. Env. Sc.
+M. E. Sci
+M. E. Sci.
+M. F
+M. F.
+M. F. C
+M. F. C.
+M. F. E
+M. F. E.
+M. F. S
+M. F. S.
+M. G. A
+M. G. A.
+M. H. I
+M. H. I.
+M. H. K
+M. H. K.
+M. H. P. E
+M. H. P. E.
+M. H. S. A
+M. H. S. A.
+M. H. Sc
+M. H. Sc.
+M. I. A
+M. I. A.
+M. I
+M. I.
+M. I. R
+M. I. R.
+M. I. R. H. R
+M. I. R. H. R.
+M. I. St
+M. I. St.
+M. Med
+M. Med.
+M. M. P. A
+M. M. P. A.
+M. M. I
+M. M. I.
+M. M. F
+M. M. F.
+M. M. St
+M. M. St.
+M. P. E
+M. P. E.
+M. Psy
+M. Psy.
+M. Psych
+M. Psych.
+M. R. P
+M. R. P.
+M. S. A
+M. S. A.
+M. Sc. A. C
+M. Sc. A. C.
+M. Sc. B. M. C
+M. Sc. B. M. C.
+M. Sc. C. H
+M. Sc. C. H.
+M. Sc. D
+M. Sc. D.
+M. Sc. E. E
+M. Sc. E. E.
+M. Sc. F
+M. Sc. F.
+M. Sc. O. T
+M. Sc. O. T.
+M. Sc. Phm
+M. Sc. Phm.
+M. Sc. Pl
+M. Sc. Pl.
+M. Sc. P. T
+M. Sc. P. T.
+M. Sc. S. M
+M. Sc. S. M.
+M. S. D
+M. S. D.
+M. S. E. E
+M. S. E. E.
+M. S. S
+M. S. S.
+M. T
+M. T.
+M. Tech
+M. Tech.
+M. U. D. S
+M. U. D. S.
+Mus. Bac
+Mus. Bac.
+Mus. D
+Mus. D.
+Mus. Doc
+Mus. Doc.
+Mus. M
+Mus. M.
+M. V. S
+M. V. S.
+S. T. B
+S. T. B.
+Agr B
+Agr B
+B A
+B A
+B Sc
+B Sc
+B Acc
+B Acc
+B A Com
+B A Com
+B Admin
+B Admin
+B A Econ
+B A Econ
+B Agr
+B Agr
+B A H
+B A H
+B A I
+B A I
+B A Law
+B A Law
+B A O
+B A O
+B Arch
+B Arch
+B Arch Sc
+B Arch Sc
+B A Rel St
+B A Rel St
+B A Sc
+B A Sc
+B A Soc
+B A Soc
+B A Theol
+B A Theol
+B B A
+B B A
+B B L S
+B B L S
+B B S
+B B S
+B Bus
+B Bus
+B Chem
+B Chem
+B C L
+B C L
+B C L D
+B C L D
+B Clin Sci
+B Clin Sci
+B Com
+B Com
+B Comb St
+B Comb St
+B Comm Ed Comm Dev
+B Comm Ed Comm Dev
+B Com Sc
+B Com Sc
+B D
+B D
+B Des
+B Des
+B Div
+B Div
+B Econ Sc
+B Econ Sc
+B Econ Sci
+B Econ Sci
+B Ed
+B Ed
+B Eng
+B Eng
+B E S
+B E S
+B Eng Tech
+B Eng Tech
+B F A
+B F A
+B Fin
+B Fin
+B F L S
+B F L S
+B F S T
+B F S T
+B H
+B H
+B Health Sc
+B Health Sc
+B H Sc
+B H Sc
+B Hy
+B Hy
+B I B A
+B I B A
+B Jur
+B Jur
+B L
+B L
+B L E
+B L E
+B Leg Sc
+B Leg Sc
+B Lib
+B Lib
+B Ling
+B Ling
+B Litt
+B Litt
+B Litt Celt
+B Litt Celt
+B L S
+B L S
+B M
+B M
+B Med Sc
+B Med Sc
+B Med Sci
+B Med Sci
+B Met
+B Met
+B Mid
+B Mid
+B Mid Wif
+B Mid Wif
+B Min
+B Min
+B M S
+B M S
+B M Sc
+B M Sc
+B Mus
+B Mus
+B Mus Ed
+B Mus Ed
+B Mus Perf
+B Mus Perf
+B N
+B N
+B Nat Sci
+B Nat Sci
+B N S
+B N S
+B Nurs
+B Nurs
+B Optom
+B Optom
+B Ost
+B Ost
+B P A
+B P A
+B Pharm
+B Pharm
+B Phil
+B Phil
+B Phys
+B Phys
+B Physio
+B Physio
+B Pl
+B Pl
+B Radiog
+B Radiog
+B Sc Agr
+B Sc Agr
+B Sc Ec
+B Sc Ec
+B Sc Econ
+B Sc Econ
+B Sc For
+B Sc For
+B Sc P H
+B Sc P H
+B Sc Tech
+B Sc Tech
+B S D
+B S D
+B Soc Sc
+B Soc Sc
+B S S
+B S S
+B St Su
+B St Su
+B S W
+B S W
+B T C P
+B T C P
+B Tech
+B Tech
+B T E C
+B T E C
+B Tech Ed
+B Tech Ed
+B Th
+B Th
+B Theol
+B Theol
+B T S
+B T S
+Ed B
+Ed B
+Litt B
+Litt B
+L L B
+L L B
+M A
+M A
+Mus B
+Mus B
+Sc B Tech
+Sc B Tech
+M Acc
+M Acc
+M Ac
+M Ac
+M Acy
+M Acy
+M A S
+M A S
+M Econ
+M Econ
+M Arch
+M Arch
+M A Sc
+M A Sc
+M App Sc
+M App Sc
+M Appl Sc
+M Appl Sc
+A M
+A M
+M A T
+M A T
+A L M
+A L M
+M L A
+M L A
+M L S
+M L S
+M A L S
+M A L S
+M Bus
+M Bus
+M B A
+M B A
+M B I
+M B I
+M Chem
+M Chem
+M Com
+M Com
+M Comm
+M Comm
+M C A
+M C A
+M C J
+M C J
+M Des
+M Des
+M Design
+M Design
+M Div
+M Div
+M Ed
+M Ed
+Ed M
+Ed M
+M A Ed
+M A Ed
+M S Ed
+M S Ed
+M S E
+M S E
+M Ed L
+M Ed L
+M Ent
+M Ent
+M Eng
+M Eng
+M E
+M E
+M E M
+M E M
+L L M
+L L M
+M Fin
+M Fin
+M F A
+M F A
+M H A
+M H A
+M H S
+M H S
+M H
+M H
+M I L R
+M I L R
+M I S
+M I S
+M I S M
+M I S M
+Masterof I T
+Masterof I T
+M S I T
+M S I T
+M Sc I T
+M Sc I T
+M J
+M J
+M Jur
+M Jur
+M S L
+M S L
+M Litt
+M Litt
+M L I S
+M L I S
+M M
+M M
+M Math
+M Math
+M Mus
+M Mus
+O T
+O T
+M Pharm
+M Pharm
+M Phil
+M Phil
+M Phys
+M Phys
+M P S
+M P S
+M P A
+M P A
+M P Aff
+M P Aff
+M P H
+M P H
+M P P
+M P P
+M Rb
+M Rb
+M Sc R
+M Sc R
+S T M
+S T M
+M S M
+M S M
+M Sc
+M Sc
+M Sci
+M Sci
+M Si
+M Si
+Sc M
+Sc M
+M S
+M S
+M S H S
+M S H S
+S M
+S M
+H R D
+H R D
+M S H R D
+M S H R D
+M S M I S
+M S M I S
+M S I S
+M S I S
+I T
+I T
+M S N
+M S N
+M S P M
+M S P M
+S C M
+S C M
+M S S C M
+M S S C M
+M S T
+M S T
+M S W
+M S W
+M S Sc
+M S Sc
+Ch M
+Ch M
+M Ch
+M Ch
+M Chir
+M Chir
+M St
+M St
+Th M
+Th M
+M Th
+M Th
+M T S
+M T S
+M V S C
+M V S C
+M V Sc
+M V Sc
+A B
+A B
+B S
+B S
+S B
+S B
+Sc B
+Sc B
+B A A
+B A A
+B A A S
+B A A S
+B App Sc I T
+B App Sc I T
+S Des
+S Des
+B E
+B E
+B S E
+B S E
+B E Sc
+B E Sc
+B S Eng
+B S Eng
+B Sc Eng
+B Sc Eng
+B S B A
+B S B A
+B S E T
+B S E T
+B I B E
+B I B E
+B Comm
+B Comm
+B M O S
+B M O S
+B Bus Sc
+B Bus Sc
+B Acy
+B Acy
+B Accty
+B Accty
+B Acc Sci
+B Acc Sci
+B Compt
+B Compt
+B Ec
+B Ec
+B A O M
+B A O M
+B Comp Sc
+B Comp Sc
+B Comp
+B Comp
+B C A
+B C A
+B B I S
+B B I S
+B Med Biol
+B Med Biol
+B S P H
+B S P H
+B N Sc
+B N Sc
+B Sc N
+B Sc N
+B S N
+B S N
+B H S
+B H S
+B Kin
+B Kin
+B Sc Kin
+B Sc Kin
+B H K
+B H K
+B A T
+B A T
+B Avn
+B Avn
+Th B
+Th B
+B R E
+B R E
+B R S
+B R S
+B F T V
+B F T V
+B I S
+B I S
+B J
+B J
+B A J
+B A J
+B S J
+B S J
+B Journ
+B Journ
+B L Arch
+B L Arch
+B L A
+B L A
+A L B
+A L B
+B G S
+B G S
+B S G S
+B S G S
+B A S
+B A S
+B P S
+B P S
+B L I S
+B L I S
+B M E
+B M E
+Ph B
+Ph B
+B A P S Y
+B A P S Y
+B Sc Psych
+B Sc Psych
+B Sc Ed
+B Sc Ed
+B S F
+B S F
+B Sc F
+B Sc F
+B S L
+B S L
+B A S W
+B A S W
+B T L
+B T L
+B Math
+B Math
+B Math Sc
+B Math Sc
+B P A P M
+B P A P M
+B U R P
+B U R P  and BPlan
+B Plan
+B Plan
+D A
+D A
+D B A
+D B A
+J C D
+J C D
+D Des
+D Des
+D Eng
+D Eng
+D E Sc
+D E Sc
+D E S
+D E S
+Ed D
+Ed D
+D F A
+D F A
+D H L
+D H L
+J S D
+J S D
+S J D
+S J D
+D M A
+D M A
+D M E
+D M E
+D M L
+D M L
+D N Sc
+D N Sc
+Ph D
+Ph D
+D P H
+D P H
+S T D
+S T D
+D Sc
+D Sc
+Sc D
+Sc D
+Th D
+Th D
+Au D
+Au D
+D C
+D C
+D D S
+D D S
+D D
+D D
+J D
+J D
+D M D
+D M D
+M D
+M D
+D Min
+D Min
+N D
+N D
+D N P
+D N P
+O D
+O D
+D O
+D O
+Pharm D
+Pharm D
+D Phil
+D Phil
+D Ph
+D Ph
+D P T
+D P T
+Psy D
+Psy D
+Dr P H
+Dr P H
+D V M
+D V M
+M S F
+M S F
+B Arts
+B Arts
+B An Vet Bio Sc
+B An Vet Bio Sc
+B App Sc
+B App Sc
+B C E
+B C E
+B D M
+B D M
+B D Sc
+B D Sc
+B D S
+B D S
+B Ch D
+B Ch D
+B Dent
+B Dent
+B Des Comp
+B Des Comp
+B Des Arch
+B Des Arch
+B Des Srch
+B Des Srch
+B E C
+B E C
+B E C O M
+B E C O M
+B Ecom
+B Ecom
+B E E
+B E E
+B Hlth Sci
+B Hlth Sci
+B I T
+B I T
+B I G S
+B I G S
+B L A S
+B L A S
+B Lit
+B Lit
+M B
+M B
+B Mus Studies
+B Mus Studies
+B P E S S
+B P E S S
+B Res Ec
+B Res Ec
+B S L S
+B S L S
+B V Sc
+B V Sc
+B V A
+B V A
+A A
+A A
+A A S
+A A S
+A A T
+A A T
+Associate in Applied Tech
+A O T
+A O T
+A S
+A S
+B A B A
+B A B A
+B A E
+B A E
+B Ag
+B Ag
+B Ch E
+B Ch E
+B In Dsn
+B In Dsn
+B M Ed
+B M Ed
+Bachelor of Music Education B  Pharm
+B S A E
+B S A E  in Aerospace Engineering
+B S  in Business Administration
+B S C S
+B S C S
+B S  in Computer Science
+B S Chem
+B S Chem
+B S  in Chemistry
+B S  in Engineering
+B S Ed
+B S Ed
+B S  in Education
+B S M E
+B S M E
+B S  in Mechanical Engineering
+B S Micr
+B S Micr
+B S  in Microbiology
+B S S W
+B S S W
+B S  in Social Work
+M Acct
+M Acct
+M Aqua
+M Aqua
+M C D
+M C D
+M C S
+M C S
+M Fstry
+M Fstry
+M L Arch
+M L Arch
+M S C J
+M S C J
+M S  in Criminal Justice
+M S C S
+M S C S
+M S  in Computer Science
+M S Chem
+M S Chem
+M S  in Chemistry
+M S F S
+M S F S
+M S  in Forensic Science
+M S M Sci
+M S M Sci
+M S  in Marine Science
+M S Met
+M S Met
+M S  in Metallurgical Engineering
+M Sw E
+M Sw E
+Master of Theology B  N
+B S  in Nursing
+M N
+M N
+M N A
+M N A
+D S N
+D S N
+D Sc P T
+D Sc P T
+Bachelor of Music Education B  Pharm
+B S in Aerospace Engineering
+B S in Business Administration
+B S in Computer Science
+B S in Chemistry
+B S in Engineering
+B S in Education
+B S in Mechanical Engineering
+B S in Microbiology
+B S in Social Work
+A E
+A E
+A N
+A N
+B A C
+B A C
+B A R
+B A R
+B C H
+B C H
+B C P
+B C P
+B E D
+B E D
+B O C
+B O C
+B O E
+B O E
+B T E
+B T E
+C E
+C E
+C H E
+C H E
+C P H
+C P H
+C S E
+C S E
+D I E
+D I E
+D I P
+D I P
+D S C
+D S C
+E A A
+E A A
+E D U
+E D U
+E E
+E E
+E G D
+E G D
+E N E
+E N E
+E N G
+E N G
+H M
+H M
+I N G
+I N G
+L L D
+L L D
+M A A
+M A A
+M A E
+M A E
+M A R
+M A R
+M C P
+M C P
+M D V
+M D V
+M E C
+M E C
+M E D
+M E D
+M E E
+M E E
+M E N
+M E N
+M E T
+M E T
+M I E
+M I E
+M M E
+M M E
+M M G
+M M G
+M N G
+M N G
+M P L
+M P L
+M R E
+M R E
+M T E
+M T E
+M U D
+M U D
+M U P
+M U P
+N A
+N A
+N E
+N E
+N U E
+N U E
+O C E
+O C E
+P H B
+P H B
+P H C
+P H C
+P H M
+P H M
+P H S
+P H S
+S E
+S E
+A T D
+A T D
+B Agr Sc
+B Agr Sc
+B A Mus
+B A Mus
+B B M
+B B M
+B Ch
+B Ch
+B Che
+B Che
+B Chir
+B Chir
+B C S
+B C S
+B H A
+B H A
+B H Sc P T
+B H Sc P T
+B M L S
+B M L S
+B M R
+B M R
+B O Th
+B O Th
+B P H E
+B P H E
+B Phm
+B Phm
+B P T
+B P T
+B S A
+B S A
+B S C C E
+B S C C E
+B Sc D
+B Sc D
+B S Ch E
+B S Ch E
+B Sc E E
+B Sc E E
+B Sc Med
+B Sc Med
+B Sc Phm
+B Sc Phm
+B S P
+B S P
+Ch B
+Ch B
+C Psych
+C Psych
+D Chem
+D Chem
+D Cl
+D Cl
+D D Sc
+D D Sc
+D E
+D E
+D G O
+D G O
+D H A
+D H A
+D I C
+D I C
+D I F A
+D I F A
+Dip C H
+Dip C H
+Dip Chem
+Dip Chem
+Dip Crim
+Dip Crim
+Dip Ed
+Dip Ed
+Dip For
+Dip For
+Dip Ing
+Dip Ing
+Dip Ing Arch
+Dip Ing Arch
+Dipl Geol
+Dipl Geol
+Dip Lib
+Dip Lib
+Dip N P
+Dip N P
+Dip Or H
+Dip Or H
+Dip O T
+Dip O T
+Dip P
+Dip P
+Dip P E
+Dip P E
+Dip Perio
+Dip Perio
+Dip Phys Ed
+Dip Phys Ed
+Dip Sport Med
+Dip Sport Med
+D Litt
+D Litt
+D P
+D P
+D P H N
+D P H N
+D P M
+D P M
+D Psych
+D Psych
+Dr Eng
+Dr Eng
+Dr Med
+Dr Med
+Dr Med Dent
+Dr Med Dent
+Dr Med Sc
+Dr Med Sc
+Dr Med Vet
+Dr Med Vet
+Dr Rer Nat
+Dr Rer Nat
+Dr Rer Pol
+Dr Rer Pol
+D S S A
+D S S A
+D S W
+D S W
+D Th
+D Th
+G P L L M
+G P L L M
+G Dip N P A C
+G Dip N P A C
+G Dip I St
+G Dip I St
+Lic Sc Chem
+Lic Sc Chem
+Litt D
+Litt D
+L Th
+L Th
+M B Ch B
+M B Ch B
+M Biotech
+M Biotech
+M B B S
+M B B S
+M C
+M C
+M Cl Sc
+M Cl Sc
+M D C M
+M D C M
+M D S
+M D S
+M Ec
+M Ec
+Med Sc D
+Med Sc D
+M Eng C E M
+M Eng C E M
+M Eng D M
+M Eng D M
+M Eng Tel
+M Eng Tel
+M Env Sc
+M Env Sc
+M E Sci
+M E Sci
+M F
+M F
+M F C
+M F C
+M F E
+M F E
+M F S
+M F S
+M G A
+M G A
+M H I
+M H I
+M H K
+M H K
+M H P E
+M H P E
+M H S A
+M H S A
+M H Sc
+M H Sc
+M I A
+M I A
+M I
+M I
+M I R
+M I R
+M I R H R
+M I R H R
+M I St
+M I St
+M Med
+M Med
+M M P A
+M M P A
+M M I
+M M I
+M M F
+M M F
+M M St
+M M St
+M P E
+M P E
+M Psy
+M Psy
+M Psych
+M Psych
+M R P
+M R P
+M S A
+M S A
+M Sc A C
+M Sc A C
+M Sc B M C
+M Sc B M C
+M Sc C H
+M Sc C H
+M Sc D
+M Sc D
+M Sc E E
+M Sc E E
+M Sc F
+M Sc F
+M Sc O T
+M Sc O T
+M Sc Phm
+M Sc Phm
+M Sc Pl
+M Sc Pl
+M Sc P T
+M Sc P T
+M Sc S M
+M Sc S M
+M S D
+M S D
+M S E E
+M S E E
+M S S
+M S S
+M T
+M T
+M Tech
+M Tech
+M U D S
+M U D S
+Mus Bac
+Mus Bac
+Mus D
+Mus D
+Mus Doc
+Mus Doc
+Mus M
+Mus M
+M V S
+M V S
+S T B
+S T B
+B sc
+B sc
+B acc
+B acc
+B A com
+B A com
+B admin
+B admin
+B A econ
+B A econ
+B agr
+B agr
+B A law
+B A law
+B arch
+B arch
+B arch sc
+B arch sc
+B A rel st
+B A rel st
+B A sc
+B A sc
+B A soc
+B A soc
+B A theol
+B A theol
+B bus
+B bus
+B chem
+B chem
+B clin sci
+B clin sci
+B com
+B com
+B comb st
+B comb st
+B comm ed comm dev
+B comm ed comm dev
+B com sc
+B com sc
+B des
+B des
+B div
+B div
+B econ sc
+B econ sc
+B econ sci
+B econ sci
+B ed
+B ed
+B eng
+B eng
+B eng tech
+B eng tech
+B fin
+B fin
+B health sc
+B health sc
+B H sc
+B H sc
+B hy
+B hy
+B jur
+B jur
+B leg sc
+B leg sc
+B lib
+B lib
+B ling
+B ling
+B litt
+B litt
+B litt celt
+B litt celt
+B med sc
+B med sc
+B med sci
+B med sci
+B met
+B met
+B mid
+B mid
+B mid wif
+B mid wif
+B min
+B min
+B M sc
+B M sc
+B mus
+B mus
+B mus ed
+B mus ed
+B mus perf
+B mus perf
+B nat sci
+B nat sci
+B nurs
+B nurs
+B optom
+B optom
+B ost
+B ost
+B pharm
+B pharm
+B phil
+B phil
+B phys
+B phys
+B physio
+B physio
+B pl
+B pl
+B radiog
+B radiog
+B sc agr
+B sc agr
+B sc ec
+B sc ec
+B sc econ
+B sc econ
+B sc for
+B sc for
+B sc P H
+B sc P H
+B sc tech
+B sc tech
+B soc sc
+B soc sc
+B st su
+B st su
+B tech
+B tech
+B tech ed
+B tech ed
+B th
+B th
+B theol
+B theol
+sc B tech
+sc B tech
+M acc
+M acc
+M ac
+M ac
+M acy
+M acy
+M econ
+M econ
+M arch
+M arch
+M A sc
+M A sc
+M app sc
+M app sc
+M appl sc
+M appl sc
+M bus
+M bus
+M chem
+M chem
+M com
+M com
+M comm
+M comm
+M des
+M des
+M design
+M design
+M div
+M div
+M ed
+M ed
+M A ed
+M A ed
+M S ed
+M S ed
+M ed L
+M ed L
+M ent
+M ent
+M eng
+M eng
+M fin
+M fin
+M sc I T
+M sc I T
+M jur
+M jur
+M litt
+M litt
+M math
+M math
+M mus
+M mus
+M pharm
+M pharm
+M phil
+M phil
+M phys
+M phys
+M P aff
+M P aff
+M rb
+M rb
+M sc R
+M sc R
+M sc
+M sc
+M sci
+M sci
+M si
+M si
+M S sc
+M S sc
+M ch
+M ch
+M chir
+M chir
+M st
+M st
+M th
+M th
+M V sc
+M V sc
+B app sc I T
+B app sc I T
+S des
+S des
+B E sc
+B E sc
+B S eng
+B S eng
+B sc eng
+B sc eng
+B comm
+B comm
+B bus sc
+B bus sc
+B acy
+B acy
+B accty
+B accty
+B acc sci
+B acc sci
+B compt
+B compt
+B ec
+B ec
+B comp sc
+B comp sc
+B comp
+B comp
+B med biol
+B med biol
+B N sc
+B N sc
+B sc N
+B sc N
+B kin
+B kin
+B sc kin
+B sc kin
+B avn
+B avn
+B journ
+B journ
+B L arch
+B L arch
+B sc psych
+B sc psych
+B sc ed
+B sc ed
+B sc F
+B sc F
+B math
+B math
+B math sc
+B math sc
+B plan
+B plan
+D des
+D des
+D eng
+D eng
+D E sc
+D E sc
+D N sc
+D N sc
+D sc
+D sc
+D min
+D min
+D phil
+D phil
+D ph
+D ph
+B arts
+B arts
+B an vet bio sc
+B an vet bio sc
+B app sc
+B app sc
+B D sc
+B D sc
+B ch D
+B ch D
+B dent
+B dent
+B des comp
+B des comp
+B des arch
+B des arch
+B des srch
+B des srch
+B ecom
+B ecom
+B hlth sci
+B hlth sci
+B lit
+B lit
+B mus studies
+B mus studies
+B res ec
+B res ec
+B V sc
+B V sc
+B ag
+B ag
+B ch E
+B ch E
+B in dsn
+B in dsn
+B M ed
+B M ed
+B S chem
+B S chem
+B S ed
+B S ed
+B S micr
+B S micr
+M acct
+M acct
+M aqua
+M aqua
+M fstry
+M fstry
+M L arch
+M L arch
+M S chem
+M S chem
+M S M sci
+M S M sci
+M S met
+M S met
+M sw E
+M sw E
+D sc P T
+D sc P T
+B agr sc
+B agr sc
+B A mus
+B A mus
+B ch
+B ch
+B che
+B che
+B chir
+B chir
+B H sc P T
+B H sc P T
+B O th
+B O th
+B phm
+B phm
+B sc D
+B sc D
+B S ch E
+B S ch E
+B sc E E
+B sc E E
+B sc med
+B sc med
+B sc phm
+B sc phm
+C psych
+C psych
+D chem
+D chem
+D cl
+D cl
+D D sc
+D D sc
+D litt
+D litt
+D psych
+D psych
+D th
+D th
+G dip N P A C
+G dip N P A C
+G dip I st
+G dip I st
+L th
+L th
+M B ch B
+M B ch B
+M biotech
+M biotech
+M cl sc
+M cl sc
+M ec
+M ec
+M eng C E M
+M eng C E M
+M eng D M
+M eng D M
+M eng tel
+M eng tel
+M env sc
+M env sc
+M E sci
+M E sci
+M H sc
+M H sc
+M I st
+M I st
+M med
+M med
+M M st
+M M st
+M psy
+M psy
+M psych
+M psych
+M sc A C
+M sc A C
+M sc B M C
+M sc B M C
+M sc C H
+M sc C H
+M sc D
+M sc D
+M sc E E
+M sc E E
+M sc F
+M sc F
+M sc O T
+M sc O T
+M sc phm
+M sc phm
+M sc pl
+M sc pl
+M sc P T
+M sc P T
+M sc S M
+M sc S M
+M tech
+M tech
+Bsc
+Bsc
+Bacc
+Bacc
+BAcom
+BAcom
+Badmin
+Badmin
+BAecon
+BAecon
+Bagr
+Bagr
+BAlaw
+BAlaw
+Barch
+Barch
+Barchsc
+Barchsc
+BArelst
+BArelst
+BAsc
+BAsc
+BAsoc
+BAsoc
+BAtheol
+BAtheol
+Bbus
+Bbus
+Bchem
+Bchem
+Bclinsci
+Bclinsci
+Bcom
+Bcom
+Bcombst
+Bcombst
+Bcommedcommdev
+Bcommedcommdev
+Bcomsc
+Bcomsc
+Bdes
+Bdes
+Bdiv
+Bdiv
+Beconsc
+Beconsc
+Beconsci
+Beconsci
+Bed
+Bed
+Beng
+Beng
+Bengtech
+Bengtech
+Bfin
+Bfin
+Bhealthsc
+Bhealthsc
+BHsc
+BHsc
+Bhy
+Bhy
+Bjur
+Bjur
+Blegsc
+Blegsc
+Blib
+Blib
+Bling
+Bling
+Blitt
+Blitt
+Blittcelt
+Blittcelt
+Bmedsc
+Bmedsc
+Bmedsci
+Bmedsci
+Bmet
+Bmet
+Bmid
+Bmid
+Bmidwif
+Bmidwif
+Bmin
+Bmin
+BMsc
+BMsc
+Bmus
+Bmus
+Bmused
+Bmused
+Bmusperf
+Bmusperf
+Bnatsci
+Bnatsci
+Bnurs
+Bnurs
+Boptom
+Boptom
+Bost
+Bost
+Bpharm
+Bpharm
+Bphil
+Bphil
+Bphys
+Bphys
+Bphysio
+Bphysio
+Bpl
+Bpl
+Bradiog
+Bradiog
+Bscagr
+Bscagr
+Bscec
+Bscec
+Bscecon
+Bscecon
+Bscfor
+Bscfor
+BscPH
+BscPH
+Bsctech
+Bsctech
+Bsocsc
+Bsocsc
+Bstsu
+Bstsu
+Btech
+Btech
+Bteched
+Bteched
+BTh
+B Th
+Btheol
+Btheol
+scBtech
+scBtech
+Macc
+Macc
+Mac
+Mac
+Macy
+Macy
+Mecon
+Mecon
+M Arch
+MArch
+MAsc
+MAsc
+Mappsc
+Mappsc
+Mapplsc
+Mapplsc
+Mbus
+Mbus
+Mchem
+Mchem
+Mcom
+Mcom
+Mcomm
+Mcomm
+Mdes
+Mdes
+Mdesign
+Mdesign
+Mdiv
+Mdiv
+Med
+Med
+MAed
+MAed
+MSed
+MSed
+MedL
+MedL
+Ment
+Ment
+Meng
+Meng
+Mfin
+Mfin
+MscIT
+MscIT
+Mjur
+Mjur
+Mlitt
+Mlitt
+Mmath
+Mmath
+Mmus
+Mmus
+Mpharm
+Mpharm
+Mphil
+Mphil
+Mphys
+Mphys
+MPaff
+MPaff
+Mrb
+Mrb
+MscR
+MscR
+Msc
+Msc
+Msci
+Msci
+Msi
+Msi
+MSsc
+MSsc
+Mch
+Mch
+Mchir
+Mchir
+Mst
+Mst
+Mth
+Mth
+MVsc
+MVsc
+BappscIT
+BappscIT
+Sdes
+Sdes
+BEsc
+BEsc
+BSeng
+BSeng
+Bsceng
+Bsceng
+Bcomm
+Bcomm
+Bbussc
+Bbussc
+Bacy
+Bacy
+Baccty
+Baccty
+Baccsci
+Baccsci
+Bcompt
+Bcompt
+Bec
+Bec
+Bcompsc
+Bcompsc
+Bcomp
+Bcomp
+Bmedbiol
+Bmedbiol
+BNsc
+BNsc
+BscN
+BscN
+Bkin
+Bkin
+Bsckin
+Bsckin
+Bavn
+Bavn
+Bjourn
+Bjourn
+BLarch
+BLarch
+Bscpsych
+Bscpsych
+Bsced
+Bsced
+BscF
+BscF
+Bmath
+Bmath
+Bmathsc
+Bmathsc
+Bplan
+Bplan
+Ddes
+Ddes
+Deng
+Deng
+DEsc
+DEsc
+DNsc
+DNsc
+Dsc
+Dsc
+Dmin
+Dmin
+Dphil
+Dphil
+Dph
+Dph
+Barts
+Barts
+Banvetbiosc
+Banvetbiosc
+Bappsc
+Bappsc
+BDsc
+BDsc
+BchD
+BchD
+Bdent
+Bdent
+Bdescomp
+Bdescomp
+Bdesarch
+Bdesarch
+Bdessrch
+Bdessrch
+Becom
+Becom
+Bhlthsci
+Bhlthsci
+Blit
+Blit
+Bmusstudies
+Bmusstudies
+Bresec
+Bresec
+BVsc
+BVsc
+Bag
+Bag
+BchE
+BchE
+Bindsn
+Bindsn
+BMed
+BMed
+BSchem
+BSchem
+BSed
+BSed
+BSmicr
+BSmicr
+Macct
+Macct
+Maqua
+Maqua
+Mfstry
+Mfstry
+MLarch
+MLarch
+MSchem
+MSchem
+MSMsci
+MSMsci
+MSmet
+MSmet
+MswE
+MswE
+DscPT
+DscPT
+Bagrsc
+Bagrsc
+BAmus
+BAmus
+Bch
+Bch
+Bche
+Bche
+Bchir
+Bchir
+BHscPT
+BHscPT
+BOth
+BOth
+Bphm
+Bphm
+BscD
+BscD
+BSchE
+BSchE
+BscEE
+BscEE
+Bscmed
+Bscmed
+Bscphm
+Bscphm
+Cpsych
+Cpsych
+Dchem
+Dchem
+Dcl
+Dcl
+DDsc
+DDsc
+Dlitt
+Dlitt
+Dpsych
+Dpsych
+Dth
+Dth
+GdipNPAC
+GdipNPAC
+GdipIst
+GdipIst
+Lth
+Lth
+MBchB
+MBchB
+Mbiotech
+Mbiotech
+Mclsc
+Mclsc
+Mec
+Mec
+MengCEM
+MengCEM
+MengDM
+MengDM
+Mengtel
+Mengtel
+Menvsc
+Menvsc
+MEsci
+MEsci
+MHsc
+MHsc
+MIst
+MIst
+Mmed
+Mmed
+MMst
+MMst
+Mpsy
+Mpsy
+Mpsych
+Mpsych
+MscAC
+MscAC
+MscBMC
+MscBMC
+MscCH
+MscCH
+MscD
+MscD
+MscEE
+MscEE
+MscF
+MscF
+MscOT
+MscOT
+Mscphm
+Mscphm
+Mscpl
+Mscpl
+MscPT
+MscPT
+MscSM
+MscSM
+Mtech
+Mtech
+BSC
+BSC
+BACC
+BACC
+BACOM
+BACOM
+BADMIN
+BADMIN
+BAECON
+BAECON
+BAGR
+BAGR
+BALAW
+BALAW
+BARCH
+BARCH
+BARCHSC
+BARCHSC
+BARELST
+BARELST
+BASC
+BASC
+BASOC
+BASOC
+BATHEOL
+BATHEOL
+BBUS
+BBUS
+BCHEM
+BCHEM
+BCLINSCI
+BCLINSCI
+BCOM
+BCOM
+BCOMBST
+BCOMBST
+BCOMMEDCOMMDEV
+BCOMMEDCOMMDEV
+BCOMSC
+BCOMSC
+BDES
+BDES
+BDIV
+BDIV
+BECONSC
+BECONSC
+BECONSCI
+BECONSCI
+BED
+BED
+BENG
+BENG
+BENGTECH
+BENGTECH
+BFIN
+BFIN
+BHEALTHSC
+BHEALTHSC
+BHSC
+BHSC
+BHY
+BHY
+BJUR
+BJUR
+BLEGSC
+BLEGSC
+BLIB
+BLIB
+BLING
+BLING
+BLITT
+BLITT
+BLITTCELT
+BLITTCELT
+BMEDSC
+BMEDSC
+BMEDSCI
+BMEDSCI
+BMET
+BMET
+BMID
+BMID
+BMIDWIF
+BMIDWIF
+BMIN
+BMIN
+BMSC
+BMSC
+BMUS
+BMUS
+BMUSED
+BMUSED
+BMUSPERF
+BMUSPERF
+BNATSCI
+BNATSCI
+BNURS
+BNURS
+BOPTOM
+BOPTOM
+BOST
+BOST
+BPHARM
+BPHARM
+BPHIL
+BPHIL
+BPHYS
+BPHYS
+BPHYSIO
+BPHYSIO
+BPL
+BPL
+BRADIOG
+BRADIOG
+BSCAGR
+BSCAGR
+BSCEC
+BSCEC
+BSCECON
+BSCECON
+BSCFOR
+BSCFOR
+BSCPH
+BSCPH
+BSCTECH
+BSCTECH
+BSOCSC
+BSOCSC
+BSTSU
+BSTSU
+BTECH
+BTECH
+BTECHED
+BTECHED
+BTH
+BTH
+BTHEOL
+BTHEOL
+SCBTECH
+SCBTECH
+MACC
+MACC
+MAC
+MAC
+MACY
+MACY
+MECON
+MECON
+MARCH
+MARCH
+MASC
+MASC
+MAPPSC
+MAPPSC
+MAPPLSC
+MAPPLSC
+MBUS
+MBUS
+MCHEM
+MCHEM
+MCOM
+MCOM
+MCOMM
+MCOMM
+MDES
+MDES
+MDESIGN
+MDESIGN
+MDIV
+MDIV
+MED
+MED
+MAED
+MAED
+MSED
+MSED
+MEDL
+MEDL
+MENT
+MENT
+MENG
+MENG
+MFIN
+MFIN
+MSCIT
+MSCIT
+MJUR
+MJUR
+MLITT
+MLITT
+MMATH
+MMATH
+MMUS
+MMUS
+MPHARM
+MPHARM
+MPHIL
+MPHIL
+MPHYS
+MPHYS
+MPAFF
+MPAFF
+MRB
+MRB
+MSCR
+MSCR
+MSC
+MSC
+MSCI
+MSCI
+MSI
+MSI
+MSSC
+MSSC
+MCH
+MCH
+MCHIR
+MCHIR
+MST
+MST
+MTH
+MTH
+MVSC
+MVSC
+BAPPSCIT
+BAPPSCIT
+SDES
+SDES
+BESC
+BESC
+BSENG
+BSENG
+BSCENG
+BSCENG
+BCOMM
+BCOMM
+BBUSSC
+BBUSSC
+BACY
+BACY
+BACCTY
+BACCTY
+BACCSCI
+BACCSCI
+BCOMPT
+BCOMPT
+BEC
+BEC
+BCOMPSC
+BCOMPSC
+BCOMP
+BCOMP
+BMEDBIOL
+BMEDBIOL
+BNSC
+BNSC
+BSCN
+BSCN
+BKIN
+BKIN
+BSCKIN
+BSCKIN
+BAVN
+BAVN
+BJOURN
+BJOURN
+BLARCH
+BLARCH
+BSCPSYCH
+BSCPSYCH
+BSCED
+BSCED
+BSCF
+BSCF
+BMATH
+BMATH
+BMATHSC
+BMATHSC
+BPLAN
+BPLAN
+DDES
+DDES
+DENG
+DENG
+DESC
+DESC
+DNSC
+DNSC
+DSC
+DSC
+DMIN
+DMIN
+DPHIL
+DPHIL
+DPH
+DPH
+BARTS
+BARTS
+BANVETBIOSC
+BANVETBIOSC
+BAPPSC
+BAPPSC
+BDSC
+BDSC
+BCHD
+BCHD
+BDENT
+BDENT
+BDESCOMP
+BDESCOMP
+BDESARCH
+BDESARCH
+BDESSRCH
+BDESSRCH
+BECOM
+BECOM
+BHLTHSCI
+BHLTHSCI
+BLIT
+BLIT
+BMUSSTUDIES
+BMUSSTUDIES
+BRESEC
+BRESEC
+BVSC
+BVSC
+BAG
+BAG
+BCHE
+BCHE
+BINDSN
+BINDSN
+BMED
+BMED
+BSCHEM
+BSCHEM
+BSED
+BSED
+BSMICR
+BSMICR
+MACCT
+MACCT
+MAQUA
+MAQUA
+MFSTRY
+MFSTRY
+MLARCH
+MLARCH
+MSCHEM
+MSCHEM
+MSMSCI
+MSMSCI
+MSMET
+MSMET
+MSWE
+MSWE
+DSCPT
+DSCPT
+BAGRSC
+BAGRSC
+BAMUS
+BAMUS
+BCH
+BCH
+BCHE
+BCHE
+BCHIR
+BCHIR
+BHSCPT
+BHSCPT
+BOTH
+BOTH
+BPHM
+BPHM
+BSCD
+BSCD
+BSCHE
+BSCHE
+BSCEE
+BSCEE
+BSCMED
+BSCMED
+BSCPHM
+BSCPHM
+CPSYCH
+CPSYCH
+DCHEM
+DCHEM
+DCL
+DCL
+DDSC
+DDSC
+DLITT
+DLITT
+DPSYCH
+DPSYCH
+DTH
+DTH
+GDIPNPAC
+GDIPNPAC
+GDIPIST
+GDIPIST
+LTH
+LTH
+MBCHB
+MBCHB
+MBIOTECH
+MBIOTECH
+MCLSC
+MCLSC
+MEC
+MEC
+MENGCEM
+MENGCEM
+MENGDM
+MENGDM
+MENGTEL
+MENGTEL
+MENVSC
+MENVSC
+MESCI
+MESCI
+MHSC
+MHSC
+MIST
+MIST
+MMED
+MMED
+MMST
+MMST
+MPSY
+MPSY
+MPSYCH
+MPSYCH
+MSCAC
+MSCAC
+MSCBMC
+MSCBMC
+MSCCH
+MSCCH
+MSCD
+MSCD
+MSCEE
+MSCEE
+MSCF
+MSCF
+MSCOT
+MSCOT
+MSCPHM
+MSCPHM
+MSCPL
+MSCPL
+MSCPT
+MSCPT
+MSCSM
+MSCSM
+MTECH
+MTECH
+B.sc
+B.sc
+B.acc
+B.acc
+B.A.com
+B.A.com
+B.admin
+B.admin
+B.A.econ
+B.A.econ
+B.agr
+B.agr
+B.A.law
+B.A.law
+B.arch
+B.arch
+B.arch.sc
+B.arch.sc
+B.A.rel.st
+B.A.rel.st
+B.A.sc
+B.A.sc
+B.A.soc
+B.A.soc
+B.A.theol
+B.A.theol
+B.bus
+B.bus
+B.chem
+B.chem
+B.clin.sci
+B.clin.sci
+B.com
+B.com
+B.comb.st
+B.comb.st
+B.comm.ed.comm.dev
+B.comm.ed.comm.dev
+B.com.sc
+B.com.sc
+B.des
+B.des
+B.div
+B.div
+B.econ.sc
+B.econ.sc
+B.econ.sci
+B.econ.sci
+B.ed
+B.ed
+B.eng
+B.eng
+B.eng.tech
+B.eng.tech
+B.fin
+B.fin
+B.health.sc
+B.health.sc
+B.H.sc
+B.H.sc
+B.hy
+B.hy
+B.jur
+B.jur
+B.leg.sc
+B.leg.sc
+B.lib
+B.lib
+B.ling
+B.ling
+B.litt
+B.litt
+B.litt.celt
+B.litt.celt
+B.med.sc
+B.med.sc
+B.med.sci
+B.med.sci
+B.met
+B.met
+B.mid
+B.mid
+B.mid.wif
+B.mid.wif
+B.min
+B.min
+B.M.sc
+B.M.sc
+B.mus
+B.mus
+B.mus.ed
+B.mus.ed
+B.mus.perf
+B.mus.perf
+B.nat.sci
+B.nat.sci
+B.nurs
+B.nurs
+B.optom
+B.optom
+B.ost
+B.ost
+B.pharm
+B.pharm
+B.phil
+B.phil
+B.phys
+B.phys
+B.physio
+B.physio
+B.pl
+B.pl
+B.radiog
+B.radiog
+B.sc.agr
+B.sc.agr
+B.sc.ec
+B.sc.ec
+B.sc.econ
+B.sc.econ
+B.sc.for
+B.sc.for
+B.sc.P.H
+B.sc.P.H
+B.sc.tech
+B.sc.tech
+B.soc.sc
+B.soc.sc
+B.st.su
+B.st.su
+B.tech
+B.tech
+B.tech.ed
+B.tech.ed
+B.th
+B.th
+B.theol
+B.theol
+sc.B.tech
+sc.B.tech
+M.acc
+M.acc
+M.ac
+M.ac
+M.acy
+M.acy
+M.econ
+M.econ
+M.arch
+M.arch
+M.A.sc
+M.A.sc
+M.app.sc
+M.app.sc
+M.appl.sc
+M.appl.sc
+M.bus
+M.bus
+M.chem
+M.chem
+M.com
+M.com
+M.comm
+M.comm
+M.des
+M.des
+M.design
+M.design
+M.div
+M.div
+M.ed
+M.ed
+M.A.ed
+M.A.ed
+M.S.ed
+M.S.ed
+M.ed.L
+M.ed.L
+M.ent
+M.ent
+M.eng
+M.eng
+M.fin
+M.fin
+M.sc.I.T
+M.sc.I.T
+M.jur
+M.jur
+M.litt
+M.litt
+M.math
+M.math
+M.mus
+M.mus
+M.pharm
+M.pharm
+M.phil
+M.phil
+M.phys
+M.phys
+M.P.aff
+M.P.aff
+M.rb
+M.rb
+M.sc.R
+M.sc.R
+M.sc
+M.sc
+M.sci
+M.sci
+M.si
+M.si
+M.S.sc
+M.S.sc
+M.ch
+M.ch
+M.chir
+M.chir
+M.st
+M.st
+M.th
+M.th
+M.V.sc
+M.V.sc
+B.app.sc.I.T
+B.app.sc.I.T
+S.des
+S.des
+B.E.sc
+B.E.sc
+B.S.eng
+B.S.eng
+B.sc.eng
+B.sc.eng
+B.comm
+B.comm
+B.bus.sc
+B.bus.sc
+B.acy
+B.acy
+B.accty
+B.accty
+B.acc.sci
+B.acc.sci
+B.compt
+B.compt
+B.ec
+B.ec
+B.comp.sc
+B.comp.sc
+B.comp
+B.comp
+B.med.biol
+B.med.biol
+B.N.sc
+B.N.sc
+B.sc.N
+B.sc.N
+B.kin
+B.kin
+B.sc.kin
+B.sc.kin
+B.avn
+B.avn
+B.journ
+B.journ
+B.L.arch
+B.L.arch
+B.sc.psych
+B.sc.psych
+B.sc.ed
+B.sc.ed
+B.sc.F
+B.sc.F
+B.math
+B.math
+B.math.sc
+B.math.sc
+B.plan
+B.plan
+D.des
+D.des
+D.eng
+D.eng
+D.E.sc
+D.E.sc
+D.N.sc
+D.N.sc
+D.sc
+D.sc
+D.min
+D.min
+D.phil
+D.phil
+D.ph
+D.ph
+B.arts
+B.arts
+B.an.vet.bio.sc
+B.an.vet.bio.sc
+B.app.sc
+B.app.sc
+B.D.sc
+B.D.sc
+B.ch.D
+B.ch.D
+B.dent
+B.dent
+B.des.comp
+B.des.comp
+B.des.arch
+B.des.arch
+B.des.srch
+B.des.srch
+B.ecom
+B.ecom
+B.hlth.sci
+B.hlth.sci
+B.lit
+B.lit
+B.mus.studies
+B.mus.studies
+B.res.ec
+B.res.ec
+B.V.sc
+B.V.sc
+B.ag
+B.ag
+B.ch.E
+B.ch.E
+B.in.dsn
+B.in.dsn
+B.M.ed
+B.M.ed
+B.S.chem
+B.S.chem
+B.S.ed
+B.S.ed
+B.S.micr
+B.S.micr
+M.acct
+M.acct
+M.aqua
+M.aqua
+M.fstry
+M.fstry
+M.L.arch
+M.L.arch
+M.S.chem
+M.S.chem
+M.S.M.sci
+M.S.M.sci
+M.S.met
+M.S.met
+M.sw.E
+M.sw.E
+D.sc.P.T
+D.sc.P.T
+B.agr.sc
+B.agr.sc
+B.A.mus
+B.A.mus
+B.ch
+B.ch
+B.che
+B.che
+B.chir
+B.chir
+B.H.sc.P.T
+B.H.sc.P.T
+B.O.th
+B.O.th
+B.phm
+B.phm
+B.sc.D
+B.sc.D
+B.S.ch.E
+B.S.ch.E
+B.sc.E.E
+B.sc.E.E
+B.sc.med
+B.sc.med
+B.sc.phm
+B.sc.phm
+C.psych
+C.psych
+D.chem
+D.chem
+D.cl
+D.cl
+D.D.sc
+D.D.sc
+D.litt
+D.litt
+D.psych
+D.psych
+D.th
+D.th
+G.dip.N.P.A.C
+G.dip.N.P.A.C
+G.dip.I.st
+G.dip.I.st
+L.th
+L.th
+M.B.ch.B
+M.B.ch.B
+M.biotech
+M.biotech
+M.cl.sc
+M.cl.sc
+M.ec
+M.ec
+M.eng.C.E.M
+M.eng.C.E.M
+M.eng.D.M
+M.eng.D.M
+M.eng.tel
+M.eng.tel
+M.env.sc
+M.env.sc
+M.E.sci
+M.E.sci
+M.H.sc
+M.H.sc
+M.I.st
+M.I.st
+M.med
+M.med
+M.M.st
+M.M.st
+M.psy
+M.psy
+M.psych
+M.psych
+M.sc.A.C
+M.sc.A.C
+M.sc.B.M.C
+M.sc.B.M.C
+M.sc.C.H
+M.sc.C.H
+M.sc.D
+M.sc.D
+M.sc.E.E
+M.sc.E.E
+M.sc.F
+M.sc.F
+M.sc.O.T
+M.sc.O.T
+M.sc.phm
+M.sc.phm
+M.sc.pl
+M.sc.pl
+M.sc.P.T
+M.sc.P.T
+M.sc.S.M
+M.sc.S.M
+M.tech
+M.tech.
+B.SC
+B.SC
+B.ACC
+B.ACC
+B.A.COM
+B.A.COM
+B.ADMIN
+B.ADMIN
+B.A.ECON
+B.A.ECON
+B.AGR
+B.AGR
+B.A.LAW
+B.A.LAW
+B.ARCH
+B.ARCH
+B.ARCH.SC
+B.ARCH.SC
+B.A.REL.ST
+B.A.REL.ST
+B.A.SC
+B.A.SC
+B.A.SOC
+B.A.SOC
+B.A.THEOL
+B.A.THEOL
+B.BUS
+B.BUS
+B.CHEM
+B.CHEM
+B.CLIN.SCI
+B.CLIN.SCI
+B.COM
+B.COM
+B.COMB.ST
+B.COMB.ST
+B.COMM.ED.COMM.DEV
+B.COMM.ED.COMM.DEV
+B.COM.SC
+B.COM.SC
+B.DES
+B.DES
+B.DIV
+B.DIV
+B.ECON.SC
+B.ECON.SC
+B.ECON.SCI
+B.ECON.SCI
+B.ED
+B.ED
+B.ENG
+B.ENG
+B.ENG.TECH
+B.ENG.TECH
+B.FIN
+B.FIN
+B.HEALTH.SC
+B.HEALTH.SC
+B.H.SC
+B.H.SC
+B.HY
+B.HY
+B.JUR
+B.JUR
+B.LEG.SC
+B.LEG.SC
+B.LIB
+B.LIB
+B.LING
+B.LING
+B.LITT
+B.LITT
+B.LITT.CELT
+B.LITT.CELT
+B.MED.SC
+B.MED.SC
+B.MED.SCI
+B.MED.SCI
+B.MET
+B.MET
+B.MID
+B.MID
+B.MID.WIF
+B.MID.WIF
+B.MIN
+B.MIN
+B.M.SC
+B.M.SC
+B.MUS
+B.MUS
+B.MUS.ED
+B.MUS.ED
+B.MUS.PERF
+B.MUS.PERF
+B.NAT.SCI
+B.NAT.SCI
+B.NURS
+B.NURS
+B.OPTOM
+B.OPTOM
+B.OST
+B.OST
+B.PHARM
+B.PHARM
+B.PHIL
+B.PHIL
+B.PHYS
+B.PHYS
+B.PHYSIO
+B.PHYSIO
+B.PL
+B.PL
+B.RADIOG
+B.RADIOG
+B.SC.AGR
+B.SC.AGR
+B.SC.EC
+B.SC.EC
+B.SC.ECON
+B.SC.ECON
+B.SC.FOR
+B.SC.FOR
+B.SC.P.H
+B.SC.P.H
+B.SC.TECH
+B.SC.TECH
+B.SOC.SC
+B.SOC.SC
+B.ST.SU
+B.ST.SU
+B.TECH
+B.TECH
+B.TECH.ED
+B.TECH.ED
+B.TH
+B.TH
+B.THEOL
+B.THEOL
+SC.B.TECH
+SC.B.TECH
+M.ACC
+M.ACC
+M.AC
+M.AC
+M.ACY
+M.ACY
+M.ECON
+M.ECON
+M.ARCH
+M.ARCH
+M.A.SC
+M.A.SC
+M.APP.SC
+M.APP.SC
+M.APPL.SC
+M.APPL.SC
+M.BUS
+M.BUS
+M.CHEM
+M.CHEM
+M.COM
+M.COM
+M.COMM
+M.COMM
+M.DES
+M.DES
+M.DESIGN
+M.DESIGN
+M.DIV
+M.DIV
+M.ED
+M.ED
+M.A.ED
+M.A.ED
+M.S.ED
+M.S.ED
+M.ED.L
+M.ED.L
+M.ENT
+M.ENT
+M.ENG
+M.ENG
+M.FIN
+M.FIN
+M.SC.I.T
+M.SC.I.T
+M.JUR
+M.JUR
+M.LITT
+M.LITT
+M.MATH
+M.MATH
+M.MUS
+M.MUS
+M.PHARM
+M.PHARM
+M.PHIL
+M.PHIL
+M.PHYS
+M.PHYS
+M.P.AFF
+M.P.AFF
+M.RB
+M.RB
+M.SC.R
+M.SC.R
+M.SC
+M.SC
+M.SCI
+M.SCI
+M.SI
+M.SI
+M.S.SC
+M.S.SC
+M.CH
+M.CH
+M.CHIR
+M.CHIR
+M.ST
+M.ST
+M.TH
+M.TH
+M.V.SC
+M.V.SC
+B.APP.SC.I.T
+B.APP.SC.I.T
+S.DES
+S.DES
+B.E.SC
+B.E.SC
+B.S.ENG
+B.S.ENG
+B.SC.ENG
+B.SC.ENG
+B.COMM
+B.COMM
+B.BUS.SC
+B.BUS.SC
+B.ACY
+B.ACY
+B.ACCTY
+B.ACCTY
+B.ACC.SCI
+B.ACC.SCI
+B.COMPT
+B.COMPT
+B.EC
+B.EC
+B.COMP.SC
+B.COMP.SC
+B.COMP
+B.COMP
+B.MED.BIOL
+B.MED.BIOL
+B.N.SC
+B.N.SC
+B.SC.N
+B.SC.N
+B.KIN
+B.KIN
+B.SC.KIN
+B.SC.KIN
+B.AVN
+B.AVN
+B.JOURN
+B.JOURN
+B.L.ARCH
+B.L.ARCH
+B.SC.PSYCH
+B.SC.PSYCH
+B.SC.ED
+B.SC.ED
+B.SC.F
+B.SC.F
+B.MATH
+B.MATH
+B.MATH.SC
+B.MATH.SC
+B.PLAN
+B.PLAN
+D.DES
+D.DES
+D.ENG
+D.ENG
+D.E.SC
+D.E.SC
+D.N.SC
+D.N.SC
+D.SC
+D.SC
+D.MIN
+D.MIN
+D.PHIL
+D.PHIL
+D.PH
+D.PH
+B.ARTS
+B.ARTS
+B.AN.VET.BIO.SC
+B.AN.VET.BIO.SC
+B.APP.SC
+B.APP.SC
+B.D.SC
+B.D.SC
+B.CH.D
+B.CH.D
+B.DENT
+B.DENT
+B.DES.COMP
+B.DES.COMP
+B.DES.ARCH
+B.DES.ARCH
+B.DES.SRCH
+B.DES.SRCH
+B.ECOM
+B.ECOM
+B.HLTH.SCI
+B.HLTH.SCI
+B.LIT
+B.LIT
+B.MUS.STUDIES
+B.MUS.STUDIES
+B.RES.EC
+B.RES.EC
+B.V.SC
+B.V.SC
+B.AG
+B.AG
+B.CH.E
+B.CH.E
+B.IN.DSN
+B.IN.DSN
+B.M.ED
+B.M.ED
+B.S.CHEM
+B.S.CHEM
+B.S.ED
+B.S.ED
+B.S.MICR
+B.S.MICR
+M.ACCT
+M.ACCT
+M.AQUA
+M.AQUA
+M.FSTRY
+M.FSTRY
+M.L.ARCH
+M.L.ARCH
+M.S.CHEM
+M.S.CHEM
+M.S.M.SCI
+M.S.M.SCI
+M.S.MET
+M.S.MET
+M.SW.E
+M.SW.E
+D.SC.P.T
+D.SC.P.T
+B.AGR.SC
+B.AGR.SC
+B.A.MUS
+B.A.MUS
+B.CH
+B.CH
+B.CHE
+B.CHE
+B.CHIR
+B.CHIR
+B.H.SC.P.T
+B.H.SC.P.T
+B.O.TH
+B.O.TH
+B.PHM
+B.PHM
+B.SC.D
+B.SC.D
+B.S.CH.E
+B.S.CH.E
+B.SC.E.E
+B.SC.E.E
+B.SC.MED
+B.SC.MED
+B.SC.PHM
+B.SC.PHM
+C.PSYCH
+C.PSYCH
+D.CHEM
+D.CHEM
+D.CL
+D.CL
+D.D.SC
+D.D.SC
+D.LITT
+D.LITT
+D.PSYCH
+D.PSYCH
+D.TH
+D.TH
+G.DIP.N.P.A.C
+G.DIP.N.P.A.C
+G.DIP.I.ST
+G.DIP.I.ST
+L.TH
+L.TH
+M.B.CH.B
+M.B.CH.B
+M.BIOTECH
+M.BIOTECH
+M.CL.SC
+M.CL.SC
+M.EC
+M.EC
+M.ENG.C.E.M
+M.ENG.C.E.M
+M.ENG.D.M
+M.ENG.D.M
+M.ENG.TEL
+M.ENG.TEL
+M.ENV.SC
+M.ENV.SC
+M.E.SCI
+M.E.SCI
+M.H.SC
+M.H.SC
+M.I.ST
+M.I.ST
+M.MED
+M.MED
+M.M.ST
+M.M.ST
+M.PSY
+M.PSY
+M.PSYCH
+M.PSYCH
+M.SC.A.C
+M.SC.A.C
+M.SC.B.M.C
+M.SC.B.M.C
+M.SC.C.H
+M.SC.C.H
+M.SC.D
+M.SC.D
+M.SC.E.E
+M.SC.E.E
+M.SC.F
+M.SC.F
+M.SC.O.T
+M.SC.O.T
+M.SC.PHM
+M.SC.PHM
+M.SC.PL
+M.SC.PL
+M.SC.P.T
+M.SC.P.T
+M.SC.S.M
+M.SC.S.M
+M.TECH
+M.TECH.
+Master Degree in Computer Application

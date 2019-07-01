@@ -1,0 +1,55 @@
+Bartender
+Somelier
+Afghan
+Russian
+Moghlai
+Arabic
+Czech
+Bengali
+Indonesian
+Konkan
+African
+American
+Austrian
+Argentinian
+Bosnian
+Chinese
+Croatian
+French
+Moroccan
+Korean
+Iranian
+Portuguese
+Swiss
+Seafood
+Cuban
+Continental
+Persian
+North Indian
+Mexican
+Italian
+German
+Thai
+Spanish
+South Indian
+Punjabi
+Cuisine
+General
+Chef
+Sous Chef
+Dishwashing
+Billing
+Cleaning
+Outdoor Food Delivery
+Taking Orders
+Manpower Management
+Purchasing
+Inventory Management
+Facilities Management
+Deli
+Big Restaurants
+Star Hotels
+Small Restaurants
+Small Eateries
+Coffee Shops
+Food Service

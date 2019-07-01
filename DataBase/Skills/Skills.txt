@@ -1,0 +1,7172 @@
+ SPlus 
+ IBM SPSS 
+ Stata 
+ Statgraphics 
+ Symbian 
+ Symbian OS 
+ Symbian Operating System 
+ Operating System Symbian 
+ OS Symbian 
+ Black Berry 
+ Black Berry OS 
+ Black Berry Operating System 
+ Opearting System Black Berry 
+ OS Black Berry 
+ IOS 
+ i OS 
+ OS X 
+ OSX 
+ Tally Accounting 
+ QTP 
+ Vb scripting 
+ Protractor 
+ NeoLoad 
+ Neo Load 
+ TFS 
+ QA 
+ Quality Assurance 
+ Quality Control 
+ Qualtiy Testings 
+ JBOSS 
+ JBOSS 4 
+ Putty 
+ WINSCP 
+ WIN SCP 
+ Arduino 
+ MS Office 
+ MS Excel 
+ MS - Office 
+ MS - Excel 
+ MS Power Point 
+ MS PowerPoint 
+ MS Word 
+ MS-Word 
+ WordPad 
+ Test link 
+ STATISTICA 
+ StatPlus 
+ Statsmodels 
+ Statwing 
+ SYSTAT 
+ TSP 
+ UNISTAT 
+ Weka 
+ WINKS 
+ Wizard 
+ SciPy 
+ SigmaXL 
+ SkyTree Infinity 
+ SOFA Statistics 
+ Scientific Computation and Visualization Environment 
+ Salstat 
+ SAS 
+ Sage Mathematical Software 
+ ROOT Statistical Software 
+ Revolution Analytics 
+ R 
+ Regression Analysis of Time Series 
+ PSPP 
+ OxMetrics 
+ Primer 
+ Origin 
+ Ox Programming Language 
+ OpenEpi 
+ MedCalc 
+ Minitab 
+ NCSS 
+ NLOGIT 
+ NumXL 
+ Octave 
+ Mathematica 
+ LMDEP 
+ Maple 
+ GAUSS 
+ Gensat 
+ GraphPad Prism 
+ Gretl 
+ JMP 
+ KXEN 
+ EViews 
+ Excel 
+ ADamSoft 
+ Yii 
+ Ajax 
+ Jquery 
+ Analyze-it 
+ BMDP 
+ TRNSYS 
+ Visit 
+ Redmine 
+ MS DOS 
+ DOS 
+ MS-DOS 
+ VisSim 
+ Wolfram SystemModeler 
+ Step 
+ Pattern Recognition 
+ Pattern Analysis 
+ Pattern Analyst 
+ Cryptanalysis 
+ Tortuga 
+ TRANUS 
+ Stanford University Unstructured 
+ Stage 
+ Android Application Development 
+ Android Application 
+ Android Development 
+ Application Development 
+ Simulink 
+ SkyScrapper Software 
+ SimulationX 
+ Simulation Program with Integrated Circuit Emphasis 
+ Simulations Plus 
+ SIMUL8 
+ SimGear 
+ SimPy 
+ Simbad Robot Simulator 
+ Simcad Pro 
+ SimEvents 
+ Physics Abstraction Layer 
+ Plant Simulation 
+ PRO/II 
+ Project Team Builder 
+ PSF Lab 
+ RoboLogix 
+ Sage 
+ Scilab 
+ Ship Simulator 
+ OpenFOAM 
+ OpenEaagles 
+ Open Cobalt 
+ Open Source Physics 
+ ns-3 
+ Numerical Electromagnetics Code 
+ MapleSim 
+ Mathematica 
+ MATLAB 
+ Minsky Economic Simulator 
+ Mobility Testbed 
+ Modelica 
+ NEi Nastran 
+ NetSim 
+ Ngspice 
+ NI Multisim 
+ GoldSim 
+ GridLAB-D 
+ GridSpice 
+ Hyperworks 
+ JModelica.org 
+ Khimera 
+ Lanner L-SIM Server 
+ Lanner WITNESS 
+ Lis Linear Algebra Library 
+ Maple 
+ Facsimile Simulation Library 
+ Flexsim 
+ Fluent 
+ FreeMat 
+ Galatea 
+ GetFEM++ 
+ GNU Octave 
+ ExtendSim 
+ Facsimile 
+ EPANET Toolkit 
+ Enterprise Architect 
+ Enterprise Dynamics 
+ Dymola 
+ Ecolego 
+ Elmer 
+ DWSIM 
+ DX Studio 
+ COMSOL Multiphysics 
+ Discrete-Event Simulation Modelling in Java 
+ Chemical WorkBench 
+ CircuitLogix 
+ AutoCAST 
+ Automation Studio 
+ Advanced System for Computations in Engineering Design 
+ AMESim 
+ AnyLogic 
+ APMonitor 
+ Arena 
+ ARM Instruction Set Simulator 
+ Calculix 
+ Breve Software 
+ 20-sim 
+ Adevs 
+ Advanced Continuous Simulation Language 
+ Tesla Microarchitecture 
+ TeraScale Microarchitecture 
+ Lib Sh 
+ Nvidia Tesla 
+ OpenCL 
+ Radeon HD 8000 Series 
+ RapidMind 
+ RCUDA 
+ Renderscript 
+ Stream Processing 
+ Jacket 
+ DirectCompute 
+ GPULib 
+ Graphics Core Next 
+ Graphics Processing Unit 
+ IWOCL 
+ CUDA Pinned Memory 
+ CUDA 
+ Codeplay 
+ Close to Metal 
+ C++ AMP 
+ BrookGPU 
+ AMD Stream SDK 
+ AMD FireStream 
+ AMD App SDK 
+ Acceleware 
+ AccelerEyes 
+ Neutron 
+ Nova 
+ SWIFT 
+ Ceph 
+ Cinder 
+ Keystone 
+ OpenStack 
+ vCloud Air 
+ VMWare 
+ Rackspace 
+ Microsoft Azure 
+ IBM Cloud 
+ Google Cloud 
+ Heroku 
+ CLoudFactory 
+ Amazon Cloud Services 
+ AWS 
+ Amazon Web Services 
+ Zookeeper 
+ Kx Systems KDB 
+ MapReduce 
+ Microsoft Azure HDInsight 
+ MongoDB Database 
+ OOZIE 
+ Pig 
+ Riak 
+ Solr 
+ Spark Streaming 
+ Splumk 
+ Sqoop 
+ SToRM 
+ Streams 
+ Unica 
+ YARN 
+ Google BigQuery 
+ Hbase 
+ HDFS 
+ Hadoop 
+ HIVE 
+ Hue 
+ Kafka 
+ Flume 
+ Fluke 
+ DataStax 
+ Facebook Presto 
+ Cloudera Impala 
+ BigInsights 
+ Apache HCatalog 
+ Apache Flume 
+ Accumulo 
+ Aginity 
+ Apache Accumulo 
+ Apache Cassandra 
+ Apache CouchDB 
+ Statistical Analysis Tool 
+ Computer Simulation Software 
+ Graphics Processing Units 
+ Cloud Platforms 
+ Big Data 
+ ARIMA Model 
+ MARIMA Model 
+ Sequence Analysis 
+ Time series Analysis 
+ Multidimensional Scaling 
+ Non linear Regression 
+ Predictive Analysis 
+ Qualitative and Structural Activity Relationship 
+ Micro array Analysis 
+ MANOVA / MANCOVA 
+ Linear Regression 
+ Hidden Markov Models 
+ Hypothesis Testing 
+ Discriminant Analysis 
+ Factor Analysis 
+ Cross-Tabulation 
+ Correlation 
+ Conjoint Analysis 
+ Clustering and Diversity analysis 
+ Chi Square Test 
+ CHAID 
+ Canonical Correlation 
+ Association Analysis 
+ Artificial Neural Network 
+ ANCOVA 
+ ANOVA 
+ SLAM 
+ Sfm 
+ Object Tracking 
+ Activity Recognition 
+ Multiple View Geometry 
+ Feature Detection 
+ Feature Tracking 
+ Motion Estimation 
+ Object Detection 
+ Object Recognition 
+ 3D Computer Vision 
+ Feature Correspondence 
+ Data Parallel Model 
+ Distributed Memory Model 
+ OpenACC 
+ MPI 
+ Hybrid Model 
+ GPU 
+ Threads Model 
+ Synchronization 
+ Shared Memory Model 
+ Parallelization 
+ OpenMP 
+ Metal 
+ OpenCL 
+ OpenML 
+ pthreads 
+ Multicore SMP 
+ CUDA 
+ GCC 
+ Well-Founded Semantics 
+ Yale Shooting Problem 
+ Warren Abstract Machine 
+ Structural Synthesis of Programs 
+ Situation Calculus 
+ SLD Resolution 
+ Stable Model Semantics 
+ Scientific Community Metaphor 
+ Indeterminacy in Concurrent Computation 
+ Inductive Programming 
+ Higher-Order Abstract Syntax 
+ Explicit Substitution 
+ Guarded Command Language 
+ Defeasible Logic 
+ Defeasible Reasoning 
+ Concurrent Logic Programming 
+ Conflict Resolution Strategy 
+ Cut Logic Programming 
+ Default Logic 
+ Coinduction 
+ Circumscription Logic 
+ Clause Logic 
+ Closed-World Assumption 
+ Abductive Logic Programming 
+ Advice Taker 
+ Answer Set Programming 
+ Autoepistemic Logic 
+ Belief Revision 
+ Capture-Avoiding Substitution 
+ Ensemble Algorithms 
+ Instance-based Algorithms 
+ Regression Algorithms 
+ Regularization Algorithms 
+ Dimensionality Reduction Algorithms 
+ Deep Learning Algorithms 
+ Decision Tree Algorithms 
+ Artificial Neural Network Algorithms 
+ Association Rule Learning Algorithms 
+ Bayesian Algorithms 
+ Clustering Algorithms 
+ Stacked Generalization 
+ Bootstrapped Aggregation 
+ AdaBoost 
+ Boosting 
+ Random Forest 
+ Gradient Boosted Regression Trees 
+ Gradient Boosting Machines 
+ Locally Weighted Learning 
+ Self-Organizing Map 
+ Learning Vector Quantization 
+ k-Nearest Neighbor 
+ Ordinary Least Squares Regression 
+ Multivariate Adaptive Regression Splines 
+ Stepwise Regression 
+ Linear Regression 
+ Locally Estimated Scatterplot Smoothing 
+ Logistic Regression 
+ Machine Learning Algorithms 
+ Image Processing 
+ Computer Vision 
+ Computational Sciences 
+ Computational Sociolgy 
+ IoT / M2M 
+ Medicine / Healthcare 
+ Quant / Finance 
+ Computational Marketing 
+ Computational Linguistics 
+ Autonomous Vehicles 
+ Creating Process Flow Diagrams 
+ Performing User Acceptance Testing 
+ Preparing Story Narratives 
+ Preparing Test Cases 
+ Preparing Use Cases 
+ Studying Business Requirement 
+ Training Users 
+ Writing Business Requirement Document 
+ Writing Functional Requirement Document 
+ Visual Paradigm for UML 
+ Prosa UML Modifier 
+ Rational Rhapsody 
+ Rational Rose XDE 
+ Rational Software Modeler 
+ Rational System Architect 
+ RISE 
+ Software Ideas Modeler 
+ StarUML 
+ Umbrello UML Modeler 
+ UMLet 
+ UModel 
+ PowerDesigner 
+ Poseidon for UML 
+ PlantUML 
+ Papyrus 
+ Objecteering 
+ Open ModelSphere 
+ objectiF 
+ NClass 
+ MyEclipse 
+ Enterprise Architect 
+ LucidChart 
+ MagicDraw 
+ Microsoft Visio 
+ Modelio 
+ ConceptDraw PRO 
+ Creately for UML 
+ Dia 
+ Eclipse UML2 Tools 
+ Eclipse?UML2 Tools 
+ AgileJ StructureViews 
+ ArgoUML 
+ Astah 
+ ATL 
+ Borland Together 
+ UBUNTU 
+ Quality Center 10 
+ Quality Center 
+ SQL 
+ MySQL 
+ MYSQL 
+ MSSQL 
+ Ms-SQL 
+ MS-SQL 
+ My SQL 
+ Buganizer 
+ DB-Visualizer 
+ DB Visualizer 
+ Ubuntu 
+ RedHatLinux 
+ Red Hat Linux 
+ RedHat Linux 
+ BOUML 
+ CaseComplete 
+ Sales & Marketing 
+ Supply Chain 
+ Accounts & Finance 
+ HR 
+ Product / Manufacturing 
+ Zen Cart 
+ OsCommerce 
+ Prostores 
+ Shopify 
+ Virtue Mart 
+ Magento 
+ Martjack 
+ Amazon Webstore 
+ Bigcommerce 
+ Hybris 
+ IBM WebSphere Commerce 
+ Oracle ATG Commerce 
+ Adobe Business Catalyst 
+ Microsoft Outlook 
+ Microsoft PowerPoint 
+ Microsoft Word 
+ Office 365 
+ Microsoft Publisher 
+ Microsoft Access 
+ Microsoft Excel 
+ Salesvue 
+ SAP CRM 
+ Siebel 
+ Zoho CRM 
+ SalesLogix 
+ Responsys 
+ Salesforce 
+ Peoplesoft 
+ Pardot 
+ Oracle EBS 
+ Microsoft Dynamic 
+ Marketo 
+ Manticore 
+ Mailchimp 
+ InsideView 
+ Live Chat 
+ Kana 
+ GovWin 
+ HubSpot 
+ DemandBase 
+ Eloqua 
+ Epiphany 
+ ExactTarget 
+ Aprimo 
+ Boomtrain 
+ Clarify 
+ ActOn 
+ LabWise 
+ StarLIMS 
+ eLabs 
+ Freezerworks 
+ JusticeTrax LIMS 
+ LabWare LIMS 
+ Cornerstone 
+ DigitalChalk 
+ Docebo 
+ Edmodo 
+ eFront 
+ eLogic Learning 
+ Latitude Learning 
+ Litmos 
+ Meridian 
+ SkillSoft 
+ SuccessFactors 
+ TalentLMS 
+ Collaborize Classroom 
+ Brightspace 
+ Blackboard 
+ WebStudy Learning LMS 
+ WebWeaver Suite 
+ XBlock 
+ WeBWorK 
+ Unizin 
+ WebCT 
+ SSLearn 
+ Sumtotal 
+ TCExam 
+ TechChange 
+ TOPYX 
+ Totara LMS 
+ Udemy 
+ SlideWiki 
+ SharePointLMS 
+ Sistema Web de Apoyo a la Docencia 
+ Sclipo 
+ Schoology 
+ SAM Learning 
+ Sakai Project 
+ Sakai CLE 
+ Saba 
+ Registrar 
+ Rcampus 
+ Quick Learn Code 
+ PebblePad 
+ Paradiso LMS 
+ Online Learning And Training 
+ Moodle 
+ Elgg 
+ Eliademy 
+ Fedena 
+ GeoLearning 
+ HotChalk LMS 
+ ILLIAS 
+ Informatica 
+ Instructure 
+ Joomla LMS 
+ LON-CAPA 
+ LRAL 
+ ANGEL LMS 
+ ATutor 
+ Blackboard Learning System 
+ Carmun.com 
+ Chamilo 
+ Claroline 
+ Cognifit 
+ CornerStone LMS 
+ CreativeLive 
+ Curriculum Mapping 
+ DCourseWeb 
+ Democrasoft 
+ Desire2Learn 
+ DoceboLMS 
+ ECollege LMS 
+ EduWave 
+ EFront eLearning Software 
+ Sage 
+ Salesforce 
+ SAP 
+ SuccessFactors 
+ Taleo 
+ Workday 
+ Zenefits 
+ PeopleSoft 
+ Saba 
+ Oracle 
+ Microsoft Dynamics 
+ Kronos 
+ BambooHR 
+ Cornerstone 
+ Jobvite 
+ Ulitmus 
+ Team Works - Lombardi 
+ Savvion 
+ Activiti 
+ Apache ODE 
+ Appian 
+ Bonita BPM 
+ Drools 
+ Filenet 
+ IBM BPM 
+ jBPM 
+ Kissflow 
+ MetStorm 
+ SAP BPM 
+ PegaSystems 
+ Oracle BPM 
+ Polaris 
+ SAB 
+ SAP 
+ SAP Banking and Insurance 
+ Silverlake Axis 
+ Sungard 
+ TCS - BaNCS 
+ Temenos 
+ PIMS 
+ PeopleSoft 
+ Oracle 
+ Oracle Financial Services Software 
+ OSI 
+ Path Solutions 
+ Jack Henry & Associates 
+ Misys 
+ Olympic ERI Bancaire 
+ InvestOne 
+ IntelliMatch 
+ InfraSoft Tech 
+ Global One 
+ Inform 
+ Infosys - Finacle 
+ Fiserv 
+ FxMM 
+ Fidelity 
+ 3i Infotech 
+ Apollo 
+ Callatay & Wouters 
+ Datapro 
+ DTCC 
+ SAP WM 
+ SAP HR Security 
+ SAP HR 
+ SAP FS Insurance 
+ SAP FI 
+ SAP EC 
+ SAP CS 
+ SAP Cross Application Components 
+ SAP CO 
+ SAP CRM 
+ SAP BW 
+ SAP BODI 
+ SAP BR*Tools 
+ SAP BI Security 
+ SAP BI 
+ SAP BASIS 
+ SAP APO 
+ SAP IM 
+ SAP LO 
+ SAP MM 
+ SAP TR 
+ SAP SRM 
+ SAP SEM 
+ SAP SM 
+ SAP Security - Governance Risk and Compliance 
+ SAP SD 
+ SAP SCM 
+ SAP R/3 Security 
+ SAP QM 
+ SAP PS 
+ SAP PP 
+ SAP PM 
+ SAP PLM 
+ SAP Netweaver 
+ SAP Mobility 
+ SAP ABAP 
+ SAP 
+ Trading Community Architecture 
+ Alerts 
+ i Setups 
+ Unified CRM and Billing and Revenue Management 
+ Oracle Communications Subscriber Data Management 
+ Rapid Offer Design and Order Delivery 
+ Rapid Service Design and Order Delivery 
+ Service and Network Evolution 
+ SIP Trunking 
+ Unified Communications Infrastructure 
+ Oracle Communications Performance Intelligence Center 
+ Oracle Communications Policy Management 
+ Oracle Communications Diameter Signaling Router 
+ Oracle Communications EAGLE 
+ Oracle Communications IMS Infrastructure 
+ Oracle Communications Network Session Monitoring 
+ Oracle Communications Over-the-Top 
+ Oracle Communications Consulting 
+ Convergent Charging and Policy 
+ Cross-Channel Customer Experience 
+ Communications-Rich Applications 
+ Contact Center Modernization 
+ Network Visibility and Compliance 
+ Network Resource Management 
+ Communications Customer Experience 
+ Cloud Delivery 
+ Oracle Reports 
+ Oracle J Developer 
+ Oracle Discoverer 
+ Oracle Forms 
+ Oracle Designer 
+ Developer Suite Configuration Manager 
+ Oracle Business Intelligence Beans 
+ Oracle Service 
+ Oracle Channel Revenue Management 
+ Oracle Marketing 
+ Oracle Order Management 
+ Procure-to-Pay 
+ Travel & Expense Management 
+ Asset Life Cycle Management 
+ Cash & Treasury Management 
+ Credit-to-Cash 
+ Financial Control & Reporting 
+ Governance, Risk & Compliance Management 
+ Lease and Finance Management 
+ Oracle Financial Analytics 
+ Global Core Human Capital Management 
+ HR Analytics 
+ Talent Management 
+ Workforce Management 
+ Workforce Service Delivery 
+ Project Management 
+ Project Portfolio Analysis 
+ Project Resource Management 
+ Project Collaboration 
+ Project Contracts 
+ Project Costing 
+ Project Analytics 
+ Project Billing 
+ Value Chain Execution 
+ Value Chain Planning 
+ Oracle Supply Chain and Order Management Analytics 
+ Product Value Chain Management 
+ Advanced Procurement 
+ Asset Life Cycle Management 
+ Manufacturing 
+ Oracle Order Orchestration and Fulfillment 
+ Yard Management 
+ Landed Cost Management 
+ Mobile Supply Chain 
+ Oracle In-Memory Logistics Command Center 
+ Transportation Management 
+ Warehouse Management 
+ Global Trade Management 
+ Inventory Management 
+ Distributed Order Orchestration 
+ Strategic Network Optimization 
+ Value Chain Planning for JD Edwards EnterpriseOne Customers 
+ Value Chain Planning In-Memory Applications 
+ Service Parts Planning 
+ Dementra Demand Management 
+ Dementra Predictive Trade Planning and Optimization 
+ Dementra Real-Time Sales and Operations Planning 
+ Advanced Supply Chain Planning 
+ Collaborative Planning 
+ Demand Signal Repository 
+ Rapid Planning 
+ Production Scheduling 
+ Inventory Optimization 
+ Global Order Promising 
+ Advanced Planning Command Center 
+ Tele Service 
+ Spares Management 
+ Service Contracts 
+ Mobile Field Service 
+ iSupport 
+ Knowledge Management 
+ Depot Repair 
+ Field Service 
+ Install Base 
+ Advanced Scheduler 
+ Oracle Commerce 
+ Oracle Retail Merchandising and Analytics 
+ Oracle Retail Planning and Optimization 
+ Oracle Retail Store Operations 
+ Oracle Retail Supply Chain Management 
+ CRL Financial Management 
+ Number portability 
+ Telco Provisioning 
+ Telecommunications Billing Integrator 
+ Asset Tracking 
+ Product Information Management Data Librarian 
+ Product Information Management Data Hub 
+ Lease Management 
+ Profitability Manager 
+ Regulatory Capital Manager 
+ Risk Manager 
+ Transfer pricing 
+ Transfer Pricing Online 
+ Financial Services Provisioning 
+ Financial Data Manager 
+ Budgeting and Planning 
+ Financial Consolidation Hub 
+ Financial Services Accounting Hub 
+ iAssets 
+ Internal Controls Manager 
+ Internet Expenses 
+ iReceivables 
+ Performance Management 
+ Public Sector Budgeting 
+ Public Sector Financials 
+ Revenue Management 
+ Supplier Ship and Debit 
+ US Federal Financials 
+ Accounts Receivables Deduction Settlement 
+ Advanced Collections 
+ Advanced Global Intercompany 
+ Bill Presentment 
+ Cash Management 
+ Channel Rebate and Point of Sale Management 
+ Credit Management 
+ Enterprise Performance Foundation 
+ Lifesciences Data Hub 
+ Remote Data Capture 
+ Thesaurus Management System 
+ Clinical SiteMinder 
+ Clinical TrialMinder 
+ Healthcare Transaction base 
+ Adverse Event Reporting System 
+ Succession Planning 
+ Time and Labor 
+ Payroll 
+ Self-Service Human Resources 
+ Labor Distribution 
+ Human Resources 
+ iRecruitment 
+ HR Intelligence 
+ Advanced Benefits 
+ Scripting 
+ email Center 
+ Advanced Inbound Telephony 
+ Advanced Outbound Telephony 
+ e-commerce Gateway 
+ Report Manager 
+ Web Applications Desktop Integrator 
+ Workflow 
+ XML Gateway 
+ Order Management and Fulfillment 
+ Site Administration Application 
+ Site Report and Bins 
+ User Management, Self-Service Registration, and Customer Information 
+ Marketing and Customer Tracking 
+ Interactive Selling and Ordering Options 
+ Globalization and Localization Support 
+ Extensible Self-Service Framework 
+ Content Management 
+ Automated User Communications 
+ Background Data Management 
+ Business Objects, Components and processes 
+ Catalog Management 
+ Warehouse Management System 
+ Shipping 
+ Transportation Management 
+ Inventory Management 
+ Mobile Supply Chain Applications 
+ Propagate Scrum Concepts 
+ Release Meeting Planning 
+ Scrum Planning 
+ Organize Scrum Meetings 
+ Preparation of Proposals 
+ Project Planning 
+ Project Scheduling 
+ Project Tracking 
+ Resource Allocation 
+ Milestone planning 
+ Effort Estimation 
+ preparation of test cases 
+ Developing Project Roadmap 
+ Developing Technical Roadmap 
+ Assessing and Managing Risks 
+ Configuration Management 
+ Customer Satisfaction Improvement 
+ Adhering to Standards 
+ Podio 
+ Project Manager 
+ TeamPulse 
+ Teamwork 
+ VersionOne 
+ Intervals 
+ Freedcamp 
+ Wrike 
+ Zoho Projects 
+ Atlassian 
+ WorkPLAN Enterprise 
+ Workspace.com 
+ Workgroups DaVinci 
+ web2Project 
+ VPMi 
+ Ubidesk 
+ Trello 
+ TwProject 
+ Traction TeamPage 
+ TrackerSuite.Net 
+ Trac 
+ Toms Planner 
+ The Bug Genie 
+ TestTrack 
+ TeamLab 
+ TeamCenter 
+ TeamDynamixHE 
+ TaskJuggler 
+ TargetProcess 
+ Talygen 
+ Taiga.io 
+ TACTIC 
+ SwiftKanban 
+ Spider Project 
+ Sciforma 
+ Severa 
+ Smartsheet 
+ Project-Open Enterprise Project Management 
+ Projectplace 
+ Projectturf 
+ Projektron BCS 
+ ProjeQtOr 
+ Proliance 
+ QuickBase 
+ RationalPlan 
+ Realisor 
+ Redmine 
+ SAP - PM 
+ SAP Business ByDesign 
+ Redbooth 
+ ProjectManager.com 
+ ProjectLink 
+ ProjectLibre 
+ Project.net 
+ Project Team Builder 
+ Project PSA 
+ Project KickStart 
+ Project Builder 
+ Priority Matrix 
+ Planta Project 
+ Planner Suite 
+ Planisware 
+ Planbox 
+ Plandora 
+ Pivotal Tracker 
+ phpGroupWare 
+ PHPProjekt 
+ Oracle Primavera Applications 
+ Open Workbench 
+ OpenProj 
+ OpenProject 
+ Oracle Apps Projects 
+ Oracle E-Business Suite Project Portfolio Management 
+ Oracle Fusion Project Portfolio Management 
+ NetPoint 
+ NetSuite Services Resource Planning 
+ O3spaces 
+ Odoo Project Management 
+ OmniPlan 
+ OnePager Pro 
+ OnePoint Project 
+ Milestones Professional 
+ MindGenius 
+ MyWorkPLAN 
+ Microsoft Sharepoint Server 
+ Microsoft Team Foundation Server 
+ Microsoft Dynamics SL Project Management 
+ Microsoft Office Project Server 
+ Microsoft Project 
+ Mavenlink 
+ Merlin 
+ Metier 
+ MatchWare MindView Business Edition 
+ MantisBT 
+ MacProject 
+ LisaProject 
+ Launchpad 
+ LibrePlan 
+ LiquidPlanner 
+ Kayako Helpdesk Software 
+ Journyx 
+ JIRA Project Management 
+ InLoox 
+ in-Step Blue 
+ Intellinote 
+ J D Edwards Enterprise One Project Management 
+ J D Edwards World Project Management 
+ Group-Office Project Management 
+ GroveSite 
+ Hall.com 
+ Hansoft 
+ HP Project and Portfolio Software 
+ Huddle Project Management 
+ iManageProject 
+ HyperOffice Project Management 
+ Groupiful 
+ Genius Project 
+ Goodwerp 
+ Ganttic 
+ Fossil-SCM 
+ FusionForge 
+ enQuire 
+ eXo Platform Project Management 
+ Eylean Board 
+ FogBugz 
+ FMYI 
+ FinancialForce.com Project Management 
+ Feng Office Community Edition 
+ FastTrack Schedule 
+ Eclipse PPM Software 
+ eGroupWare 
+ Endeavour Software Project Management 
+ Easy Projects 
+ dotProject 
+ DropTask 
+ DynaRoad 
+ Deltek Open Plan 
+ Deltek WelcomeHome 
+ DeskAway 
+ Doolphy 
+ ConceptDraw Project 
+ Concerto Projects 
+ Contactizer 
+ Copper Project 
+ Compuware Changepoint 
+ Collabtive 
+ Celoxis 
+ Central Desktop 
+ Clarizen 
+ ClickHome 
+ Clinked 
+ ClipPod 
+ CEITON Workflow System 
+ Calligra Plan 
+ Brightwork 
+ Anyplan 
+ Apache Bloodhound 
+ Apollo Project Management 
+ Asana 
+ Assembla 
+ AtTask 
+ Axosoft 
+ Basecamp 
+ Binfire 
+ Bontq 
+ Brightpod 
+ 2-Plan 
+ AceProject 
+ 24SevenOffice Project Management 
+ 10,000ft 
+ Visual Studio Team System 
+ Yasca 
+ Veracode 
+ ThreadSafe 
+ Valgrind 
+ VB Watch 
+ Vector FabricsPareon 
+ VectorCast 
+ SQuORE 
+ StyleCop 
+ Splint 
+ Sotoarc/Sotograph 
+ Sparse 
+ Soot 
+ SonarJ 
+ SonarQube 
+ SLAM Project 
+ Purify 
+ PVS-Studio 
+ Pylint 
+ Rpmlint 
+ Semmle 
+ SIMMON 
+ SIMON (Batch Interactive Test/Debug) 
+ Parasoft dotTEST 
+ Parasoft Insure++ 
+ PC-Lint 
+ Perl Based Static Code Analysis Tools 
+ Perl Critic 
+ PerlTidy 
+ PMD 
+ Polyspace 
+ Protecode 
+ Opa Static Code Analysis Tool 
+ OpenPAT 
+ Packaging Based Static Code Analysis Tools 
+ Padre 
+ Parasoft 
+ Parasoft C/C++ Test 
+ ObjectWeb ASM 
+ NDepend 
+ Lint 
+ Moose 
+ LDRA Testbed 
+ HP Fortify Static Code Analyzer 
+ HP Security Suite 
+ IBM OLIVER (CICS Interactive Test/Debug) 
+ IBM Rational AppScan 
+ Imagix 4D 
+ Intel Parallel Inspector 
+ IntelliJ IDEA Code Inspectors 
+ Jacoco 
+ JArchitect 
+ JSHint 
+ JSLint 
+ JTest 
+ Klocwork 
+ Klocwork Insight 
+ GrammaTech CodeSonar 
+ Google Closure Compiler 
+ Gerrit 
+ Gcov 
+ FxCop 
+ Frama-C 
+ Formal Methods Based Static Code Analysis Tools 
+ Fluctuat 
+ FindBugs 
+ Daikon 
+ Dmalloc 
+ DMS Software Reengineering Toolkit 
+ DynInst 
+ ECLAIR 
+ Eclipse CODAN 
+ EMMA 
+ ESC/Java2 
+ Coverity 
+ Continuous Quality Assessment Toolkit 
+ Cppcheck 
+ Coverity SAVE 
+ CodePeer 
+ CodeRush 
+ Coccinelle 
+ CodeIt.Right 
+ Cobertura 
+ ClearSQL 
+ Clang 
+ Checkstyle 
+ Cigital SecureAssist 
+ CLAIR 
+ Cenzic 
+ CAST Application Intelligence Platform 
+ Black Duck Suite 
+ AgileJ StructureViews 
+ Axivion Bauhaus Suite 
+ Berkeley Lazy Abstraction Software Verification Tool 
+ .NET Compiler Platform 
+ AdaControl 
+ .NET 
+ Visual Paradigm for UML 
+ StarUML 
+ Umbrello UML Modeler 
+ UMLet 
+ UModel 
+ Enterprise Architect 
+ LucidChart 
+ MagicDraw 
+ Microsoft Visio 
+ Modelio 
+ MyEclipse 
+ NClass 
+ Objecteering 
+ objectiF 
+ Open ModelSphere 
+ Papyrus 
+ PlantUML 
+ Poseidon for UML 
+ PowerDesigner 
+ Prosa UML Modifier 
+ Rational Rhapsody 
+ Rational Rose XDE 
+ Rational Software Modeler 
+ Rational System Architect 
+ RISE 
+ Software Ideas Modeler 
+ Eclipse?UML2 Tools 
+ Dia 
+ Eclipse UML2 Tools 
+ Creately for UML 
+ ConceptDraw PRO 
+ CaseComplete 
+ BOUML 
+ Borland Together 
+ Astah 
+ ATL 
+ AgileJ StructureViews 
+ ArgoUML 
+ YouTrack 
+ Visual Studio Test Professional 
+ Web Help Desk 
+ Visual Intercept 
+ Visual Studio Application Lifecycle Management 
+ Visual Studio Lab Management 
+ Usersnap 
+ Vantive 
+ Trac 
+ Tiki Wiki CMS Groupware 
+ Test Director 
+ The Bug Genie 
+ Team Track 
+ Team Foundation Server 
+ SourceForge 
+ Supportworks 
+ SysAid Technologies 
+ Redmine 
+ Request Tracker 
+ Roundup 
+ Rational ClearQuest 
+ Razor Configuration Management 
+ Plain Ticket 
+ Phabricator 
+ Open-source Ticket Request System 
+ OpenProject 
+ Mantis Bug Tracker 
+ Mantis 
+ Kayako 
+ Liberum Help Desk 
+ JIRA 
+ HEAT 
+ Google Moderator 
+ Hansoft 
+ GLPI 
+ GitHub 
+ GitLab 
+ FogBugz 
+ Fossil 
+ Endeavour Software Project Management 
+ Brimir Help Desk Software 
+ Bugzilla 
+ CDETS 
+ ClearQuest 
+ CollabNet 
+ Debbugs 
+ D-tracker 
+ Bontq 
+ Apache Allura 
+ Apache Bloodhound 
+ Axosoft 
+ Object Oriented Paradigm 
+ Data Structures 
+ Database Models 
+ Data Modeling Design concepts 
+ Software Development 
+ Software Design Methodology 
+ Knowledge of Software Quality Attributes 
+ Software Estimation Techniques 
+ Project Management 
+ Requirement Engineering / Analysis 
+ Software Architecture 
+ Software Design 
+ Software Engineering 
+ Software Quality And Delivery Processes 
+ Agile Development Practices 
+ Sprinkle 
+ Tstconfig 
+ ServiceNow 
+ ruxit 
+ SaltStack 
+ Scalr 
+ Rdist 
+ RUNDECK 
+ Quattor 
+ Qualys 
+ QualiSystem 
+ ProfitBricks 
+ Puppet 
+ PontusVision 
+ ManageEngine Applications Manager 
+ Mist.io 
+ Nexenta 
+ NixOS 
+ Openfiler 
+ Pallet 
+ pconsole 
+ PIKT 
+ Fabric 
+ Foreman 
+ Juju 
+ ISconf 
+ HP Cloud Service Automation 
+ Glu 
+ DivvyCloud 
+ Cobbler 
+ Commando 
+ Crowbar 
+ Cuisine 
+ Dell Cloud Manager 
+ Distelli 
+ Bcfg2 
+ BladeLogic Automation Passport 
+ CA Technologies Automation 
+ CFEngine 
+ Chef 
+ Cirba 
+ Cisco Intelligent Automation 
+ Citrix CloudPortal Business Manager 
+ Cloudify 
+ (R)?ex 
+ Ansible 
+ Appcore Cloud Management 
+ Automate 
+ Yacc 
+ Yeoman 
+ WPKG 
+ XCode 5 
+ Xoreax Grid Engine 
+ VSoft FinalBuilder 
+ VSS 
+ Waf 
+ Visual SourceSafe 
+ uDeploy 
+ Udev 
+ Urbancode AnthillPro 
+ Vagrant 
+ Vault 
+ Veracity 
+ Vesta 
+ Tweaker Build Tool 
+ TMG Language 
+ Travis CI 
+ TeamCity 
+ Tinderbox 
+ Team Foundation Version Control 
+ TBNF 
+ Team Foundation Server 
+ Syntax 
+ SVK 
+ Sweble 
+ Synctool 
+ Synergy 
+ SpecFlow 
+ Surround SCM 
+ Subversion 
+ Strider 
+ StarTeam 
+ STAF 
+ Spacewalk 
+ Snap CI 
+ Sonar 
+ Source Code Control System 
+ SourceAnywhere 
+ Sourceanywhere Standalone 
+ SCM Anywhere 
+ Scons 
+ Semaphore 
+ Shippable 
+ SmartFrog 
+ Revision Control System 
+ Rex 
+ RSpec 
+ Rudder 
+ RUNDECK 
+ S/SL programming language 
+ SALT 
+ SBT 
+ Rational Team Concert 
+ Rational ClearCase 
+ RANCID Software 
+ Radmind 
+ QuickBuild 
+ Quattor 
+ Qmake 
+ PVCS 
+ pyCI 
+ Open PC Server Integration 
+ OpenLMI 
+ Oracle Application Express 
+ Pants 
+ Panvalet 
+ ParaBuild 
+ Perforce 
+ Perforce Jam 
+ Phing 
+ PIKT 
+ Plastic SCM 
+ Premake 
+ Puppet 
+ Migasfree 
+ Mk 
+ MKS Integrity 
+ Monotone 
+ MS VSS 
+ MSBuild 
+ MSConfig 
+ NAnt 
+ NOC 
+ node.ci 
+ OCS Inventory NG with GLPI 
+ Octopus Deploy 
+ Metafor Software 
+ Mercurial DVCS 
+ Merge Revision Control 
+ LuntBuild 
+ Maak 
+ Make 
+ Menuconfig 
+ Local ConFiGuration system 
+ Lordui 
+ IncrediBuild 
+ INTEGRITY 
+ ISconf 
+ Jasmine 
+ JBehave 
+ Jenkins 
+ Jira 
+ Juju 
+ Koality 
+ Lex 
+ LibreSource 
+ LibreSource Synchronizer 
+ IC Manage 
+ IBM Tivoli Configuration and Change Management Database 
+ Hudson 
+ Granular Configuration Automation 
+ gulp.js 
+ ElectricCommander 
+ Fastmake 
+ FinalBuilder 
+ Flex Lexical Analyzer 
+ Flosum 
+ Fossil 
+ Git 
+ GIT - Fast Version Control 
+ GNU Arch 
+ GNU Bazaar 
+ GNU Bison 
+ GNU Build System 
+ GNU Libtool 
+ GNU Toolchain 
+ Go 
+ Gradle 
+ Electric Cloud 
+ Draco.NET 
+ easyCIS 
+ Drone.io 
+ Distcc 
+ Devfsd 
+ Dconf 
+ CVSNT 
+ darcs 
+ CVS 
+ Cucumber 
+ CruiseControl.rb 
+ CruiseControl.NET 
+ CruiseControl 
+ Cruise 
+ Configure Script 
+ Continua CI 
+ Common Compiler Feedback Format 
+ Concurrent Versions System 
+ Codeville 
+ CMake 
+ Code Co-op 
+ Codenvy 
+ Codeship 
+ Chef 
+ CircleCI 
+ Buildout 
+ CA Software Change Manager 
+ CABIE 
+ Ccache 
+ cdist 
+ CFEngine 
+ BuildMaster 
+ Bazaar 
+ Bcfg2 
+ Behat 
+ Belarc 
+ BitKeeper 
+ Bonjour Sleep Proxy 
+ Build Forge 
+ Buildbot 
+ BuildForge 
+ BuildHive 
+ Bamboo 
+ Automated Build Studio 
+ Automake 
+ AutoDE 
+ AppVeyor CI 
+ Augeas 
+ Augeas Software 
+ AggreGate Platform 
+ Alex 
+ Ansible 
+ AnthillPro 
+ Apache Ant 
+ Apache Continuum 
+ Apache Gump 
+ Apache Maven 
+ Apache ZooKeeper 
+ AccuRev SCM 
+ Accelops 
+ AccuRev 
+ A-A-P 
+ Managing Build and Release 
+ Automating Build and Release 
+ Implementing Configuration Management Processes 
+ Making New Releases 
+ Version Control 
+ Scripting 
+ Packaging from Source Code 
+ Deploying Software Packages 
+ Creating User Documents 
+ Testing the Scripts 
+ Scripting 
+ Heat 
+ Hornbill 
+ HP 
+ Landesk 
+ ServiceNow 
+ CA 
+ Cherwell 
+ EasyVista 
+ Axios 
+ BMC 
+ Root Cause Analysis 
+ Targeting Support Action 
+ Trend Analysis 
+ Problem Investigation and Diagnosis 
+ Providing information to the Organization 
+ Problem Identification and Recording 
+ Problem Classification 
+ BMC Remedy 
+ CA Service Desk Manager 
+ EMC ITIL Service Management 
+ Epicor ITSM 
+ FrontRange 
+ HP ServiceDesk 
+ IBM Tivoli Service Request Manager 
+ Numara 
+ SunView 
+ TechExcel 
+ Investigation and Analysis 
+ Resolution and Recovery 
+ Incident Framework Management 
+ Incident Ownership, Monitoring, Tracking and Communication 
+ Incident Detection and Recording 
+ Incident Closure 
+ Evaluation of Incident Framework Management 
+ Establish Incident Framework Management 
+ Classification and Initial Support 
+ Service Level Management 
+ Service Portfolio Management 
+ Tracking SLAs fulfillment 
+ Service Catalogue Management 
+ Troubleshooting Problems 
+ Implementing Change Management Processes 
+ Implementing Problem Management Processes 
+ Managing Change 
+ Recording and Responding to Incidents 
+ Setting SLAs 
+ Zuna Infotech 
+ TCSF 
+ USU AG 
+ Nicus 
+ netinsight 
+ Cube Billing 
+ Digital Fuel 
+ EcoSys EPC 
+ HP 
+ KEDARit 
+ Apptio 
+ ClearCost Software 
+ ComSci 
+ Costnomics 
+ Forward Schedule of Changes 
+ Filtering Changes 
+ Change Advisory Board /Emergency Committee 
+ Managing Changes and the Change process 
+ Management Reporting 
+ Reviewing and Closing of Requests for Change 
+ Software Asset Management 
+ IT Supplier Management 
+ IT Disaster Recovery 
+ IT Design and Planning 
+ Activities in IT Asset Management 
+ IT Capacity Management 
+ Statements of Requirements 
+ Invitations to Tender 
+ Feasibility Studies 
+ ICT Overall Architecture & Management Architecture 
+ ICT Strategies, Policies and Plans 
+ Business Cases 
+ Procurement 
+ Software Asset Management 
+ Software License Management 
+ Hardware Asset Management 
+ Performance Management 
+ Resource Management 
+ Workload Management 
+ Demand Management 
+ Modelling 
+ Application Sizing 
+ Capacity Planning 
+ Project Manager 
+ TeamPulse 
+ Teamwork 
+ VersionOne 
+ Podio 
+ Intervals 
+ Freedcamp 
+ Zoho Projects 
+ Atlassian 
+ The Bug Genie 
+ Toms Planner 
+ Trac 
+ TrackerSuite.Net 
+ Traction TeamPage 
+ Trello 
+ TwProject 
+ Ubidesk 
+ VPMi 
+ web2Project 
+ Workgroups DaVinci 
+ WorkPLAN Enterprise 
+ Workspace.com 
+ Wrike 
+ TestTrack 
+ TeamDynamixHE 
+ TeamLab 
+ TaskJuggler 
+ TeamCenter 
+ TargetProcess 
+ Sciforma 
+ Severa 
+ Smartsheet 
+ Spider Project 
+ SwiftKanban 
+ TACTIC 
+ Taiga.io 
+ Talygen 
+ Redbooth 
+ Redmine 
+ SAP - PM 
+ SAP Business ByDesign 
+ Realisor 
+ RationalPlan 
+ Proliance 
+ QuickBase 
+ ProjeQtOr 
+ Projektron BCS 
+ Projectturf 
+ Project-Open Enterprise Project Management 
+ Projectplace 
+ ProjectManager.com 
+ ProjectLink 
+ ProjectLibre 
+ Oracle Fusion Project Portfolio Management 
+ Oracle Primavera Applications 
+ Project.net 
+ Project Team Builder 
+ Project PSA 
+ Project KickStart 
+ Project Builder 
+ Priority Matrix 
+ Planta Project 
+ Planner Suite 
+ Planisware 
+ Plandora 
+ Pivotal Tracker 
+ Planbox 
+ PHPProjekt 
+ phpGroupWare 
+ O3spaces 
+ Odoo Project Management 
+ OmniPlan 
+ OnePager Pro 
+ OnePoint Project 
+ Open Workbench 
+ OpenProj 
+ OpenProject 
+ Oracle Apps Projects 
+ Oracle E-Business Suite Project Portfolio Management 
+ Mavenlink 
+ Merlin 
+ Metier 
+ Microsoft Dynamics SL Project Management 
+ NetSuite Services Resource Planning 
+ NetPoint 
+ MyWorkPLAN 
+ MindGenius 
+ Milestones Professional 
+ Microsoft Team Foundation Server 
+ Microsoft Sharepoint Server 
+ Microsoft Project 
+ Microsoft Office Project Server 
+ MacProject 
+ MantisBT 
+ MatchWare MindView Business Edition 
+ Journyx 
+ Kayako Helpdesk Software 
+ Launchpad 
+ LibrePlan 
+ LiquidPlanner 
+ LisaProject 
+ HP Project and Portfolio Software 
+ Huddle Project Management 
+ JIRA Project Management 
+ J D Edwards World Project Management 
+ Intellinote 
+ J D Edwards Enterprise One Project Management 
+ in-Step Blue 
+ InLoox 
+ iManageProject 
+ HyperOffice Project Management 
+ Hansoft 
+ Hall.com 
+ GroveSite 
+ Groupiful 
+ Group-Office Project Management 
+ Goodwerp 
+ Ganttic 
+ Genius Project 
+ FusionForge 
+ Fossil-SCM 
+ FogBugz 
+ FinancialForce.com Project Management 
+ FMYI 
+ Feng Office Community Edition 
+ eGroupWare 
+ Endeavour Software Project Management 
+ enQuire 
+ eXo Platform Project Management 
+ FastTrack Schedule 
+ Eylean Board 
+ Eclipse PPM Software 
+ Easy Projects 
+ Doolphy 
+ dotProject 
+ DropTask 
+ DynaRoad 
+ ConceptDraw Project 
+ Concerto Projects 
+ Contactizer 
+ Copper Project 
+ Deltek Open Plan 
+ Deltek WelcomeHome 
+ DeskAway 
+ Collabtive 
+ Compuware Changepoint 
+ Clinked 
+ ClipPod 
+ ClickHome 
+ Clarizen 
+ Celoxis 
+ Central Desktop 
+ Axosoft 
+ Basecamp 
+ Binfire 
+ Bontq 
+ Brightpod 
+ Brightwork 
+ Calligra Plan 
+ CEITON Workflow System 
+ 2-Plan 
+ AceProject 
+ Anyplan 
+ Apache Bloodhound 
+ Apollo Project Management 
+ Asana 
+ Assembla 
+ AtTask 
+ 10,000ft 
+ 24SevenOffice Project Management 
+ HP 
+ KEDARit 
+ netinsight 
+ Nicus 
+ TCSF 
+ USU AG 
+ Zuna Infotech 
+ Digital Fuel 
+ EcoSys EPC 
+ Apptio 
+ ClearCost Software 
+ ComSci 
+ Costnomics 
+ Cube Billing 
+ Heat 
+ Hornbill 
+ HP 
+ Cherwell 
+ EasyVista 
+ ServiceNow 
+ Landesk 
+ CA 
+ BMC 
+ Axios 
+ Numara 
+ SunView 
+ TechExcel 
+ BMC Remedy 
+ CA Service Desk Manager 
+ EMC ITIL Service Management 
+ Epicor ITSM 
+ FrontRange 
+ HP ServiceDesk 
+ IBM Tivoli Service Request Manager 
+ Yeoman 
+ Yacc 
+ Xoreax Grid Engine 
+ XCode 5 
+ WPKG 
+ Waf 
+ VSS 
+ Visual SourceSafe 
+ VSoft FinalBuilder 
+ Vesta 
+ Vault 
+ Veracity 
+ uDeploy 
+ Udev 
+ Urbancode AnthillPro 
+ Vagrant 
+ TMG Language 
+ Travis CI 
+ Tweaker Build Tool 
+ Tinderbox 
+ TeamCity 
+ Team Foundation Version Control 
+ Team Foundation Server 
+ TBNF 
+ Syntax 
+ Synergy 
+ Synctool 
+ Sweble 
+ SVK 
+ Surround SCM 
+ Strider 
+ Subversion 
+ StarTeam 
+ STAF 
+ SpecFlow 
+ Spacewalk 
+ Sourceanywhere Standalone 
+ SourceAnywhere 
+ Source Code Control System 
+ Sonar 
+ Snap CI 
+ SmartFrog 
+ Shippable 
+ Semaphore 
+ SCM Anywhere 
+ Scons 
+ SBT 
+ SALT 
+ Rex 
+ RSpec 
+ Rudder 
+ RUNDECK 
+ S/SL programming language 
+ Revision Control System 
+ Rational Team Concert 
+ pyCI 
+ Qmake 
+ Quattor 
+ QuickBuild 
+ Radmind 
+ RANCID Software 
+ Rational ClearCase 
+ PVCS 
+ Phing 
+ PIKT 
+ Plastic SCM 
+ Premake 
+ Puppet 
+ ParaBuild 
+ Perforce 
+ Perforce Jam 
+ Panvalet 
+ Oracle Application Express 
+ Pants 
+ OpenLMI 
+ Octopus Deploy 
+ Open PC Server Integration 
+ OCS Inventory NG with GLPI 
+ NOC 
+ node.ci 
+ NAnt 
+ MSConfig 
+ MSBuild 
+ MS VSS 
+ Monotone 
+ MKS Integrity 
+ Migasfree 
+ Mk 
+ Metafor Software 
+ Merge Revision Control 
+ Mercurial DVCS 
+ Lordui 
+ LuntBuild 
+ Maak 
+ Make 
+ Menuconfig 
+ LibreSource Synchronizer 
+ Local ConFiGuration system 
+ Juju 
+ Koality 
+ Lex 
+ LibreSource 
+ Jenkins 
+ Jira 
+ JBehave 
+ Jasmine 
+ ISconf 
+ IncrediBuild 
+ INTEGRITY 
+ IC Manage 
+ IBM Tivoli Configuration and Change Management Database 
+ Hudson 
+ gulp.js 
+ Granular Configuration Automation 
+ Gradle 
+ GNU Bazaar 
+ GNU Bison 
+ GNU Build System 
+ GNU Libtool 
+ GNU Toolchain 
+ Go 
+ GNU Arch 
+ GIT - Fast Version Control 
+ ElectricCommander 
+ Fastmake 
+ FinalBuilder 
+ Flex Lexical Analyzer 
+ Flosum 
+ Fossil 
+ Git 
+ Electric Cloud 
+ Dconf 
+ Devfsd 
+ Distcc 
+ Draco.NET 
+ Drone.io 
+ easyCIS 
+ CruiseControl.rb 
+ Cucumber 
+ CVS 
+ CVSNT 
+ darcs 
+ CruiseControl.NET 
+ CruiseControl 
+ Cruise 
+ Codeship 
+ Codeville 
+ Common Compiler Feedback Format 
+ Continua CI 
+ Configure Script 
+ Concurrent Versions System 
+ Codenvy 
+ Code Co-op 
+ CABIE 
+ Ccache 
+ cdist 
+ CFEngine 
+ Chef 
+ CircleCI 
+ CMake 
+ CA Software Change Manager 
+ Buildbot 
+ BuildForge 
+ BuildHive 
+ BuildMaster 
+ Buildout 
+ Build Forge 
+ Bonjour Sleep Proxy 
+ BitKeeper 
+ Belarc 
+ Behat 
+ Bcfg2 
+ Bazaar 
+ Bamboo 
+ Automated Build Studio 
+ Automake 
+ AutoDE 
+ Augeas Software 
+ Augeas 
+ AppVeyor CI 
+ Apache Continuum 
+ Apache Gump 
+ Apache Maven 
+ Apache ZooKeeper 
+ AggreGate Platform 
+ Alex 
+ Ansible 
+ AnthillPro 
+ Apache Ant 
+ A-A-P 
+ Accelops 
+ AccuRev 
+ AccuRev SCM 
+ Techila Grid 
+ Tidal Enterprise Scheduler 
+ Tivoli Workload Scheduler 
+ Vinzant Software 
+ VisualCron 
+ Webcron 
+ Xgrid 
+ Windows Task Scheduler 
+ Talika PMS 
+ SynfiniWay 
+ Sked 
+ Skybot Scheduler 
+ Simple Linux Utility for Resource Management 
+ Sar (Unix) 
+ Schedulix 
+ SAP Central Process Scheduling 
+ RUNDECK 
+ Rev Scheduler 
+ Quartz Scheduler 
+ PTC Scheduler 
+ ProActive 
+ ProActive Parallel Suite 
+ Oracle Grid Engine 
+ Pilot job 
+ Platform LSF 
+ Portable Batch System 
+ Opswise Automation Center 
+ OpenPBS 
+ OpenLava 
+ OpCon 
+ One Automation 
+ Moab Cluster Suite 
+ Maui Cluster Scheduler 
+ LinuxPMI 
+ Ksar (Unix sar Grapher) 
+ Juice Box 
+ JobScheduler 
+ Job Stream 
+ Job Server 
+ Job Control Language 
+ Job Entry Subsystem 2/3 
+ Job Arranger for Zabbix 
+ HTCondor 
+ JAMS Scheduler 
+ IBM JES 
+ IBM Tivoli Workload Scheduler 
+ Grid MP 
+ Hinemos 
+ Grid Engine 
+ Flux 
+ Dollar Universe 
+ DIET 
+ Cron Unix Built-in Scheduler 
+ Control-M 
+ Autosys 
+ Batchman 
+ ActiveBatch 
+ Apache Torque 
+ Attached Support Processor 
+ AutoMan 
+ Automic 
+ IBM Maximo 
+ HP OV 
+ BMC suite 
+ USU 
+ ASG 
+ Axios 
+ BMC Asset Management 
+ CA 
+ Eracent 
+ HP 
+ IBM 
+ IBM IT Asset Management 
+ Provance 
+ Symantec Altiris 
+ RISK IT 
+ SOX 
+ COBIT 
+ COSO 
+ GLBA 
+ HIPAA 
+ ITIL 
+ PCI-DSS 
+ DoDAF 
+ FEAF 
+ MODAF 
+ ITIL 
+ FSAM 
+ RM ODP 
+ OBASHI 
+ SABSA 
+ TOGAF 
+ TEAF 
+ Torux 
+ Zachman Framework 
+ TRAK 
+ Support for Networks 
+ Third Line Support 
+ Support for Desktops 
+ Support for Business Applications 
+ Support for Data Centers 
+ Second Line Support 
+ Suggesting Improvements to Development 
+ Reporting on Services 
+ Remote Access of System 
+ Problem identification and troubleshooting 
+ Implementing Patches and Upgrades 
+ Guiding / Training Customers 
+ First Line Support 
+ Email Support 
+ Call Support 
+ Data Analysis 
+ Chat Support 
+ Epicor ITSM 
+ FrontRange 
+ HP ServiceDesk 
+ IBM Tivoli Service Request Manager 
+ Numara 
+ SunView 
+ TechExcel 
+ EMC ITIL Service Management 
+ CA Service Desk Manager 
+ BMC Remedy 
+ ServiceNow 
+ Landesk 
+ Hornbill 
+ HP 
+ Heat 
+ EasyVista 
+ CA 
+ Cherwell 
+ Axios 
+ BMC 
+ P2P 
+ Cryptography 
+ Security Management 
+ Decode Cryptic Messages 
+ Developing Algorithm for Encryption 
+ Developing Statistical Model 
+ Testing Model for Reliability 
+ Remedial Actions for Incidents 
+ Security Management Policies and Procedures 
+ Analyze/Assess Damage due to Incidents 
+ Analyze/Assess System Vulnerabilities 
+ End User Training on System Security 
+ Evaluate latest Technologies / Processes to Improve Security 
+ Identify Solutions for Incidents 
+ Identify Solutions for Vulnerabilities 
+ Implement latest Technologies / Processes to improve Security 
+ Install / Manage Security Systems 
+ Management of available Security Solutions 
+ Monitor System for Incidents 
+ Remedial Actions for detected Vulnerabilities 
+ Monitoring System/Data Logs 
+ Hacking Techniques 
+ System Vulnerabilities 
+ Email Spamming 
+ Network Security Threats 
+ Packet Sniffer 
+ Password Cracking 
+ Rootkit 
+ Social Engineering 
+ Spoofing Attack 
+ Trojan Horses 
+ Vulnerability Scanner 
+ Computer Worms 
+ Keystroke Logging 
+ Computer Viruses 
+ Brute Force Attack 
+ DDoS 
+ Malicious Software 
+ Cross Site Scripting 
+ Common Software Vulnerabilities 
+ Input Validation Errors 
+ Memory Safety Violations 
+ Smurf Attack 
+ Ping of Death 
+ Ping Flood 
+ DOSnet 
+ Hit-and-run DDoS 
+ HTTP POST DDOS Attack 
+ Denial-of-Service Level II 
+ Distributed Attack 
+ Application Layer DDoS Attack 
+ Application-Level Floods 
+ Billion Laughs 
+ Advanced Persistent DoS 
+ Trojan Horses 
+ Vulnerabilities to Malware 
+ Adware 
+ Computer Viruses 
+ Computer Worms 
+ Rootkits 
+ Persistent 
+ Server-Side versus DOM-Based Vulnerabilities 
+ Types 
+ Race Conditions 
+ User Interface Failures 
+ Privilege-Confusion Bugs 
+ SQL Injection 
+ Uncontrolled Format Strings 
+ Code Injection 
+ Cross-Site Scripting in Web Applications 
+ Directory Traversal 
+ HTTP Response Splitting 
+ HTTP Header Injection 
+ E-mail Injection 
+ Wild Branch 
+ Buffer Overflows 
+ Buffer Over-Read 
+ Dangling Pointers 
+ Spambot 
+ Sybil Attack 
+ Telemarketing Scam 
+ URL Redirection 
+ Using World-Writable Pages 
+ Vishing 
+ VoIP Scam 
+ Wiki Spam 
+ Spam in Blogs 
+ Spam Ping 
+ Pink Contract 
+ Referrer Log Spamming 
+ Scraper Sites 
+ Social Spam 
+ Spam Blogs 
+ Messaging Spam 
+ Meta-Tag Stuffing 
+ Mirror Websites 
+ Newsgroup Scam 
+ Page Hijacking 
+ Pages with no Information Related to Page Title 
+ Phishing 
+ Parasite Hosting 
+ Flyposting 
+ Forum Spam 
+ Google Bomb 
+ Hidden Links 
+ Hidden or Invisible Text 
+ Joe Job 
+ Junk Fax 
+ Keyword Stuffing 
+ Link Farms 
+ Link-Building Software 
+ Machine Translation 
+ Article Spinning 
+ Auto Dialer / Robocall 
+ Bulk Email Software 
+ Buying Expired Domains 
+ Cloaking 
+ Comment Spam 
+ Cookie Stuffing 
+ Directory Harvest Attack 
+ DNS-Based Blackhole List 
+ DNS-Based Whitelist 
+ Doorway Pages 
+ Email Spoofing 
+ Address Munging 
+ Adware 
+ Ransomware 
+ Scareware 
+ Spyware 
+ Trojan Horses 
+ Viruses 
+ Worms 
+ IP Address Spoofing 
+ Referrer Spam Log 
+ Referrer Spoofing 
+ Torrent Poisoning 
+ Web Site Spoofing 
+ Address Resolution Protocol Spoofing 
+ Caller ID Spoofing 
+ Email Spoofing 
+ GPS Spoofing 
+ Telephone Tapping 
+ VoIP Communications Trapping 
+ Instant Messaging Tapping 
+ Fiber Tapping 
+ Email Tapping 
+ Idle scan 
+ Port Scanner 
+ Wiretapping 
+ Spoofing 
+ TCP Gender Changer 
+ TCP Sequence Prediction Attack 
+ Man in the middle 
+ Smurf Attack 
+ SQL Injection 
+ Heap Overflow 
+ Greynet 
+ Cyber Attack 
+ Denial-of-Service Attack 
+ Format String Attack 
+ Buffer Overflow 
+ ARP Poisoning 
+ Acoustic Keyloggers 
+ Clipboard Logging 
+ API Based 
+ Keyboard Overlays 
+ Digital Footprint 
+ Packet Analyzers 
+ Optical Surveillance 
+ Memory Injection Based 
+ Physical Evidence 
+ Screen Logging 
+ Remote Access Software Keyloggers 
+ Virtual Keyboards 
+ Software Based Keyloggers 
+ Smartphone Sensors 
+ Malware 
+ Spoofing 
+ Eavesdropping 
+ Passive Network Attacks 
+ Active Network Attacks 
+ Key loggers 
+ Graham-Denning Model 
+ Multiple Single-Level 
+ Take-Grant Protection Model 
+ extensible Access Control Markup Language 
+ Emotion-Based Access Control 
+ Clark Wilson Model 
+ Bell LaPadula Model 
+ Break-Glass Access Control Model 
+ Capability-Based Security 
+ Serial Main Controllers & Intelligent Readers 
+ Serial Main and Sub-Controllers 
+ IP Controllers 
+ IP Readers 
+ Network-Enabled Main Controllers 
+ Serial Controllers 
+ Serial Controllers with Terminal Servers 
+ Anti Spyware Software 
+ Anti Virus Software 
+ Security by Design 
+ Secure Coding Techniques 
+ Security focused Operating Systems 
+ Anti Malware Software 
+ Rule-Based Access Control 
+ Simplified Mandatory Access Control Kernel 
+ Responsibility Based Access control 
+ Role-based Access Control 
+ Rule Set Based Access Control 
+ Organization-Based Access control 
+ Mandatory Integrity Control 
+ Attribute-based Access Control 
+ Discretionary Access Control 
+ Mandatory Access Control 
+ Deterrent Controls 
+ Dimensions of Cloud Security 
+ Detective Controls 
+ Preventive Controls 
+ Data Erasure 
+ Data Recovery 
+ Disk Encryption 
+ Secure USB Flash Drives 
+ Data Masking 
+ Backup 
+ Copy Protection 
+ Voynich Manuscript 
+ Shugborough Inscription 
+ DAgapeyeff 
+ Dorabella Cipher 
+ Rongorongo 
+ Beale Ciphers 
+ Chaocipher 
+ Authentication Keys 
+ Weak Keys 
+ Transport/Exchange Keys 
+ Semantic Security 
+ Ciphertext Indistinguishability 
+ Malleability 
+ Provable Security 
+ Random Oracle Model 
+ SHA-256 
+ SHA-3 
+ SHA-384 
+ SHA-512 
+ Tiger 
+ Snefru 
+ Whirlpool 
+ RIPEMD-160 
+ SHA-1 
+ Keyed-Hash Message Authentication Code 
+ Message Authentication Code 
+ MD5 
+ Stream Ciphers 
+ Block Ciphers 
+ Deleted Files 
+ Live Analysis 
+ Steganography 
+ Stochastic Forensics 
+ Two-Dimensional Evidence Reliability Amplification Process Model 
+ FORZA - Digital Forensics Investigation Framework 
+ Four Step Forensic Process 
+ Framework for a Digital Investigation 
+ Hierarchical, Objectives-Based Framework for the Digital Investigations Process 
+ Integrated Digital Investigative Process 
+ Process Flows for Cyber Forensics Training and Operations 
+ Systematic Digital Forensic Investigation Model 
+ Common Process Model 
+ Digital Forensic Investigations Framework 
+ Digital Crime Scene Analysis Model 
+ Enhanced Digital Investigation Process Model 
+ Extended Model of Cybercrime Investigations 
+ Abstract Digital Forensic Model 
+ Spam Filters 
+ Telecom Network Monitoring 
+ Visual Notifications 
+ Turing Test 
+ File Permissions 
+ Memory Protection 
+ Mobile Secure Gateway 
+ Process Isolation 
+ Remove Debug Mode 
+ Rootkit Detectors 
+ Revocation Procedures 
+ Security Audit of Apps 
+ Default Settings 
+ Biometric Identification 
+ Detect Suspicious Applications Demanding Rights 
+ Encryption of Stored or Transmitted Information 
+ Development through Runtime Environment 
+ Avoiding heavily customized systems 
+ Antivirus and Firewall 
+ Authentication 
+ Intrusion Detection System 
+ Intrusion Prevention Systems 
+ Security Firewalls 
+ Single Factor Authentication 
+ Multi Factor Authentication 
+ Pre-Boot Authentication 
+ Host-based Intrusion Detection System 
+ Intrusion Detection Message Exchange Format 
+ Network Intrusion Detection System 
+ Protocol-Based Intrusion Detection System 
+ Application Protocol-Based Intrusion Detection System 
+ Autonomous Agents for Intrusion Detection 
+ Anomaly-based Intrusion Detection System 
+ Stateful Protocol Analysis Detection 
+ Statistical Anomaly-Based Detection 
+ Wireless Intrusion Prevention Systems 
+ Network-based Intrusion Prevention System 
+ Signature-Based Detection 
+ Bypass Switch 
+ Host-based Intrusion Prevention System 
+ Network Behavior Analysis 
+ Network Address Translation 
+ Packet Filters Firewalls 
+ Proxy Server Firewalls 
+ Application-Layer Firewalls 
+ SOX 
+ NIST 800-53 
+ OMB Circulars 
+ FISMA 
+ HIPAA 
+ ICS 
+ ISO 27000 
+ FIPS 
+ FISCAM 
+ CDM 
+ COBIT 
+ COSO 
+ Xiraf 
+ XRY 
+ X-Ways 
+ X-Ways Forensics 
+ Tracks Inspector 
+ Volatility 
+ Windows to Go 
+ WindowsSCOPE 
+ Siren Tec 
+ The Sleuth Kit 
+ Secure View Mobile Forensics Software 
+ SANS Investigative Forensics Toolkit 
+ SafeBack 
+ Registry Recon 
+ Radio Tactics Aceso 
+ RECON for Mac OS X 
+ PRTK 
+ PTK Forensics 
+ Paraben P2 Commander 
+ Paladin 
+ Palantir 
+ Paraben Device Seizure 
+ MOBILedit! Forensic 
+ NetAnalysis 
+ NowSecure Forensics Suite 
+ Nuix 
+ Nuix / Proof Finder 
+ Open Computer Forensics Architecture 
+ Oxygen Forensic Suite 
+ Kali Linux 
+ Lantern 
+ M3 Bitlocker Recovery 
+ MailXaminer - SysTools 
+ MicroSystemation XRY/XACT 
+ Mobile Phone Examiner Plus 
+ ForensiCopy 
+ GTL Data IQ 
+ HashKeeper 
+ Helix 
+ ILooKIX 
+ ElcomSoft Password Recovery Bundle 
+ Elcomsoft Phone Password Breaker 
+ EnCase 
+ EnCE 
+ Evidence Eliminator 
+ Foremost 
+ Forensic Explorer 
+ Forensic Toolkit 
+ Elcomsoft iOS Forensic Toolkit 
+ Digital Forensics Framework 
+ DECAF 
+ Computer Online Forensic Evidence Extractor 
+ Coffee 
+ Cellebrite Mobile Forensics 
+ Cellebrite 
+ Categoriser 4 Pictures 
+ Autopsy 
+ CAINE 
+ TrustWave 
+ Tuliva 
+ TIBCO LogLogic 
+ Splunk 
+ Tenable SIEM 
+ Solarwinds SIEM 
+ Sentinal 
+ QRadar 
+ Nitro 
+ McAfee SIEM 
+ Logrhythm 
+ EventTracker Log Manager 
+ EventLog Analyzer 
+ Arcsight 
+ AlienVault 
+ FoxT ServerControl 
+ Enigform 
+ FoxT ServerControl 
+ Enigform 
+ IVisitor 
+ Idex ASA 
+ Idex ASA 
+ Local Security Authority Subsystem Service 
+ IVisitor 
+ NuCaptcha 
+ ReCAPTCHA 
+ PassWindow 
+ Security Accounts Manager 
+ Secure, Quick, Reliable Login 
+ Radiator RADIUS server 
+ Windows Azure Access Control Service 
+ Central Authentication Service 
+ HP Security Voltage 
+ HP Security Voltage 
+ Imperva SecureSphere 
+ Oracle Advaced Security 
+ Protegrity Data Security Platform 
+ IBM Guardium 
+ Trustware DbProtect 
+ Vormetric Transparent Encryption 
+ V-NetLink 
+ Theta Networks DPI Software 
+ V-Load Director 
+ Stonesoft Network Security 
+ Radware Network Security 
+ EFLAG 
+ Endace 
+ Front Porch 
+ NebuAd 
+ NetScout Systems 
+ Network Intelligence 
+ Packet Analyzer 
+ Procera Networks DPI 
+ Sagan Software 
+ Prelude Hybrid IDS 
+ OSSEC 
+ Network Tap 
+ Open Source Tripwire 
+ Bro Software 
+ Sucuri 
+ Verisys 
+ Samhain Software 
+ Suricata Software 
+ Snort Software 
+ Sucuri 
+ Deep Content Inspection 
+ Barracuda Networks 
+ CheckPoint 
+ Cisco Systems 
+ Allot Communications 
+ Passwd 
+ Pluggable Authentication Modules 
+ BSD Authentication 
+ Fast User Switching 
+ Oidentd 
+ Fprint 
+ Tahoe-LAFS 
+ Tails Operating System 
+ Syndie 
+ Susimail 
+ Robert P2P Software 
+ IMule 
+ Orange Business Services 
+ HP 
+ CSC 
+ Trustwave 
+ CenturyLink 
+ AT&T 
+ BT 
+ IBM 
+ Dell 
+ Verizon 
+ Symantec 
+ Forensic tools 
+ SIEM 
+ Access Control Software 
+ Database Security Tools 
+ Deep Packet Capture 
+ Intrusion Detection Systems 
+ Deep Packet Inspection 
+ Linux/Unix Authentication-Related Software 
+ Invisible Internet Project Software 
+ Managed Security Services Providers 
+ ADC 
+ AFP 
+ BACnet 
+ BOOTP 
+ BitTorrent 
+ BGP 
+ CAMEL 
+ DICOM 
+ Diameter 
+ DHCP 
+ DNS 
+ DICT 
+ ED2K 
+ DSNP 
+ DSM-CC 
+ finger 
+ Gopher 
+ Gnutella 
+ HTTPS 
+ HTTP 
+ Mobile Application Part 
+ LDAP 
+ ISUP 
+ IRC 
+ IMAP 
+ Mosh 
+ MSME 
+ NNTP 
+ MSNP 
+ Rlogin 
+ RDP 
+ RADIUS 
+ POP3 
+ NTP 
+ NTCIP 
+ RTP 
+ rsync 
+ XMPP 
+ WebDAV 
+ TUP 
+ TFTP 
+ telnet 
+ TCAP 
+ STUN 
+ SOAP 
+ SMB 
+ MP3 
+ JPEG 
+ MPEG 
+ NCP 
+ NetBIOS 
+ NetBEUI 
+ SMB 
+ SISNAPI 
+ SIP 
+ RTSP 
+ NFS 
+ Sockets 
+ SNMP 
+ SMTP 
+ SSH 
+ DECnet 
+ AppleTalk 
+ Xerox Network Systems 
+ TCP/IP 
+ IPX/SPX 
+ Internet Protocol Suite 
+ HIP 
+ ATM 
+ ARP 
+ AppleTalk DbP 
+ EGP 
+ CLNP 
+ BGP 
+ EIGRP 
+ ESP 
+ IPv4 
+ IPSec 
+ IGRP 
+ IGMP 
+ GRE 
+ Frame Relay 
+ IS-IS 
+ IPX 
+ IPv6 
+ NSP 
+ RARP 
+ MPLS 
+ MTP 
+ OSPF 
+ SPB 
+ SCCP 
+ Routed-SMLT 
+ X25 
+ Cisco Discovery Protocol 
+ Attached Resource Computer NETwork 
+ Distributed Multi-Link Trunking 
+ Data Link Switching Client Access Protocol 
+ Econet 
+ Distributed Split Multi-Link Trunking 
+ High-Level Data Link Control 
+ Frame Relay 
+ Fiber Distributed Data Interface 
+ Dynamic Trunking Protocol 
+ Ethernet 
+ IEEE 80216 WiMAX 
+ IEEE 80211 WiFi 
+ Layer 2 Forwarding Protocol 
+ LattisNet 
+ ITU-T Ghn Data Link Layer 
+ Layer 2 Tunneling Protocol 
+ Token Ring 
+ StarLAN 
+ Split multi-link trunking Protocol 
+ Spanning Tree Protocol 
+ RPR IEEE 80217 Resilient Packet Ring 
+ Q710 Simplified Message Transfer Part 
+ Point-to-Point Tunneling Protocol 
+ Point-to-Point Protocol 
+ PAgP - Cisco Systems proprietary link aggregation protocol 
+ Multi-link trunking Protocol 
+ LocalTalk 
+ Link Layer Discovery Protocol - Media Endpoint Discovery 
+ Link Layer Discovery Protocol 
+ Link Aggregation Control Protocol 
+ Link Access Procedures on the D channel 
+ VLAN Trunking Protocol 
+ Virtual Local Area Network 
+ Bluetooth physical layer 
+ ARINC 818 Avionics Digital Video Bus 
+ 802.11 Wi-Fi physical layers 
+ Ethernet physical layer 
+ Etherloop 
+ EIA RS-232, EIA-422, EIA-423, RS-449, RS-485 
+ E1 carrier links 
+ DSL 
+ CAN bus 
+ GSM Um air interface physical layer 
+ Ghn/G9960 physical layer 
+ IEEE 1394 interface 
+ ISDN 
+ IRDA physical layer 
+ ITU 
+ Optical Transport Network 
+ Mobile Industry Processor Interface physical layer 
+ SONET/SDH 
+ USB physical layer 
+ TransferJet physical layer 
+ Telephone network modems- V92 
+ T1 carrier links 
+ Post Office Protocol 
+ Simple Mail Transfer Protocol 
+ Unix-to-Unix Copy Protocol 
+ X400 
+ IMAP 
+ ASIC Based NAS 
+ Computer Based NAS 
+ Embedded System Based NAS 
+ 802.1x 
+ TACAS+ 
+ RADIUS 
+ PKI 
+ Kerberos 
+ CHAP 
+ Teamspeak 
+ SGCP 
+ SIP 
+ Skype Protocol 
+ SRTP 
+ Session Description Protocol 
+ Megaco 
+ Secure Real-time Transport Protocol 
+ SDP 
+ RTP 
+ RTCP 
+ MGCP 
+ Jingle XMPP VoIP extensions 
+ Jingle?XMPP?VoIP extensions 
+ G.729 
+ H.323 
+ H323 
+ IAX 
+ G.711 
+ Ethernet 
+ Mesh Network 
+ Ring Network 
+ Star Network 
+ The Internet Protocol 
+ Bus Network 
+ ArcNet 
+ Campus Area Network 
+ Wide Area Network 
+ Near Field Communication 
+ Metropolitan Area Network 
+ Local Area Network 
+ Body Area Network 
+ Backbone Network 
+ Small Computer System Interface 
+ SAS 
+ SATA 
+ iSCSI Extensions for RDMA 
+ iSCSI 
+ ATA 
+ ATA over Ethernet 
+ ESCON over Fiber Channel 
+ Fiber Channel over Ethernet 
+ Fiber Channel Protocol 
+ HyperSCSI 
+ iFCP or SANoIP 
+ Response Time 
+ Switch Occupancy 
+ Throughput 
+ Unicast Mode 
+ Managing Server Applications 
+ Multicast Modes 
+ Network Load Balancing Architecture 
+ Port Rules 
+ Remote Control 
+ Host Priorities 
+ IP Addresses 
+ Load Balancing Algorithm 
+ Fiber Channel Switches 
+ Serverless SAN 
+ Storage and Virtualization 
+ Synchronous Optical Networking 
+ Network Performance Monitoring Parameters 
+ OSI Protocol Stacks 
+ Email Protocols 
+ NAS Types 
+ Authentication Protocols / Standards 
+ VoIP Protocols 
+ Network Topology 
+ Network Types 
+ SAN Network Protocols 
+ Network Load Balancing Methods 
+ SAN Types 
+ VBA 
+ ActionScript 
+ Awk 
+ C 
+ COBOL 
+ Scala 
+ Embedded C++ 
+ F# 
+ Go 
+ Groovy 
+ R Statistical Programming 
+ Python 
+ JAVA 
+ C# 
+ PHP Development 
+ R 
+ Ada 
+ Algol 
+ C++ 
+ Ceylon 
+ CGI 
+ Clojure 
+ D 
+ Dart 
+ Embedded C 
+ Erlang 
+ Euphoria 
+ Factor 
+ Falcon 
+ Fantom 
+ FastCGI 
+ Forth 
+ Fortran 
+ Haskell 
+ Haxe 
+ Icon 
+ Julia 
+ Kotlin 
+ LISP 
+ Lua 
+ Mathematical Markup Language 
+ MATLAB 
+ Microcontroller Programming 
+ Nimrod 
+ Objective C 
+ OCaml 
+ PASCAL 
+ Perl 
+ Pike 
+ Pro*C/C++ 
+ Prolog 
+ Ruby 
+ Rust 
+ Scheme 
+ SED 
+ Smalltalk 
+ SWIFT 
+ Turbo C 
+ VB.NET 
+ Verilog 
+ VHDL 
+ Visual C++ 
+ XPath 
+ Xtend 
+ Writing Code 
+ Shell Scripting 
+ Front End Programming/Scripting 
+ Server Side Programming 
+ Kernel Programming 
+ Socket Programming 
+ Compiler Development 
+ Writing Regex Functions 
+ Compiling Code 
+ Unit Testing 
+ Debugging 
+ Using Software Libraries 
+ Defining the Specification 
+ Scripting for Automation 
+ Debugging Tools 
+ Build and Release / Version Control Tools 
+ Code Analysis Tools / Software 
+ Compilers and IDE 
+ Database 
+ Operating System 
+ Operating System Shells 
+ ORM 
+ Bug and Issue Tracking Tools 
+ Analytical Thinking 
+ Coding Skills 
+ Judgement of Time and Effort 
+ Learning new Technologies 
+ Logical Thinking 
+ Problem Solving 
+ Systems Thinking 
+ Technical Troubleshooting 
+ Understanding Business Processes 
+ Understanding user Requirements 
+ Debugging 
+ Defining Technical Specifications 
+ Frontend Programming 
+ Making Build and Release 
+ Server Side Programming 
+ Technology Selection 
+ Unit Testing 
+ Compiling Code 
+ Analyzing Functional Requirement 
+ Architecting the System 
+ Coding 
+ VB.NET 
+ VBA 
+ Verilog 
+ VHDL 
+ Visual C++ 
+ XPath 
+ Xtend 
+ Turbo C 
+ SED 
+ Smalltalk 
+ SWIFT 
+ R 
+ Ruby 
+ Rust 
+ Scala 
+ Scheme 
+ Prolog 
+ Python 
+ Pike 
+ Pro*C/C++ 
+ MATLAB 
+ Microcontroller Programming 
+ Nimrod 
+ Objective C 
+ PHP 
+ Perl 
+ PASCAL 
+ OCaml 
+ Haskell 
+ Haxe 
+ Icon 
+ JAVA 
+ Julia 
+ Kotlin 
+ LISP 
+ Lua 
+ Mathematical Markup Language 
+ Groovy 
+ Go 
+ Factor 
+ Falcon 
+ Fantom 
+ FastCGI 
+ Forth 
+ Fortran 
+ COBOL 
+ D 
+ Dart 
+ Embedded C 
+ F# 
+ Euphoria 
+ Erlang 
+ Embedded C++ 
+ ActionScript 
+ Ada 
+ Algol 
+ Awk 
+ C 
+ C# 
+ C++ 
+ Ceylon 
+ CGI 
+ Clojure 
+ Microsoft Visual Studio Versions 
+ .Net Programming Tools 
+ Microsoft Visual Studio 
+ Microsoft ADO.Net Entity Framework 
+ ASP.Net 
+ ADO.Net 
+ .Net Framework 
+ ASP.Net Development Tools 
+ C#.NET 
+ .NET Reflector 
+ .NET Object-Relational Mapping Tools 
+ .NET DiscUtils 
+ RealmForge Game Engine 
+ Phalanger Compiler 
+ OpenRasta 
+ NMath 
+ NDepend 
+ NClass 
+ NAnt 
+ MonoDevelop 
+ LINQPad 
+ FxCop 
+ EntitySpaces 
+ Designbox 
+ CodeRush 
+ CLR Profiler 
+ Castle Project 
+ StyleCop 
+ SharpDevelop 
+ Saturn Disk Image 
+ Runtime Intelligence Service 
+ VTD-XML 
+ Visual Studio Extensibility 
+ Visual Assist 
+ Visual & Installer 
+ XSP 
+ XAML Pad 
+ Java Object Oriented Querying 
+ Java Platform Micro Edition 
+ Java Servlets 
+ Java Virtual Machine 
+ JavaFX 
+ JavaScript Object Notation 
+ JavaServer Faces 
+ Spring 
+ Struts 
+ Swing 
+ Apache POI 
+ Apache Struts 
+ Artifact Repositories - Apache Archiva 
+ Artifact Repositories - Artifactory 
+ Artifact Repositories - Nexus 
+ Business Components for Java 
+ Hibernate 
+ Java Abstract Window Toolkit 
+ Java API for XML Processing 
+ Java Architecture for XML Binding 
+ Java Database Connectivity 
+ Java Development Kit 
+ Java Message Service 
+ Java Naming and Directory Interface 
+ Yii 
+ Zend 
+ ZK 
+ Zope 
+ Zotonic 
+ Sinatra 
+ Snap 
+ Solar 
+ Spring 
+ SproutCore 
+ Squatting 
+ Stripes 
+ Struts 
+ Swiftlet 
+ Swiz 
+ Symfony 
+ Tapestry 
+ Tipfy 
+ Tornado 
+ TurboGears 
+ TYPO3 
+ UKI 
+ Vaadin 
+ Vroom 
+ Waves 
+ web.py 
+ web2py 
+ Webjure 
+ Wee 
+ Wicket 
+ Xitrum 
+ Yesod 
+ seaside 
+ SilverStripe Sapphire 
+ simplex 
+ Sin 
+ Salvia 
+ Scalatra 
+ Ruby on Rails 
+ Rum 
+ Sails.js 
+ Revel 
+ Ring 
+ Roma 
+ Phalcon 
+ PHP Fat-Free Framework 
+ PHP For Applications 
+ Picard 
+ Prado 
+ PureMVC 
+ Pyramid 
+ Qcodo 
+ QCubed 
+ Ramaze 
+ Ratpack 
+ RestfulX 
+ Restlet 
+ Lemmachine 
+ Lift 
+ LiquidLava 
+ Lithium 
+ Mack 
+ MASON 
+ Mate 
+ Merb 
+ METEOR 
+ MFlow 
+ Microframeworks 
+ miku 
+ Mithril 
+ Mojolicious 
+ Moustache 
+ Nerve 
+ Nitro 
+ Nitrogen 
+ nodemachine 
+ node-router 
+ Noir 
+ Orbit 
+ OpenUI5 
+ Laravel 
+ Kohana 
+ Konstrukt 
+ KumbiaPHP 
+ EmberJS 
+ Erlang Web 
+ ErlyWeb 
+ Koa 
+ JSF 
+ Jifty 
+ JavaScriptMVC 
+ HydraMVC 
+ Horde 
+ Hibernate 
+ Hemlock 
+ Happstack 
+ Halcyon 
+ Groovy on Grails 
+ Grok 
+ Grain 
+ Grails 
+ Google Web Toolkit 
+ Gin 
+ Flight 
+ Flatiron 
+ Flask 
+ EXPRESS 
+ CherryPy 
+ Circumflex 
+ Cocoon 
+ CodeIgniter 
+ Compojure 
+ CompoundJS 
+ Conjure 
+ Django 
+ Dojo 
+ Eliom 
+ CGI::Prototype 
+ Catalyst 
+ CakePHP 
+ Camping 
+ Cappuccino 
+ Aura 
+ Bottle 
+ Cairngorm 
+ Apache Flex 
+ Atomik 
+ Apache Click 
+ Fab 
+ Agavi 
+ Akelos 
+ AngularJs 
+ TorqueBox 
+ TWiki 
+ TYPO3 
+ Umbraco 
+ WordPress 
+ Zimbra 
+ Sitecore CMS 
+ Telerik Sitefinity 
+ Progress OpenEdge 
+ SAP Enterprise Portal 
+ SAP NetWeaver Portal 
+ SAS System 
+ SharePoint 
+ STASH 
+ SilverStripe 
+ PrestaShop 
+ Plone 
+ Oracle WebLogic Portal 
+ Orchard CMS 
+ MODX 
+ Moodle 
+ Movable Type 
+ OpenROAD 
+ OpenVMS 
+ Oracle Application Server 
+ Oracle GlassFish 
+ Oracle User Productivity Kit 
+ Microsoft Lync 
+ Kentico CMS 
+ Magnolia CMS 
+ MediaWiki 
+ Microsoft Commerce Server 
+ Microsoft Commerce Server 2007 
+ Microsoft Content Management Server 
+ Microsoft Exchange Server 
+ Alfresco 
+ Autonomy WorkSite 
+ Caucho Technology Resin 
+ concrete5 
+ Confluence 
+ DNN Platform 
+ Drupal 
+ EllisLab ExpressionEngine 
+ EPiServer CMS 
+ IBM Connections 
+ IBM Lotus Notes 
+ IBM Lotus Notes Domino Server 
+ IBM Lotus Quickr 
+ IBM WebSphere Application Server 
+ Joomla 
+ IBM WebSphere Portal 
+ Immediacy CMS 
+ Java CAPS 
+ ColdFusion 
+ Adobe Experience Manager 
+ Operating System 
+ Database 
+ Operating System Shells 
+ Frontend Development/Scripting 
+ Compilers and IDE 
+ Code Analysis Tools / Software 
+ Debugging Tools 
+ Build and Release / Version Control Tools 
+ Bug and Issue Tracking Tools 
+ ORM 
+ Middleware / EAI / SOA / ESB Server/Tools 
+ Social Media APIs 
+ MySql 
+ WebScaleSQL 
+ Spark SQL 
+ VoltDB 
+ VistaDB 
+ Vertica 
+ TokuMX 
+ TimesTen 
+ Teradata Aster 
+ Teradata 
+ Stardog 
+ Sqrrl 
+ SQLite 
+ SQLBase 
+ Splice Machine 
+ SolidDB 
+ SAP IQ 
+ ScyllaDB 
+ SAP SQL Anywhere 
+ SAP HANA 
+ RocksDB 
+ RethinkDB 
+ RBase 
+ Redis Database 
+ RavenDB 
+ Postgres-XL 
+ Project Voldemort 
+ Plivo 
+ ObjectStore 
+ Oracle 
+ Paypal 
+ Oracle Coherence 
+ Slim 
+ OrientDB 
+ OOPS 
+ APNS 
+ ParAccel 
+ MPDF 
+ BrainTree 
+ Percona Server 
+ PostgreSQL Database 
+ Neo4J Database 
+ BitBucket 
+ Netezza 
+ NuoDB 
+ SVN 
+ InfiniDB 
+ Infinispan 
+ InfiniteGraph 
+ Infobright 
+ Informix 
+ Ingres 
+ Interbase 
+ Jackrabbit 
+ Kdb+ 
+ Kognitio 
+ LevelDB 
+ MariaDB 
+ MaxDB 
+ Memcached 
+ MemSQL 
+ Microsoft Access 
+ Microsoft Azure SQL Database 
+ Microsoft SQL Server 
+ MongoDB 
+ MSQL 
+ Stripe 
+ NCache 
+ Greenplum 
+ GridGain 
+ H2 Database 
+ HAWQ 
+ HazelCast Database 
+ Hbase 
+ IMS 
+ Twilio 
+ Impala 
+ IDMS 
+ IBM DB2 
+ Hypertable 
+ HIVE 
+ Empress 
+ EnterpriseDB 
+ Event Store 
+ Firebird 
+ Pubnub 
+ GemFire 
+ Giraph 
+ Google BigQuery 
+ Google Cloud Big Table 
+ Google Cloud Datastore 
+ GraphDB 
+ Couchbase 
+ CouchDB 
+ DATACOM/DB 
+ Datomic 
+ dBase 
+ Ehcache 
+ Amazon SimpleDB 
+ Apache Cassandra 
+ ArangoDB 
+ Berkeley DB 
+ Blazegraph 
+ CitusDB 
+ Cloudant 
+ Clustrix 
+ Accumulo 
+ Aerospike 
+ AllegroGraph 
+ Amazon DynamoDB 
+ Amazon Redshift 
+ 1010data 
+ Nun 
+ Parrot 
+ Polymer 
+ React.js 
+ Reactive.js 
+ RIOT 
+ Rivets 
+ SASS 
+ Stencil 
+ Underscore 
+ Underscore.js 
+ Vue.js 
+ Wireless Markup Language 
+ XHTML 
+ XML 
+ Node-asyncEJS 
+ Node.js 
+ Marko 
+ Meteor.js 
+ Mu 
+ Mustache 
+ KnockoutJS 
+ LASS 
+ jQuery 
+ JQuote2 
+ Kite 
+ HAML-JS 
+ Handlebars 
+ HTML 
+ HTML5 
+ io.js 
+ Jade 
+ Javascript 
+ CSS3 
+ Deku 
+ Closure 
+ CSS 
+ GULP 
+ Grunt 
+ EmberJS 
+ EJS 
+ Dust 
+ Dot 
+ Bootstrap 
+ BackboneJS 
+ Blocks.js 
+ Adobe Dreamweaver 
+ AngularJS 
+ IBM Rational Rhapsody 
+ Google Android Studio 
+ Google Android IDE 
+ Genuitec MyEclipse 
+ Apple Xcode 
+ Adobe Flash Builder 
+ Microsoft Blend for Visual Studio 
+ IBM VisualAge 
+ JetBrains IntelliJ IDEA 
+ JetBrains PhpStorm 
+ JetBrains ReSharper 
+ JetBrains WebStorm 
+ NI LabVIEW 
+ Netbeans IDE 
+ Microsoft MorphX 
+ Sybase PowerBuilder 
+ Selenium IDE 
+ SAP NetWeaver Development Infrastructure 
+ SAP NetWeaver Developer Studio 
+ Progress WebSpeed Workshop 
+ PeopleSoft PeopleTools 
+ Oracle JDeveloper 
+ Synon 
+ Visual LANSA 
+ WSAD 
+ WinAVR 
+ Net Beans 
+ Sdcc 
+ Triton 
+ WebSphere Studio Application Developer 
+ Keil 
+ Kiel 
+ Microsoft Visual Studio 
+ MPLAB 
+ Developer 
+ Eclipse 
+ GCC 
+ GHS 
+ Hitech PIC 16 
+ Hitech PIC 18 
+ IAR 
+ IBM RAD 
+ IntelliJ Idea 
+ Jbuilder 
+ AVR Studio 
+ Code Composer 
+ Code Warrior 
+ Codewright 
+ Apache Maven 
+ Ant 
+ ADS Code Warrior 
+ VB Watch 
+ Vector FabricsPareon 
+ VectorCast 
+ Yasca 
+ Visual Studio Team System 
+ Veracode 
+ StyleCop 
+ ThreadSafe 
+ Valgrind 
+ Sparse 
+ Splint 
+ SQuORE 
+ SLAM Project 
+ SonarJ 
+ SonarQube 
+ Sotoarc/Sotograph 
+ Soot 
+ SIMMON 
+ SIMON (Batch Interactive Test/Debug) 
+ Semmle 
+ Rpmlint 
+ Pylint 
+ PVS-Studio 
+ Protecode 
+ Purify 
+ Parasoft dotTEST 
+ Parasoft Insure++ 
+ PC-Lint 
+ Perl Based Static Code Analysis Tools 
+ Perl Critic 
+ PerlTidy 
+ PMD 
+ Polyspace 
+ Parasoft C/C++ Test 
+ Parasoft 
+ Padre 
+ Moose 
+ NDepend 
+ ObjectWeb ASM 
+ Opa Static Code Analysis Tool 
+ OpenPAT 
+ Packaging Based Static Code Analysis Tools 
+ Klocwork Insight 
+ LDRA Testbed 
+ Lint 
+ JSLint 
+ JTest 
+ Klocwork 
+ JSHint 
+ Jacoco 
+ JArchitect 
+ Intel Parallel Inspector 
+ IntelliJ IDEA Code Inspectors 
+ Imagix 4D 
+ IBM Rational AppScan 
+ IBM OLIVER (CICS Interactive Test/Debug) 
+ HP Security Suite 
+ HP Fortify Static Code Analyzer 
+ Gcov 
+ Gerrit 
+ Google Closure Compiler 
+ GrammaTech CodeSonar 
+ Frama-C 
+ FxCop 
+ Formal Methods Based Static Code Analysis Tools 
+ FindBugs 
+ Fluctuat 
+ ESC/Java2 
+ ECLAIR 
+ Eclipse CODAN 
+ EMMA 
+ Coverity SAVE 
+ Cppcheck 
+ Daikon 
+ Dmalloc 
+ DMS Software Reengineering Toolkit 
+ DynInst 
+ Coverity 
+ Continuous Quality Assessment Toolkit 
+ CodeRush 
+ CodePeer 
+ CodeIt.Right 
+ Coccinelle 
+ Cenzic 
+ Checkstyle 
+ Cigital SecureAssist 
+ CLAIR 
+ Clang 
+ ClearSQL 
+ Cobertura 
+ CAST Application Intelligence Platform 
+ .NET Compiler Platform 
+ AdaControl 
+ AgileJ StructureViews 
+ Axivion Bauhaus Suite 
+ Berkeley Lazy Abstraction Software Verification Tool 
+ Black Duck Suite 
+ ntel Debugger 
+ Allinea DDT 
+ Aqtime 
+ ARM Development Studio 5 (DS-5) 
+ CA/EZTEST 
+ DBG 
+ dbx 
+ DEBUG 
+ IBM Rational Purify 
+ Insight 
+ Microsoft Visual Studio Debugger 
+ Valgrind 
+ WinDbg 
+ Xdebug 
+ UNIX - GDB 
+ Charles 
+ Compuware XPEDITER 
+ GNU Debugger 
+ KDB 
+ MVision 
+ PowerPC Cross Debugger 
+ Tornado WinDbg 
+ UNIX - DBX 
+ Altova XMLSpy 
+ Waf 
+ WPKG 
+ XCode 5 
+ Xoreax Grid Engine 
+ Yacc 
+ Yeoman 
+ Vault 
+ Veracity 
+ Vesta 
+ Visual SourceSafe 
+ VSoft FinalBuilder 
+ VSS 
+ Vagrant 
+ Tweaker Build Tool 
+ uDeploy 
+ Udev 
+ Urbancode AnthillPro 
+ Tinderbox 
+ TMG Language 
+ Travis CI 
+ TeamCity 
+ Team Foundation Version Control 
+ Team Foundation Server 
+ TBNF 
+ SourceAnywhere 
+ Sourceanywhere Standalone 
+ Spacewalk 
+ SpecFlow 
+ STAF 
+ StarTeam 
+ Strider 
+ Subversion 
+ Surround SCM 
+ SVK 
+ Sweble 
+ Synctool 
+ Synergy 
+ Syntax 
+ Source Code Control System 
+ Sonar 
+ Snap CI 
+ S/SL programming language 
+ SALT 
+ SBT 
+ SCM Anywhere 
+ Scons 
+ Semaphore 
+ Shippable 
+ SmartFrog 
+ RSpec 
+ Rudder 
+ RUNDECK 
+ Rex 
+ Revision Control System 
+ Rational Team Concert 
+ Rational ClearCase 
+ pyCI 
+ Qmake 
+ Quattor 
+ QuickBuild 
+ Radmind 
+ RANCID Software 
+ PVCS 
+ Puppet 
+ Panvalet 
+ ParaBuild 
+ Perforce 
+ Perforce Jam 
+ Phing 
+ PIKT 
+ Plastic SCM 
+ Premake 
+ OCS Inventory NG with GLPI 
+ Octopus Deploy 
+ Open PC Server Integration 
+ OpenLMI 
+ Oracle Application Express 
+ Pants 
+ node.ci 
+ NAnt 
+ NOC 
+ Make 
+ Menuconfig 
+ Mercurial DVCS 
+ Merge Revision Control 
+ Metafor Software 
+ Migasfree 
+ Mk 
+ MKS Integrity 
+ Monotone 
+ MS VSS 
+ MSBuild 
+ MSConfig 
+ LuntBuild 
+ Maak 
+ Local ConFiGuration system 
+ Lordui 
+ LibreSource Synchronizer 
+ Jasmine 
+ LibreSource 
+ Koality 
+ Lex 
+ Juju 
+ Jira 
+ Jenkins 
+ JBehave 
+ ISconf 
+ GNU Toolchain 
+ INTEGRITY 
+ IncrediBuild 
+ IC Manage 
+ IBM Tivoli Configuration and Change Management Database 
+ Hudson 
+ gulp.js 
+ Granular Configuration Automation 
+ Gradle 
+ Go 
+ GNU Libtool 
+ Flosum 
+ Fossil 
+ Git 
+ GIT - Fast Version Control 
+ GNU Arch 
+ GNU Bazaar 
+ GNU Bison 
+ GNU Build System 
+ Flex Lexical Analyzer 
+ FinalBuilder 
+ Devfsd 
+ Distcc 
+ Draco.NET 
+ Drone.io 
+ easyCIS 
+ Electric Cloud 
+ ElectricCommander 
+ Fastmake 
+ darcs 
+ Dconf 
+ CVS 
+ CVSNT 
+ Cucumber 
+ CruiseControl.rb 
+ Concurrent Versions System 
+ CruiseControl.NET 
+ CruiseControl 
+ Cruise 
+ Continua CI 
+ Configure Script 
+ Common Compiler Feedback Format 
+ Codeville 
+ Codeship 
+ Codenvy 
+ Code Co-op 
+ Chef 
+ CircleCI 
+ CMake 
+ BuildMaster 
+ Buildout 
+ CA Software Change Manager 
+ CABIE 
+ Ccache 
+ cdist 
+ CFEngine 
+ BuildHive 
+ BuildForge 
+ Build Forge 
+ Buildbot 
+ Behat 
+ Belarc 
+ BitKeeper 
+ Bonjour Sleep Proxy 
+ Bamboo 
+ Automated Build Studio 
+ Bcfg2 
+ Bazaar 
+ Augeas 
+ Augeas Software 
+ AutoDE 
+ Automake 
+ AppVeyor CI 
+ Apache ZooKeeper 
+ Apache Maven 
+ Apache Gump 
+ Apache Continuum 
+ A-A-P 
+ Accelops 
+ AccuRev 
+ AccuRev SCM 
+ AggreGate Platform 
+ Apache Ant 
+ AnthillPro 
+ Ansible 
+ Alex 
+ Web Help Desk 
+ YouTrack 
+ Visual Studio Application Lifecycle Management 
+ Visual Studio Lab Management 
+ Visual Studio Test Professional 
+ Test Director 
+ The Bug Genie 
+ Tiki Wiki CMS Groupware 
+ Trac 
+ Usersnap 
+ Vantive 
+ Visual Intercept 
+ Team Track 
+ Team Foundation Server 
+ SysAid Technologies 
+ Roundup 
+ SourceForge 
+ Supportworks 
+ Request Tracker 
+ Redmine 
+ JIRA 
+ Kayako 
+ Liberum Help Desk 
+ Mantis 
+ Mantis Bug Tracker 
+ OpenProject 
+ Open-source Ticket Request System 
+ Razor Configuration Management 
+ Rational ClearQuest 
+ Plain Ticket 
+ Phabricator 
+ Hansoft 
+ HEAT 
+ GitLab 
+ GLPI 
+ Google Moderator 
+ FogBugz 
+ Fossil 
+ GitHub 
+ Endeavour Software Project Management 
+ D-tracker 
+ Axosoft 
+ Bontq 
+ Brimir Help Desk Software 
+ Bugzilla 
+ CDETS 
+ ClearQuest 
+ CollabNet 
+ Debbugs 
+ Apache Bloodhound 
+ Apache Allura 
+ Qt Platform 
+ Spring JDBC 
+ Oracle TopLink 
+ Netbeans 
+ NHibernate 
+ IBatis Persistence Framework 
+ Enterprise Objects Framework 
+ Hibernate 
+ EclipseLink 
+ Enterprise Core Objects 
+ Apache Torque 
+ Carbonado 
+ CocoBase 
+ Apache Object Relational Bridge 
+ Windows Server AppFabric 
+ Windows Communication Foundation 
+ TIBCO ActiveMatrix 
+ Tornado 
+ uWSGI 
+ Weswit Srl Lightstreamer 
+ TIBCO 
+ SAP NetWeaver Process Integration 
+ SOAP 
+ SAP NetWeaver 
+ Oracle WebCenter 
+ Oracle WebLogic Server 
+ Particular Software NServiceBus 
+ REST 
+ SAP Exchange Infrastructure 
+ Progress Sonic ESB 
+ RabbitMQ 
+ Remote Procedure Call and RPC Analogues 
+ Oracle Service Bus 
+ Oracle SOA Suite 
+ Oracle Tuxedo 
+ Oracle BEA AquaLogic 
+ Oracle Coherence 
+ Oracle GlassFish Server 
+ Oracle HTTP Server 
+ Oracle Application Server 
+ Java Servlet 
+ JavaServer Pages 
+ Jboss Application Server 
+ Jetty (Eclipse Foundation) 
+ lighttpd 
+ Microsoft BizTalk 
+ Microsoft Internet Information Services 
+ Mule ESB 
+ nginx 
+ iPlanet 
+ iPlanet Web Server 
+ IBM WebSphere 
+ IBM WebSphere Application Server 
+ IBM WebSphere Message Broker 
+ IBM WebSphere Process Server 
+ IBM WebSphere Transformation Extender 
+ Apache Tomcat 
+ Apache TomEE 
+ COM+ 
+ Component Object Model / Distributed COM 
+ IBM HTTP Server 
+ Enterprise Java Beans 
+ Distributed Transactions COM+ 
+ Apache ServiceMix 
+ Apache HTTP Server 
+ Apache Camel 
+ Adobe Cold Fusion 
+ Apache ActiveMQ 
+ Google+ API 
+ LinkedIn API 
+ Twitter API 
+ Facebook API 
+ XSLT 
+ XML 
+ XSL 
+ Apache Axis 
+ REST 
+ RESTful 
+ SOAP 
+ WSDLQuerying 
+ Schema Objects 
+ Sorting Data 
+ Stored Procedures 
+ Triggers 
+ Data Aggregation 
+ Data Manipulation 
+ Data Retrieval 
+ Data Types 
+ Exception Handling 
+ Explicit Cursor 
+ Functions 
+ Joins 
+ Output Customization 
+ Performance Tuning 
+ Creating Tables 
+ Conversion Functions 
+ Conditional Expressions 
+ Spiral 
+ Test-Driven Development 
+ Unified Process 
+ V-Model 
+ Waterfall 
+ Pair Programming 
+ Prototype Model 
+ Rapid Application Development 
+ Scrum 
+ Model Driven Development 
+ Iterative 
+ Joint Application Development 
+ Incremental 
+ Dual Vee Model 
+ Dynamic Systems Development Method 
+ Feature-Driven Development 
+ Domain-Driven Design 
+ Continuous Development 
+ Acceptance Test-Driven Development 
+ Agile Development Methods 
+ Behavior-Driven Development 
+ Cleanroom 
+ Behavioral Design Patterns 
+ Concurrency Design Patterns 
+ Creational Design Patterns 
+ Structural Design Patterns 
+ Application I/O Interface 
+ Clocks 
+ Device Driver 
+ Kernel I/O Subsystem 
+ Service Oriented Architecture 
+ Data Flow Architecture 
+ Distributed Architecture 
+ Enterprise Application Architecture 
+ Hierarchical Architecture 
+ Interaction Oriented Architecture 
+ Mobile Computing Architecture 
+ Data Centered Architecture 
+ Software Design Methodology 
+ Object Oriented Paradigm 
+ TOGAF 
+ Torux 
+ TRAK 
+ Zachman Framework 
+ RM ODP 
+ SABSA 
+ TEAF 
+ OBASHI 
+ MODAF 
+ ITIL 
+ FSAM 
+ FEAF 
+ DoDAF 
+ Software Architecture Types 
+ Standard Enterprise Architecture Framework 
+ Abstraction 
+ Architecture Viewpoints 
+ Timeboxing 
+ Use Case 
+ User Story 
+ Velocity Tracking 
+ Test-Driven Development 
+ Story-Driven Modeling 
+ Sprint Review 
+ Sprint Planning 
+ Retrospective 
+ Scrum Meetings 
+ Refactoring 
+ Planning Poker 
+ Iterative and Incremental Development 
+ Pair Programming 
+ Backlogs (Product and Sprint) 
+ Behavior-Driven Development?(BDD) 
+ Continuous Integration 
+ Cross-Functional Team 
+ Daily Scrum 
+ Domain-Driven Design 
+ Information Radiators (Scrum Board, Task Board,Burndown Chart) 
+ Acceptance Test-Driven Development 
+ Agile Modeling 
+ Agile Testing 
+ Security 
+ Supportability 
+ Testability 
+ Usability 
+ Schedule 
+ Scalability 
+ Portability 
+ Reliability 
+ Reusability 
+ Marketability 
+ Modifiability 
+ Manageability 
+ Integrality 
+ Interoperability 
+ Maintainability 
+ Quick Test Professional 
+ Conceptual Integrity 
+ TACACS 
+ TACACS+ 
+ Woo Lam 92 Protocol 
+ XCert Universal Database API 
+ Remote Access Dial In User Service 
+ Resource Access Control Facility 
+ RFID-Authentication Protocols 
+ Secure Remote Password Protocol 
+ Pluggable Authentication Modules 
+ Protected Extensible Authentication Protocol 
+ Simple Authentication and Security Layer 
+ Security Support Provider Interface 
+ OpenID Connect 
+ Password Authentication Protocol 
+ Password-Authenticated Key Agreement Protocols 
+ OpenID 
+ OAuth 
+ NT LAN Manager 
+ Novell Modular Authentication Service 
+ LAN Manager 
+ MS-CHAP and MS-CHAPv2variants of CHAP 
+ Kerberos 
+ Host Identity Protocol 
+ Java Authentication and Authorization Service 
+ Diameter 
+ EAuthentication 
+ Extensible Authentication Protocol 
+ Generic Security Services API 
+ Common Data Security Architecture 
+ CRAM-MD5 
+ Challenge-Handshake Authentication Protocol 
+ Access Control Facility 
+ Authentication and Key Agreement 
+ BSD Authentication 
+ Central Authentication Service 
+ CAVE-Based-Authentication 
+ PPP 
+ PPPoA 
+ PPPoE 
+ TCP/IP 
+ HTTP 
+ IPv6 
+ IPSec 
+ FTP 
+ DHCPD 
+ DNS 
+ Web Services 
+ Database Operations 
+ Software Development 
+ Software Development 
+ Software Architecture 
+ Agile Development Practices 
+ Software Engineering 
+ Authentication Standards / Protocols 
+ Common Networking Protocols 
+ Programming Languages 
+ Microsoft Technologies 
+ J2EE 
+ MVC Framework 
+ Application Platform / Portal / Content Management System 
+ Tools & Technologies 
+ Programming Languages 
+ Android Environment 
+ iOS Environment 
+ Windows Environment 
+ Tools & Technologies 
+ Activity Lifecycle 
+ Fragments 
+ Content Providers 
+ Broadcast Receivers 
+ Android SDKs 
+ Android Development Tools 
+ Intent and Intent Filters 
+ SQLite 
+ Core Graphics 
+ Cocoa Design patterns 
+ Data Base Persistence 
+ Notifications 
+ Multi View Applications 
+ Memory Management 
+ Media interaction 
+ Maps SDK 
+ Objective -C ARC 
+ Sensors 
+ Social Network Integration 
+ TableView 
+ Web Services 
+ Application Lifecycle 
+ Expression Blend 4 
+ Launchers and Choosers 
+ Pivot and Panorama Controls 
+ Location Based Applications 
+ Web Services 
+ Compilers and IDE 
+ Database 
+ Debugging Tools 
+ Frontend Development/Scripting 
+ ORM 
+ Code Analysis Tools / Software 
+ Build and Release / Version Control Tools 
+ Bug and Issue Tracking Tools 
+ Mobile Application Framework 
+ Social Media APIs 
+ Android mobile testing tools 
+ Debugging 
+ Defining Technical Specifications 
+ Frontend Programming 
+ Making Build and Release 
+ Server Side Programming 
+ Technology Selection 
+ Unit Testing 
+ Coding 
+ Compiling Code 
+ Analyzing Functional Requirement 
+ Architecting the System 
+ Database Operations 
+ Software Engineering 
+ Agile Development Practices 
+ Software Development 
+ Mobile Security Defense Methods 
+ Web Services 
+ Security 
+ Supportability 
+ Testability 
+ Usability 
+ Schedule 
+ Reusability 
+ Scalability 
+ Reliability 
+ Portability 
+ Performance 
+ Modifiability 
+ Marketability 
+ Interoperability 
+ Maintainability 
+ Manageability 
+ Cost 
+ Integrality 
+ Correctness 
+ Availability 
+ Conceptual Integrity 
+ Revocation Procedures 
+ Rootkit Detectors 
+ Security Audit of Apps 
+ Services 
+ Spam Filters 
+ Telecom Network Monitoring 
+ Turing Test 
+ Visual Notifications 
+ Memory Protection 
+ Memory Usage 
+ Development through Runtime Environment 
+ Encryption of Stored or Transmitted Information 
+ File Permissions 
+ Improving software patch processes 
+ Remove Debug Mode 
+ Process Isolation 
+ Network Traffic 
+ Mobile Secure Gateway 
+ Detect Suspicious Applications Demanding Rights 
+ Default Settings 
+ Biometric Identification 
+ Battery 
+ Avoiding heavily customized systems 
+ Antivirus and Firewall 
+ XSLT 
+ XSL 
+ WSDL 
+ XML 
+ RESTful 
+ SOAP 
+ REST 
+ Apache Axis 
+ Graphics/Game Libraries/APIs 
+ Experience in Game / Multimedia Development 
+ Game Engine 
+ Graphics Processing Units 
+ Programming Languages 
+ Principles and Concepts 
+ Metal iOS API 
+ MiniGL 
+ OpenImageIO 
+ OpenJPEG 
+ OpenGL ES 3D API for Embedded Devices 
+ OpenGL Extension to the X Window System 
+ OpenGL++ 
+ OpenGL Utility Toolkit 
+ OpenGL Utility Library 
+ OpenGL User Interface Library 
+ OpenGL SC 
+ OpenGL Shading Language 
+ OpenGL Multipipe 
+ OpenGL Extension Wrangler Library 
+ MiniGLX 
+ MuPDF 
+ Netpbm 
+ Open Asset Import Library 
+ Object-Oriented Graphics Rendering Engine 
+ Open Inventor 
+ OpenGL Architecture Review Board 
+ Libpng 
+ Libjpeg 
+ OpenGL Easy Extension library 
+ Libpolo 
+ Librsvg 
+ Libtiff 
+ Libx 
+ Lightweight Java Game Library 
+ Little CMS 
+ Mantle 
+ ImageMagick 
+ Mesa Computer Graphics 
+ J2K-Codec 
+ IRIS GL 
+ Immediate Mode Computer Graphics 
+ Java OpenGL 
+ Java 2D 
+ Khronos Group 
+ Kakadu 
+ JavaScript InfoVis Toolkit 
+ ILNumerics.Net 
+ Grassroots DICOM Library 
+ GRASP GL Library Format 
+ GraphicsMagick 
+ Graphics32 
+ Graphics Device Interface 
+ Gosu Library 
+ Google Chart API 
+ Gnuplotfortran 
+ GLScene 
+ Libart 
+ Freeglut 
+ FreeHEP 
+ Gallium3D 
+ ANGLE 
+ Framewave 
+ Framebuffer Object 
+ Flash-Based 3D Graphics Engines 
+ Fahrenheit Graphics API 
+ DISLIN 
+ DirectFB 
+ DirectDraw 
+ Direct2D 
+ DevIL 
+ CyberGraphX 
+ Glitz 
+ GLFW 
+ Glbinding 
+ GIMP Drawing Kit 
+ Generic Graphics Library 
+ General Polygon Clipper 
+ GD Graphics Library 
+ Apple Graphics Library 
+ ARToolKit 
+ ARB Assembly Language 
+ Borland Graphics Interface 
+ Batik 
+ Axiis 
+ Open Wonderland 
+ Ogre4j 
+ Gamebryo 
+ Flare3D 
+ Croquet Project 
+ Coin3D 
+ Ardor3D 
+ Core OpenGL 
+ WinG 
+ X Toolkit Intrinsics 
+ X3D 
+ Xgl 
+ High-Level 3D APIs 
+ JavaScript-Based 3D Graphic Engines 
+ Matrox Simple Interface 
+ Adobe Font Development Kit for OpenType 
+ Accelerated Indirect GLX 
+ General-Purpose Computing on Graphics Processing Units 
+ Chromium Computer Graphics 
+ Core Image 
+ WGL API 
+ Simple DirectMedia Layer 
+ Visualization Library 
+ Pigment 
+ PGPlot 
+ OpenVG 
+ VirtualGL 
+ Vertex Buffer Object 
+ Utah GLX 
+ SVGALib 
+ Simple and Fast Multimedia Library 
+ Renesis Player 
+ SDL Collide 
+ RenderWare 
+ RenderMan 
+ QuickDraw GX 
+ QuickDraw 3D 
+ QuickDraw 
+ Quadruple D 
+ Quartz 2D 
+ Skia Graphics Engine 
+ Vega Prime 
+ WebGL 
+ X3DOM 
+ Pyxplot 
+ Python Imaging Library 
+ Pygame 
+ Programmer Hierarchical Interactive Graphics System 
+ PlayCanvas 
+ Pixel Buffer 
+ Plotutils 
+ Three.js 
+ StormEngineC 
+ Redline Graphics API 
+ Stage3D 
+ QSDK 
+ PSGL 
+ PLIB 
+ Papervision3D 
+ OpenSceneGraph 
+ OpenSG 
+ OpenGL Performer 
+ OGRE 
+ OpenGL 
+ OpenGL ES 
+ O3D 
+ Oak3D 
+ JT Open 
+ Mantle API 
+ Matrix Simple Interface 
+ Mobile 3D Graphics API 
+ Java 3D 
+ JMonkey Engine 
+ Irrlicht Engine 
+ Horde3D 
+ HOOPS 3D Graphics System 
+ GNM API 
+ GNMX 
+ Crystal Space 
+ Direct3D 
+ Glide API 
+ ClanLib 
+ CopperLicht 
+ Away3D 
+ Making Build and Release 
+ Server Side Programming 
+ Technology Selection 
+ Unit Testing 
+ Analyzing Functional Requirement 
+ Architecting the System 
+ Coding 
+ Compiling Code 
+ Debugging 
+ Defining Technical Specifications 
+ Frontend Programming 
+ ShiVa 
+ Turbulenz 
+ Unity 3D 
+ Unreal 
+ Cocos2D 
+ Construct2 
+ CryEngine 
+ Flixel 
+ FPS creator Reloaded 
+ Gamemaker 
+ GameSalad 
+ Havok Vision Engine 
+ HeroEngine 
+ Leadwerks 
+ Marmalade 
+ Phaser 
+ Project Anarchy 
+ Reach3dx 
+ App Game Kit 
+ BigWorld 
+ Tesla Microarchitecture 
+ TeraScale Microarchitecture 
+ RapidMind 
+ Nvidia Tesla 
+ OpenCL 
+ Radeon HD 8000 Series 
+ Stream Processing 
+ Renderscript 
+ RCUDA 
+ Lib Sh 
+ Jacket 
+ IWOCL 
+ Graphics Processing Unit 
+ Graphics Core Next 
+ GPULib 
+ DirectCompute 
+ CUDA Pinned Memory 
+ CUDA 
+ Codeplay 
+ Close to Metal 
+ C++ AMP 
+ BrookGPU 
+ AMD FireStream 
+ AMD Stream SDK 
+ AccelerEyes 
+ Acceleware 
+ AMD App SDK 
+ Smalltalk 
+ SWIFT 
+ Turbo C 
+ VB.NET 
+ VBA 
+ Verilog 
+ VHDL 
+ Visual C++ 
+ XPath 
+ Xtend 
+ SED 
+ Scheme 
+ Scala 
+ Rust 
+ Ruby 
+ R 
+ Python 
+ Prolog 
+ Pro*C/C++ 
+ Pike 
+ Perl 
+ PHP 
+ LISP 
+ Lua 
+ Mathematical Markup Language 
+ MATLAB 
+ Microcontroller Programming 
+ PASCAL 
+ OCaml 
+ Objective C 
+ Nimrod 
+ Icon 
+ JAVA 
+ Julia 
+ Kotlin 
+ Haskell 
+ Haxe 
+ Falcon 
+ Fantom 
+ FastCGI 
+ Forth 
+ Fortran 
+ Go 
+ Groovy 
+ C++ 
+ Ceylon 
+ CGI 
+ Clojure 
+ COBOL 
+ D 
+ Dart 
+ Embedded C 
+ Embedded C++ 
+ Erlang 
+ Euphoria 
+ F# 
+ Factor 
+ Awk 
+ C 
+ C# 
+ Ada 
+ Algol 
+ ActionScript 
+ Writing Compilers 
+ Socket Programming 
+ Protocol Development 
+ Kernel Programming 
+ Assembly Programming 
+ Writing Device Drivers 
+ Microprocessor / Microcontroller Providers 
+ Microprocessor / Microcontroller Category 
+ Microsoft Technologies 
+ ORM 
+ Network Operating System 
+ Operating System Shells 
+ Operating System 
+ Debugging Tools 
+ Database 
+ Compilers and IDE 
+ Code Analysis Tools / Software 
+ Build and Release / Version Control Tools 
+ Real-Time Operating Systems 
+ Bug and Issue Tracking Tools 
+ Assembly Languages 
+ Unit Testing 
+ Technology Selection 
+ Making Build and Release 
+ Server Side Programming 
+ Analyzing Functional Requirement 
+ Architecting the System 
+ Coding 
+ Compiling Code 
+ Debugging 
+ Defining Technical Specifications 
+ Verilog 
+ VHDL 
+ Visual C++ 
+ XPath 
+ Xtend 
+ Smalltalk 
+ SWIFT 
+ Turbo C 
+ VB.NET 
+ VBA 
+ R 
+ Ruby 
+ Rust 
+ Scala 
+ Scheme 
+ SED 
+ PHP 
+ Pike 
+ Pro*C/C++ 
+ Prolog 
+ Python 
+ Objective C 
+ OCaml 
+ PASCAL 
+ Perl 
+ Mathematical Markup Language 
+ MATLAB 
+ Microcontroller Programming 
+ Nimrod 
+ Kotlin 
+ LISP 
+ Lua 
+ Groovy 
+ Haskell 
+ Haxe 
+ Icon 
+ JAVA 
+ Julia 
+ Fortran 
+ Go 
+ Erlang 
+ Euphoria 
+ F# 
+ Factor 
+ Falcon 
+ Fantom 
+ FastCGI 
+ Forth 
+ CGI 
+ Clojure 
+ COBOL 
+ D 
+ Dart 
+ Embedded C 
+ Embedded C++ 
+ Ceylon 
+ C# 
+ C++ 
+ C 
+ Awk 
+ Algol 
+ Ada 
+ ActionScript 
+ X/OS 
+ OS390 
+ MVS 
+ VisionPlus 
+ Hogan 
+ Cardpac 
+ Cogen 
+ VSAML 
+ IMS 
+ VSAM 
+ DB2 
+ Natural Language Processing 
+ NATURAL 
+ CLIST 
+ Common Business Oriented Language 
+ NLP 
+ Job Control Language 
+ REXX 
+ CICS 
+ ASSEMBLER 
+ Analyzing Functional Requirement 
+ Architecting the System 
+ natural language understanding 
+ Coding 
+ Compiling Code 
+ Debugging 
+ Defining Technical Specifications 
+ Frontend Programming 
+ Making Build and Release 
+ Server Side Programming 
+ Technology Selection 
+ Unit Testing 
+ Database for IoT 
+ IoT Hardware Tools 
+ IoT Development Tools 
+ IoT Operating System 
+ IoT Middleware Tools 
+ IoT Platforms 
+ IoT Concepts 
+ Newts 
+ OpenTSDB 
+ Prometheus 
+ Riak TS 
+ RRDtool 
+ SiteWhere 
+ TempoIQ 
+ TimeSeries.Guru 
+ Axibase 
+ Blueflood 
+ Cityzen Data 
+ Druid 
+ Graphite 
+ Hawkular Metrics 
+ Infiniflux 
+ InfluxDB 
+ KairosDB 
+ UDOO 
+ WeIO 
+ WIZnet 
+ OpenPicus FlyPortPRO 
+ Pinoccio 
+ RasWIK 
+ SODAQ 
+ Tessel 
+ Arduino 
+ BeagleBoard 
+ Flutter 
+ Intel Galileo 
+ Local Motors Connected Car 
+ Microduino 
+ OpenADC 
+ OpenMote 
+ Eclipse IoT Project 
+ KinomaJS 
+ M2MLabs Mainspring 
+ Node-RED 
+ TinyOS 
+ Tizen 
+ Raspbian 
+ RIOT 
+ Snappy Ubuntu Core 
+ Contiki 
+ eLinux 
+ FreeRTOS 
+ mbed 
+ Nimbits 
+ OpenIoT 
+ OpenRemote 
+ AllJoyn 
+ Kaa 
+ Mango 
+ Webinos 
+ Zetta 
+ ThingSpeak 
+ SiteWhere 
+ Particle 
+ OpenWSN 
+ IoT Toolkit 
+ Devicehub.net 
+ Arduino 
+ Database Support 
+ Database Upgrade 
+ Disaster Recovery 
+ High Availability 
+ Implementing Database Builds/Deployments 
+ Storage Layout Design 
+ User Management 
+ RAC Administration 
+ Managing Database Instances 
+ Database Monitoring & Performance Tuning 
+ Database Creation 
+ Database Migration 
+ Database Consolidation 
+ Database Backup and Recovery 
+ Data Management 
+ Capacity Planning 
+ Capacity Analysis & Planning 
+ Automation using Enterprise Tools 
+ Business Requirement Analysis 
+ Business Continuity Planning 
+ Microsoft SQL Server 
+ IBM DB2 
+ Oracle 
+ MySql 
+ Teradata 
+ MongoDB 
+ 1010data 
+ Accumulo 
+ Aerospike 
+ AllegroGraph 
+ Amazon DynamoDB 
+ Amazon Redshift 
+ Amazon SimpleDB 
+ Apache Cassandra 
+ ArangoDB 
+ Berkeley DB 
+ Blazegraph 
+ CitusDB 
+ Cloudant 
+ Clustrix 
+ Couchbase 
+ CouchDB 
+ DATACOM/DB 
+ Datomic 
+ dBase 
+ Ehcache 
+ Empress 
+ EnterpriseDB 
+ Event Store 
+ Firebird 
+ GemFire 
+ Giraph 
+ Google BigQuery 
+ Google Cloud Big Table 
+ Google Cloud Datastore 
+ GraphDB 
+ Greenplum 
+ GridGain 
+ H2 Database 
+ HAWQ 
+ HazelCast Database 
+ Hbase 
+ HIVE 
+ Hypertable 
+ IDMS 
+ Impala 
+ IMS 
+ InfiniDB 
+ Infinispan 
+ InfiniteGraph 
+ Infobright 
+ Informix 
+ Ingres 
+ Interbase 
+ Jackrabbit 
+ Kdb+ 
+ Kognitio 
+ LevelDB 
+ MariaDB 
+ MaxDB 
+ Memcached 
+ MemSQL 
+ Microsoft Access 
+ Microsoft Azure SQL Database 
+ MSQL 
+ NCache 
+ Neo4J Database 
+ Netezza 
+ NuoDB 
+ ObjectStore 
+ Oracle Coherence 
+ OrientDB 
+ ParAccel 
+ Percona Server 
+ Postgres-XL 
+ PostgreSQL Database 
+ Project Voldemort 
+ RavenDB 
+ RBase 
+ Redis Database 
+ RethinkDB 
+ RocksDB 
+ SAP HANA 
+ SAP IQ 
+ SAP SQL Anywhere 
+ ScyllaDB 
+ SolidDB 
+ Spark SQL 
+ Splice Machine 
+ SQLBase 
+ SQLite 
+ Sqrrl 
+ Stardog 
+ Teradata Aster 
+ TimesTen 
+ TokuMX 
+ Vertica 
+ Logisim 
+ LateX 
+ VistaDB 
+ VoltDB 
+ WebScaleSQL 
+ Database 
+ Data Modeling Tools 
+ Data Mining and Machine Learning Software 
+ Search Applications 
+ Big Data 
+ BI Tools 
+ MySql 
+ WebScaleSQL 
+ VoltDB 
+ VistaDB 
+ Vertica 
+ TokuMX 
+ TimesTen 
+ Teradata Aster 
+ Teradata 
+ Stardog 
+ Sqrrl 
+ SQLite 
+ SQLBase 
+ SolidDB 
+ Spark SQL 
+ Splice Machine 
+ ScyllaDB 
+ SAP SQL Anywhere 
+ SAP IQ 
+ SAP HANA 
+ RocksDB 
+ RethinkDB 
+ Redis Database 
+ RBase 
+ Percona Server 
+ PostgreSQL Database 
+ Postgres-XL 
+ Project Voldemort 
+ RavenDB 
+ ParAccel 
+ OrientDB 
+ MongoDB 
+ MSQL 
+ NCache 
+ Neo4J Database 
+ Netezza 
+ NuoDB 
+ ObjectStore 
+ Oracle 
+ Oracle Coherence 
+ Microsoft Azure SQL Database 
+ Microsoft SQL Server 
+ Microsoft Access 
+ LevelDB 
+ MariaDB 
+ MaxDB 
+ Memcached 
+ MemSQL 
+ Kdb+ 
+ Kognitio 
+ IBM DB2 
+ IDMS 
+ Impala 
+ IMS 
+ InfiniDB 
+ Infinispan 
+ InfiniteGraph 
+ Infobright 
+ Informix 
+ Ingres 
+ Interbase 
+ Jackrabbit 
+ HAWQ 
+ HazelCast Database 
+ Hbase 
+ HIVE 
+ Hypertable 
+ H2 Database 
+ GraphDB 
+ GridGain 
+ Greenplum 
+ Google Cloud Datastore 
+ Google Cloud Big Table 
+ Google BigQuery 
+ Giraph 
+ GemFire 
+ Firebird 
+ Event Store 
+ EnterpriseDB 
+ Empress 
+ Ehcache 
+ dBase 
+ Datomic 
+ DATACOM/DB 
+ CouchDB 
+ Couchbase 
+ Clustrix 
+ Cloudant 
+ CitusDB 
+ Blazegraph 
+ Berkeley DB 
+ ArangoDB 
+ Apache Cassandra 
+ Amazon Redshift 
+ Amazon SimpleDB 
+ 1010data 
+ Accumulo 
+ Aerospike 
+ AllegroGraph 
+ Amazon DynamoDB 
+ Software Ideas Modeler 
+ SQLyog 
+ Toad Data Modeler 
+ Together JDesigner 
+ Warehouse Architect 
+ Xcase 
+ PowerDesigner 
+ Oracle Designer 
+ Oracle SQL Developer Data Modeler 
+ Power Design 
+ InfoSphere Data Architect 
+ INGENIAS 
+ ModelRight 
+ MySQL Workbench 
+ Navicat Data Modeler 
+ Open ModelSphere 
+ Feature Selection Toolbox 
+ ER/Studio 
+ Enterprise Architect 
+ BiZZdesign Architect 
+ BMC 
+ CA ERwin Data Modeler 
+ Database Deployment Manager 
+ Database Workbench 
+ Devgems Data Modeler 
+ DeZign for Databases 
+ Druid Database Designer 
+ Embarcadero 
+ Yooreeka 
+ Vowpal Wabbit 
+ Waffles 
+ Weka 
+ VIGRA 
+ Tanagra 
+ Theano 
+ Torch 
+ Shogun Toolbox 
+ SolveIT Software 
+ SPSS Modeler 
+ Orange 
+ Pipeline Pilot 
+ Piranha 
+ R 
+ Rattle GUI 
+ Scikit-Learn 
+ Self-Service Semantic Suite 
+ OpenNN 
+ Oracle Data Mining 
+ Monte Carlo Machine Learning Library 
+ ND4J 
+ NetMiner 
+ Never-Ending Language Learning 
+ Massive Online Analysis 
+ MeeMix 
+ ML-Flex 
+ MLPACK C++ Library 
+ Mlpy 
+ Malle 
+ KNIME 
+ Lattice Miner 
+ Jubatus 
+ Ilastik 
+ ELKI 
+ Encog 
+ FICO 
+ GNU Octave 
+ GraphLab 
+ Deeplearning4j 
+ Dlib 
+ DataRush 
+ CellCognition 
+ DADiSP 
+ Anne OTate 
+ Apache Giraph 
+ Apache Mahout 
+ Apache Spark 
+ Astrostatistics 
+ Caffe 
+ Sphinx 
+ Solr 
+ Nutch 
+ Hibernate Search 
+ Lucene 
+ FAST 
+ Endeca 
+ ElasticSearch 
+ Autonomy 
+ Zookeeper 
+ YARN 
+ Microsoft Azure HDInsight 
+ MongoDB Database 
+ Unica 
+ Streams 
+ SToRM 
+ Sqoop 
+ Splumk 
+ Spark Streaming 
+ Solr 
+ Riak 
+ Pig 
+ OOZIE 
+ MapReduce 
+ Kx Systems KDB 
+ HIVE 
+ Hue 
+ Kafka 
+ HDFS 
+ Hadoop 
+ Facebook Presto 
+ Flume 
+ Google BigQuery 
+ Hbase 
+ Fluke 
+ Apache Cassandra 
+ Apache CouchDB 
+ Apache Flume 
+ Apache HCatalog 
+ BigInsights 
+ Cloudera Impala 
+ DataStax 
+ Apache Accumulo 
+ Aginity 
+ Accumulo 
+ Zoho Reports 
+ Yellowfin BI 
+ TACTIC 
+ TARGIT BI 
+ Teradata 
+ Xcelsius 
+ XLCubed 
+ Tableau 
+ Splunk 
+ Spotfire 
+ Sybase IQ 
+ Roambi 
+ SAP NetWeaver Business Intelligence 
+ Siebel 
+ SiSense 
+ Phocas Software 
+ Plotly 
+ Qlik 
+ Quantrix 
+ R 
+ RapidMiner 
+ SpagoBI 
+ Pentaho 
+ Pervasive DataRush 
+ Oracle Hyperion 
+ Panorama Software 
+ MicroStrategy 
+ MyReport 
+ Oracle Business Intelligence Enterprise Edition - OBIEE 
+ Oracle Essbase 
+ Logi Analytics 
+ Looker 
+ Microsoft PerformancePoint Server 2007 
+ Microsoft Power Pivot 
+ Microsoft Proclarity 
+ Microsoft SQL Server Analysis Services 
+ Microsoft SQL Server Reporting Services 
+ Jedox 
+ Klipfolio Dashboard 
+ LIONsolver 
+ Lighthouse 
+ KNIME 
+ Lavastorm 
+ JasperReports 
+ InfoZoom 
+ JackBe 
+ Information Builders 
+ IBM Netezza 
+ icCube 
+ InetSoft 
+ Grapheur 
+ GoodData 
+ Eclipse BIRT Project 
+ Dundas Data Visualization 
+ Domo 
+ Dimensional Insight 
+ Decision Support Panel 
+ datapine 
+ Datacopia 
+ Cognos 
+ ComArch 
+ D3.js 
+ Data Applied 
+ Business Objects 
+ AnyChart 
+ ApeSoft 
+ Biml 
+ ActiveReports 
+ Actuate 
+ Virtualization 
+ Server Optimization 
+ Server Security Administration 
+ Provisioning 
+ Installation & Configuration of Computer & Peripherals 
+ Backup and Recovery 
+ Developing Application Architecture 
+ Developing Data Architecture 
+ Developing Infrastructure Architecture 
+ Developing System Architecture 
+ Developing System Documentation 
+ Translating Business Requirements to Technical Requirements 
+ Selection of Technologies 
+ Selection of Architecture Framework 
+ Managing Change Requests 
+ Developing Technology Architecture 
+ Analyzing and Resolving System Issues 
+ Defining Standards and Metrics 
+ Software as a Service 
+ Unified Communications as a Service 
+ Database as a Service 
+ Identity as a Service 
+ Infrastructure as a Service 
+ Network as a Service 
+ Platform as a Service 
+ Data as a Service 
+ Private Cloud 
+ Public Cloud 
+ Multi Cloud 
+ Inter Cloud 
+ Community Cloud 
+ Distributed Cloud 
+ Hybrid Cloud 
+ OpenStack 
+ Amazon Cloud Services 
+ Microsoft Azure 
+ Rackspace 
+ vCloud Air 
+ VMWare 
+ AWS 
+ CLoudFactory 
+ Google Cloud 
+ Heroku 
+ IBM Cloud 
+ Monitoring Servers 
+ Scripting for automation 
+ Configuration Management 
+ Deploying Servers 
+ Monitoring Network 
+ Monitoring Servers 
+ Scripting for automation 
+ Configuration Management 
+ Deploying Servers 
+ Monitoring Network 
+ Disc Image Software 
+ Network Layer Firewalls 
+ Network Components / Equipments 
+ Load Balancers 
+ Gateway / Routing / Firewall Distribution 
+ Cluster Management Technologies 
+ Network Monitoring Tools 
+ Network Security Tools 
+ Network Utilities 
+ Streaming data / Complex Events Processing (CEP) Tools 
+ Infrastructure Automation 
+ Content Delivery Network 
+ Operating System Shells 
+ Operating System 
+ HACMP Administration 
+ HP Unix Administration 
+ Windows Server Administration 
+ Sun Solaris Admin 
+ RHEL Administration 
+ AS/400 Administration 
+ IBM AIX Administration 
+ Finacle 
+ Performance Testing 
+ Regression Testing 
+ Resilience Testing 
+ Scalability Testing 
+ Security Testing 
+ Stress Testing 
+ System Integration Testing 
+ System Testing 
+ Unit Testing 
+ Usability Testing 
+ User Acceptance Testing 
+ Volume Testing 
+ Web Testing 
+ Penetration Testing 
+ Operational Acceptance Testing 
+ Manual Testing 
+ Load Testing 
+ Dot Net 
+ .NET 
+ API Testing 
+ Automated Testing 
+ Black-Box Testing 
+ Compatibility Testing 
+ Functional Testing 
+ Integration Acceptance Testing 
+ Integration Testing 
+ Keyword-Driven Testing 
+ Desktop Application Testing 
+ Embedded Software Testing 
+ ETL Testing 
+ Mobile Application Testing 
+ Web Application Testing 
+ API Testing 
+ Creating Test Strategy 
+ File/ Submit Bugs 
+ Perform Analysis of Bugs 
+ Perform Testing 
+ Writing Scripts / Scripting 
+ Writing Test Cases 
+ Writing Test Plan 
+ Usability Testing Tools 
+ Load Testing Tools 
+ Automation Testing Tools 
+ IOS Mobile Testing Tools 
+ Code Analysis Tools / Software 
+ Bug and Issue Tracking Tools 
+ Agile Testing Tools 
+ Android mobile testing tools 
+ Uxpunk 
+ UserZoom 
+ UserEcho 
+ usabilla 
+ Usabilia 
+ Spur 
+ Silverback 
+ Pingdom 
+ Qualaroo 
+ Optimizely 
+ optimalworkshop 
+ mouseflow 
+ loop11 
+ ManyContacts 
+ iPerceptions 
+ kampyle 
+ Gtmetrix 
+ IntuitionHQ 
+ Camtasia 
+ BrowserShots 
+ Google Page Speed Tools 
+ Good webmaster Tools 
+ GhostRec 
+ Crazy Egg 
+ ClickTale 
+ clickheat 
+ Simora 
+ SLOB 
+ swingbench 
+ Tsung 
+ VSO cloud Load 
+ WAPT 
+ Webserver Stress Tool 
+ LoadUI 
+ Locust 
+ Neo load 
+ Oracle Real Application Testing 
+ orion 
+ sandstorm 
+ loadstorm 
+ loadimpact 
+ Loadster 
+ loadfocus 
+ Loader 
+ IO subsystem 
+ JMeter 
+ Load2Test 
+ hammerdb 
+ HP loadrunner 
+ HP Stromrunner 
+ funkload 
+ Agileload 
+ ApacheBench 
+ AppPerfect 
+ Benchmark Factory 
+ blazemeter 
+ blitz 
+ Testing Anywhere 
+ testingwhiz 
+ TestPartner 
+ WatiN 
+ Watir 
+ Xnee 
+ TestComplete 
+ TestCafe 
+ Test Studio 
+ Sahi 
+ Selenium 
+ SilkTest 
+ SOAtest 
+ Squish 
+ Ranorex 
+ Robot Framework 
+ Rational Functional Tester 
+ QTP UFT 
+ QF-Test 
+ maveryx 
+ IMacros 
+ IcuTest 
+ AutoIt 
+ eggPlant 
+ Ascentialtest 
+ UIAutomation 
+ FoneMonkey 
+ Frankk 
+ IOS-driver 
+ Keep It Functional 
+ Remote TestKit 
+ Calabash-IOS 
+ Valgrind 
+ VB Watch 
+ Vector FabricsPareon 
+ VectorCast 
+ Veracode 
+ Visual Studio Team System 
+ Yasca 
+ StyleCop 
+ ThreadSafe 
+ Pylint 
+ Rpmlint 
+ Semmle 
+ SIMMON 
+ SIMON (Batch Interactive Test/Debug) 
+ SLAM Project 
+ SonarJ 
+ SonarQube 
+ Soot 
+ Sotoarc/Sotograph 
+ SQuORE 
+ Splint 
+ Sparse 
+ PVS-Studio 
+ Protecode 
+ Purify 
+ Polyspace 
+ PMD 
+ Perl Critic 
+ PerlTidy 
+ PC-Lint 
+ Perl Based Static Code Analysis Tools 
+ Parasoft dotTEST 
+ Parasoft Insure++ 
+ ObjectWeb ASM 
+ Opa Static Code Analysis Tool 
+ OpenPAT 
+ Packaging Based Static Code Analysis Tools 
+ Padre 
+ Parasoft 
+ Parasoft C/C++ Test 
+ Jacoco 
+ JArchitect 
+ JSHint 
+ JSLint 
+ JTest 
+ Klocwork 
+ Klocwork Insight 
+ LDRA Testbed 
+ Lint 
+ Moose 
+ NDepend 
+ Intel Parallel Inspector 
+ IntelliJ IDEA Code Inspectors 
+ GrammaTech CodeSonar 
+ HP Fortify Static Code Analyzer 
+ HP Security Suite 
+ IBM OLIVER (CICS Interactive Test/Debug) 
+ Imagix 4D 
+ IBM Rational AppScan 
+ Google Closure Compiler 
+ Gerrit 
+ Gcov 
+ ECLAIR 
+ Eclipse CODAN 
+ EMMA 
+ ESC/Java2 
+ FindBugs 
+ Fluctuat 
+ Formal Methods Based Static Code Analysis Tools 
+ Frama-C 
+ FxCop 
+ DynInst 
+ DMS Software Reengineering Toolkit 
+ Dmalloc 
+ Daikon 
+ Cppcheck 
+ Coverity 
+ Coverity SAVE 
+ Continuous Quality Assessment Toolkit 
+ CodeRush 
+ Coccinelle 
+ CodeIt.Right 
+ CodePeer 
+ Cobertura 
+ ClearSQL 
+ CLAIR 
+ Clang 
+ Cigital SecureAssist 
+ Checkstyle 
+ Cenzic 
+ CAST Application Intelligence Platform 
+ Black Duck Suite 
+ Axivion Bauhaus Suite 
+ Berkeley Lazy Abstraction Software Verification Tool 
+ .NET Compiler Platform 
+ AdaControl 
+ AgileJ StructureViews 
+ Visual Studio Lab Management 
+ Visual Studio Test Professional 
+ Web Help Desk 
+ YouTrack 
+ Visual Studio Application Lifecycle Management 
+ Visual Intercept 
+ Request Tracker 
+ Roundup 
+ SourceForge 
+ Supportworks 
+ SysAid Technologies 
+ Team Foundation Server 
+ Team Track 
+ Test Director 
+ The Bug Genie 
+ Tiki Wiki CMS Groupware 
+ Trac 
+ Usersnap 
+ Vantive 
+ Razor Configuration Management 
+ Redmine 
+ Rational ClearQuest 
+ Phabricator 
+ Plain Ticket 
+ Open-source Ticket Request System 
+ Mantis Bug Tracker 
+ OpenProject 
+ Endeavour Software Project Management 
+ FogBugz 
+ Fossil 
+ GitHub 
+ GitLab 
+ GLPI 
+ Mantis 
+ Liberum Help Desk 
+ Kayako 
+ JIRA 
+ HEAT 
+ Hansoft 
+ Google Moderator 
+ Brimir Help Desk Software 
+ Bugzilla 
+ CDETS 
+ ClearQuest 
+ CollabNet 
+ Debbugs 
+ D-tracker 
+ Apache Allura 
+ Apache Bloodhound 
+ Bontq 
+ Axosoft 
+ qTrace 
+ Snagit 
+ Usersnap 
+ Bug Shooting 
+ BugDigger 
+ Bonfire 
+ UiAutomater 
+ Robotium 
+ Selendroid 
+ Roboelectric 
+ Ranorex 
+ Monkop 
+ monkeyrunner 
+ Material Design principles 
+ Web Content Accessibility Guidelines 20 
+ Human Interface Guidelines 
+ Wireframing 
+ User Scenarios 
+ Heuristic Evaluation 
+ Usability Engineering 
+ User Experience Design 
+ Card Sorting 
+ Contextual Inquiry 
+ Testing for performance 
+ Scripting 
+ Testing for Compatibility across device 
+ Developing the Concept 
+ Confirming to Standards 
+ Converting Design to Code 
+ Creating prototype / Mockups 
+ Creating Wireframe 
+ Designing 
+ UX Toolbox 
+ Solidify 
+ Simulify 
+ RWD Wireframes 
+ Realizer 
+ proto.in 
+ Mockups.me 
+ Mockup Designer 
+ Mockup Builder 
+ Mockingbird 
+ ClickDummy 
+ Concept.ly 
+ Creately 
+ ForeUI 
+ Frame Box 
+ Framer 
+ Indigo Studio 
+ inVision 
+ JumpChart 
+ Lovely Charts 
+ Lumzy 
+ Marvel 
+ Mockabilly 
+ Cacoo 
+ Blocks 
+ Appery.io 
+ Rivets 
+ SASS 
+ Stencil 
+ Underscore 
+ Underscore.js 
+ Vue.js 
+ Wireless Markup Language 
+ XHTML 
+ XML 
+ Nun 
+ Parrot 
+ Polymer 
+ React.js 
+ Reactive.js 
+ RIOT 
+ Node.js 
+ Node-asyncEJS 
+ Meteor.js 
+ Mu 
+ Mustache 
+ Marko 
+ LASS 
+ Javascript 
+ jQuery 
+ JQuote2 
+ Kite 
+ KnockoutJS 
+ HTML 
+ HTML5 
+ io.js 
+ Jade 
+ Handlebars 
+ Grunt 
+ HAML-JS 
+ GULP 
+ EmberJS 
+ BackboneJS 
+ Blocks.js 
+ Bootstrap 
+ Closure 
+ CSS 
+ EJS 
+ Dust 
+ Dot 
+ Deku 
+ CSS3 
+ AngularJS 
+ Dreamweaver 
+ Adobe Dreamweaver 
+ Corel Draw 
+ Web Developer 
+ Hype 
+ Quark Xpress 
+ Adobe RoboHelp 
+ Adobe Acrobat 
+ Adobe After Effects 
+ Adobe Premiere 
+ Adobe Photoshop 
+ Adobe InDesign 
+ Adobe Illustrator 
+ Adobe FreeHand 
+ Adobe FrameMaker 
+ Adobe Fireworks 
+ Adobe Creative Suite 
+ Adobe Captivate 
+ Analytical Thinking 
+ Judgement of Time and Effort 
+ Eye for detail 
+ Network Support 
+ Network Administration 
+ REST 
+ Network Engineering 
+ Network Security 
+ Tools & Technologies 
+ L1 Support 
+ TAC 
+ L3 Support 
+ L2 Support 
+ Network Protocols Management 
+ Network Security 
+ Setting up Network Connections 
+ Configuration of Client Components 
+ Configuration of Network Components 
+ Configuration of Service Components 
+ Network Load Balancing 
+ Network Monitoring 
+ Monitoring Security 
+ Implementing Application Security Measures 
+ Configuring Security Tools 
+ Virtual Private Network Connection 
+ Delete Network Connections 
+ Dial-up or ISDN connection 
+ Enabling or Disabling Network Connections 
+ Renaming Network Connections 
+ Configuration of Incoming Connections 
+ Creating Network Connections 
+ Servers 
+ Shared Printers and Other Peripherals 
+ Workstations 
+ Secure, Quick, Reliable Login 
+ Security Accounts Manager 
+ Windows Azure Access Control Service 
+ Central Authentication Service 
+ NuCaptcha 
+ PassWindow 
+ ReCAPTCHA 
+ Radiator RADIUS server 
+ Enigform 
+ FoxT ServerControl 
+ Idex ASA 
+ IVisitor 
+ Local Security Authority Subsystem Service 
+ Suricata Software 
+ Sucuri 
+ Snort Software 
+ Samhain Software 
+ Prelude Hybrid IDS 
+ Network Tap 
+ OSSEC 
+ Verisys 
+ Bro Software 
+ Open Source Tripwire 
+ Sagan Software 
+ Theta Networks DPI Software 
+ Network Intelligence 
+ Packet Analyzer 
+ Procera Networks DPI 
+ V-NetLink 
+ V-Load Director 
+ Stonesoft Network Security 
+ Radware Network Security 
+ NetScout Systems 
+ EFLAG 
+ Endace 
+ Front Porch 
+ NebuAd 
+ Authentication 
+ Intrusion Detection System 
+ Intrusion Prevention Systems 
+ Security Firewalls 
+ Network Behavior Analysis 
+ Proxy Server Firewalls 
+ Application-Layer Firewalls 
+ Network Address Translation 
+ Packet Filters Firewalls 
+ Tripwire 
+ WireShark 
+ THC Hydra 
+ Tcpdump 
+ Suricata The Network IDS/IPS 
+ Sysinternals 
+ OWASP Zed Attack Proxy 
+ Retina 
+ Samurai Web Testing Framework 
+ Scapy 
+ Sguil 
+ Snort 
+ sqlmap 
+ Stormpath 
+ John the Ripper 
+ Juniper SRX Firewall 
+ Kismet 
+ Maltego Radium 
+ McAfee.com 
+ ModSecurity 
+ Nessus 
+ Netcat 
+ Netsparker 
+ Nexpose 
+ Nikto 
+ Nipper 
+ Nmap 
+ OpenVPN 
+ OSSEC HIDS 
+ OSSIM 
+ Honeyd 
+ Hping 
+ Core Impact 
+ Dumpsec 
+ Ettercap 
+ Fierce Domain Scan 
+ Advanced Intrusion Detection Environment 
+ Aircrack 
+ ArcSight Enterprise Security Manager 
+ BackTrack 
+ Burp Suite 
+ Cain & Abel 
+ Cisco Adaptive Security Appliance 
+ Cisco ASA 1000V 
+ Cisco ASA-5585-X 
+ Developing Statistical Model 
+ Testing Model for Reliability 
+ Decode Cryptic Messages 
+ Developing Algorithm for Encryption 
+ Streaming data / Complex Events Processing (CEP) Tools 
+ Wireless Security Protocols 
+ Network Access Control 
+ Load Balancers 
+ Identity Management Systems 
+ Gateways 
+ Gateway / Routing / Firewall Distribution 
+ Firewall Software 
+ Firewalls 
+ Endpoint Systems 
+ Email Encryption Protocols 
+ Endpoint Security Solutions 
+ Authentication Tools 
+ Network Components / Equipments 
+ Network Monitoring Tools 
+ Network Layer Firewalls 
+ Wireless Network Architecture 
+ Web Application Firewall 
+ Unified Communications Platforms 
+ Streaming Protocols 
+ Routers and Switches 
+ Operating System Shells 
+ Operating System 
+ Network Utilities 
+ Network Service Components 
+ Network Security Tools 
+ Network Operating System 
+ Authentication Standards / Protocols 
+ F5 
+ Citrix 
+ A10 
+ IE 802.1x 
+ WPA2 
+ EAP 
+ Access Control Server 
+ ACLs 
+ Cisco Identity Services Engine 
+ Personal Data Service 
+ SAP NetWeaver Identity Management 
+ Security Assertion Markup Language 
+ Security Token Service 
+ Self-Service Password Reset 
+ User Provisioning Software 
+ User-Managed Access 
+ Windows Identity Foundation 
+ WS-Federation 
+ WS-Trust 
+ Password synchronization 
+ MaXware 
+ Microsoft Identity Integration Server 
+ NetIQ Identity Manager 
+ OneLogin 
+ OpenIDM 
+ Identity Verification Service 
+ Imprivata 
+ Identity Provider 
+ IBM Tivoli Identity Manager 
+ IBM Tivoli Access Manager 
+ Hitachi ID Identity Manager 
+ Ganymede Software 
+ Ganymede 
+ ForgeRock 
+ FreeIPA 
+ Forefront Identity Manager 
+ Federated identity 
+ Cisco ISE 
+ Centrify 
+ Athens Access and Identity Management Service 
+ Multiservice Media Gateway 
+ Network Gateway 
+ Service Delivery Gateway 
+ Voice Gateways 
+ VoIP Gateways 
+ Broadband Network Gateway 
+ SmoothWall 
+ SonicWall 
+ Sophos 
+ Sphirewall 
+ Threenix 
+ Tomato Firmware 
+ Trustix 
+ Untangle 
+ VNS3 
+ Vyatta 
+ VyOS 
+ Windows RRAS 
+ X-Wrt 
+ Zentyal 
+ Zeroshell 
+ SME Server 
+ Sentry Firewall 
+ SmartRouter 
+ Simplewall 
+ pfSense 
+ OS/VX 
+ OPNsense 
+ OpenWrt 
+ Halon Security 
+ IPCop 
+ IPFire 
+ Linux Embedded Appliance Framework Project 
+ Linux Router Project 
+ Mikrotik RouterOS 
+ monowall 
+ Openwall 
+ ClearOS 
+ Coyote Linux 
+ DD-WRT 
+ Devil-Linux 
+ EdgeOS 
+ Genugate 
+ FreeWRT 
+ FREESCO 
+ floppyfw 
+ fli4l 
+ EnGarde Secure Linux 
+ Endian Firewall 
+ ClarkConnect 
+ BSD Router Project 
+ Amazingports 
+ Bifrost Network Project 
+ Alpine Linux 
+ ZoneAlarm 
+ ZoneAlarm Z100G 
+ Zorp Firewall 
+ XML Firewall 
+ Windows Live OneCare 
+ Windows Firewall 
+ WANSecure Firewall 
+ Trend Micro Internet Security 
+ Traffic Inspector 
+ Tiny Software 
+ Symantec Endpoint Protection 
+ Sunbelt Personal Firewall 
+ Shorewall 
+ PF Firewall 
+ PeerGuardian 
+ Outpost Security Suite 
+ NetDefender 
+ Netfilter 
+ Nftables 
+ NIST RBAC Model 
+ Norton 360 
+ Norton Personal Firewall 
+ Novell BorderManager 
+ NPF Firewall 
+ NuFW 
+ Online Armor Personal Firewall 
+ PeerBlock 
+ Outpost Firewall Pro 
+ NetBarrier X4 
+ MoBlock 
+ ModSecurity 
+ IPFilter 
+ Ipfirewall 
+ Iptables 
+ Jetico Personal Firewall 
+ Kerio Control 
+ Microsoft Forefront Threat Management Gateway 
+ McAfee Personal Firewall Plus 
+ Matousec 
+ L7-Filter 
+ Little Snitch 
+ Glasswire 
+ Ipchains 
+ Avira 
+ Barracuda Networks 
+ Check Point Integrity 
+ Cisco FWSM 
+ Context-Based Access Control 
+ FireHOL 
+ Firestarter Firewall 
+ Arptables 
+ Bluecoat 
+ CheckPoint 
+ Cisco 
+ Cisco ASA 
+ CloudPassage 
+ Dome9 
+ FireEye 
+ Fortinet 
+ Juniper 
+ Palo Alto 
+ SonicWall 
+ UTM 
+ Websense 
+ Web Conferencing Systems 
+ Voicemail Systems 
+ Voice Systems 
+ Call Center 
+ Call Recording Systems 
+ Computer Telephony Integration 
+ IVRs 
+ Audio Conferencing Systems 
+ TLS 
+ Bitmessage 
+ Galaxkey 
+ Identity Based Encryption 
+ Mail Sessions Encryption 
+ OpenPGP 
+ S/MIME 
+ MalwareBytes 
+ McAfee 
+ Norton 
+ Symantec 
+ TrendMicro 
+ Webroot 
+ Dell Defender 
+ EMC RSA Authentication Manager 
+ Okta Verify 
+ RSA SecurID 
+ SafeNet Authentication 
+ SecureAuth IdP 
+ Symantec Validation and ID Protection Service 
+ Vasco IDENTIKEY 
+ CA Strong Authentication 
+ Wireless Access Points 
+ Wireless Network interface Controller 
+ Modems 
+ Multi Layer Switches 
+ Multiplexer 
+ Network Address Translator 
+ Network Interface Controller 
+ Protocol Converter 
+ Repeaters 
+ Routers 
+ Servers 
+ Switches 
+ Transceivers 
+ Line Driver 
+ Hubs 
+ ISDN Adapters 
+ Bridge Router 
+ Bridges 
+ Channel Service Unit/Data Service Unit 
+ Firewalls 
+ Gateways 
+ Zenoss Core 
+ Wireshark 
+ Telnet/SSH 
+ WatchGuard 
+ Traceroute 
+ Syslog Viewer 
+ Switch Port Mapper 
+ SmartPhone GUI 
+ Microsoft Network Monitor 
+ Nagios 
+ Netflow 
+ Netmon 
+ Network Sniffer 
+ NetworkMiner 
+ OpenNMS 
+ OPManager 
+ Palo Alto 
+ Pandora FMS 
+ PRTG 
+ Real Time Graphs 
+ Remote Desktop Connection 
+ Remote Process Diagnostics 
+ Riverbed Netprofiler 
+ SonicWALL 
+ Solarwinds 
+ SNMP MibBrowser 
+ Sniffer pro 
+ Scrutinize 
+ ICMP Ping 
+ Intermapper 
+ IPMonitor 
+ HttpWatch 
+ HP Open View 
+ Eventlog 
+ Fiddler 
+ Cisco Works LMS 
+ Advanced IP Scanner 
+ IPFilter 
+ Ipfw 
+ Iptables 
+ Linux IP Firewalling Chains 
+ Nftables 
+ NPF 
+ PF 
+ pfSense 
+ VLR 
+ VMS 
+ SMSC 
+ MSC 
+ BSC 
+ BTS 
+ EIR 
+ HLR 
+ AUC 
+ Imperva 
+ Citrix Netscaler 
+ Polycom 
+ ShoreTel 
+ Siemems 
+ Synergy Sky 
+ Teleware 
+ Toshiba 
+ Mitel Networks 
+ NEC 
+ Cisco Unified Contact Center 
+ Digium 
+ Huawei Technologies 
+ IBM 
+ Interactive Intelligence 
+ Aastra Technologies 
+ Acano 
+ Alcatel Lucent 
+ Avaya 
+ RTSP 
+ RTP 
+ RTCP 
+ ADB 
+ DDMS 
+ Cisco Routers 3700 
+ Cisco Routers 7200 
+ Cisco Switches Catalyst 1900 
+ Cisco Switches Catalyst 2900 
+ Cisco Switches Catalyst 2950 
+ Cisco Switches Catalyst 3550 
+ Cisco Switches Catalyst 3560 
+ Cisco Switches Catalyst 4500 
+ Cisco Switches Nexus 5500 
+ Cisco Switches Nexus 7000 
+ Cisco Routers 3600 
+ Cisco Routers 2900 
+ Cisco Routers 2800 
+ Cisco Routers 2600 
+ Cisco Routers 1800 
+ Cisco Routers 1900 
+ Cisco Routers 2500 
+ Z Shell 
+ Powershell 
+ RC Shell 
+ Remote Shell 
+ Scheme Shell 
+ Stand-Alone Shell 
+ TENEX C Shell 
+ Korn Shell 
+ Friendly Interactive Shell 
+ Emacs Shell 
+ Debian Almquist Shell 
+ Ch Shell 
+ C Shell 
+ Bourne Shell 
+ Bash Unix Shell 
+ Almquist shell 
+ Windows 
+ Linux 
+ IBM 
+ HP 
+ Citrix Xen 
+ Apple 
+ UNIX 
+ VyOS 
+ VMS 
+ SmartOS 
+ Solaris 
+ Symbian OS 
+ Tizen 
+ SGI IRIX 
+ Samba-Server 
+ SCO-Unix 
+ Novell NetWare 
+ Open webOS 
+ OpenBSD 
+ OpenWrt 
+ OS/2 
+ RTOS 
+ NetApp Data ONTAP 
+ MS DOS 
+ Mesosphere Datacenter Operating Center 
+ ICL VME 
+ General Electric Comprehensive Operating System 
+ Mu - Clinux 
+ Android 
+ BlackBerry OS 
+ CoreOS 
+ Express Logic ThreadX 
+ FreeNAS 
+ Windows VISTA 
+ Windows XP 
+ Windows Server 2012 
+ Windows Server 2003 
+ Windows Server 2008 
+ Windows Server 2000 
+ Windows Phone 8 
+ Windows 3.x 
+ Windows 7 
+ Windows 8 
+ Windows 95 
+ Windows 98 
+ Windows CE 
+ Windows ME 
+ Windows Mobile 
+ Windows NT 
+ Windows Phone 
+ Windows Phone 7 
+ Windows 2000 
+ Windows 2000 Professional 
+ Windows 2003 
+ Red Hat Linux 
+ Scientific Linux 
+ SuSE Linux 
+ Ubuntu Linux 
+ Linux AMI 
+ Oracle Linux 
+ LAMP-System 
+ Open Linux 
+ Fedora 
+ GNOME 
+ KDE 
+ Knoppix 
+ CentOS 
+ Debian Linux 
+ Embedded Linux 
+ AIX 
+ i5/OS 
+ MVS 
+ OS/400 
+ z/OS 
+ HP Tru64 UNIX 
+ HP-UX 
+ HP OpenVMS 
+ Citrix Metaframe 
+ Citrix Presentation Server 
+ iOS 
+ Mac OS 
+ Mac OS X 
+ Mac OS X Server 
+ True64 UNIX 
+ IRIX 
+ Open UNIX 
+ POSIX 
+ SINIX / Reliant UNIX 
+ Free-BSD 
+ rsync 
+ telnet 
+ traceroute 
+ tracert 
+ wget 
+ whois 
+ ARP 
+ dig 
+ finger 
+ Hypertherm 
+ ipconfig 
+ netstat 
+ nmap 
+ nslookup 
+ ping 
+ Instant Messaging 
+ Internet 
+ Online Game 
+ Printing 
+ Simple Network Management Protocol 
+ Time Service 
+ Video on Demand 
+ Video Telephony 
+ Voice over IP 
+ Wireless Sensor Network 
+ File Server 
+ File Sharing 
+ Directory services 
+ Tripwire 
+ WireShark 
+ Retina 
+ Samurai Web Testing Framework 
+ Scapy 
+ Sguil 
+ Snort 
+ sqlmap 
+ Stormpath 
+ Suricata The Network IDS/IPS 
+ Sysinternals 
+ Tcpdump 
+ THC Hydra 
+ OSSEC HIDS 
+ OSSIM 
+ OWASP Zed Attack Proxy 
+ Nmap 
+ OpenVPN 
+ ModSecurity 
+ Nessus 
+ Netcat 
+ Maltego Radium 
+ McAfee.com 
+ Nipper 
+ Nikto 
+ Nexpose 
+ Netsparker 
+ Ettercap 
+ Fierce Domain Scan 
+ Honeyd 
+ Hping 
+ John the Ripper 
+ Juniper SRX Firewall 
+ Kismet 
+ BackTrack 
+ Burp Suite 
+ Cain & Abel 
+ Cisco Adaptive Security Appliance 
+ Cisco ASA 1000V 
+ Cisco ASA-5585-X 
+ Core Impact 
+ Dumpsec 
+ Advanced Intrusion Detection Environment 
+ Aircrack 
+ ArcSight Enterprise Security Manager 
+ Switch Light OS 
+ OcNOS 
+ Open Network Linux 
+ OpenSwitch 
+ PicOS 
+ ProVision 
+ Junos 
+ NX-OS 
+ Conf-D 
+ Cumulus 
+ EOS 
+ FTOS 
+ IOS-SX 
+ IOS-XE 
+ IOS-XR 
+ ComWare 
+ Cisco IOS 
+ Woo Lam 92 Protocol 
+ XCert Universal Database API 
+ TACACS+ 
+ TACACS 
+ Resource Access Control Facility 
+ RFID-Authentication Protocols 
+ Secure Remote Password Protocol 
+ Security Support Provider Interface 
+ Simple Authentication and Security Layer 
+ OAuth 
+ OpenID 
+ OpenID Connect 
+ Password Authentication Protocol 
+ Password-Authenticated Key Agreement Protocols 
+ Pluggable Authentication Modules 
+ Protected Extensible Authentication Protocol 
+ Remote Access Dial In User Service 
+ NT LAN Manager 
+ Kerberos 
+ LAN Manager 
+ MS-CHAP and MS-CHAPv2variants of CHAP 
+ Novell Modular Authentication Service 
+ Java Authentication and Authorization Service 
+ Extensible Authentication Protocol 
+ Generic Security Services API 
+ Host Identity Protocol 
+ BSD Authentication 
+ CAVE-Based-Authentication 
+ Central Authentication Service 
+ Challenge-Handshake Authentication Protocol 
+ Common Data Security Architecture 
+ CRAM-MD5 
+ Diameter 
+ EAuthentication 
+ Authentication and Key Agreement 
+ Access Control Facility 
+ nformation Technology 
+ Accounts & Finance 
+ Banking, Financial Services, Insurance 
+ Engineering & Technology 
+ Manufacturing, Production, Maintenance 
+ Sales & Marketing 
+ Life Sciences 
+ Healthcare, Medicine 
+ Business Management 
+ Fedora 
+ SeleniumIDE 
+ Selenium Web Driver 
+ Log4j 
+ Grid 
+ Test engineer 
+ ISTQB 
+ Windows SQL Server 
+ SQL Server 
+ .VBscript 
+ VB Programming 
+ Structured Control Language 
+ Ladder Logic 
+ C++ Programming 
+ C Programming 
+ Shell DEP 
+ HR Operations / Administration 
+ Recruitment 
+ Industrial Relations / Labor Welfare 
+ Employee Engagement 
+ Compensation & Benefits 
+ Training and Development 
+ Manpower Planning, Deployment, Analytics 
+ HR Information Systems 
+ Organization Change and Development 
+ HR Concepts 
+ HR Certifications 
+ Managing People Dynamics 
+ Customer Service Orientation 
+ Guiding People 
+ Process Orientation 
+ Transaction Processing 
+ Understanding Business Processes 
+ Coordinating 
+ Judgement of People 
+ Resolving Employee Grievances 
+ Tracking Employee Leave, Time, Attendance 
+ Coordinating for Recruitment 
+ Processing Payroll 
+ Offering Employment Contracts and Onboarding 
+ Making Statutory Submissions 
+ Maintaining Employment Records 
+ Maintaining Employee Information 
+ Creating HR Reports 
+ Coordinating Performance Appraisal Process 
+ Conducting Employee Engagement Programs 
+ Addressing Employee Queries 
+ Advising Managers on HR Policies 
+ Selling Skills 
+ Transaction Processing 
+ Understanding Business Processes 
+ Negotiation Skills 
+ Influencing 
+ Customer Service Orientation 
+ Guiding People 
+ Judgement of People 
+ Managing People Dynamics 
+ Coordinating 
+ Generating Job Descriptions 
+ Facilitating Tests 
+ Facilitating Interviews 
+ Requirement Generation 
+ Selection 
+ Sourcing Through 
+ Sourcing 
+ Short listing 
+ Making Offers 
+ Negotiating offers 
+ Onboarding 
+ Screening 
+ Posting Job Descriptions 
+ Senior Level Managers 
+ Middle Level Managers 
+ Freshers 
+ Junior Employees 
+ Interns 
+ CXOs 
+ Social Media 
+ Web / Job Portals 
+ Recruitment Vendors 
+ Lateral Placement 
+ Internal Recruitment 
+ Head Hunting 
+ Campus Recruitment 
+ Company Website 
+ Executive Search 
+ Advertisement campaigns 
+ Problem Solving 
+ Relationship Building 
+ Selling Skills 
+ Understanding Business Processes 
+ Judgement of People 
+ Managing People Dynamics 
+ Customer Service Orientation 
+ Guiding People 
+ Negotiation Skills 
+ Open Office 
+ Time off for family 
+ Workplace Amenities 
+ Working in Nights 
+ Workmen Compensation 
+ ActiveMQ 
+ Working Hours 
+ Wages 
+ Trade Union Recognition 
+ Whistle Blowers 
+ Termination of Employment 
+ Temporary or Contract Employees 
+ Social Welfare Benefits 
+ Superannuation / Retirement 
+ Grievance Resolution 
+ Health and Safety 
+ Human Rights 
+ Industrial Actions 
+ Contract of Employment 
+ Consultation with Employees 
+ Collective Bargaining 
+ Lockout 
+ Settlement Negotiation 
+ Resolving Workers Grievances 
+ Participating in Resolving Industrial Disputes 
+ Maintaining Industrial Hygiene 
+ Maintaining Worker Safety 
+ Managing Union Relationship 
+ Facilitating Workers Welfare 
+ Coordinating 
+ Judgement of People 
+ Managing People Dynamics 
+ Customer Service Orientation 
+ Guiding People 
+ Solving People Problems 
+ Understanding Business Processes 
+ Understanding user Requirements 
+ Fun At Work 
+ Gifts for employees 
+ Social Media 
+ Diversity Management 
+ Employee Communications 
+ Employee Grievance Management 
+ Sexual Harassment 
+ Organizing Events 
+ Onboarding 
+ Intranet 
+ Employee Travel Arrangement 
+ Employee Surveys 
+ Employee Satisfaction Survey 
+ Cross Cultural Assimilation 
+ Catering 
+ Benefits Administration 
+ Typing Processes to Societal Norms 
+ Ranking 
+ Rating Scales 
+ Tying Processes to Local Laws 
+ Tying Processes to Organization Culture 
+ Goal Setting 
+ Linking Performance to Compensation 
+ Linking Performance to Promotions 
+ Customer Service Orientation 
+ Guiding People 
+ Transaction Processing 
+ Understanding Business Processes 
+ Understanding of Trends 
+ Using Spreadsheets / Excel 
+ Judgement of People 
+ Crunching Data 
+ Payroll and Benefits Administration 
+ Collecting Market Intlelligence 
+ Consulting on Comp & Ben 
+ Employee Service on Comp & Ben 
+ Budgeting, Cost Analysis, Analytics 
+ Designing of Compensation and Benefits Policies 
+ Remitting Deductions 
+ Preparing Payroll Reports 
+ Disbursing Salaries 
+ Calculating Salaries 
+ Calculating Tax 
+ Calculating Benefits Payments 
+ Calculating Deductions 
+ Job Pricing and Pay Structures 
+ Job Evaluation Methods 
+ Designing Benefits Programs 
+ Consideration of Economic Factors 
+ Compensation and Benefits Strategy 
+ Budgeting 
+ Accounting Practices related to Comp and Ben 
+ Solutionizing 
+ Understanding Business Processes 
+ Understanding of Trends 
+ Guiding People 
+ Influencing 
+ Researching for Information 
+ Judgement of People 
+ Managing People Dynamics 
+ Customer Service Orientation 
+ SkillSoft 
+ SuccessFactors 
+ TalentLMS 
+ Meridian 
+ Latitude Learning 
+ Litmos 
+ Cornerstone 
+ DigitalChalk 
+ Docebo 
+ Edmodo 
+ eFront 
+ eLogic Learning 
+ Brightspace 
+ Collaborize Classroom 
+ Blackboard 
+ Unizin 
+ WebCT 
+ WebStudy Learning LMS 
+ WebWeaver Suite 
+ XBlock 
+ WeBWorK 
+ Udemy 
+ Totara LMS 
+ TOPYX 
+ TechChange 
+ TCExam 
+ Sclipo 
+ SharePointLMS 
+ Sistema Web de Apoyo a la Docencia 
+ SlideWiki 
+ SSLearn 
+ Sumtotal 
+ Schoology 
+ SAM Learning 
+ Sakai CLE 
+ Sakai Project 
+ Registrar 
+ Saba 
+ Online Learning And Training 
+ Paradiso LMS 
+ Rcampus 
+ Quick Learn Code 
+ PebblePad 
+ LRAL 
+ Moodle 
+ Informatica 
+ Instructure 
+ Joomla LMS 
+ LON-CAPA 
+ ILLIAS 
+ GeoLearning 
+ HotChalk LMS 
+ Eliademy 
+ Fedena 
+ EduWave 
+ EFront eLearning Software 
+ Elgg 
+ DCourseWeb 
+ Democrasoft 
+ Desire2Learn 
+ DoceboLMS 
+ ECollege LMS 
+ ANGEL LMS 
+ ATutor 
+ Blackboard Learning System 
+ Carmun.com 
+ Chamilo 
+ Claroline 
+ Cognifit 
+ CornerStone LMS 
+ CreativeLive 
+ Curriculum Mapping 
+ Self Study 
+ Symposiums 
+ Inhousr program to Internal Facilitators 
+ Inhouse Program to External Facilitators 
+ Self based online program 
+ MOOC 
+ Conferences 
+ External open Programs 
+ Conducting Training 
+ Developing Learning Materials 
+ Facilitating Employee participation in Programs 
+ Identifying Learning Programs 
+ Identifying Training Needs 
+ Assessing Training Effectiveness 
+ Collecting Feed Back 
+ Cross Domain Knowledge 
+ Customer Service Orientation 
+ Data Visualization 
+ Guiding People 
+ Process Orientation 
+ Troubleshooting 
+ Understanding Business Processes 
+ Using Information Technology / Software Tools 
+ Analytical Thinking 
+ User Training 
+ Using HR Systems 
+ Vendor Management 
+ Business Analysis 
+ Change Management 
+ Implementing HR Systems 
+ Administration of HR Systems 
+ Travel Management 
+ Workforce Analytics 
+ Training 
+ Talent Acquisition / Recruitment 
+ Performance Management 
+ Payroll, Benefits 
+ Onboarding 
+ Manpower Allocation 
+ Legal Compliance Management 
+ Employee Information 
+ Attendance, Time, Leave Tracking 
+ Zenefits 
+ Taleo 
+ Workday 
+ SuccessFactors 
+ SAP 
+ Sage 
+ Salesforce 
+ PeopleSoft 
+ Saba 
+ BambooHR 
+ Cornerstone 
+ Jobvite 
+ Kronos 
+ Microsoft Dynamics 
+ Oracle 
+ Understanding Business Processes 
+ Influencing 
+ Problem Solving 
+ Researching for Information 
+ Systems Thinking 
+ Guiding People 
+ Managing People Dynamics 
+ Customer Service Orientation 
+ Judgement of People 
+ Succession Planning 
+ Organization Design 
+ Organization Restructure 
+ HR Audit 
+ Strategic Business Units 
+ Strategic Group Matrix 
+ Organizational lifecycle 
+ Power and Politics 
+ Organization & System Design 
+ Change Management 
+ Job Analysis 
+ Leadership Concepts 
+ Motivation Concepts 
+ Organization Behavior Concepts 
+ Project Management Concepts 
+ Qualitative and Quantitative Methods for Analysis 
+ Types of Organizational Structures 
+ Adult Learning Process 
+ Change Management 
+ Diversity Concepts 
+ WLCP 
+ RPA 
+ SPHR 
+ Tax Certification 
+ QuickBooks Certification 
+ PHR 
+ PRC 
+ Payroll Certification 
+ National Workforce Professional - Tier 3 
+ NFJP Grantee Workforce Professional - Tier 1 
+ National Workforce Professional - Tier 2 
+ MFCC 
+ MFCC/T 
+ MMRW 
+ National Workforce Professional - Tier 1 
+ HRIP 
+ HRMP 
+ IPMA-CP 
+ IPMA-CS 
+ Job Seeker Services - Professional Certification 
+ Management Services - Professional Certification 
+ MCD 
+ GPHR 
+ HRBP 
+ CWPP 
+ CWS 
+ Fiscal Services - Accelerated Package 
+ GBA 
+ Global Remuneration Professional 
+ GMS 
+ CTS 
+ CRSP 
+ CSOP 
+ CTFA 
+ CRS+PR 
+ CRS+TC 
+ CRS+PL 
+ CRS+LL 
+ CRS+NP 
+ CRS+IT 
+ CRS+HR 
+ CRS+HT 
+ CMP 
+ CMRW 
+ CMS 
+ Core Skills Professional Certification 
+ CP 
+ CPB 
+ CPC 
+ CPR 
+ CPRW 
+ CRCM 
+ CRS+AC 
+ CRS+AF 
+ CIRM 
+ CISP 
+ CRS+HM 
+ CRS+FS 
+ CRS+ES 
+ CRS+E 
+ CRS+BD 
+ CMF 
+ CMA 
+ CLBB 
+ CFPIM 
+ CPIM 
+ CSCP 
+ Bookkeepers Certification 
+ Business and Employer Services - Professional Certification 
+ CARW 
+ CBF 
+ CBT 
+ CCP 
+ CCSR 
+ CCTS 
+ CEAP 
+ CEBS 
+ CECP 
+ CEIC 
+ CEIP 
+ CERS 
+ CFMP 
+ CFSSP 
+ Financial Judgement 
+ Transaction Processing 
+ Customer Service Orientation 
+ Analytical Thinking 
+ Using Spreadsheets / Excel 
+ Crunching Data 
+ Eye for detail 
+ Payroll 
+ Cash Management 
+ Book Keeping 
+ Bank Activities 
+ Monitoring AP Aging 
+ Making GL Entry for Invoices 
+ Booking Invoices to Cost Centers 
+ Credit Control 
+ Credit Negotiation 
+ nvoicing 
+ Beta Invoicing 
+ Filing Returns / Forms 
+ Ageing Analysis 
+ Accounting of Receipts in GL 
+ Accounting for Bad Debts 
+ OX Audit 
+ Preparing of Audit Report 
+ Inspecting Remittance of Deductions 
+ Making Recommendations to Management 
+ Inspecting Payments Made 
+ Inspecting Ledger Entries 
+ Inspecting Journal Entries 
+ Inspecting Financial Statements 
+ Inspecting Deductions 
+ Examining Records of Transactions 
+ External Audit 
+ Inspecting Account Books 
+ Tax Audit 
+ Internal Audit 
+ Analyzing Distribution Cost 
+ Analyzing Inventory Cost 
+ Analyzing Manpower Cost 
+ Analyzing Manufacturing Cost 
+ Analyzing Marketing Cost 
+ Cost Center Budgeting 
+ Managing Cost Tracking System 
+ Product Costing 
+ Project Costing 
+ Raw Material Pricing Analysis 
+ Variance Analysis 
+ Project Control 
+ Cost Controlling 
+ Credit Control 
+ Process Control 
+ Cost Centre Monitoring 
+ Cost Analysis 
+ Controlling Sales & Distribution 
+ Controlling of Affiliated Companies 
+ Auditing of Accounts 
+ Revenue Analysis 
+ Variance Analysis - Budget vs Actual 
+ Expense Analysis 
+ Expense Planning 
+ Opex Budgeting 
+ Revenue Forecasting 
+ Analysis of Expenses 
+ Analysis of Financial Statements 
+ Balance Sheet Analysis 
+ Capex Budgeting 
+ Budget Versus Actual Analysis 
+ Analysis of Ratios 
+ Undergoing Audits 
+ Undertaking Audits 
+ Tax Planning 
+ Collection of Tax Certificates 
+ Filing of Returns 
+ Issuing Tax Certificates 
+ Maintaining Forms on Tax Incidence 
+ Making Appeals 
+ Participating in Assessments 
+ Responding to Notices 
+ Applying for Refunds 
+ Cash Forecasting 
+ Cash Management 
+ Cash Position 
+ Debt Management 
+ Financial market operations 
+ Forecasting Currency Requirements 
+ Forex management 
+ Hedging 
+ Investments 
+ Reporting 
+ Risk Management 
+ GIT 
+ Treasury Payment Processing 
+ Working Capital Management 
+ Advertising 
+ Media Production 
+ Publishing 
+ Insurance 
+ Financial Services 
+ Banking 
+ Defense 
+ Judiciary 
+ Law and Order 
+ Public Administration 
+ Revenue 
+ Infrastructure Services 
+ Software Development 
+ Accounting 
+ Automotive Service 
+ Electrical Services 
+ Personal Grooming 
+ Residential Management 
+ Telecom 
+ Internet Service Providers 
+ Supply Chain 
+ Travel 
+ Consulting 
+ Engineering Services 
+ Architecture / Interior 
+ Outsourced Business Process 
+ Maintenance 
+ Individual Contributor 
+ Google Checkout 
+ Realex 
+ CC Avenue 
+ Team Leader 
+ Manager 
+ Department / Function Head 
+ Pay Plus 
+ QuickBooks 
+ Sage 
+ SAP 
+ Tally 
+ Ace 
+ Exactly Gold 
+ Fact 
+ Microsoft Dynamics 
+ Money Ware 
+ Oracle Financials 
+ SRES 
+ SRS 
+ SRTP 
+ TRC 
+ Series 93 - FDIC Division of Resolutions and Receiverships Technical Evaluation 
+ Series 99 - Operations Professional Examination (OS) 
+ SFR 
+ SIOR 
+ SPS 
+ SRA 
+ SREA 
+ Series 92 - FDIC Compliance Technical Evaluation 
+ Series 82 - Private Securities Offerings Representative Examination (PR) 
+ Series 91 - FDIC Safety and Soundness Technical Evaluation 
+ Series 9 - General Securities Sales Supervisor Examination 
+ Series 87 - Research Analyst Examination (RS) 
+ Series 86 - Research Analyst Examination (RS) 
+ Series 66 - Uniform Combined State Law Examination 
+ Series 7 - General Securities Representative Examination (GS) 
+ Series 72 - Government Securities Representative Examination (RG) 
+ Series 79 - Investment Banking Representative Examination (IB) 
+ Series 55 - Equity Trader Examination (ET) 
+ Series 56 - Proprietary Trader Examination (PT) 
+ Series 57 - Securities Trader Examination (TD) 
+ Series 6 - Investment Company and Variable Contracts Products Representative Examination (IR) 
+ Series 62 - Corporate Securities Representative Examination (CS) 
+ Series 63 - Uniform Securities Agent State Law Examination 
+ Series 65 - Uniform Investment Adviser Law Examination 
+ Series 52 - Municipal Securities Representative Examination (MR) 
+ Series 53 - Municipal Securities Principal Examination (MP) 
+ Series 42 - Registered Options Representative Examination (OR) 
+ Series 50 - Municipal Advisor Representative Examination 
+ Series 51 - Municipal Fund Securities Limited Principal Examination 
+ Series 32 - Limited Futures Examination - Regulations 
+ Series 34 - Retail Off-Exchange Forex Examination 
+ Series 37 - Canada Securities Representative Examination (CD) 
+ Series 38 - Canada Securities Representative Examination (CN) 
+ Series 39 - Direct Participation Programs Principal Examination (DP) 
+ Series 4 - Registered Options Principal Examination (OP) 
+ Series 27 - Financial and Operations Principal Exam (FN) 
+ Series 28 - Introducing Broker-Dealer Financial and Operations Principal Examination (FI) 
+ Series 3 - National Commodities Futures Examination 
+ Series 30 - NFA Branch Manager Examination (formerly, Branch Managers Examination Futures) 
+ Series 31 - Futures Managed Funds Examination 
+ Series 24 - General Securities Principal Examination (GP) 
+ Series 26 - Investment Company and Variable Contracts Products Principal Examination (IP) 
+ Series 17 - United Kingdom Securities Representative (IE) 
+ Series 22 - Direct Participation Programs Limited Representative Examination (DR) 
+ Series 23 - General Securities Principal Exam - Sales Supervisor Module (GP) 
+ RM 
+ RRS 
+ RSPS 
+ Series 10 - General Securities Sales Supervisor Examination 
+ Series 11 - Assistant Representative - Order Processing Examination (AR) 
+ Series 14 - Compliance Official Examination (CO) 
+ Series 16 - Supervisory Analysts Examination (SA) 
+ RFS 
+ RI 
+ RFC 
+ REW 
+ RFA 
+ RCE 
+ REDS 
+ REPA 
+ RAA 
+ RCC 
+ PFS 
+ PMN 
+ QSC 
+ MRP 
+ MVA 
+ OICP 
+ PCP 
+ MAFF 
+ MAI 
+ GRI 
+ IRES 
+ LEDAP 
+ LEED 
+ GPA 
+ GREEN 
+ GMS 
+ GCREP 
+ FRM 
+ GAA 
+ FRICS 
+ EPRO 
+ ERPA 
+ FCI 
+ FPC 
+ FRI 
+ EA 
+ EAC 
+ ECO 
+ ECS 
+ CRS 
+ CSEP 
+ CSP 
+ CTP 
+ CVA 
+ DREI 
+ CRMA 
+ CRP 
+ CRPC 
+ CRPS 
+ CRIA 
+ CRA 
+ CRB 
+ CRE 
+ CREA 
+ C-REC 
+ CRES 
+ CRFA 
+ CPP 
+ CPS 
+ CPFO 
+ CPM 
+ CPA 
+ CMC 
+ CMFC 
+ CNA 
+ CNE 
+ CNS 
+ CNHS 
+ CLHMS 
+ CLR 
+ CLTC 
+ CLU 
+ CMA 
+ CMAA 
+ CMAP 
+ CITP 
+ CISA 
+ CIRA 
+ CIPS 
+ CIPM 
+ CIC 
+ CIMA 
+ CIAS 
+ ChFC 
+ CIA 
+ CGM 
+ CGMA 
+ CGB 
+ CGFM 
+ CGAP 
+ CGA 
+ CFS 
+ CFSA 
+ CFP 
+ CFE 
+ CFF 
+ CFFA 
+ CEA 
+ CEBA 
+ Certificate in Loan Review 
+ CExP 
+ CFA 
+ CFD 
+ CDFA 
+ CDFM 
+ CDPE 
+ CBI 
+ CBR 
+ CCE 
+ CCIM 
+ CCSA 
+ CDBV 
+ CAPM 
+ CAPP 
+ CB 
+ CBA 
+ CBF 
+ CAM 
+ CAPA 
+ AVA 
+ BPOR 
+ CA 
+ CAA 
+ CAIA 
+ ATA 
+ ATP 
+ AHS 
+ AHWD 
+ ALC 
+ ALHS 
+ AMLP 
+ AMO 
+ AMS 
+ ARM 
+ ASA 
+ ASP 
+ AAMS 
+ AARE 
+ ABA 
+ ABAR 
+ ABR 
+ ABRM 
+ ABV 
+ ACP 
+ AGA 
+ AAMC 
+ AACI 
+ 5Star 
+ Operation Expense Budgeting 
+ Financial Forecasting 
+ Capital Budgeting 
+ Stock Valuation 
+ Weighted Average of Cost of Capital 
+ Business Valuation 
+ Capital Structure 
+ Cost of Capital 
+ Fundamental Analysis 
+ Real Option 
+ Variance Analysis 
+ Raw Material Pricing Analysis 
+ Product Costing 
+ Project Costing 
+ Analyzing Marketing Cost 
+ Cost Center Budgeting 
+ Managing Cost Tracking System 
+ Analyzing Inventory Cost 
+ Analyzing Manpower Cost 
+ Analyzing Manufacturing Cost 
+ Analyzing Distribution Cost 
+ Profit and Loss Statement Preparation 
+ Expenses and Revenues 
+ Entries to Journals and Ledgers 
+ Balance Sheet Preparation 
+ Debtors and Creditors 
+ Assets and Liabilities 
+ Cash Flow 
+ Balance Sheets 
+ P&L Statement 
+ Financial ratios analysis 
+ Financial forecasts 
+ UK GAAP 
+ US GAAP 
+ EU GAAP 
+ IFRS 
+ IGAAP 
+ VB Programming 
+ Structured Control Language 
+ Ladder Logic 
+ C++ Programming 
+ C Programming 
+ Shell DEP 
+ ISA 
+ ISO 
+ NEMA 
+ NFPA 72 
+ NFPA70/NEC 
+ SABIC 
+ SAES 
+ API 
+ GASCO DGS 
+ IEC 
+ IECEx 
+ Business Development 
+ Customer Relationship Management 
+ B2C Sales 
+ Online promotion 
+ Market Research 

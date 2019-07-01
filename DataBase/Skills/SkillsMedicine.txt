@@ -1,0 +1,645 @@
+Medical
+Health Technology
+Nursing
+Paramedical Care
+Healthcare IT
+Medical Administrative Services
+Medical Coding
+Medical Billing
+Medical Information Processing
+Medical Practice
+Allopathy
+Public Health
+Therapy
+Veterinary Medicine
+Allied Health
+Alternate Medicine
+Orthopedic Prostheses
+Optical Aids
+Medical Devices
+Dental Prostheses
+Auditory Aids
+Mobility Aids
+Orthosis
+Orthopedic Shoes Manufacturing
+Orthopedic Supports
+Arch Shoes
+Foot Extenders
+Inserts
+Orthopedic Corselets
+Contact Lens Technology
+Contact Lenses
+Eyeglass Optics
+Ophthalmic Optics
+Spectacles
+Visual Acuity Assessment
+Binocular Full Correction
+Stent
+Sutures
+Intrauterine Device
+Intraocular Lens
+Joint Replacement
+Pacemaker
+Skin Substitute
+Spine Disk
+Heart Assist Device
+Heart Valve
+Hemodialysis
+Hernia Mesh
+Implantable Defibrillator
+Glaucoma Drain
+Ear Tubes
+Dental Implant
+Corneal Bandage Lens
+Cochlear Prosthesis
+Contact Lens
+Bone Fixation Plates and Screws
+Breast Implant
+Bone Defect Repair
+Bone Cement
+Blood Oxygenator
+Blood Vessel Prosthesis
+Artificial Tendon or Ligament
+Blood Bags
+Artificial Kidney
+Temporary Fillings
+Total Prosthesis
+Model Casting
+Dental Ceramics
+Dental Implants
+Inlays
+Inserts
+Nuclear Medical Technologist
+Perfusionist
+PET-CT
+Phonocardiography
+Radiation Protection Tech
+Radiological Science and Tech
+Respiratory Care Therapy
+Sonography
+Surgical Technologies
+Ultrasonic Diagnostics
+Ultrasound
+MRI
+NMR Tomography
+Genetic Therapy
+Industrial Radiology
+Mammography
+Medical Radiology
+Endoscopy
+Cardiography
+Cardiovascular Functional Diagnosis
+CT
+Diagnostic Radiology
+ECG
+EEG
+EKG
+EMT
+END
+Achievement Tests
+Hematology
+Immunology, Serology
+Parasitology
+Tumor, Cancer Markers
+Examination of Urine
+Examination of Body Fluids
+Examination of Semen
+Endocrinology
+ELISA Test Others
+Clinical Biochemistry
+Bacteriology
+Haemogram
+LE Cell Test
+RBC Count
+RBC Osmotic Fragility
+Reticulocyte count
+Tests for Coagulopathy
+WBC Count
+Foetal Hb%
+Estimation of Hemoglobin
+Erythrocyte Sedimentation Rate
+Differential Leucocyte Count
+Determination of PCV
+Bone Marrow Aspiration
+Blood Stain Preparation
+Blood Group Identification
+Biopsy
+CRP Test
+HIV Test
+Pregnancy Test
+RA Test
+VDRL Test
+WIDAL Test
+Ova and Cysts in Stool Samples
+Stool Examination
+Estimation of Alpha Feto Proteins
+Estimation of CA- 125
+Estimation of Carcino Embryonic Antigen
+Estimation of Prostate Specific Antigen
+Chemical Examination
+Microscopical
+Physical Examination
+Pericardial Fluid
+Peritoneal Fluid
+Pleural
+Joint Fluid
+Hydatid Cyst Fluid
+Bronchoalveolar Lavage Fluid
+CSF
+Morphology
+Motility
+Physical Characters
+Viability
+Estimation of Cortisol
+Estimation of FSH
+Estimation of hCG
+Estimation of LH
+Estimation of Progesterone
+Estimation of T3
+Estimation of T4
+Estimation of Testosterone
+Estimation of TSH
+For Hepatitis (HCV)
+For Hepatitis B (HBsAg)
+For HIV
+Malaria antigen
+Tuberculosis-lgG/IgM
+Serum Gpt (Alt) Estimation
+Serum Potassium Estimation
+Serum Sodium Estimation
+Serum Total Protein Estimation
+Serum Uric Acid Estimation
+Total Cholesterol Estimation
+Triglyceride Estimation
+Serum Globulin Estimation
+Serum Glucose Estimation
+Serum Got (Ast) Estimation
+Serum Bilirubin Direct Estimation
+Serum Bilirubin Total Estimation
+Serum Chloride Estimation
+Serum Creatinine Estimation
+LDL Cholesterol (Direct) Estimation
+Serum Albumin Estimation
+Serum Amylase Estimation
+Estimation of Potassium
+Estimation of SGOT
+Estimation of SGPT
+Estimation of Sodium
+Estimation of TIBC
+Estimation of Triglycerides
+Estimation of Urea
+Estimation of Uric acid
+HDL Cholesterol (Direct) Estimation.
+Estimation of Phosphorus
+Estimation of Magnesium
+Estimation of Iron
+Estimation of LDH
+Estimation of LDL Cholesterol
+Estimation of Hexagon Troponin+
+Estimation of Chlorides
+Estimation of Cholesterol
+Estimation of CK-MB
+Estimation of CK-NAC
+Estimation of Creatinine
+Estimation of Glucose
+Estimation of HDL Cholesterol
+Estimation of Hemoglobin
+Estimation of Calcium
+Estimation of Bilirubin (Total, Direct, Total + Direct)
+Estimation of Blood Urea Nitrogen
+Estimation of Alkaline Phosphatase
+Estimation of Acid Phosphatase
+Estimation of Albumin
+Blood urea estimation
+Ck-Nac Estimation
+Acid Phosphatase Estimation
+Alkaline Phostase Estimation
+Morphological Identification
+Diagnosis of Enteric Fever
+Diagnosis of Leprosy
+High Titre Sera
+Diagnosis of URTI
+Diagnosis of Urinary Tract Infection
+Diagnosis of Tuberculosis
+Diagnosis of Pyogenic Infection
+Diagnosis of LRTI
+Diagnosis of Meningitis
+Diagnosis of Diarrhoeal Diseases
+Diagnosis of Bacillary Dysentery
+Bacterial Staining
+Antibiotic Sensitivity Test
+Ultrasound
+Radiation Protection Tech
+Radiological Science and Tech
+Respiratory Care Therapy
+Sonography
+Surgical Technologies
+Ultrasonic Diagnostics
+Phonocardiography
+Perfusionist
+PET-CT
+NMR Tomography
+END
+Endoscopy
+Genetic Therapy
+Industrial Radiology
+Mammography
+Medical Radiology
+MRI
+EKG
+EMT
+Nuclear Medical Technologist
+Achievement Tests
+Cardiography
+Cardiovascular Functional Diagnosis
+CT
+Diagnostic Radiology
+ECG
+EEG
+Tumor, Cancer Markers
+Bacteriology
+Clinical Biochemistry
+ELISA Test Others
+Endocrinology
+Examination of Body Fluids
+Examination of Semen
+Examination of Urine
+Hematology
+Immunology
+Serology
+Parasitology
+Estimation of Prostate Specific Antigen
+Estimation of Carcino Embryonic Antigen
+Estimation of CA- 125
+Estimation of Alpha Feto Proteins
+Diagnosis of URTI
+High Titre Sera
+Morphological Identification
+Diagnosis of Pyogenic Infection
+Diagnosis of Tuberculosis
+Diagnosis of Urinary Tract Infection
+Diagnosis of Leprosy
+Diagnosis of LRTI
+Diagnosis of Meningitis
+Diagnosis of Enteric Fever
+Diagnosis of Bacillary Dysentery
+Diagnosis of Diarrhoeal Diseases
+Antibiotic Sensitivity Test
+Bacterial Staining
+Serum Uric Acid Estimation
+Total Cholesterol Estimation
+Triglyceride Estimation
+Serum Sodium Estimation
+Serum Total Protein Estimation
+Estimation of Urea
+Estimation of Uric acid
+HDL Cholesterol (Direct) Estimation.
+LDL Cholesterol (Direct) Estimation
+Serum Albumin Estimation
+Serum Amylase Estimation
+Serum Bilirubin Direct Estimation
+Serum Bilirubin Total Estimation
+Serum Chloride Estimation
+Serum Creatinine Estimation
+Serum Globulin Estimation
+Serum Glucose Estimation
+Serum Got (Ast) Estimation
+Serum Gpt (Alt) Estimation
+Serum Potassium Estimation
+Estimation of LDH
+Estimation of LDL Cholesterol
+Estimation of Magnesium
+Estimation of Phosphorus
+Estimation of Potassium
+Estimation of SGOT
+Estimation of SGPT
+Estimation of Sodium
+Estimation of TIBC
+Estimation of Triglycerides
+Estimation of Hemoglobin
+Estimation of Hexagon Troponin+
+Estimation of Iron
+Estimation of HDL Cholesterol
+Estimation of CK-MB
+Estimation of CK-NAC
+Estimation of Creatinine
+Estimation of Glucose
+Estimation of Calcium
+Estimation of Chlorides
+Estimation of Cholesterol
+Estimation of Albumin
+Estimation of Alkaline Phosphatase
+Estimation of Bilirubin (Total, Direct, Total + Direct)
+Estimation of Blood Urea Nitrogen
+Acid Phosphatase Estimation
+Alkaline Phostase Estimation
+Blood urea estimation
+Ck-Nac Estimation
+Estimation of Acid Phosphatase
+For Hepatitis (HCV)
+For Hepatitis B (HBsAg)
+For HIV
+Malaria antigen
+Tuberculosis-lgG/IgM
+Pleural
+Pericardial Fluid
+Peritoneal Fluid
+Joint Fluid
+Bronchoalveolar Lavage Fluid
+CSF
+Hydatid Cyst Fluid
+Foetal Hb%
+WBC Count
+Tests for Coagulopathy
+Reticulocyte count
+RBC Osmotic Fragility
+RBC Count
+LE Cell Test
+Haemogram
+Estimation of Hemoglobin
+Erythrocyte Sedimentation Rate
+Bone Marrow Aspiration
+Determination of PCV
+Differential Leucocyte Count
+Blood Stain Preparation
+Biopsy
+Blood Group Identification
+WIDAL Test
+Pregnancy Test
+RA Test
+VDRL Test
+HIV Test
+CRP Test
+Ova and Cysts in Stool Samples
+Stool Examination
+Midwifery, Ante and Post Natal Care
+Nursing
+Occupational Therapy
+Physiotherapy
+Logopaedics
+First Aid
+Ambulance
+Dietetics
+Antenatal Care
+Baby Care
+Pregnancy Gymnastics
+Neonatal Care
+Natural Birth
+Maternity Care
+Delivery Support
+Urologic Nursing
+X Ray Nursing
+Rural Nurse
+School Nurse
+Substance Abuse Nurse
+Surgical Nurse
+Telemetry Nurse
+Terminal Care Nursing
+Theatre Nursing
+Toxicology Nurse
+Transplant Nurse
+Trauma Nurse
+Travel Nurse
+Rheumatology Nurse
+Reproductive Nurse
+Renal and Dialysis Nursing
+Rehabilitation Nurse
+Radiology Nurse
+Pulmonary Care Nurse
+Public Health Nurse
+Psychiatric Nursing
+Plastic Surgery Nurse
+Perinatal Nurse
+Pediatric Nursing
+Palliative Care Nursing
+Pain Management Nurse
+Orthopedic Nurse
+Occupational Nursing
+Oncology Nursing
+Ophthalmic Nurse
+Obstetrics Nurse
+Nurse Anesthetist
+Nursing Support
+Neuroscience Nurse
+Nephrology Nurse
+Neonatal Intensive Care Nurse
+Missionary Nurse
+Military Nurse
+Midwife
+Long-Term Care Nurse
+Managed Care Nurse
+Labor and Delivery Nurse
+Intensive Care Nursing
+Infusion Nurse
+Hospice Nurse
+Infection Control Nurse
+HIV/AIDS Care Nurse
+Holistic Nurse
+Home Nursing
+Forensic Nurse
+Gastroenterology Nursing
+General Nursing
+Genetics Nurse
+Geriatric Nursing
+Gerontological Nurse
+Gynecology Nurse
+Health Policy Nurse
+Hematology Nurse
+Flight/Transport Nurse
+Emergency Care Nursing
+Family Nurse
+Domestic Violence Nurse
+Diabetes Nurse
+Developmental Disability Nurse
+Dermatology Nurse
+Dental Nursing
+Critical Care Nurse
+Correctional Facility Nurse
+Community Nursing
+Clinical Nurse
+Cardiac Nursing
+Burn Care Nursing
+Acute Care Nursing
+Ambulatory Care Nursing
+Children`s Rehabilitation
+Functionally Handicapped
+Memory Training
+Neurological Occupational Therapy
+Occupational Therapy For Mentally Retarded
+Perception Training
+Psychiatric Occupational Therapy
+Reality Orientation Training
+Sensory Integration Therapy
+Children`s Rehabilitation
+Functionally Handicapped
+Memory Training
+Neurological Occupational Therapy
+Occupational Therapy For Mentally Retarded
+Perception Training
+Psychiatric Occupational Therapy
+Reality Orientation Training
+Sensory Integration Therapy
+Composite Health Care System
+Digital Radiography / Picture Archive System
+AHLTA
+Pharmacy Information System
+HL7 Interfaces / Messages
+Inpatient And Ambulatory Systems
+Health Information Exchange
+Electronic Data Management
+Clinical Terminology Libraries
+Medical Claims Examiner
+Medical Facilities Management
+Medical Insurance Billing and Coding
+Medical Receptionist
+Medical Transcriptionist
+Medical Insurance Services
+Health Management and Clinical Administration
+Healthcare Administration
+Health Information and records Administration
+Health Information Technology
+Citrix Metaframe
+IDX
+Image Now
+CD-10
+HIPAA
+CPT
+HCPCS
+CPC
+Pathology Coding
+Radiology Coding
+Surgery Coding
+Obstetrics, Gynecology Coding
+Cardiology Coding
+Zirmed
+Misys
+Medisoft
+Advantx
+Citrix Xen
+Medical Claims Examiner
+Medical Facilities Management
+Medical Insurance Billing and Coding
+Medical Receptionist
+Medical Transcriptionist
+Medical Insurance Services
+Health Management and Clinical Administration
+Healthcare Administration
+Health Information and records Administration
+Health Information Technology
+	Composite Health Care System
+	Digital Radiography / Picture Archive System
+AHLTA
+Pharmacy Information System
+HL7 Interfaces / Messages
+Inpatient And Ambulatory Systems
+Health Information Exchange
+Electronic Data Management
+Clinical Terminology Libraries
+	Surgery
+	Radiology
+Psychology
+Psychotherapy
+Pediatrics
+Orthopedics
+Ophthalmology
+Neurology
+Oncology
+Internal Medicine
+Gynecology and Obstetrics
+Dermatology / Aesthetics
+Dentistry
+Anesthesiology
+Cardiology
+Psychiatry
+Psychoanalysis
+Endocrinology
+ENT - Otolaryngology
+Public Health Education
+Public Health Medicine, Treatment
+International Health
+Maternal and Child Health
+Medical Scientist
+Occupational Health and Industrial Hygiene
+Preventive Medicine
+Community Health
+Environmental Health
+Health Physics
+Health Services Administration
+	Water Therapy
+	Reflexology Therapy
+Running Therapy
+Sling Table Therapy
+Swallowing and Feeding Therapy
+Ice Therapy
+Inhalation Therapy
+Kinesthetic
+Kneipp Technique
+Massage
+Medical Gymnastics
+Meditation
+Motology
+Music Therapy
+Phototherapy
+Eurythmy
+Feldenkrais Method
+Hippotherapy
+Chiropractic Therapy
+Autogenic Training
+Veterinary Preventive Medicine
+Veterinary Toxicology
+Veterinary Infectious Diseases
+Veterinary Microbiology
+Veterinary Pathology
+Veterinary Biomedical Sciences
+Veterinary Clinical Sciences
+Veterinary Physiology
+Immunobiology
+Laboratory Animal Medicine
+Large Animal and Equine Medicine
+Veterinary Anatomy
+Surgical Technologist
+Respiratory Therapist
+Radiologic Technologist
+Perfusionist
+Phlebotomist
+Pathologists' Assistant
+Orthotist and Prosthetist
+Medical Dosimetrist
+Neurodiagnostic Technologist
+Nuclear Medicine Technologist
+Nurses Aide/Nursing Assistant
+Ophthalmic Laboratory Technician
+Ophthalmic Medical Technician
+Optician (Dispensing)
+Orientation & Mobility Specialist
+Health Information Manager
+Home Care Assistant/Aide
+Medical Coder
+Medical Assistant
+Emergency Medical Technician/Paramedic
+Genetic Counselor
+Health Care Documentation Specialist
+Health Care Interpreter
+Diagnostic Medical Sonographer
+Community Health Worker
+Cytotechnologist
+Clinical Laboratory Scientist/Technician
+Cardiopulmonary Rehabilitation Specialist
+Cardiovascular Technologist/Technician
+Blood Bank Technology Specialist
+Anesthesiologist Assistant
+Traditional Chinese Medicine
+Tibetan Medicine
+Magnet Therapy
+Naturopathy
+Iris Diagnosis
+Ayurveda
+Bach Flower Therapy
+Hypnotherapy
+Homeopathy
+Herbal Treatments
+Chi Nei Tsang
+Alexander Technique
+Aromatherapy
+Acupressure
+Acupuncture	

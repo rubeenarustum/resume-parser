@@ -1,0 +1,4486 @@
+PLCs
+PLC 
+SCADA Programming
+Measurement Instruments
+Human Machine Interface HMI Application Development
+Drives
+DCS
+Control Panel Design
+Analytical Instruments
+Actuators
+Providers
+VB Programming
+Structured Control Language
+Ladder Logic
+C++ Programming
+C Programming
+Process Simulation
+Shell DEP
+ISA
+ISO
+NEMA
+NFPA 72
+NFPA70
+NEC
+SABIC
+SAES
+API
+GASCO DGS
+IEC
+IECEx
+ABB
+Emerson
+Honeywell
+NetApp
+DeviceNet
+Foundation Fieldbus
+HART
+Modbus
+Profibus
+AS-i
+Siemens
+ABB
+NetApp
+Rockwell Automation
+Invensys
+NetApp
+GE Fanuc
+ABB
+VFD
+DC Drives
+AC Drives
+Force
+Torque
+Speed
+Density
+Temperature
+Vibration
+Viscosity
+Acceleration
+pH
+Humidity
+Noise
+Flow
+Level
+Pressure
+PH meter
+Polarimeter
+Total Organic Carbon Analyzer 
+TOC
+UV Visible Spectrophotometer
+Viscometer
+Particle Sizing System
+Osmometer
+Mass Spectrometer
+Karl Fischer 
+KF
+Fluorescent Imaging Plate Reader
+FLIPR
+Fourier Transform Infrared Spectroscopy
+FTIR
+Gas Chromatography
+High Performance Liquid Chromatography
+HPLC
+Ion Chromatography
+Dissolution
+Conductivity Meter
+Autotitrator
+Atomic Absorbance Spectrophotometer
+Analytical balance
+Cross Domain Knowledge
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Being Current on Latest Functional Developments
+Scientific Temperament
+Analytical Thinking 
+Creative Thinking 
+Tekla
+Vesuite
+Vflo
+WAFLEX
+WAMIT
+SmartDO
+SolidWorks
+STAAD
+Stadium
+Siemens NX
+RF Microwave CAE CAD
+Sherlock Automated Design Analysis
+SDC Verifier
+Optimus Platform
+RecurDyn
+Range Software
+Pumplinx
+PTC Creo Elements
+Pro
+PowerEsim
+PLPAK
+Phoenix Integration
+NEi Software
+METRIC
+modeFRONTIER
+MSC Software
+MADYMO
+IntelliCAD
+Integrated Design of Loadings Model
+Evaluation of Loadings Model
+Assessment of Loadings Model
+Indirect Optimization on the basis of Self-Organization
+HyperSizer
+INCA
+InCa3D
+Hydrological Transport Model
+GRAITEC Advance
+HBV Hydrology Model
+Hierarchical Evolutionary Engineering Design POST
+Hierarchical Evolutionary Engineering Design System MDO
+Hierarchical Evolutionary Engineering Design System NP
+GRAITEC
+EMSO Simulator
+Extreme Loading for Structures
+FEMtools
+GNU Archimedes
+EDWinXP
+CANalyzer
+CANape
+CANoe
+CATIA
+Civil Designer
+Dynamic Stream Simulation and Assessment Model
+EcosimPro
+Cadec-online.com
+Calculix
+Altair Process Manager
+ANSA Pre-Processor
+AutoTURN
+Advance Design
+Advance Steel
+Advanced Continuous Simulation Language
+Altair Data Manager
+Advance Concrete
+Cimatron
+Computer Aided Engineering
+Computer Aided Design
+MathCAD
+Autodesk Plant3D
+Xilink ISE
+WorkXPlore 3D
+WorkNC-CAD Hybrid Modeling
+Visioncivil
+WorkNC
+Virtual Home Design Software
+Verde Pulgar
+VGACAD
+ViewPoint 3D
+Vectorworks
+VDA-FS CAD Data Exchange Format
+Tecnomatix
+Tekla
+Tekla Structures
+TeleCAD-GIS
+Terrain Tools
+Terramove
+T-FLEX CAD
+TiffinCAD
+TopSolid
+Trajpar
+TransMagic
+VariCAD
+Universal File Format
+UNISURF
+TurboCAD
+T-Square Software
+Tebis
+Spatial Corp
+SolveSpace
+SpaceClaim
+SolidWorks
+solidThinking
+Solid Modeling Solutions
+Solid Edge
+Softree Optimal
+SmartGeometry
+SmartDO
+SketchUp
+SIGraDi
+Siemens NX
+Sedcad
+Sescoi
+Scan2CAD
+SAMoCAD
+RUCAPS
+Rockworks
+Rhinoceros 3D
+RoadEng
+RFEM
+Render Plus Systems
+RF Microwave CAE CAD
+RecurDyn
+Pulsonix
+PTC Creo Elements
+Pro
+progeCAD
+ProjectWise
+Process Integration and Design Optimization
+Pro
+DESKTOP
+Prime Computer
+Plant Design Management System
+Plate Optimizer
+Power Systems CAD
+Parasolid
+PCon.planner
+Organice
+OrthoGraph
+OptiY
+Optimus Platform
+Objet Geometries
+Netcad
+NedInfra
+Navisworks
+Nastran
+MSC Software
+NAFEMS Standards
+Motor-CAD
+MPDS4
+modeFRONTIER
+Modelur
+Mimics
+MacDraft
+ME10
+MEDUSA
+Mental Images
+MeshLab
+Microstation
+Kimeme
+Landscape Express
+LibreCAD
+JACK
+JT
+Initial Graphics Exchange Specification
+IntelliCAD
+KernelCAD
+HICAD
+HyperSizer
+ICAD
+IChrome
+IDEA Architectural
+I-DEAS
+InCa3D
+GRAITEC Advance
+Grasshopper 3D
+GstarCAD
+Indirect Optimization on the basis of Self-Organization
+GenerativeComponents
+GCAD3D
+FS Design Studio
+Gable CAD
+Delcam
+DESI-III
+Digigraphics
+Digital Project
+Drawing Express
+Easyroad Cadwork
+EDWinXP
+Electric
+Electrical CAD
+Eneas
+Euclid
+Evolver
+FastCAD
+FINE MEP
+Daxcad
+David Laserscanner
+DataCAD
+Data Design System
+DAC-1
+Constructivity Model Viewer
+Computervision
+BRL-CAD
+CAADRIA
+CADAM
+Caddie
+CADKEY
+Cadwork
+Campaign Cartographer
+CATIA
+Chief Architect Software
+Cimatron
+Claris CAD
+CloudCompare
+Cobalt
+CodeBook
+Bricscad
+Bobcad
+AVSnap
+AutoTURN
+AVEVA
+AutoSketch
+Autodesk Revit
+Autodesk Vault
+AutoLISP
+AutoQ3D Community
+AutoShade
+AutoCAD Architecture
+AutoCAST
+Autodesk 123D
+Autodesk Alias
+Autodesk Alias Surface
+Autodesk Inventor
+Autodesk Maya
+ArchiCAD
+Architectural Geometry
+Architecture Design and Assessment System
+ARRIS CAD
+ArtiosCAD
+AutoCAD
+AllyCAD
+Altera Quartus
+Applicon
+Alibre Design
+Advance Design
+Advance Steel
+Adobe Atmosphere
+Advance Concrete
+3D Catalog Technology
+Computer Aided Engineering
+Computer Aided Design
+Stent
+Sutures
+Skin Substitute
+Spine Disk
+Pacemaker
+Intraocular Lens
+Joint Replacement
+Intrauterine Device
+Implantable Defribilator
+Hernia Mesh
+Hemodialysis
+Heart Assist Device
+Heart Valve
+Glaucoma Drain
+Dental Implant
+Ear Tubes
+Contact Lens
+Corneal Bandage Lens
+Cochlear Prosthesis
+Catheter
+Breast Implant
+Bone Defect Repair
+Bone Fixation Plates and Screws
+Bone Cement
+Artificial Tendon or Ligament
+Blood Bags
+Blood Oxegenator
+Blood Vessel Prosthesis
+Artificial Kidney
+Ti Based Alloys
+Treated Natural Tissue
+Teflon
+Polypropylene
+Polyurethane
+Polyvinyl Chloride
+Silicone
+Stainless Steels
+Polymethyl Methacrylate
+Polylactic Acid
+Polyethylene
+Polyester Fiber
+Platinum
+Polydioxanone
+Hydroxyapatite Glass Ceramics Carbons
+Pharmaceutical Polymers
+Carbon
+Co Based Alloys
+Dacron
+Hydrogels
+Calcium Phosphate
+Aluminum Oxides
+Acrylate
+Polymers
+Silicone
+Titanium Alloys
+Bio Materials
+Ceramics
+Ferrous Alloys
+Metallic Glasses
+Non Ferrous Metals
+Beams
+Columns
+Different forces such as tension
+Trusses
+Electrical Properties of Biomaterials
+Optical Properties of Biomaterials
+Physical Properties of Biomaterials
+Thermal Properties of Biomaterials
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Being Current on Latest Functional Developments
+Scientific Temperament
+Analytical Thinking 
+Creative Thinking 
+Cross Domain Knowledge
+Problem Solving
+Roboforge
+RoboLogix
+Robotics Toolbox for MATLAB
+Simbad Robot Simulator
+SimSpark
+Webots
+AnimatLab
+AnyKode Marilou
+HoTDeC
+MindRover
+TinyLily
+Trinket
+Unduino
+Versalino Uno
+Vinculo
+Wireless Widget
+ZB1
+TinyDuino
+TheUno
+Teensy++
+Sparrow
+Spider Controller
+Stampduino
+Stickduino
+STM32 Nucleo
+SunDuino2
+SunDuinoPIC
+Tah
+Teensy
+Sippino
+SODAQ Mbili
+Serial Arduino
+Seeeduino Mega
+Rota Vector
+Sakura Board
+Sanguino
+Pneumatic Artificial Muscles
+PRO Family
+Rainbowduino
+Really Bare Bones Board
+Robotc
+PicoDuino
+Pinguino
+Oak Micros om328p
+OBDuino
+OpenEnergyMonitor emonTx
+OpenTag
+panStamp
+Paperduino
+Photoreflector
+PIC.duino Net
+Netduino
+Nymph
+NavSpark
+NB2A
+NB1A
+Motoruino
+Microduino
+Moteino
+Lamina Emergent Mechanism
+LCDuino
+Leaflabs Maple
+LEDuino
+LeoStick
+Lightuino
+LilyPad Arduino
+Microchip ChipKIT Uno32
+iDuino
+IMUduino
+Intel Galileo
+Io-duino
+JeeNode
+Freeduino NANO
+Freeduino Serial
+Freeduino USB Mega 2560
+FreescaleFreedom
+Goldilocks
+Handy Board
+Crumbuino-Mega
+Crumbuino-Nano
+Cypress PSoC 4 Pioneer Kit
+DFRobotShop Rover
+Digispark
+DragonFly
+DYNAMIXEL
+Energia
+Faraduino
+Femtoduino
+FEZ Domino
+FEZ Panda
+FEZ Panda II
+Firebird32
+FlyDuino Mega
+Freeduino Lite v2
+Croduino Basic
+Chipino
+ChipKIT Max32
+CMUcam
+Colibri
+Cortino
+Arduino Zero
+Cardboarduino
+Breeze
+Breaduino
+Boarduino
+Breadstick
+BigBrother-USB
+BigBrother
+Bare Bones Board
+Banguino
+Bambino 210
+ArduPilot
+ArduPhone
+Arduinome
+Arduino USB
+Arduino Uno
+Arduino Pro Mini
+Arduino Shield Compatible Propeller Board
+Arduino Pro
+Arduino NG Plus
+Arduino NG
+Arduino Nano
+Arduino Micro
+Arduino Mega2560
+Arduino Mega ADK
+Arduino Mega
+Arduino Leonardo
+Arduino Fio
+Arduino Ethernet
+Arduino Extreme
+.NET Gadgeteer
+Amicus18
+ArduCopter
+ArduIMU
+Arduino
+Arduino Bluetooth
+Arduino Diecimila
+Arduino Due
+Arduino Duemilanove
+Arduino Esplora
+WSFN Programming Language
+Variable Assembly Language
+RobotML
+UrbiScript
+Planner Programming Language
+Not Quite C
+Not eXactly C
+Next Byte Codes
+Logo Programming Language
+EusLisp Robot Programming Language
+LeJOS
+Action Description Language
+Enchanting Programming Language
+VxWorks
+Robotics Middleware
+Robot Operating System
+NxtOSEK
+BrickOS
+Robotis Bioloid
+Stiquito
+Tetrix Robotics Kit
+The Robotic Workshop
+VEX Robotics Design System
+WonderBorg
+Lego Mindstorms EV3
+Lego Mindstorms NXT
+Lego Mindstorms NXT 2.0
+MANOI PF01
+Programmable Cricket
+Qfix Robot Kit
+Lego Mindstorms
+I-Bot
+Braigo
+Boe-Bot
+Servo
+Subsumption
+Symbolic Architecture
+Subsumption Architecture
+Three-Layer Architecture
+Self-Reconfiguring Modular Robot
+Sense Plan Act
+Joint Architecture for Unmanned Systems
+Distributed Architecture for Mobile Navigation
+Hierarchical Control System
+Joint Architecture for Unmanned Ground Systems
+Object Action Complex
+Mibe Architecture
+Agent Architecture
+ATLANTIS Architecture
+Autonomous Robot Architecture
+Care-Providing Robot FRIEND
+Zero Moment Point
+Wake-Up Robot Problem
+Visibility Graph
+Vector Field Histogram
+Unicycle Cart
+Underactuation
+Telerobotics
+Teleoperation
+Particle Filter
+Pose Computer Vision
+Probabilistic Roadmap
+Rapidly Exploring Random Tree
+Robot Calibration
+Robot Learning
+Self-Righting Mechanism
+Sensory-Motor Map
+Stochastic Roadmap Simulation
+Kalman Filter
+Kidnapped Robot Problem
+Manipulability Ellipsoid
+Monte Carlo POMDP
+Navigation Function
+Obstacle Avoidance
+Odometry
+Chebyshev Kutzbach Criterion
+Common Normal
+Covariance Intersection
+D* Incremental Search Algorithm
+Denavit Hartenberg Parameters
+Developmental Robotics
+Dynamic Window Approach
+Envelope Motion
+Joint Compatibility Branch and Bound
+Incremental Heuristic Search
+Inverse Dynamics
+Extended Kalman Filter
+Exploration Problem
+Boustrophedon Cell Decomposition
+3D Pose Estimation
+Adaptive Collaborative Control
+Velocity Obstacle
+Articulated Robot
+Cartesian Coordinate Robot
+Degrees of Freedom
+Delta Robot
+Forward Kinematics
+Hexapod
+Inverse Kinematics
+Jansen`s Linkage
+Joint Constraints
+Kinematic Chain
+Kinematics Equations
+Kinodynamic Planning
+Klann Linkage
+Motion Planning
+Open Motion Planning Library
+Parallel Manipulator
+Passive Dynamics
+Pfaffian Constraint
+Stewart Platform
+Six Degrees of Freedom
+Serial Manipulator
+Schoenflies Displacement
+Arm Solution
+321 Kinematic Structure
+Bio-Inspired Robotics
+Hexapod
+Terradynamics
+Star World
+Simultaneous Localization and Mapping
+Sphere World
+Robotic Mapping
+Any-Angle Path Planning
+AVM Navigator
+Forest of Stars
+Iterative Closest Point
+Mobile Robot Navigation
+Monte Carlo Localization
+Occupancy Grid Mapping
+Visual Servoing
+Visual Odometry
+Virtual Fixture
+Stereo Cameras
+Electronic Skin
+Lidar
+Machine Olfaction
+Sensitive Skin
+Sensor Fusion
+Robot Architectures
+Robot Control
+Robot Kinematics
+Robot Locomotion
+Robot Navigation
+Robotic Sensing
+Being Current on Latest Functional Developments
+Scientific Temperament
+Using Information Technology
+Software Tools
+Numerical Ability 
+Problem Solving
+Systems Thinking
+Cross Domain Knowledge
+Creative Thinking 
+Analytical Thinking 
+Optical Materials
+Organic Semiconductors
+Piezoelectric Materials
+Solid State LEDs
+Degenerate Semiconductor
+Extrinsic Semiconductor
+intrinsic Semiconductor
+IR-Detector
+Laser
+Non-degenerate Semiconductor
+Conducting Polymers
+Nuclear Magnetic Resonance Spectroscopy
+Special Effects
+Fuels for Rockets
+Magnetic Resonance Imaging
+Forward Looking Infrared
+Frozen Food
+Electric Power Transmission
+Cryogenic Processing
+Blood Banks
+Thermoelectric Coolers
+Pomeranchuk Cooling
+Pulsed Refrigerator System
+Magnetic Refrigerators
+Dilution Refrigeration
+Closed Cycle Refrigeration
+Being Current on Latest Functional Developments
+Scientific Temperament
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Analytical Thinking 
+Problem Solving
+Cross Domain Knowledge
+Creative Thinking 
+Production of Rice Products
+Production of Snack Foods
+Production of Vegetable Preserves
+Production of Wheat Products
+Production of Oat Products
+Production of Fruit Pulp
+Production of Fruit Preserves
+Production of Edible Oil
+Production of Corn Products
+Production of Confectionery
+Production of Bread
+Production of Biscuits
+Production of Barley Products
+Processing of Tomato
+Flavor
+Color
+Texture
+Nutritional Value
+Convenience
+Physical Composition
+Chemical Composition
+Microbiological Composition
+Roasting
+Sterilization
+UHT Processing
+Drying
+Extrusion Cooking
+Frying
+Microwave Heating
+Pasteurization
+Baking
+Blanching
+Canning
+Dehydration
+Dielectric Heating
+Smoking
+Chemical Preservatives
+Fermentation
+Food Additives
+Gamma Irradiation
+High Pressure Technology
+Hurdle Technology
+Pickling
+Pulsed Electric Field Technology
+Controlled Atmosphere
+Dehydro-freezing
+Food Irradiation
+Freezing
+Modified Atmosphere
+Refrigeration
+Ensure Food Safety Compliance
+Improving Current Food
+Improving Food Processing Methods
+Developing New Food
+Being Current on Latest Functional Developments
+Scientific Temperament
+Analytical Thinking 
+Creative Thinking 
+Cross Domain Knowledge
+Numerical Ability 
+Using Information Technology
+Software Tools
+Problem Solving
+Systems Thinking
+PoE Tester
+Wi Fi Analyzer
+LAN Verifier
+Link Tester
+Network Analyzer
+Cable Qualifier
+Broadband Tester
+Butt Set
+DSL
+ADSL Test Set
+Ethernet T1 DS1
+3 Tester
+Load Coil Detector
+Transmission Test
+Visual Fault Locator
+Adapter Caps
+Coarse Wave Division Multiplexing CWDM Tester
+Dense Wavelength Division Multiplexing DWDM Tester
+Fiber Indentifier
+Fiber Light Sources
+Fiber Talk Sets
+Optical Loss Tests
+Optical Power Meter
+Optical Time Domain Reflectometer
+Clamp-on Groin Tester
+Ground Resistance Tester
+Tone Generators
+Wire Mappers
+Multi Cable Tester
+Time Domain Reflectometer TDR
+CTAV Tester
+Breakout Boxes
+Cable Certifiers
+Analog Multimeter
+Digital Multimeter
+Scopemeter
+AC
+DC Clamp Meter
+Network Tester
+Telecom Tester
+Fiber Test Equipment
+Ground Tester
+Cable Testers
+Digital Multimeters
+Xacct
+Prodigy
+Unicorn
+Amdocs
+BSCS
+Convergys
+Cramer
+Digiquant
+Granite
+Kenan
+Metasolv
+Scrambling
+Radio Relay Equipments
+Regenerators
+Digital Cross Connect
+Functional Schemes
+Line Terminal Multiplexers
+Physical Interfaces
+Add Drop Multiplexers
+Alarm States
+Cisco
+Juniper
+Alcatel Lucent
+Multilayer Switches
+Network Bridge
+Network Bridges
+Network Switch
+Repeaters
+Routers
+Soft Switches
+Switches
+WAN Switches
+Modems
+Hubs
+Fiber Channel Switches
+Ethernet Switches
+Bridge Routers
+Call Routing Systems
+Dialogic
+Vega
+Teles
+Sonus
+Mediant
+VoIP Gateways
+Multiservice Media Gateway
+Network Gateway
+Service Delivery Gateway
+Voice Gateways
+Broadband Network Gateway
+RF Cable
+Twisted Pair Cables
+Co-Axial Cables
+DS3 Cable
+Fiber Optics
+GigE
+OC12 Cables
+OC3 Cable
+10GigE
+Identity Access Management
+Integrated Access Devices
+Wireless Access Points
+Fixed Access Systems
+Broadband Access Systems
+Broadband Remote Access Server
+DSLAM
+MSAN
+OLT
+ONU
+ONT
+WiFi AP
+WiMax
+WiMax CPE
+xDSL CPE
+TAM
+IETF
+ITU-T
+NGOSS
+ETSI
+eTOM
+ANSI
+3GPP
+Traffic Policing
+Link Efficiency Mechanisms
+Modular Quality of Service Command
+Congestion Management
+Deploying QoS
+Congestion Avoidance
+Weighted Round Robin
+Constraint-Based Routing Label Distribution Protocol
+Deficit Weighted Round Robin
+Hierarchical Fair Service Curve
+Resource Reservation Protocol
+Top-Nodes Algorithm
+Weighted Fair Queuing
+Class Based Weighted Fair Queuing
+BWPing
+Bandwidth Delay Product
+Bandwidth Guaranteed Polling
+Asymptotic Bandwidth
+Bandwidth in Web Hosting
+Internet Connection Bandwidths
+Multimedia Bandwidth
+Network Bandwidth Capacity
+Network Bandwidth Consumption
+FLAG
+SMW3
+SMW4
+TDMA
+UMTS
+CDMA
+FDMA
+GSM
+Broadband PON
+Ethernet PON
+FTTD
+Fiber To The Desk
+FTTH
+Fiber To The Home
+Gigabit PON
+LAN
+WAN
+STM-1
+STM-4
+DS-3
+E1
+Two wire transmission
+E1
+Nx64
+Satellite systems
+Power lines
+Coax
+64K circuits
+DSP
+Wavelet Transforms
+Filtering
+Fourier Transforms
+Operations Support
+Revenue Management
+Billing (End Customer)
+Customer Management
+Marketing
+Network Management
+Analog Communication
+Cellular Communication
+Digital Communication
+Modulators
+Multi Access Technologies
+Optical Communications
+Receivers
+Transmitter
+ITU-T
+NGOSS
+ANSI
+TAM
+IETF
+eTOM
+ETSI
+3GPP
+Docket Handling
+BTS Configuration
+BSC Configuration
+Analysis of ROF
+Alarm Monitoring
+Incident Management
+Fault Management
+Performance Diagnostics
+Performance Management
+Provisioning
+Root Cause Analysis
+Service Delivery
+Emergency Switching
+Conducting Feasibility Studies
+Creating Network Solution
+Architecture
+Equipment Procurement and Installation
+Fault Location, Isolation and Service Restoration
+Fault Location Analysis
+Feeder Load Management
+Outage Management
+Roll Out
+Risk Analysis and Management
+Project Planning and Management
+Setting up Physical Infrastructure
+Volt-Var Optimization
+Terminating Call procedures
+Originating Call procedures
+Location updates procedure
+Cell re-selection
+Camping on a cell
+BCCH Parameters
+Finding the right network
+Link budget
+Paging Parameters
+Propagation models
+Role of the SACCH
+Power control
+Measurement reporting
+Handover scenarios and criteria
+Discontinuous transmission
+TCH assignment
+Erlang-B Table
+CCCH and SDCCH assignment
+Frequency hopping parameters
+BCCH Frequency Planning
+Calculation of CCH and TCH
+Calculation of RF carriers
+Dual Band considerations
+Signaling and the SDCCH
+CCH and TCH assignment
+Network Access and the RACH
+Point to Point
+Planning OFC Routes
+Planning Documents and Drawings
+Calculating the number or required splitters
+Feeder cable design
+Handover
+Indoor cabling and fixing issues
+Indoor Cabling Design and splitter locations
+PON Distributed Splitting
+PON- Centralized Splitting
+Power Budget calculations
+ROW Permissions
+Redundancy 
+protection considerations
+Radio Channels in GSM
+Signaling in GSM
+Traffic and Control Channels
+Mobile Originated and Terminated Call
+Handover Management
+GSM Network Architecture
+GSM Interfaces
+Call Processing scenario
+Voice Over MPLS
+MPLS Architecture
+MPLS Traffic Engineering
+MPLS VPN
+Frame Relay, ATM and MPLS
+GMPLS
+Label distribution methods
+Voice Over LTE
+LTE Physical Layer
+LTE Radio Access Network
+QoS in LTE
+3GPP Protocol
+LTE EPC
+IMS
+IoT
+LTE
+OTT
+VoLTE
+VoWiFi
+WebRTC
+SDH Transmission System
+Synchronization Aspects in SDH Networks
+SDH Network Architecture
+Ethernet Over SDH
+Multiplexing
+PDH Transmission System
+SDH Frame Structure
+H.323
+MGCP
+SIP
+SS7
+H.248
+Network Architecture of 1xEV
+1x and 1xEV-DV Air Interface
+Call Setup Processing
+Migration from 1x to 1xEV-DV
+Mobility in Internet
+HSUPA
+UMTS Technology
+HSPA
+HSPA+
+HSDPA
+Call Processing in CDMA
+CDMA Channels
+Mobility, Handoffs and Power control
+CDMA Coding techniques
+GPRS Data Call Routing
+GPRS Services
+GPRS Architecture
+EDGE Features
+EDGE Protocols
+VoIP Protocols
+VPN Technologies
+Wireless Security Protocols
+QoS
+5G
+SSMP
+SSVVP
+SSCA
+ZTE Certified 3G & 4G
+LTE RF Engineer
+ZTE Certified UMTS RAN-CN Engineer
+ZCNP
+ZCSA
+ZCSE
+ZCSP
+ZCTA
+ZCTE
+ZCTP
+ZCAr
+ZCENT
+ZCIE
+ZCNA
+CCNT
+CTP
+SSCA
+SSMP
+SSVVP
+AFOT
+CFOI
+CFOP
+C
+CFOS
+CFOS
+D
+CFOS
+CFOS
+CPCT
+CFOT
+CFospT
+CFOS
+DEP
+IPEP
+DVEP
+BTS
+BPI
+BPT
+BTCS
+BPE
+BDS
+BCSS
+CCNT
+CIPTS
+CTA
+CTNS
+CWA
+PSM
+CSM
+Certified Nokia Security Administrator
+
+NNCDS
+NNCSE
+NNCSS
+NCDE
+NCTE
+NCTS
+NNCA
+SUSE Certified Linux Administrator
+NCE
+Novell Certified Administrator Enterprise Services
+NAI
+MCNE
+CNS
+CLP
+CNA
+CNE
+CNI
+CNIMA
+CLE
+CLDA
+Certified Novell ZENworks Administrator
+OCUP(Advanced)
+OCUP(Fundamental)
+OCUP
+OCSMP
+OCSMP(Advanced)
+OCEB(Technical Intermediate)
+OCRES(Advanced)
+OCSMP(Intermediate)
+OCSMP(Fundamental)
+OCEB(Advanced)
+OCEB(Fundamental)
+OCEB(Intermediate)
+OCRES(Intermediate)
+JNCIA-E
+JNCIP-E
+JNCIS-E
+Level I
+Network Performance Technologies
+Level II
+Network Performance Metrics & Analysis
+Certified NetAnalyst Elite
+Network Performance Forensics
+iNARTE Telecommunications Certification
+iNARTE Telecommunications Engineer
+IPv6 Forum Certified Network Engineer
+Gold
+IPv6 Forum Certified Network Engineer
+Silver
+IPv6 Forum Certified Security Certification
+Gold
+IPv6 Forum Certified Security Course
+Gold
+IPv6 Forum Certified Security Engineer
+Gold
+IPv6 Forum Certified Security Trainer
+Gold
+IPv6 Forum Certified Trainer
+Gold
+Train The Trainer
+Gold
+IPv6 Forum Certified Certification
+Silver
+IPv6 Forum Certified Course
+Gold
+IPv6 Forum Certified Course
+Silver
+Certified System Administrator Trainer
+Gold
+IPv6 Forum Certified Certification
+Gold
+Certified System Administrator
+Gold
+Certified System Administrator
+Silver
+Certified System Administrator Certification
+Gold
+Certified System Administrator Course
+Gold
+AIPS
+APDS
+APSS
+ASPS
+ACSP
+ACSS
+ACSS-New
+Ace
+ACIS
+ACIS-New
+ACS
+ACA
+ACDS
+Brocade Certified vRouter Professional
+Brocade Accredited Physical Security Specialist
+Brocade Certified vRouter Engineer
+BCEFE
+BCEFP
+BCFA
+BCFCoEP
+BCFD
+BCFP
+BCLE
+BCLP
+BCND
+BCNE
+BCNP
+BCSM
+BCSPNE
+Brocade Accredited Fabric Resiliency Specialist
+BATSS
+BAWS
+BCAF
+BACNS
+BADCS
+BAEFS
+BAFCoES
+BAFS
+BAIS
+BANAS
+BASCS
+Accredited StorageX Specialist
+Certified in Telecom Support Infrastructure
+Certified in Digital Switching Systems
+Certified in Digital Transmission Systems
+Certified In IP,Networking and Cyber Security
+Certified in Mobile Communications
+Certified in Optical Fiber Technology
+Certified in BroadBand Technology
+BSNL Certified Network Engineer
+BSNL Gold Certified Engineer
+BSNL Platinum Certified Engineer
+BSNL Silver Certified Engineer
+CWNT
+CWSP
+CWTS
+CWNE
+CWAP
+CWNA
+CWDP
+Cisco VPN Security Specialist
+CRMC
+IPS
+SSDS
+Cisco Network Admission Control Specialist
+Cisco TelePresence Installations Specialist
+Cisco TelePresence Solutions Specialist
+Cisco Unified Presence Specialist
+Cisco Unity Design Specialist
+Cisco Unity Support Specialist
+Cisco Video Network Specialist
+Cisco Data Center Networking Infrastructure Support Specialist
+Cisco Data Center Storage Networking Design Specialist
+Cisco Data Center Storage Networking Support Specialist
+Cisco Data Center Unified Computing Design Specialist
+Cisco Data Center Unified Computing Support Specialist
+Cisco Firewall Security Specialist
+Cisco IOS Security Specialist
+Cisco IOS XR Specialist
+Cisco IP Telephony Design Specialist
+Cisco Data Center Networking Infrastructure Design Specialist
+Cisco Data Center Application Services Design Specialist
+Cisco Data Center Application Services Support Specialist
+CCNP Wireless
+CCNPS
+CCSP
+CCT Data Center
+CCT Routing & Switching Certification
+CCT TelePresence
+Cisco ASA Specialist
+Cisco Certified Architect
+CCNP Service Provider
+CCNP Voice
+CCNA SP
+CCNA SP Ops
+CCNA SPO
+CCNA Voice
+CCNA Wireless
+CCNP
+CCNP Cloud
+CCNP Collaboration
+CCNP Routing & Switching
+CCIE Voice
+CCIE Wireless
+CCIP
+CCNA
+CCNA Cloud
+CCNA Collaboration
+CCNA Data Center
+CCNA Routing & Switching
+CCNA Security
+CCIE SN
+CCIE SP
+CCIE SPO
+CCENT
+CCIE
+CCIE Data Center
+CCIE Routing & Switching
+CCDP
+CCDE
+CAWLDS
+CCDA
+CAWLFS
+CSFA
+CSICI
+TCM
+TRN
+WCM
+RFIM
+RAD
+PIM
+MCEI
+LAS
+GCT2
+CSI
+DAS
+GCT1
+B-VoIP
+HCS-Solutions-IP Network
+HCS-Pre-sales
+Transmission Network
+HCS-Pre-sales
+UC
+HCS-Pre-sales
+UPS
+HCS-Pre-sales
+VC
+HCS-Sales-IP Network
+HCS-Sales-IT
+HCS-Sales-UC&C
+HCS-Solutions Access
+HCS-Solutions Data Center
+HCS-Solutions- Transmission
+HCS-Field-Wireless
+HCS-Field-WLAN
+HCS-Pre-sales
+Access Network
+HCS-Pre-sales
+CC
+HCS-Pre-sales
+Cloud
+HCS-Pre-sales
+Datacom
+HCS-Pre-sales
+Network Security
+HCS-Pre-sales
+Server
+HCS-Pre-sales
+Storage
+HCS-Field-Security
+HCS-Field-Server
+HCS-Field-Transmission
+HCS-Field-UPS
+HCS-Field-MicroDC
+HCS-Field-R&S 
+HCS-Field-IVS
+HCS-Customization-CC
+HCS-Customization-IVS
+HCS-Customization-TP&VC 
+HCS-Customization-UC
+HCS-Field-Access Network
+HCS-Bearer Network
+HCNP-WLAN
+HCNP-VC
+HCNP-UC
+HCNP-Storage-CUSN
+HCNP-Transmission
+HCNP-Security-CTSS
+HCNP-Storage
+HCNP-Storage-CBDS
+HCNP-Storage-CDPS
+HCNP-Security-CSSN
+HCNP-R&S-IERN
+HCNP-R&S-IESN
+HCNP-Security
+HCNP-Security-CISN
+HCNP-R&S-IENP
+HCNA-VC
+HCNA-WLAN
+HCNP
+Access Network
+HCNP
+Microwave
+HCNP
+NGN
+HCNP
+Optical
+HCNP-CC
+HCNP-Design
+HCNP-MSTP-Transmission
+HCNP-OTN-Transmission
+HCNA-Storage-BSSN
+HCNA-UC
+HCNA-Storage
+HCNA-HTTD
+HCNA-LTE
+HCNA-Security
+HCNA-HNTD
+HCNA-Design
+HCNA
+NGN
+HCNA
+Optical
+HCNA-Access Network
+HCNA-CC
+HCNA-Cloud
+HCNA-Cloud-BCCP
+HCIE-UC
+HCIE-VC
+HCIE-WLAN
+HCNA
+Microwave
+HCIE-Design
+HCIE-R&S
+HCDP-BCAN
+HCDP-BCRN
+HCDP-BITN
+HCIE
+HCIE-Storage
+HCIE-Security
+HCIE-CC
+CNE
+CNTE
+COFE
+CTE
+SRA
+NRS I
+NRS II
+MRP
+3RP
+CTP-M
+CTP-P
+CTP-S
+CTP-G
+Certified Telecom Team Experts
+Scientific Temperament
+Being Current on Latest Functional Developments
+Using Information Technology
+Software Tools
+Numerical Ability 
+Problem Solving
+Systems Thinking
+Creative Thinking 
+Cross Domain Knowledge
+Analytical Thinking 
+Government and Military
+Industrial
+Medical
+Automotive Electronics
+Communications
+Computers
+Consumer Electronics
+Domestic Electronic Gadgets
+Home Automation
+Mobile phones, Tabs
+TV, Audio Systems
+UPS, Inverters
+Charging System
+Electronic Ignition
+Lighting
+Safety Systems
+Sensors
+Cameras, CCTVs
+Batteries and Starting Systems
+TFT Technology
+SED technology
+Plasma Screen Technology
+LCD Technology
+OLED Technology
+CRT Technology
+Solar cell
+Fire Optics
+Laser
+16 Bit Microprocessor
+8 Bit Microprocessor
+32 Bit Microprocessor
+64 Bit Microprocessor
+PowerPC
+STMicroelectronics
+Texas Instruments
+Toshiba
+NetApp
+NXP Semiconductors
+OMAP
+Infineon
+Intel
+Microchip Technology
+MIPS
+DSP
+FreeScale
+Cypress
+Atmel
+ARM
+ABB
+VHDL
+Visual C++
+XPath
+Xtend
+Verilog
+VBA
+VB.NET
+SWIFT
+Turbo C
+Smalltalk
+SED
+Scheme
+Pike
+Pro*C
+C++
+Prolog
+Python
+R
+Ruby
+Rust
+Scala
+Perl
+PHP
+PASCAL
+OCaml
+Nimrod
+Objective C
+Lua
+Mathematical Markup Language
+MATLAB
+Microcontroller Programming
+Julia
+Kotlin
+LISP
+Fortran
+Go
+Groovy
+Haskell
+Haxe
+Icon
+JAVA
+Factor
+Falcon
+Fantom
+FastCGI
+Forth
+Euphoria
+F#
+ActionScript
+Ada
+Algol
+Awk
+C
+C#
+C++
+Ceylon
+CGI
+Clojure
+COBOL
+D
+Dart
+Embedded C
+Embedded C++
+Erlang
+VisSim
+Wolfram Language
+Wolfram SystemModeler
+Simulink
+Speakeasy Computational Environment
+Stateflow
+TSP
+SimulationX
+Simulation Program with Integrated Circuit Emphasis
+Modelica
+Modelling of General Systems
+PLCLogix
+PROPT
+MATLAB Optimal Control
+QUIKSCRIPT
+RoboLogix
+Scicos
+SHAZAM Software
+SIM.JS
+SimPy
+SIMSCRIPT
+Simula Programming Language
+SIMulation of Continuous Systems
+MiMic
+MapleSim
+GoldSim
+JModelica
+General Algebraic Modeling System
+General Purpose Simulation System
+Generic Eclipse Modeling System
+Dymola
+EICASLAB
+EMSO Simulator
+AMESim
+ASCEND
+CircuitLogix
+Advanced Statistical Analysis Program
+A Mathematical Programming Language
+Actor-Lab
+Advanced Continuous Simulation Language
+Advanced Process Monitor
+Sam Text Editor
+Acme Text Editor
+AT&T Hobbit
+Charon Web Browser
+Runas
+Rc
+Plumber Program
+Mk Software
+Limbo Programming Language
+IL Network Protocol
+9P
+Tiny Core Linux
+Xenix
+PSXLinux
+QNX
+PicoBSD
+MCLinux
+MINIX
+Ooherent Operating System
+GeckOS
+Lightweight Linux Distribution
+LUnix
+FreeBSD
+Damn Small Linux
+Embeddable Linux Kernel Subset
+BlackBerry Tablet OS
+BSD Operating Systems
+BlackBerry 10
+Xinu
+Wombat OS
+Windows CE
+Versatile Real-Time Executive
+Tandy Memorex Visual Information System
+Series 30
+Series 30+
+Series 40
+Series 80 Software Platform
+Smallfoot
+Symobi
+Prex
+Quantum Platform Framework
+Realtime Onboard Dependable Operating System
+Rockbox
+Scout Operating System
+PikeOS
+Pilot Link
+Passport Carrier Release
+OSEK
+Palm OS
+OpenComRTOS
+Operating System Embedded
+OS2000
+Nokia Asha Platform
+NxtOSEK
+OpenBSD
+LINX (IPC)
+LiteOS
+Mobilinux
+Mu-nOS
+NetBSD
+Java Card OpenPlatform
+JavaOS
+Juniper Junos
+LeJOS
+Integrity Operating System
+INtime
+DR-DOS
+Embedded Linux
+Force10 Operating System
+FreeDOS
+FunkOS
+IGUANA Computing
+DOS Plus
+Cisco IOS
+Contiki
+Convergent Linux Platform
+Cosmos Operating System
+Datalight DOS
+Dell Networking Operating System
+BeRTOS
+BlackBerry OS
+BrickOS
+ChibiOS
+RT
+Atari Portfolio
+AlliedWare Plus
+AmiQNX
+Apple RTOS Environment
+uSmartx
+u-velOSity
+velOSity
+VRTX
+VxWorks
+Xenomai
+Y@SOS
+TRON project
+TUDOS
+uKOS
+Unison RTOS
+UNIX-RTR
+uOS
+TNeo
+TNKernel
+Trampoline Operating System (OSEK and AUTOSAR)
+Transaction Processing Facility
+ThreadX
+T-Kernel
+THEOS
+Talon DSP RTOS
+TargetOS
+Symbian OS
+SYS
+BIOS
+SOOS Project
+SINTRAN III
+Simulink Real-Time
+SDPOS
+SHaRK
+silRTOS
+SimpleAVROS
+scmRTOS
+SCIOPTA
+RTXC Quadros
+RX116
+RX616
+RX-UX832
+SafeRTOS
+RTX Keil Real-Time Operating System
+RIOT
+RMX
+RSX-11
+RT-11
+RTAI
+RTLinux
+RT-Thread
+Real-time Linux
+Real-Time Executive Operating System
+ReaGOS
+REAL
+32
+Real-Time Executive for Multiprocessor Systems
+PowerTV
+Prex
+Protothreads
+pSOS
+QNX
+QP
+Portos
+PikeOS
+POK
+PICOS18
+picoOS
+Phoenix-RTOS
+PaulOS
+Phar Lap ETS
+OS4000
+OS-9
+OSA
+OSE
+OSEK
+Partikle
+OS21
+OS20
+OPENRTOS
+OpenEPOS
+NuttX
+Nut
+OS
+Nucleus OS
+MunOS
+MuTasker
+Nano-RK
+Neutrino
+nOS
+MP
+MQX
+Multiuser DOS
+Micrium MuC
+OS-II
+Micrium MuC
+OS-III
+Microsoft Invisible Computing
+Milos
+mipOS
+mLithOS
+MontaVista Linux
+MenuetOS
+MERT
+IntervalZero RTX
+RTX64
+INtime
+iRTOS
+ISIX
+Menuet 64
+MAX II,IV
+MaRTE OS
+Mark3
+LynxOS
+LithOS
+Lepton
+KolibriOS
+Kithara RTS
+ITRON
+INTEGRITY
+IBM 4690 OS
+IBM 4680 OS
+Hybridthreads
+HP-1000
+RTE
+Helium
+HeartOS
+GEC DOS
+eXtreme Minimal Kernel Operating System
+Femto OS
+FlexOS
+FreeOSEK
+FreeRTOS
+FunkOS
+Fusion RTOS
+EUROS
+EROS
+Embkernel
+embOS
+ERIKA Enterprise
+Embox
+eCosPro
+eCos
+DuinOS
+DSPnano RTOS
+DSP
+BIOS
+DSOS
+dnx RTOS
+DNIX
+DioneOS
+Deos
+Data General RDOS
+COS
+CooCox CoOS
+Contiki
+Concurrent DOS
+Concurrent CP
+ChibiOS
+RT
+ChorusOS
+ChronOS
+CoActionOS
+cocoOS
+ARTOS (Robotu)
+Atomthreads
+AVIX
+BeRTOS
+BRTOS
+CapROS
+AMX RTOS
+ARTOS (Locamation)
+AMOS
+Abassi
+Mixed Signal Circuits
+Digital Signal Circuits
+Analog Signal Circuits
+WAFLEX
+WAMIT
+RecurDyn
+RF Microwave CAE CAD
+SDC Verifier
+Sherlock Automated Design Analysis
+Siemens NX
+SmartDO
+SolidWorks
+STAAD
+Stadium
+Tekla
+Vesuite
+Vflo
+NEi Software
+Optimus Platform
+Phoenix Integration
+PLPAK
+PowerEsim
+PTC Creo Elements
+Pro
+Pumplinx
+Range Software
+IntelliCAD
+MADYMO
+METRIC
+modeFRONTIER
+MSC Software
+Integrated Design, Evaluation, and Assessment of Loadings Model
+Hydrological Transport Model
+HyperSizer
+INCA
+InCa3D
+Indirect Optimization on the basis of Self-Organization
+Hierarchical Evolutionary Engineering Design System NP
+Hierarchical Evolutionary Engineering Design System MDO
+Hierarchical Evolutionary Engineering Design POST
+GRAITEC
+GRAITEC Advance
+HBV Hydrology Model
+Extreme Loading for Structures
+GNU Archimedes
+EMSO Simulator
+FEMtools
+EcosimPro
+EDWinXP
+Civil Designer
+Dynamic Stream Simulation and Assessment Model
+CANape
+CANoe
+CATIA
+AutoTURN
+Cadec-online.com
+Altair Data Manager
+Altair Process Manager
+ANSA Pre-Processor
+CANalyzer
+Calculix
+Advance Concrete
+Advance Design
+Advance Steel
+Advanced Continuous Simulation Language
+Cimatron
+SpectreRF
+Xyce
+SmartSpice
+Spectre Circuit Simulator
+PSIM Software
+PSpice
+Quite Universal Circuit Simulator
+SapWin
+Simulation Program with Integrated Circuit Emphasis
+PowerEsim
+Piecewise Linear Electrical Circuit Simulation
+Micro-Cap
+Ngspice
+NI Multisim
+Oregano Software
+Gpsim
+ICAP
+KTechLab
+Logisim
+LTspice
+gLogic
+GNU Circuit Analysis Package
+CPU Sim
+Electric VLSI Design System
+CircuitLogix
+Advanced Statistical Analysis Program
+Advanced Design System
+ZUKEN
+Xilinx ISE
+Symplicity
+SPICE
+Pspice
+Simulink
+OrCAD
+Multisim
+Modelsim
+Mentor Graphics DxDesigner
+Allegro
+Altera Quartus II
+Matlab
+Virtuoso
+Warp
+VCS
+Valor
+Synopsys
+Symplicity
+Silicon Ensemble
+Calibre
+Drawing Editor
+DX Designer
+FabLink
+Gerbtool
+Leonardo
+Mentor
+ModelSim
+OrCAd
+Cadence
+Broad Station
+Assura
+Switchgears
+Uncontrolled Rectifiers
+Relays
+Circuit Breakers
+Controlled Rectifiers
+Inverters
+Optical Properties
+Semiconductors
+Superconductivity
+Insulation Materials
+Magnetic Properties
+Conductors
+Dialectic Materials
+Direct current Potential Drop Measurement
+Eddy Current Testing
+Magnetic Flux Leakage Testing
+Magnetic Particle Inspection
+Magnetovision
+Remote Field Testing
+Alternating current potential drop measurement
+Alternating current field measurement
+Laser
+Non-degenerate Semiconductor
+Optical Materials
+Organic Semiconductors
+Piezoelectric Materials
+Solid State LEDs
+Conducting Polymers
+Degenerate Semiconductor
+Extrinsic Semiconductor
+intrinsic Semiconductor
+IR-Detector
+Electrodynamic Fields
+Electromagnetic Waves
+Electrostatics
+Magnetostatics
+Superconductors
+Soft Magnetic Materials
+Magnetic Tapes
+Semiconductors
+Magnetic Films
+Growth of Single Crystal
+Growth of Thin Films
+Hard Magnetic Materials
+Garnets
+Ferrites
+Fabrication of Solar Cells
+Fabrication of Electronic Chip
+Dielectrics
+RTL
+Transistor Transistor Logic
+Complementary MOS
+NMOS
+Emitter Coupled Logic
+DTL
+Synchronous Sequential Circuits
+Programmable Logic Controls
+Memory
+Number Systems
+Boolean Algebra
+Combinational Circuits
+Asynchronous Sequential Circuit
+Transformation Techniques
+Continuous Signals
+Design of Filters
+Digital Signal Processors
+Discrete Signals
+Transistors
+Programmable Logic Controls
+Rectifiers
+Resistors
+Semiconductors
+Signal Generators
+Amplifiers
+Bipolar Transistor
+Capacitors
+Diodes
+Field Effect Transistor
+LCD
+LED
+Linear ICs
+Memory
+Oscillators
+PN Junction Diode
+Regulator Ices
+Signal Analysis using OP-AMP
+Timers
+ADCs
+Design Applications using OP-AMP
+IC Fabrication Procedure
+PLL Circuits
+Indexing
+Loop Structures
+Subroutines
+Data Transfer
+Data Manipulation
+Control Instructions
+Registers
+Signals
+Timing
+Block Diagram
+Data Transfer
+Interrupts
+Memory Interfacing
+Statistical Process Control
+SPC
+Value Analysis
+Value Engineering
+Production Part Approval Process
+Rapid Prototyping
+Reverse Engineering
+Measurement Systems Analysis
+MSA
+New Product Development
+Process Failure Mode Effects Analysis
+PFMEA
+Advanced Product Quality Planning
+APQP
+Design Failure Mode and Effects Analysis
+DFMEA
+Geometric dimensioning and tolerancing
+GD&T
+Failure Mode Effects Analysis
+FMEA
+Design For Assembly
+DSP
+Wavelet Transforms
+Filtering
+Fourier Transforms
+DC to DC conversion
+AC to DC conversion
+DC to AC conversion
+AC to AC conversion
+Thermal Design & Analysis
+Stress Analysis
+Signal Integrity Analysis
+Behavioral synthesis
+Debugging
+Floor planning
+Layout
+Logic Compatibility
+Logic synthesis
+Performance Analysis
+Physical Synthesis
+Physical verification
+Reliability Analysis
+VLSI
+SoC
+EDA
+FPGA
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Being Current on Latest Functional Developments
+Scientific Temperament
+Cross Domain Knowledge
+Creative Thinking 
+Analytical Thinking 
+Equipment Selection
+Isometrics preparation
+Specifications generation
+Piping layout preparation
+P&ID preparation
+Material Take Off preparation
+Data sheets preparation
+Bill of Materials preparation
+BOQ preparation
+Conceptual Design Preparation
+FEA
+Flow assurance
+Pipeline Efficiency
+Systems
+algorithms for monitoring flow
+Thermal design
+Validation of ideas
+3D Modeling
+2D Modeling
+
+Engine Pollution and Control
+IC Engine Design
+Engine Management Systems
+Fuels for IC Engines
+Alternate Fuels for IC Engines
+Types of Boundary Conditions
+Types of Finite Elements
+Transient Thermal Analysis
+Steady State Thermal Analysis
+Nonlinear Material Analysis
+Nonlinear Geometry Analysis
+Contact Stress Analysis
+Modal Analysis
+Modeling Techniques
+Buckling Analysis
+Types of Materials
+Phase Diagrams
+Heat Treatment
+Mechanical properties
+Electrical Properties of Materials
+Steam Turbines
+Two Stroke IC Engine
+Cogeneration
+Four Stroke IC Engine
+Gas Turbines
+Refrigeration and Air Conditioning
+SI Engine
+Steam Nozzles
+CI Engine
+Boilers
+Reverse Engineering
+Statistical Process Control
+SPC
+Value Analysis
+Value Engineering
+Rapid Prototyping
+Production Part Approval Process
+Process Failure Mode Effects Analysis
+PFMEA
+New Product Development
+Measurement Systems Analysis
+MSA
+Geometric dimensioning and tolerancing
+GD&T
+Design Failure Mode and Effects Analysis
+DFMEA
+Design For Assembly
+Failure Mode Effects Analysis
+FMEA
+Advanced Product Quality Planning
+APQP
+Zeroth Law of Thermodynamics
+Heat and Work Transfer
+Psychrometric Processes
+P-V Diagram
+Second Law of Thermodynamics
+Cycle Improvement
+Energy Balance
+Energy Equations
+Entropy
+First Law of Thermodynamics
+Carnot Cycle
+Turbulence Methods
+Finite Volume Methods For Diffusion
+Flow Field Analysis
+Governing Equations
+Mesh Generation
+Finite Volume Methods For Convection Diffusion
+Finite Difference Equations
+Boundary Conditions
+Conduction
+Convection
+Heat Exchangers
+Mass Transfer
+Radiation
+
+Properties of Surfaces
+Equilibrium of Rigid Bodies
+Friction
+Laws of Mechanics
+Dynamics of Particles
+Dimensional Analysis
+Flow Characteristics
+Flow Through Circular Conduits
+Fluid Properties
+Trusses
+Different forces such as tension
+Beams
+Columns
+Vapor Absorption Systems
+Vapor Compression
+Ejector Refrigeration Systems
+Outside and Inside Design conditions
+Psychrometric Properties
+Sensors and Controls
+Steam Jet Refrigeration
+Thermoelectric Refrigeration
+Adsorption Cooling Systems
+Air Conditioning Loads
+Air Distribution System
+Air Refrigeration
+Apparatus Selection
+Siemens Teamcenter
+Aras Innovator
+Arena
+CMPRO
+Dassault Enovia
+Ingenuus
+Oracle Agile
+PTC Windchill
+SAP PLM
+Vibration Analysis
+Vibration Testing
+Temperature Testing
+Humidity Testing
+Package Testing
+Radiator Durability Testing
+Robotic Testing
+Shock Testing
+Highly Accelerated Life Testing
+Highly Accelerated Stress Testing
+Accelerated Stability Testing
+Altitude Testing
+Corrosion Testing
+Gear Boxes
+Drives
+Clutch
+Automatic Transmission
+Commercial Vehicles
+Car Body
+Bus Body
+Two Stroke Engine
+Multi Cylinder Engine
+Single Cylinder Four Stroke Engine
+MPFI Engine
+CRDI Engine
+Shafts
+Springs
+Gears
+Bearings
+Flywheels
+Tires
+Wheels
+Steering Systems
+Suspension System
+Rear Axles
+Rims
+Gear Boxes
+Front Axles
+Frames
+Breaking Systems
+Pollution Control
+Electrical and Electronics Systems
+Alternators
+Charging Systems
+ECU
+Instrument Cluster
+Lighting
+Magneto
+Speedometers
+Starting Systems
+Wiring
+solidThinking
+SolidWorks
+Rhinoceros
+NX Shape Studio
+Creo
+CATIA Shape Design and Styling
+Autodesk Alias
+Autodesk Inventor
+Autodesk Vault
+VisualFEA
+Z88
+Z88Aurora
+SESAM
+S-FRAME
+Sherlock Automated Design Analysis
+STRAND7
+StressCheck
+TELEMAC
+Vflo
+SDC Verifier
+SAP2000
+SAMCEF
+Safehull
+RFEM
+Range Software
+Radioss
+PZFlex
+Quickfield
+Plate Optimizer
+Pam-Crash
+NEi Nastran
+NEi Works
+OOFEM
+OpenFOAM
+OpenSees
+MultiMech
+Nastran
+NEi Fusion
+Goma Software
+Hermes Project
+High Frequency Structural Simulator
+HydroGeoSphere
+HyperSizer
+IMPETUS Afea Solver
+jFEM
+JMAG
+LS-DYNA
+LUSAS
+MADYMO
+MEDINA
+MoFEM JosePH
+Moose
+GetFEM++
+FreeFem++
+Flexpde
+Flexcom
+FEniCS Project
+FEMtools
+Femap
+FEFLOW
+FEDEM
+Extreme Loading for Structures
+FEBio
+Elmer
+DUNE
+COMSOL Multiphysics
+CosmosWorks
+CST STUDIO SUITE
+Deal.II
+Diffpack
+Calculix
+CFD-FASTRAN
+Code Aster
+Computers and Structures
+ANSYS
+AutoDesk Simulation
+AutoForm
+Abaqus
+ADINA
+Advance Design
+Agros2D
+ALGOR
+Altair HyperWorks
+ANSA Pre-Processor
+WAFLEX
+WAMIT
+Vesuite
+Vflo
+Tekla
+SmartDO
+SolidWorks
+STAAD
+Stadium
+Siemens NX
+Range Software
+RecurDyn
+RF Microwave CAE CAD
+SDC Verifier
+Sherlock Automated Design Analysis
+PLPAK
+Pumplinx
+PTC Creo Elements
+Pro
+PowerEsim
+NEi Software
+Optimus Platform
+Phoenix Integration
+MSC Software
+METRIC
+modeFRONTIER
+IntelliCAD
+MADYMO
+Hydrological Transport Model
+HyperSizer
+INCA
+InCa3D
+Indirect Optimization on the basis of Self-Organization
+Integrated Design, Evaluation, and Assessment of Loadings Model
+Hierarchical Evolutionary Engineering Design System NP
+Hierarchical Evolutionary Engineering Design POST
+Hierarchical Evolutionary Engineering Design System MDO
+HBV Hydrology Model
+GRAITEC Advance
+GRAITEC
+Extreme Loading for Structures
+FEMtools
+GNU Archimedes
+EDWinXP
+EMSO Simulator
+Dynamic Stream Simulation and Assessment Model
+EcosimPro
+Civil Designer
+CATIA
+CANoe
+CANape
+Calculix
+CANalyzer
+Cadec-online.com
+AutoTURN
+Altair Data Manager
+Altair Process Manager
+ANSA Pre-Processor
+Advanced Continuous Simulation Language
+Advance Steel
+Cimatron
+Advance Concrete
+Advance Design
+MathCAD
+Autodesk Plant3D
+Visioncivil
+WorkNC
+WorkNC-CAD Hybrid Modeling
+WorkXPlore 3D
+Xilink ISE
+Virtual Home Design Software
+ViewPoint 3D
+VariCAD
+VDA-FS CAD Data Exchange Format
+Vectorworks
+Verde Pulgar
+VGACAD
+Universal File Format
+T-Square Software
+UNISURF
+TurboCAD
+TransMagic
+Trajpar
+TopSolid
+TiffinCAD
+T-FLEX CAD
+Terramove
+Terrain Tools
+TeleCAD-GIS
+Tekla Structures
+Tekla
+Tecnomatix
+SolveSpace
+SpaceClaim
+Spatial Corp
+Tebis
+solidThinking
+SolidWorks
+Solid Modeling Solutions
+RFEM
+Rhinoceros 3D
+RoadEng
+Rockworks
+RUCAPS
+SAMoCAD
+Scan2CAD
+Sedcad
+Sescoi
+Siemens NX
+SIGraDi
+SketchUp
+SmartDO
+SmartGeometry
+Softree Optimal
+Solid Edge
+RF Microwave CAE CAD
+Render Plus Systems
+Pulsonix
+RecurDyn
+PTC Creo Elements
+Pro
+ProjectWise
+progeCAD
+Prime Computer
+Optimus Platform
+OptiY
+Organice
+OrthoGraph
+Parasolid
+PCon.planner
+Plant Design Management System
+Process Integration and Design Optimization
+Pro
+DESKTOP
+Power Systems CAD
+Plate Optimizer
+NAFEMS Standards
+Nastran
+Navisworks
+NedInfra
+Netcad
+Objet Geometries
+MSC Software
+MacDraft
+ME10
+MEDUSA
+Mental Images
+MeshLab
+Microstation
+Mimics
+modeFRONTIER
+Modelur
+Motor-CAD
+MPDS4
+Landscape Express
+LibreCAD
+Kimeme
+KernelCAD
+JT
+IntelliCAD
+Initial Graphics Exchange Specification
+JACK
+ICAD
+IChrome
+IDEA Architectural
+I-DEAS
+InCa3D
+Indirect Optimization on the basis of Self-Organization
+Digigraphics
+Digital Project
+Drawing Express
+Easyroad Cadwork
+EDWinXP
+Electric
+Electrical CAD
+Eneas
+Euclid
+Evolver
+FastCAD
+FINE MEP
+FS Design Studio
+Gable CAD
+GCAD3D
+GenerativeComponents
+GRAITEC Advance
+Grasshopper 3D
+GstarCAD
+HICAD
+HyperSizer
+Delcam
+DESI-III
+Daxcad
+David Laserscanner
+DataCAD
+Data Design System
+DAC-1
+Constructivity Model Viewer
+Computervision
+CodeBook
+Cadwork
+Campaign Cartographer
+CATIA
+Chief Architect Software
+Cobalt
+CloudCompare
+Claris CAD
+Cimatron
+BRL-CAD
+CAADRIA
+CADAM
+Caddie
+CADKEY
+Bobcad
+Bricscad
+AVSnap
+AVEVA
+AutoTURN
+AutoLISP
+AutoQ3D Community
+AutoShade
+AutoSketch
+Autodesk Vault
+Autodesk Maya
+Autodesk Revit
+Autodesk Inventor
+Autodesk Alias Surface
+Autodesk Alias
+AutoCAD
+AutoCAD Architecture
+AutoCAST
+Autodesk 123D
+ARRIS CAD
+ArtiosCAD
+ArchiCAD
+Architectural Geometry
+Architecture Design and Assessment System
+Applicon
+Altera Quartus
+3D Catalog Technology
+Adobe Atmosphere
+Advance Concrete
+Advance Design
+Advance Steel
+Alibre Design
+AllyCAD
+VoluMill
+WorkNC
+Vero Software
+SprutCAM
+Surfware
+Tebis
+Tecnomatix
+TopSolid
+Ucamco
+SmartCam
+Sescoi
+Siemens NX
+Open Cascade Technology
+OrthoGraph
+PowerMILL
+PTC Creo Elements
+Pro
+RecurDyn
+APT Programming Language
+Bobcad
+CAMWorks
+CATIA
+Cimatron
+ColorCAM
+Delcam
+GibbsCam
+Machining STRATEGIST
+Mastercam
+MazzaCAM
+NC-CAM
+NC Graphics
+MSC Software
+MEDUSA Plant Design System
+Scientific Temperament
+Being Current on Latest Functional Developments
+Analytical Thinking 
+Creative Thinking 
+Cross Domain Knowledge
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Energy from Waste
+Pesticides Production
+Solid Waste Treatment
+Food Processing
+Effluent Treatment
+Drug Manufacturing
+Biofuel Production
+Aeration
+Agitation
+Enzyme Catalyzed Reactions
+Gas Liquid Mass Transfer
+Isolation, Screening, Maintenance of Microbes
+Microbial Growth
+Strain Improvement
+Chromatographic Techniques
+Crystallization
+Drying
+Reverse Osmosis
+Ultra Filtration
+Gasification
+Thermo-Chemical Biomass Conversion to Energy
+Anaerobic Digester
+Fermentation
+Gaseous Fuel
+Scale Up and Scale Down Process
+Pneumatic Fermenters
+Hydrodynamic Fermenters
+Fermentation
+Scale Up and Scale Down Process
+Pneumatic Fermenters
+Hydrodynamic Fermenters
+Fermentation
+Being Current on Latest Functional Developments
+Scientific Temperament
+Using Information Technology
+Software Tools
+Numerical Ability 
+Creative Thinking 
+Systems Thinking
+Problem Solving
+Cross Domain Knowledge
+Analytical Thinking 
+Thermal design
+Validation of ideas
+Conceptual Design Preparation
+FEA
+Flow assurance
+Pipeline Efficiency
+Systems
+algorithms for monitoring flow
+P&ID preparation
+Piping layout preparation
+Specifications generation
+Material Take Off preparation
+Isometrics preparation
+Data sheets preparation
+Equipment Selection
+BOQ preparation
+Bill of Materials preparation
+Fuels for IC Engines
+Engine Pollution and Control
+IC Engine Design
+Engine Management Systems
+Alternate Fuels for IC Engines
+Transient Thermal Analysis
+Types of Boundary Conditions
+Types of Finite Elements
+Nonlinear Geometry Analysis
+Nonlinear Material Analysis
+Steady State Thermal Analysis
+Contact Stress Analysis
+Modal Analysis
+Modeling Techniques
+Buckling Analysis
+Types of Materials
+Phase Diagrams
+Mechanical properties
+Heat Treatment
+Electrical Properties of Materials
+Boilers
+CI Engine
+Cogeneration
+Four Stroke IC Engine
+Gas Turbines
+Refrigeration and Air Conditioning
+SI Engine
+Steam Nozzles
+Steam Turbines
+Two Stroke IC Engine
+Process Failure Mode Effects Analysis
+PFMEA
+Production Part Approval Process
+Rapid Prototyping
+Reverse Engineering
+Statistical Process Control
+SPC
+Value Analysis
+Value Engineering
+Design For Assembly
+Failure Mode Effects Analysis
+FMEA
+Geometric dimensioning and tolerancing
+GD&T
+Measurement Systems Analysis
+MSA
+New Product Development
+Advanced Product Quality Planning
+APQP
+Design Failure Mode and Effects Analysis
+DFMEA
+Zeroth Law of Thermodynamics
+Second Law of Thermodynamics
+Energy Equations
+Entropy
+First Law of Thermodynamics
+Heat and Work Transfer
+Psychrometric Processes
+P-V Diagram
+Cycle Improvement
+Energy Balance
+Carnot Cycle
+Turbulence Methods
+Mesh Generation
+Flow Field Analysis
+Governing Equations
+Finite Volume Methods For Diffusion
+Finite Volume Methods For Convection Diffusion
+Boundary Conditions
+Finite Difference Equations
+Radiation
+Convection
+Mass Transfer
+Heat Exchangers
+Conduction
+Properties of Surfaces
+Equilibrium of Rigid Bodies
+Friction
+Laws of Mechanics
+Dynamics of Particles
+Fluid Properties
+Flow Characteristics
+Flow Through Circular Conduits
+Dimensional Analysis
+Trusses
+Beams
+Columns
+Different forces such as tension
+Sensors and Controls
+Steam Jet Refrigeration
+Thermoelectric Refrigeration
+Vapor Absorption Systems
+Vapor Compression
+Psychrometric Properties
+Outside and Inside Design conditions
+Ejector Refrigeration Systems
+Apparatus Selection
+Adsorption Cooling Systems
+Air Conditioning Loads
+Air Refrigeration
+Air Distribution System
+Siemens Teamcenter
+SAP PLM
+Ingenuus
+Oracle Agile
+PTC Windchill
+Dassault Enovia
+CMPRO
+Arena
+Aras Innovator
+Vibration Testing
+Highly Accelerated Life Testing
+Vibration Analysis
+Temperature Testing
+Robotic Testing
+Shock Testing
+Radiator Durability Testing
+Package Testing
+Humidity Testing
+Highly Accelerated Stress Testing
+Corrosion Testing
+Accelerated Stability Testing
+Altitude Testing
+Power Plants
+Engine Systems
+Aircraft Instruments
+Airplane Control Systems
+Airplane Structure
+Fly by Wire Systems
+Fuel Systems
+Fuselage
+Fuselages
+Hydraulic Systems
+Landing Gears
+Navigation Systems
+Pneumatic Systems
+Propulsion
+Static Analysis
+Stress Analysis
+Tails
+Wings
+Air conditioning and Pressurizing System
+Air conditioning Systems
+Avionics
+Compressive Flow
+Engine Controls
+Failure Analysis of Structure
+Fire Protection Systems
+Flight Controls
+Flight Dynamics
+Cross Domain Knowledge
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Being Current on Latest Functional Developments
+Scientific Temperament
+Analytical Thinking 
+Creative Thinking 
+Improving Quality of Fibers
+Studying Synthetic Fibers
+Blending Fibers
+Jute
+Linen
+Cotton
+Alpaca
+Camel's Hair
+Cashmere
+Mohair
+Wool
+Bristles
+Feathers
+Brushes
+Mattresses
+Rugs
+Felts
+Cloth
+Tensile Strength
+Stability to Chemicals
+Stability to Light
+Stability to Heat
+Testing of Fibers
+Analytical Thinking 
+Creative Thinking 
+Cross Domain Knowledge
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Being Current on Latest Functional Developments
+Scientific Temperament
+Data sheets preparation
+Equipment Selection
+Effort Estimation
+Detailed Drawing, Preparing of
+3D Modeling
+Bidding for tenders
+Bill of Materials preparation
+BOQ preparation
+Conceptual Design Preparation
+2D Modeling
+ACI-318
+AISC-ASD
+LRFD
+ASCE-70
+AWS
+BS8110
+BS5950
+IS 13920
+IS 1893
+IS 3370
+IS 456
+IS 800
+IS 875
+Compass Surveying
+Chain Surveying
+Control Surveying
+Total Station Surveying
+Theodolite Traversing
+Theodolite Surveying
+Plane Table Surveying
+Levelling
+GPS Surveying
+Field Astronomy
+NX
+Tekla
+Fibersim
+Hypersizer
+MSC Marc
+Advance?Steel
+Altair Hyperworks
+Catia
+Solidworks
+Tekla
+SketchUp
+Rhinoceros
+Revit
+Advance Steel
+Navisworks
+AutoCAD?Architecture
+AutoCAD
+ArchiCAD
+WaterCAD
+WinStorm
+IntelliCAD
+MicroStation
+SedCAD
+SiteWork
+HeavyBid
+AutoCAD Civil3D
+AutoTurn
+Field General
+GeoPak
+GuideSIGN
+Reinforced Concrete Structures
+Retaining Walls
+Steel Structures
+Reservoirs
+Tunnels
+High Rise Building
+Liquid Storage Structures
+Power Plants
+Prefabricated Structures
+Railways
+Pipelines
+Power Stations
+Bridges
+Dams
+Foundations
+Disposal Of Sewage
+Primary Treatment Of Sewage
+Secondary Treatment Of Sewage
+Sludge Treatment And Disposal
+Demineralization Plants
+Reverse Osmosis Plants
+Cooling Towers
+Dams
+Sewage Systems
+Water Catchment and Storage
+Drainage System
+Video Data Analysis
+Tsunami Warning Systems
+Storm Surge Warning Systems
+Remote Sensing Data
+Analysis of Historical Maps
+Beach Profiling Surveys
+Delineation of Shoreline
+Object Space Displacements
+Radial Lens Distortions
+Sea Walls
+Sand Dune Stabilization
+Rock Armor
+Offshore Breakwater
+Revetments
+Groynes
+Gabions
+Beach Drainage
+Beach Replenishment
+Cliff Stabilization
+Entrance Training Walls
+Floodgates
+Tunneling
+Sleepers
+Railway Stations
+Route Alignment
+Rails
+Rail Fixtures
+Ballast
+Passenger Facilities
+Runway Design
+Site Selection
+Taxiway Design
+Layout of Airport
+Tunnels
+Highways
+ArcGIS Server APIs
+CivicMaps Tile Engine
+GEOBASE
+GeoTools
+Geospatial Data Abstraction Library
+Geomajas
+Manifold System
+GeoServer
+GeoMedia WebMap & SDI Pro
+Erdas Apollo
+Deegree
+ArcGIS Server
+Spatial FX
+Spatial Rules
+WMS-Map
+QuickWMS
+Orfeo Toolbox
+MapFish
+MapDotNet
+MapServer
+Mapnik
+MapGuide Open Source
+Remote View
+Google Earth
+ArcSDE
+Spatial Fusion Server
+Orbit EOS
+Vectorization
+Remote Sensing
+Spatial Analysis
+Utility Mapping
+GPS
+Mapping
+Photogrammetry
+Georeferencing
+Digital Image Processing
+Cartography
+WorldKit
+ThinkGeo Map Suite
+TNTmips
+uDIG
+TerraLib TerraView
+Spatial Manager for AutoCAD
+SPRING GIS
+SuperMap
+Safe Software
+Smallworld
+Spatial Manager
+RemoteView
+RegioGraph
+PCI Geomatics
+Panorama GIS
+Ortelius MapDiva
+MapPoint
+MsCross
+Netcad
+Mapbuilder
+MapInfo
+MapMerger
+Landserf
+Mapbender
+Kosmo
+ITC ILWIS
+Geosoft
+GeoTime
+GRAM++
+ILOG JView Maps
+GeoMedia SDI Portal
+FalconView
+Feature Manipulation Engine
+ESRI City Engine
+Dragon
+ips
+ENVI
+DistrictBuilder
+Digital Cadastral DataBase
+Dialogue-Assisted Visual Environment for Geoinformation
+Commercial Joint Mapping Toolkit
+Chameleon
+CitySurf Globe
+Cartopedia
+ArcGIS Online
+Autodesk
+AvisMap GIS Engine
+Bentley Systems
+Cadcorp
+CartoDB
+Supergeo Survey App
+Supergeo Server
+Supergeo Desktop
+Leica Photogrammetry Suite
+Intergraph GeoMedia
+ERDAS Imagine
+ESRI ArcEditor
+Geobis GIS
+GeoMedia Professional
+GeoMedia WebMap
+GIS Libraries
+Intergraph G
+Technology
+ERDAS ER Mapper
+ERDAS ECW
+JP2 SDK
+Erdas Apollo
+Caliper GIS
+Desktop GIS Software
+Cadcorp GIS
+ArcWeb Services
+Avenza GIS
+ArcView
+ARCSDE
+ArcGIS Viewer for Flex
+ArcIMS
+ArcInfo
+ArcMap
+ArcObjects
+ArcGIS Server
+ArcGIS
+ArcGIS Engine
+ArcExplorer
+Performing Remote Sensing
+Developing Cartographic Maps
+Prepare Topographical Map
+Prepare Land Use and Cover Maps
+Ground water Prospecting
+Design Road Network
+Data Conversion
+Conduct Surveys
+Raster to Vector Conversion
+Network Analysis
+Data Analysis
+Creating Maps
+Performing Spatial Analysis
+Data Collection
+Spatial Analysis
+Simple Roller Bearing
+Springs-with-Damper Base Isolator
+Tuned Mass Damper
+Friction Pendulum Bearing
+Hysteretic Damper
+Lead Rubber Bearing
+Dry-Stone Walls Control
+Building Elevation Control
+Failure Modes
+Seismic Design Criteria
+Analytical
+Numeric Assessment
+Experimental Assessment
+Seismic Loading 
+Prediction of Earthquake Losses
+Reinforced Concrete Structures
+Reinforced Masonry Structures
+Steel Structures
+Timber Frame Structures
+Adobe Structures
+Light Frame Structures
+Prestressed Structures
+Limestone & Sandstone Structures
+Earthquake Simulation
+Structure Simulation
+Spatial Analysis
+Utility Mapping
+Vectorization
+Remote Sensing
+GPS
+Mapping
+Photogrammetry
+Georeferencing
+Digital Image Processing
+Cartography
+Underpinning
+Submerged Structures
+Scaffolding
+Shoring
+Shuttering
+Anchors
+Cavity Walls
+Centering
+Flooring
+Formwork
+Foundations
+Masonry
+Moving Forms
+Plastering
+Roofs
+Flow Through Circular Conduits
+Fluid Properties
+Dimensional Analysis
+Flow Characteristics
+Laws of Mechanics
+Properties of Surfaces
+Dynamics of Particles
+Equilibrium of Rigid Bodies
+Friction
+Trusses
+Shells
+Plates
+Columns
+Catenaries
+Arches
+Beams
+Beams
+Columns
+Different forces such as tension
+Trusses
+Iron
+Masonry
+Plywood
+Prestressed Concrete
+Reinforced Concrete
+Reinforced Plastic
+Steel
+Carbon Fiber
+Bamboo
+Aluminum
+Adobe
+General Civil EngineeringAngular Post
+Box
+Channel
+Latch
+Post
+Pot
+Turnover
+Welding
+Milling
+Grinding
+Lathe
+Broaching
+Boring
+Presses
+Dies
+Vapor Absorption Systems
+Vapor Compression
+Thermoelectric Refrigeration
+Steam Jet Refrigeration
+Sensors and Controls
+Psychrometric Properties
+Outside and Inside Design conditions
+Ejector Refrigeration Systems
+Air Refrigeration
+Apparatus Selection
+Air Distribution System
+Adsorption Cooling Systems
+Air Conditioning Loads
+ASHRAE
+CIBSE
+DEWA
+JAFZA
+NFPA
+Thermostat
+Water Cooling Systems
+Temperature Controllers
+Split Air Conditioners
+Room Air conditioners
+Refrigerators
+Relays
+Industrial Air Systems
+Ice Makers
+Fogging Systems
+Evaporator
+Ducts
+Dehumidifiers
+Deep Freezer
+Cooling Towers
+Coolers
+Condenser
+Chillers
+Cold Storage
+Compressors
+Air Diffusers
+Air Driers
+Centralized AC
+Air Damper
+Textile Industry
+Electronics Manufacturing Industry
+Food Processing Industry
+Packaging Industry
+Cement Industry
+Z88
+Z88Aurora
+StressCheck
+TELEMAC
+Vflo
+VisualFEA
+SAMCEF
+SAP2000
+SDC Verifier
+SESAM
+S-FRAME
+Sherlock Automated Design Analysis
+STRAND7
+OpenFOAM
+OpenSees
+Pam-Crash
+Plate Optimizer
+PZFlex
+Quickfield
+Radioss
+Range Software
+RFEM
+Safehull
+OOFEM
+NEi Works
+LS-DYNA
+LUSAS
+MADYMO
+MEDINA
+MoFEM JosePH
+Moose
+MultiMech
+Nastran
+NEi Fusion
+NEi Nastran
+jFEM
+JMAG
+FEMtools
+FEniCS Project
+Flexcom
+Flexpde
+FreeFem++
+GetFEM++
+Goma Software
+Hermes Project
+High Frequency Structural Simulator
+HydroGeoSphere
+HyperSizer
+IMPETUS Afea Solver
+Femap
+FEFLOW
+FEDEM
+FEBio
+Elmer
+Extreme Loading for Structures
+DUNE
+Diffpack
+Deal.II
+CST STUDIO SUITE
+CosmosWorks
+COMSOL Multiphysics
+Computers and Structures
+Code Aster
+Calculix
+CFD-FASTRAN
+ANSYS
+AutoDesk Simulation
+AutoForm
+ANSA Pre-Processor
+ALGOR
+Altair HyperWorks
+Agros2D
+Advance Design
+ADINA
+Abaqus
+SolidWorks
+solidThinking
+Rhinoceros
+Creo
+NX Shape Studio
+Autodesk?Alias
+Autodesk?Inventor
+Autodesk?Vault
+CATIA Shape Design and Styling
+Tebis
+Tecnomatix
+TopSolid
+Ucamco
+Vero Software
+VoluMill
+WorkNC
+SmartCam
+SprutCAM
+Surfware
+RecurDyn
+Sescoi
+Siemens NX
+Open Cascade Technology
+OrthoGraph
+PowerMILL
+PTC Creo Elements
+Pro
+NC-CAM
+MSC Software
+NC Graphics
+MEDUSA Plant Design System
+MazzaCAM
+Mastercam
+Machining STRATEGIST
+GibbsCam
+ColorCAM
+Delcam
+Cimatron
+CATIA
+Bobcad
+CAMWorks
+APT Programming Language
+WAMIT
+WAFLEX
+Vesuite
+Vflo
+Sherlock Automated Design Analysis
+Siemens NX
+SmartDO
+SolidWorks
+STAAD
+Stadium
+Tekla
+Optimus Platform
+Phoenix Integration
+PLPAK
+PowerEsim
+PTC Creo Elements
+Pro
+Pumplinx
+Range Software
+RecurDyn
+RF Microwave CAE CAD
+SDC Verifier
+NEi Software
+MSC Software
+INCA
+InCa3D
+Indirect Optimization on the basis of Self-Organization
+Integrated Design, Evaluation, and Assessment of Loadings Model
+IntelliCAD
+MADYMO
+METRIC
+modeFRONTIER
+EcosimPro
+EDWinXP
+EMSO Simulator
+Extreme Loading for Structures
+FEMtools
+GNU Archimedes
+GRAITEC
+GRAITEC Advance
+HBV Hydrology Model
+Hierarchical Evolutionary Engineering Design POST
+HyperSizer
+Hydrological Transport Model
+CATIA
+Civil Designer
+Dynamic Stream Simulation and Assessment Model
+Hierarchical Evolutionary Engineering Design System NP
+Hierarchical Evolutionary Engineering Design System MDO
+Calculix
+CANalyzer
+CANape
+CANoe
+AutoTURN
+Cadec-online.com
+ANSA Pre-Processor
+Altair Data Manager
+Altair Process Manager
+Advance Steel
+Advanced Continuous Simulation Language
+Advance Design
+Advance Concrete
+Cimatron
+WorkNC
+WorkNC-CAD Hybrid Modeling
+WorkXPlore 3D
+Xilink ISE
+MathCAD
+Autodesk Plant3D
+Verde Pulgar
+VGACAD
+ViewPoint 3D
+Virtual Home Design Software
+Visioncivil
+TiffinCAD
+TopSolid
+Trajpar
+TransMagic
+T-Square Software
+TurboCAD
+UNISURF
+Universal File Format
+VariCAD
+VDA-FS CAD Data Exchange Format
+Vectorworks
+T-FLEX CAD
+Terramove
+Terrain Tools
+TeleCAD-GIS
+Tekla Structures
+Tekla
+SolveSpace
+SpaceClaim
+Spatial Corp
+Tebis
+Tecnomatix
+SolidWorks
+solidThinking
+Solid Modeling Solutions
+Solid Edge
+Siemens NX
+SIGraDi
+SketchUp
+SmartDO
+SmartGeometry
+Softree Optimal
+Sescoi
+Rockworks
+RUCAPS
+SAMoCAD
+Scan2CAD
+Sedcad
+Pulsonix
+RecurDyn
+Render Plus Systems
+RF Microwave CAE CAD
+RFEM
+Rhinoceros 3D
+RoadEng
+ProjectWise
+PTC Creo Elements
+Pro
+progeCAD
+Pro
+DESKTOP
+Process Integration and Design Optimization
+Plant Design Management System
+Prime Computer
+Power Systems CAD
+Plate Optimizer
+PCon.planner
+Parasolid
+Navisworks
+NedInfra
+Netcad
+Objet Geometries
+Optimus Platform
+OptiY
+Organice
+OrthoGraph
+Motor-CAD
+MPDS4
+MSC Software
+NAFEMS Standards
+Nastran
+Modelur
+Microstation
+Mimics
+modeFRONTIER
+MeshLab
+Mental Images
+ME10
+MEDUSA
+MacDraft
+LibreCAD
+Landscape Express
+Kimeme
+JT
+KernelCAD
+JACK
+IntelliCAD
+Initial Graphics Exchange Specification
+HICAD
+HyperSizer
+ICAD
+IChrome
+IDEA Architectural
+I-DEAS
+InCa3D
+Indirect Optimization on the basis of Self-Organization
+GstarCAD
+GenerativeComponents
+Grasshopper 3D
+GRAITEC Advance
+GCAD3D
+Gable CAD
+FS Design Studio
+FINE MEP
+FastCAD
+Euclid
+Evolver
+Eneas
+Electrical CAD
+Electric
+EDWinXP
+Easyroad Cadwork
+Drawing Express
+Digital Project
+Digigraphics
+CloudCompare
+Cobalt
+CodeBook
+Computervision
+Constructivity Model Viewer
+DAC-1
+Data Design System
+DataCAD
+David Laserscanner
+Daxcad
+Delcam
+DESI-III
+CADKEY
+Cadwork
+Campaign Cartographer
+CATIA
+Chief Architect Software
+Cimatron
+Claris CAD
+Bobcad
+Bricscad
+BRL-CAD
+CAADRIA
+CADAM
+Caddie
+AutoLISP
+AutoQ3D Community
+AutoShade
+AutoSketch
+AutoTURN
+AVEVA
+AVSnap
+AutoCAST
+Autodesk 123D
+Autodesk Alias
+Autodesk Alias Surface
+Autodesk Inventor
+Autodesk Maya
+Autodesk Revit
+Autodesk Vault
+ARRIS CAD
+ArtiosCAD
+AutoCAD
+Applicon
+ArchiCAD
+Architectural Geometry
+Architecture Design and Assessment System
+AutoCAD Architecture
+Altera Quartus
+Alibre Design
+AllyCAD
+Advance Steel
+Advance Design
+3D Catalog Technology
+Adobe Atmosphere
+Advance Concrete
+Specifications generation
+Bill of Materials preparation
+BOQ preparation
+Data sheets preparation
+Equipment Selection
+Isometrics preparation
+Material Take Off preparation
+P&ID preparation
+Piping layout preparation
+Pipeline Efficiency
+Systems
+algorithms for monitoring flow
+Thermal design
+Validation of ideas
+Conceptual Design Preparation
+FEA
+Flow assurance
+Steam Turbines
+Two Stroke IC Engine
+Four Stroke IC Engine
+Gas Turbines
+Refrigeration and Air Conditioning
+SI Engine
+Steam Nozzles
+CI Engine
+Cogeneration
+Boilers
+Titanium Alloys
+Silicone
+Ceramics
+Ferrous Alloys
+Metallic Glasses
+Non Ferrous Metals
+Polymers
+Bio Materials
+Electrical Properties of Materials
+Mechanical properties
+Phase Diagrams
+Vapor Compression
+Thermoelectric Refrigeration
+Vapor Absorption Systems
+Outside and Inside Design conditions
+Psychrometric Properties
+Sensors and Controls
+Steam Jet Refrigeration
+Apparatus Selection
+Air Distribution System
+Ejector Refrigeration Systems
+Air Refrigeration
+Air Conditioning Loads
+Adsorption Cooling Systems
+Transient Thermal Analysis
+Types of Boundary Conditions
+Types of Finite Elements
+Steady State Thermal Analysis
+Nonlinear Geometry Analysis
+Nonlinear Material Analysis
+Modeling Techniques
+Modal Analysis
+Contact Stress Analysis
+Buckling Analysis
+Heat and Work Transfer
+Psychrometric Processes
+P-V Diagram
+Second Law of Thermodynamics
+Zeroth Law of Thermodynamics
+Entropy
+First Law of Thermodynamics
+Energy Equations
+Carnot Cycle
+Cycle Improvement
+Energy Balance
+New Product Development
+Process Failure Mode Effects Analysis
+PFMEA
+Production Part Approval Process
+Rapid Prototyping
+Reverse Engineering
+Statistical Process Control
+SPC
+Value Analysis
+Value Engineering
+Failure Mode Effects Analysis
+FMEA
+Geometric dimensioning and tolerancing
+GD&T
+Measurement Systems Analysis
+MSA
+Design Failure Mode and Effects Analysis
+DFMEA
+Advanced Product Quality Planning
+APQP
+Design For Assembly
+Mass Transfer
+Radiation
+Conduction
+Convection
+Heat Exchangers
+Friction
+Laws of Mechanics
+Properties of Surfaces
+Dynamics of Particles
+Equilibrium of Rigid Bodies
+Dimensional Analysis
+Flow Characteristics
+Flow Through Circular Conduits
+Fluid Properties
+Columns
+Different forces such as tension
+Trusses
+Beams
+Steam Turbines
+Two Stroke IC Engine
+Four Stroke IC Engine
+Gas Turbines
+Refrigeration and Air Conditioning
+SI Engine
+Steam Nozzles
+CI Engine
+Cogeneration
+Boilers
+Titanium Alloys
+Silicone
+Ceramics
+Ferrous Alloys
+Metallic Glasses
+Non Ferrous Metals
+Polymers
+Bio Materials
+Electrical Properties of Materials
+Mechanical properties
+Phase Diagrams
+Thermoelectric Refrigeration
+Vapor Absorption Systems
+Outside and Inside Design conditions
+Psychrometric Properties
+Sensors and Controls
+Steam Jet Refrigeration
+Apparatus Selection
+Air Distribution System
+Ejector Refrigeration Systems
+Air Refrigeration
+Air Conditioning Loads
+Adsorption Cooling Systems
+Transient Thermal Analysis
+Types of Boundary Conditions
+Types of Finite Elements
+Steady State Thermal Analysis
+Nonlinear Geometry Analysis
+Nonlinear Material Analysis
+Modeling Techniques
+Modal Analysis
+Contact Stress Analysis
+Buckling Analysis
+Heat and Work Transfer
+Psychrometric Processes
+P-V Diagram
+Second Law of Thermodynamics
+Zeroth Law of Thermodynamics
+Entropy
+First Law of Thermodynamics
+Energy Equations
+Carnot Cycle
+Cycle Improvement
+Energy Balance
+Process Failure Mode Effects Analysis
+PFMEA
+Production Part Approval Process
+Rapid Prototyping
+Reverse Engineering
+Statistical Process Control
+SPC
+Value Analysis
+Value Engineering
+Failure Mode Effects Analysis
+FMEA
+Geometric dimensioning and tolerancing
+GD&T
+Measurement Systems Analysis
+MSA
+Design Failure Mode and Effects Analysis
+DFMEA
+Advanced Product Quality Planning
+APQP
+Design For Assembly
+Mass Transfer
+Radiation
+Conduction
+Convection
+Heat Exchangers
+Friction
+Laws of Mechanics
+Properties of Surfaces
+Dynamics of Particles
+Equilibrium of Rigid Bodies
+Dimensional Analysis
+Flow Characteristics
+Flow Through Circular Conduits
+Fluid Properties
+Columns
+Different forces such as tension
+Trusses
+Beams
+Finite Volume Methods For Diffusion
+Flow Field Analysis
+Governing Equations
+Mesh Generation
+Turbulence Methods
+Finite Volume Methods For Convection Diffusion
+Boundary Conditions
+Finite Difference Equations
+Centrifugal Pumps
+Positive Displacement Pumps
+Freon Refrigeration Compressors
+Chlorine Compressors
+Air Compressors
+Worm Gear
+Spur Gear
+Rack Gear
+Pinion Gear
+Bevel Gear
+Gear Trains
+Helical Gear
+Steam Turbines
+Wrought Fittings
+Swages
+Valves
+Straight Pipes
+Bends
+Blanks
+Sockets
+Reinforced Branch Connections
+Nozzles
+Nipples
+Gaskets
+Flanges
+Elbows
+Closures
+IBR
+JIS
+ShellDEP
+DIN
+BS
+AWWA
+ASTM
+ASME Sec VIII
+ASME Sec I
+ASME B 31.3
+API
+ANSI
+Water Treatment
+Static equipments
+Shipping and Marine
+Pumps
+Power
+Petrochemical
+Pharmaceutical
+Oil & Gas (Onshore)
+Paper and Pulp
+Blowers
+Boilers
+Buildings
+Cement
+Chemicals
+Compressors
+Environmental Waste Disposal
+Fertilizer
+Food and Beverage
+Oil & Gas (Offshore)
+Pipe Sizing
+Pipe thickness
+Stress Analysis
+Shell Heat Exchangers
+Tube Heat Exchangers
+Sulfuric Acid Storage Tank
+Oil Storage Tank
+HCI Storage Tank
+Ozonisation
+Reverse Osmosis Systems
+UV
+Waste Water Treatment
+Valves
+Cooling Towers
+Heaters
+Pipes and Joints
+Purifiers
+Reactors
+Reformers
+Columns
+Boilers
+Absorbers
+Air conditioning
+Preparation of Process Flow Diagram
+Preparing Front End Engineering & Design
+Process descriptions
+Process equipment listing
+Process risk analysis
+Process Simulation
+Risk Analysis
+Technology Transfer
+Tie-in list
+Understanding of Code, Specification and Standards
+Utility balances
+Utility Calculations
+Utility Flow Diagrams
+Plant Layout Preparation
+Preparation of Piping & Instrumentation Diagram
+Monitoring and Improving Process Efficiency
+Material Selection Diagrams
+Line list
+Material & Energy Balance
+Heat and Mass Balance Calculation
+Hydraulic Calculations
+Instrument process datasheets
+Commissioning
+Conducting Feasibility Studies
+Cost Estimation
+Documentation of processes and procedures
+Equipment Design Calculation
+Equipment process datasheets
+Evaluating and Selecting Appropriate Process Equipments
+Evaluating and Selecting Appropriate Processes
+Hazard Identification
+Hazop Review and Analysis
+Cumene process
+Friedel-Crafts reaction
+Kolbe-Schmitt reaction
+Olefin metathesis
+Oxo process
+Raschig process
+Thermal depolymerization
+Transesterification
+Cracking
+Burton process
+Vacuum Distillation
+Steam distillation
+Fractionating column
+Spinning cone
+Continuous distillation
+Fractional distillation
+Batch distillation
+Absorption
+Air Agitation
+Alcohol Distillation
+Bleaching
+Centrifugation
+Chemical Agitation
+Chemical Pulverization
+Condensation
+Dispensers
+Distillation
+Etching
+Fermentation
+Kneading
+Resin Manufacture
+Slurry Disposal
+Solvent Distillation
+Solvent extraction
+Vacuum Crystallization
+Vapor Deposition
+Vertical Tank Storage
+Iodide process
+Crystal bar process
+Kroll process
+Hunter process
+Parkes process
+Bacterial oxidation
+Girdler sulfide process
+Steam Reforming
+Water Gas Shift Reaction
+Betterton-Kroll process
+Betts electrolytic process
+Mond process
+Kraft process
+Pulping
+Fourdrinier machine
+Vulcanization
+Alberger process
+Grainer evaporation process
+Czochralski process
+Bridgeman technique
+Parkes process
+Patio process
+Leblanc process
+Leblanc-Deacon process
+Solvay process
+Contact process
+Lead chamber process
+Industrial Rendering
+Nitrophosphate process
+Pilkington process
+Wahler process
+Hall-Heroult process
+Bayer process
+Deville process
+Haber Process
+Dow process
+Hooker process
+Weldon process
+Chloralkali process
+Sulfonation
+Hydration
+Hydrogenation
+Hydrolysis
+Nitrification
+Oxidation
+Polycondensation
+Polymerization
+Pyroprocessing
+Reduction
+Ammonization
+Catalysis
+Dealkylation
+Dehydration
+Dehydrogenation
+Disinfection
+Smelting
+Halogenation
+Esterification
+Alkaline fusion
+Alkylation
+Heat Exchangers
+Mass Transfer
+Radiation
+Conduction
+Convection
+Fluid Properties
+Flow Through Circular Conduits
+Flow Characteristics
+Dimensional Analysis
+Types of Finite Elements
+Types of Boundary Conditions
+Steady State Thermal Analysis
+Nonlinear Material Analysis
+Transient Thermal Analysis
+Buckling Analysis
+Contact Stress Analysis
+Modal Analysis
+Modeling Techniques
+Nonlinear Geometry Analysis
+Boundary Conditions
+Finite Difference Equations
+Finite Volume Methods For Convection Diffusion
+Finite Volume Methods For Diffusion
+Flow Field Analysis
+Governing Equations
+Mesh Generation
+Turbulence Methods
+Wolfram SystemModeler
+VMGSim
+Usim Pac
+Shadow plant
+SimCreate
+Simulis Thermodynamics
+SolidSim
+SPEEDUP
+SuperPro Designer
+SysCAD
+System7
+TSWEET
+UniSim Design
+ProSimPlus
+ProSimulator
+Pro-Steam
+RecoVR
+ROMeo Process Optimizer
+ProSim DAC
+PRO
+II
+Prode Properties
+Prode simulator
+ProMax
+PROSIM
+PIPE-FLO Professional
+Petro-SIM
+PETROX
+PEL Software Suite
+OpenModelica
+Omegaland
+OLGA
+Distillation Expert Trainer
+D-SPICE
+DWSIM
+Dymola
+DynoChem
+DYNSIM
+EMSO
+Flowtran Simulation
+gPROMS
+HSC Sim
+IDEAS
+iiSE Simulator
+INDISS
+Integrated Computer Aided System
+JModelica.org
+K-Spice
+LIBPF
+METSIM
+MiMic
+Mobatec Modeler
+COCO Simulator
+Cycle-Tempo
+Design II for Windows
+Clearview
+ChromWorks
+BatchColumn
+BatchReactor
+CADSIM Plus
+ChemCAD
+Chemical WorkBench
+APMonitor
+Ariane
+Aspen HYSYS
+Aspen Plus
+ASSETT
+STRAND7
+StressCheck
+TELEMAC
+Vflo
+VisualFEA
+Z88
+Z88Aurora
+S-FRAME
+Sherlock Automated Design Analysis
+SESAM
+SDC Verifier
+SAP2000
+SAMCEF
+PZFlex
+Quickfield
+Radioss
+Range Software
+RFEM
+Safehull
+Plate Optimizer
+NEi Works
+OOFEM
+OpenFOAM
+OpenSees
+Pam-Crash
+NEi Fusion
+NEi Nastran
+MultiMech
+Nastran
+JMAG
+LS-DYNA
+LUSAS
+MADYMO
+MEDINA
+MoFEM JosePH
+Moose
+IMPETUS Afea Solver
+jFEM
+HyperSizer
+HydroGeoSphere
+High Frequency Structural Simulator
+Hermes Project
+Goma Software
+GetFEM++
+Flexcom
+Flexpde
+FreeFem++
+FEMtools
+FEniCS Project
+CST STUDIO SUITE
+Deal.II
+Diffpack
+DUNE
+Elmer
+Extreme Loading for Structures
+FEBio
+FEDEM
+FEFLOW
+Femap
+Altair HyperWorks
+ANSA Pre-Processor
+ANSYS
+AutoDesk Simulation
+CosmosWorks
+COMSOL Multiphysics
+Computers and Structures
+Code Aster
+CFD-FASTRAN
+Calculix
+AutoForm
+ADINA
+Advance Design
+Agros2D
+ALGOR
+Abaqus
+Plantspace
+Plant P&ID
+PDMS
+Aveva PDMS
+Cardworx
+AutoCAD
+Autoplant
+Being Current on Latest Functional Developments
+Scientific Temperament
+Cross Domain Knowledge
+Problem Solving
+Systems Thinking
+Using Information Technology
+Software Tools
+Numerical Ability 
+Creative Thinking 
+Analytical Thinking 
+AutoSketch
+ACAD
+Switchgears
+Uncontrolled Rectifiers
+Relays
+Circuit Breakers
+Controlled Rectifiers
+Inverters
+Three Phase Circuits
+Transient Response
+Resonance Circuits
+AC Circuits
+Coupled Circuits
+DC Circuits
+Network Theorems
+Measurement of Voltage
+Measurement of Phase
+Measurement of Frequency
+Measurement of Iron Loss
+Measurement of B-H Loss
+Measurement of Current
+Electrodynamic Fields
+Electromagnetic Waves
+Electrostatics
+Magnetostatics
+Magnetic Particle Inspection
+Magnetovision
+Remote Field Testing
+Magnetic Flux Leakage Testing
+Eddy Current Testing
+Alternating current field measurement
+Alternating current potential drop measurement
+Direct current Potential Drop Measurement
+Transformers
+Synchronous Generator
+Synchronous Motor
+Motors
+MMF Curves
+Magnetic Circuits
+Machine Windings
+Induction Motors
+Generators
+Electro Mechanical Energy Conversion
+DC Machines
+Connection Diagrams
+Grounding Plan
+Lighting Plan
+Power Plan
+Single Line Diagrams
+Transformers
+Meters and Metering
+Distribution Sub Station
+Distribution Lines
+Industrial Complexes
+Commercial Complexes
+Residential Complexes
+Residential Houses
+Aeronautics
+Automotive

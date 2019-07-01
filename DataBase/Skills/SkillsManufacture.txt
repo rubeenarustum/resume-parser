@@ -1,0 +1,981 @@
+Semiconductor Processing Systems
+Using Information Technology / Software Tools
+Performing Engineering Calculations
+Problem Solving
+Process Orientation
+Technical Troubleshooting
+Understanding Business Processes
+Analytical Thinking
+Judgement of Time and Effort
+Eye for detail
+Sputter Coaters
+Vacuum Contact Printers
+Wafer Substrate Bonders
+Wire Bonders
+Photoresist Spin Coaters
+Plasma Enhanced Chemical Vapor Deposition Pecvd Systems
+Plasma Etchers
+Spin Processors
+Parallel Plate Reactive Ion Etchers
+Photoresist Dispensing Systems
+Nanoimprint Lithography Systems
+Molecular Vapor Deposition Systems
+Mask Aligners
+Metal-Organic Chemical Vapor Deposition Systems
+Molecular Beam Epitaxy Systems
+Magnetron Plasma Sputter Reactors
+Electron Beam Evaporators
+Electron Beam Writers
+Low Pressure Chemical Vapor Deposition Systems
+Ion Mills
+Ion Implanters
+Inductively Coupled Plasma Reactive Ion Etchers
+Focused Ion Beam Etching Tools
+Extreme Ultraviolet Systems
+Contact Aligners
+Dielectric Deposition Tools
+Atomic Layer Deposition Systems
+Capacitively Coupled Plasma Reactors
+SLIGA
+Photolithography
+Wet Etching
+Dry Etching
+Chemical Etching
+Plasma Etching
+Electro Chemical Spark Deposition
+LIGA
+Maleno Deposition
+Electro Discharge Deposition
+Chemical Vapour Deposition
+Physical Vapour Deposition
+	Abrasive Manufacturing Process
+	Electron beam machining
+Ion Beam Machining
+Electric Discharge Machining
+Laser Beam Machining
+Plasma Arc Machining
+Chemical Machining
+Electro Chemical Machining
+Ultrasonic Machining
+Abrasive Water Jet Machining
+Water Jet Machining
+Abrasive Jet Machining
+Abrasive Grinding
+Abrasive Mixing
+Asbestos Shingle Shearing
+Abrasive Wheel Molding
+Ultrasonic
+Ultrasonic welding
+Upset Welding
+Spot
+Stud arc welding
+Tungsten
+Thermite
+Thermite welding
+Submerged Arc Welding
+Submerged Arc
+Solid state
+Soldering
+Roll welding
+Seam
+Oxyfuel
+Oxyhydrogen Welding
+Pencil
+Percussion
+Percussion welding
+Plasma
+Plasma Arc Welding
+Pressure Gas Welding
+Projection
+Projection Welding
+Oxyacetylene Welding
+Resistance Spot Welding
+Resistance Seam Welding
+Laser
+Laser beam welding
+Laser-hybrid welding
+Magnetically Impelled Arc Butt
+Gas Tungsten Arc Welding
+Hot isostatic pressure welding
+Hot pressure welding
+Induction
+Induction welding
+Friction stir welding
+Friction welding
+Gas Metal Arc Welding
+Flux Cored Arc Welding
+Forge welding
+Electrogas welding
+Electromagnetic pulse welding
+Electron beam welding
+Electroslag welding
+Explosion welding
+Flash
+Flash Welding
+Flow welding
+Brazing
+Butt
+Carbon Arc Welding
+Coextrusion Welding
+Cold pressure welding
+Diffusion welding
+Air Acetylene Welding
+Atomic Hydrogen Welding
+Bare Metal Arc Welding
+Acid Bath Descaling
+Alkaline Cleaning
+Emulsion Cleaning
+Ultrasonic Cleaning
+Abrasive Bath Cleaning
+Pickling Salt Bath Descaling
+Scrapping
+Wire Brushers
+Bulling Shot Peening
+Polishing
+Plasma Thermal Spraying
+Arc Thermal Spraying
+Flame Thermal Spraying
+Anodizing
+Plating Coating
+Diffusion Coating
+Hot Dip Coating
+HOVF
+Chromating
+Phosphating
+Thin film coating
+Conversion coating
+Electroless planing
+Electroplating
+High Energy Treatments
+Thermal spraying
+Ingots Rolling
+Plate Rolling
+Non Ferrous Rolling
+Roll Form
+Steel Rolling
+Stretch Rolling
+Wire Rolling
+Tube Rolling
+Finish Rolling
+Four-Roller Mill
+Hot Rolling
+Blooming
+Foil Rolling
+Hot Drawing
+Folding
+Hot Bending
+Section Drawing
+Tube Bending
+Tube Drawing
+Warm Pressing
+Wire Drawing
+Extrusion
+Deep Drawing
+Embossing
+Hydraulic Pressing
+Laying Out
+Metal Drawing
+Precision Drawing
+Rolling
+Cold Drawing
+Cold Pressing
+Beating
+Threading
+Annealing
+Diffusion Hardening
+Direct Hardening
+Gas Carburizing
+Tempering
+Stress Relieving
+Nitriding
+Heat Exchangers
+Wagon Smithing
+Smith
+Rough Forging
+Press
+Precision Forging
+Powder
+Farriering
+Drop Forging
+Damascening
+Cored
+Brass Forging
+Bladesmithing
+Tool Forging
+Staking
+Impact Extrusion
+Cold Rolling
+Burnishing
+Flame Cutting
+Sheet Cutting
+Plasma Cutting
+Net Cutting
+Metal Punching
+Laser Cutting
+Glass Cutting
+Wire Cutting
+Spark Erosion
+High Pressure Die Casting
+Low Pressure Die Casting
+Sand casting
+Chill Casting
+Lost Wax Casting
+Vacuum Casting
+Shell Molding
+Injection Molding
+Art Casting
+Bell Casting
+Block Casting
+Centrifugal casting
+Investment casting
+Die casting
+Continuous casting
+Turning
+Engraving
+Finishing
+Planing
+Slotting
+Milling
+Grinding
+Drilling
+Shred
+Thread Cutting
+Twist
+Ultrasonic
+Refine
+Routing
+Rub
+Sawing
+Scraping
+Shaping
+Shear
+Pulverize
+Reaming
+Petrochemical
+Laser beam
+Hull
+Honing
+Granulate
+Hobbing
+Gashing
+Fluff
+Face
+Fiberize
+Filing
+Crushing
+Curl
+Deburring
+Electrical Discharge
+Electrochemical
+Electron beam machining
+Chip formation
+Chiseling
+Crack
+Atomize
+Blend
+Centrifugal disintegration
+Copy Turning
+Crankshaft Turning
+Face Turning
+Longitudinal Turning
+Multi Spindle Turning
+Roll Turning
+Thread Turning
+Turret Turning
+Boring Mill Turning
+Carousel Turning
+CNC Turning
+	Precious Metal Engraving
+	Flat Engraving
+	Hand Engraving
+	Machine Engraving
+		CNC Planing
+		Oxygen Planing
+	Slotting
+		Broaching
+		Gear Slotting
+Profile Milling
+Gear Milling
+Face Milling
+Copy Milling
+CNC Milling
+Traverse Thread Milling
+Thread Milling
+Universal Milling
+Tool Milling
+	Hollow Grinding
+	Jig Grinding
+	Lapping
+	Machine Grinding
+	Profile Grinding
+	Surface Grinding
+	Thread Grinding
+	Belt Grinding
+	Centerless Grinding
+	CNC Grinding
+	Cylindrical Grinding
+	Electrochemical Grinding
+	Form Grinding
+	Gear Grinding
+	Hand Grinding
+		Template Drilling
+		Twist Drilling
+	Ultrasonic Drilling
+	Precision Drilling
+	Radial Drilling
+	Ream
+	Tapping
+	Column Drilling
+	Coordinate Drilling
+	Countersink
+	Deep Hole Drilling
+	Jig Boring
+	Multiple Drilling
+		Production of Wheat Products
+		Production of Corn Products
+	Production of Edible Oil
+	Production of Fruit Preserves
+	Production of Fruit Pulp
+	Production of Oat Products
+	Production of Rice Products
+	Production of Snack Foods
+	Production of Vegetable Preserves
+	Processing of Tomato
+	Production of Barley Products
+	Production of Biscuits
+	Production of Bread
+	Production of Confectionery
+	Non Thermal Processing
+	Thermal Processing
+	Low Temperature Processing
+	Pulsed Electric Field Technology
+	Smoking
+	Chemical Preservatives
+	Fermentation
+	Food Additives
+	Gamma Irradiation
+	High Pressure Technology
+	Hurdle Technology
+	Pickling
+	Dielectric Heating
+	Drying
+	Extrusion Cooking
+	Frying
+	Microwave Heating
+	Pasteurization
+	Roasting
+	Sterilization
+	UHT Processing
+	Canning
+	Dehydration
+	Baking
+	Blanching
+		Refrigeration
+		Controlled Atmosphere
+	Dehydro-freezing
+	Food Irradiation
+	Freezing
+	Modified Atmosphere
+	Contact process
+	Lead chamber process
+		Hunter process
+		Kroll process
+	Crystal bar process
+	Iodide process
+	Grainer evaporation process
+	Alberger process
+		Bridgeman technique
+		Czochralski process
+Parkes process
+Patio process
+Leblanc-Deacon process
+Solvay process
+Leblanc process
+	Vulcanization
+	Nitrophosphate process
+Pilkington process
+Bacterial oxidation
+Parkes process
+Girdler sulfide process
+Water Gas Shift Reaction
+Steam Reforming
+Betts electrolytic process
+Betterton-Kroll process
+Mond process
+Kraft process
+Pulping
+Fourdrinier machine
+Industrial Rendering
+	Haber Process
+Dow process
+Chloralkali process
+Hooker process
+Weldon process
+Deville process
+Hall-Heroult process
+Wahler process
+Bayer process
+Recovery Plants
+Reformers
+Scrubbers
+Separators
+Storage Vessels / Tanks
+Recovery Column
+Evaporators
+Extraction Column
+Filters
+Filtration Systems
+Fractionators
+Furnaces
+Heat Exchangers
+Heaters
+Pressure Vessels
+Purifiers
+Reactors
+Dryers
+Absorbers
+Agitators
+Boilers
+Calciners
+Crystallizers
+Distillation Column
+Solvent extraction
+Vacuum Crystallization
+Vapor Deposition
+Vertical Tank Storage
+Solvent Distillation
+Slurry Disposal
+Kneading
+Resin Manufacture
+Etching
+Fermentation
+Distillation
+Dispensers
+Condensation
+Chemical Agitation
+Chemical Pulverization
+Centrifugation
+Absorption
+Air Agitation
+Alcohol Distillation
+Bleaching
+Ethylene
+Ethylene Glycol
+Ethylene Oxide
+Formaldehyde
+Methanol
+MethylBenzene
+Phenol
+Propylene
+Urea
+Butadiene
+Ethanol
+Benzene
+Acetic Acid
+Acetone
+	Titanium Dioxide
+	Fluorine
+Hydrogen
+Hydrogen Chloride
+Hydrogen Fluoride
+Hydrogen Peroxide
+Iodine
+Nitric Acid
+Nitrogen
+Oxygen
+Phosphoric Acid
+Phosphorus
+Sodium Carbonate
+Sodium Hydroxide
+Sulphur
+Sulphuric Acid
+Ammonia
+Bromine
+Calcium Carbonate
+Chlorine
+Blow Molding
+Compression Molding
+Extrusion Technology
+Elastomer Technology
+Thermoform Technology
+Plastic Injection Molding
+Plastic Film Production
+Plastic Coating Technology
+Foam Technology
+	Petroleum Coke
+	Metal Working Fluids
+Naptha
+Kerosene
+Grease
+Fuel Oils
+Diesel
+Coolants
+Desulfurization
+FCC - Fluid catalytic cracking
+Visbreaker
+Isomerisation
+Distillation
+Dealkylation
+Alkylation
+Atmospheric Distillation
+Catalytic Reformer
+Claus Sulphur Plant
+Coking Units
+Desalting
+Dimerisation
+Distillate Hydrotreater
+Fluid Catalytic Cracker
+Hydrocracker
+Hydrodesulphurisation
+Hydrotreating
+Vacuum Distillation
+Steam Reforming
+	Product Specification Changes
+	Startup and Shutdown Operations
+Unit Capacities
+Unit de-bottlenecking
+Crude Quality Changes
+Energy/Heat Usage
+Catalyst and Chemical Usage
+Yarn feeders
+Tricot knitting machines
+Tufting machines
+Twisting machines
+V-bed knitting machines
+Warp knitting machines
+Water jet weaving machines
+Weft knitting machines
+Thread winding machines
+Textile shears
+Textile reeling machines
+Textile dying machines
+Textile combing machines
+Textile carding machines
+Straight bar knitting machines
+Spring bearded needles
+Single bed knitting machines
+Shuttle weaving machines
+Raschel knitting machines
+Rapier weaving machines
+Projectile weaving machines
+Needlenose pliers
+L-keys
+Latch needles
+Jacquard weaving machines
+Industrial sewing machines
+Flat bar knitting machines
+Flat bed knitting machines
+Fabric spreaders
+Fine spinners
+Circular knitting machines
+Circular weaving machines
+Air jet weaving machines
+Compound needles
+Tailoring and Clothing
+Cutting
+Weaving
+Dyeing
+Finishing
+Spinning
+Sewing
+Ironing
+Pattern Cutting
+Manual cutting
+Machine Cutting
+Computer aided cutting
+Chenille Weaving
+Circular Weaving
+Cloth Weaving
+Gobelin Tapestry Weaving
+Hook Weaving
+Projectile Weaving
+Plush Weaving
+Pile Weaving
+Jet Weaving
+Jacquard Weaving
+Ribbon Weaving
+Reel Weaving
+		Roller Vat Dyeing
+		Roller Dyeing
+Jigger Dyeing
+Hank Yarn Dyeing
+Hand Dyeing
+Flake Dyeing
+Continuous Dyeing
+Star Frame Dyeing
+Vat Dyeing
+Warp Beam Dyeing
+Coloring
+	Decatizing
+	Breaking
+	Carbonization
+	Impregnating
+	Desizing
+	Printing
+	Painting
+	Flocking
+	Bleaching
+	Sanforising
+	Raising
+	Pleating
+	Padding
+	Mercerizing
+	Fulling
+	Laminating
+		Hand Spinning
+		Gold Spinning
+	Flyer Spinning
+	Ring Spinning
+	Rotor Spinning
+	Rubber Spinning
+	Silver Spinning
+	Twining
+	Milling
+	Wet Process Kilns
+	Dry Process Kilns
+	Clinker Store
+	Blending
+	Universal Milling
+	Tool Milling
+	Traverse Thread Milling
+	Grist Mill
+	Hammer Mill
+	Profile Milling
+	Saw mill
+	Steel mill
+	Thread Milling
+	Gear Milling
+	Ball mill
+	Burrstone mill
+	CNC Milling
+	Copy Milling
+	Cut Mill
+	Disc mill
+	Face Milling
+		Understanding Business Processes
+		Using Information Technology / Software Tools
+		Numerical Ability
+			Technical Troubleshooting
+	Process Orientation
+	Problem Solving
+	Performing Engineering Calculations
+	Analytical Thinking
+		Judgement of Time and Effort
+	Tukey`s quick test
+	Value Analysis
+	Process Charts
+	Quality Circles
+	QualPro
+	Safety margin
+	Six Sigma
+	Specifications and statistical tolerance
+	Statistical Process Control
+	TPM
+	TQM
+	T-Test, f-Test, z-Test
+	Plotting methods
+	Poke Yoke
+	Probability distributions
+	P-D-C-A for conducting tests
+	Pareto Analysis
+	OEE
+	Nature of variation
+	Kepner Tregoe
+	Measures of central tendency and dispersion
+	Kaizen
+	Kanban
+	Ishikawa Diagram
+	Hypothesis testing (tests of significance)
+	Gemba Gembutsu
+	Gage R&R studies
+	Failure Mode and Effect Analysis
+	Correlation and Scatter Plots
+	Corrective And Preventive Action
+	Cause and Effect Relationships
+	5S
+	Balanced Score Card
+	Reliability Testing
+	Reliability Improvement
+	Reliability of Systems
+	Reliability Estimation
+	Reliability Definition and Parameters
+	Life Data Analysis
+	Analysis of failure data
+	Basic reliability models
+	Investigative techniques
+		Spares Inventory Management
+		Breakdown Maintenance
+	Preventive Maintenance
+	Root Cause Analysis
+	Maintenance of Plumbing Systems
+	Maintenance of HVAC
+	Maintenance of Instrumentation
+	Maintenance of Machineries
+	Mechanical Maintenance
+	Maintenance of Water Treatment Plans
+	Maintenance of Safety Systems
+	Maintenance of Process System
+	Maintenance of Power Utilities
+	Maintenance of Power Plant
+	Maintenance of Power Equipment
+		Using Information Technology / Software Tools
+		Problem Solving
+	Process Orientation
+	Systems Thinking
+	Understanding Business Processes
+	Guiding People
+	Logical Thinking
+		Performing Engineering Calculations
+	Crunching Data
+	Analytical Thinking
+		BS 7799
+	BS 8800
+	ISO 14000
+	ISO 27001
+	ISO 9000
+	ISO 9001-2000
+	Collecting Data to Anlayze Quality
+	Monitoring Process Compliance
+	Setting Quality Metrices
+	Training Employees / Stakeholders
+	Performing Root Cause Analysis
+	Institutionalizing Quality Processes
+	Performing Internal Audity
+	Implementing Quality Standards and Procedures
+	Tukey`s quick test
+	Value Analysis
+	Six Sigma
+	Specifications and statistical tolerance
+	Statistical Process Control
+	TPM
+	TQM
+	T-Test, f-Test, z-Test
+	Quality Circles
+	QualPro
+	Safety margin
+	Process Charts
+	Probability distributions
+	Plotting methods
+	Poke Yoke
+	Nature of variation
+	OEE
+	Pareto Analysis
+	P-D-C-A for conducting tests
+	Kanban
+	Kepner Tregoe
+	Measures of central tendency and dispersion
+	Kaizen
+	Hypothesis testing (tests of significance)
+	Ishikawa Diagram
+	Gage R&R studies
+	Gemba Gembutsu
+	Failure Mode and Effect Analysis
+	Corrective And Preventive Action
+	Correlation and Scatter Plots
+	Cause and Effect Relationships
+	Balanced Score Card
+	5S
+	Problem Solving
+	Process Orientation
+	Systems Thinking
+	Understanding Business Processes
+	Using Information Technology / Software Tools
+	Performing Engineering Calculations
+	Logical Thinking
+		Judgement of Time and Effort
+	Crunching Data
+	Analytical Thinking
+			Weka
+		WINKS
+	Wizard
+	UNISTAT
+	SYSTAT
+	TSP
+	Statwing
+	Statsmodels
+	StatPlus
+	STATISTICA
+	Stata
+	Statgraphics
+	IBM SPSS
+	SPlus
+	SOFA Statistics
+	SkyTree Infinity
+	SigmaXL
+	SciPy
+	Scientific Computation and Visualization Environment
+	Salstat
+	SAS
+	Ox Programming Language
+	OxMetrics
+	Primer
+	PSPP
+	R
+	Regression Analysis of Time Series
+	Revolution Analytics
+	ROOT Statistical Software
+	Sage Mathematical Software
+	OpenEpi
+	Origin
+	Octave
+	KXEN
+	LMDEP
+	Maple
+	Mathematica
+	MedCalc
+	Minitab
+	NCSS
+	NLOGIT
+	NumXL
+	Gensat
+	GraphPad Prism
+	Gretl
+	JMP
+	Excel
+	GAUSS
+	EViews
+	ADamSoft
+	Analyze-it
+	BMDP
+	T Test
+	Multidimensional Scaling
+	Non linear Regression
+	Predictive Analysis
+	Qualitative and Structural Activity Relationship
+	Sequence Analysis
+	Time series Analysis
+	MANOVA / MANCOVA
+	Methodologies
+	Micro array Analysis
+	Linear Regression
+	Hypothesis Testing
+	Discriminant Analysis
+	Factor Analysis
+	Hidden Markov Models
+	Clustering and Diversity analysis
+	Conjoint Analysis
+	Correlation
+	Cross-Tabulation
+	CHAID
+	Chi Square Test
+	ANCOVA
+	ANOVA
+	Artificial Neural Network
+	Association Analysis
+	Canonical Correlation
+	Talika PMS
+	TCS MES
+	SPUDWEB Technologies
+	Siemens PLM Software
+	Rockwell Automation MES
+	RWT - Process Optimized Information System
+	Schneider Electric MES
+	Siemens MES/MOM
+	Qubes
+	OSIsoft
+	PAS-X - MES
+	POMSnet - MES
+	Nysus Solutions
+	Memex Automation
+	Manufacturing Enterprise Solutions Association International
+	Invensys Wonderware
+	Invensys Avantis
+	Invensys Eurotherm
+	Invensys Foxboro
+	Invensys IMServe Euro
+	Invensys SimSci
+	Invensys Skelta
+	Invensys Triconex
+	FORCAM
+	GE Intelligent Platforms
+	Honeywell
+	Ignition SCADA
+	Ingenious
+	Factory MES
+	Callisto Integration
+	Delmia Apriso
+	EazyWorks
+	ABB Manufacturing Execution System
+	AspenTech
+	ATS Automation Tooling Systems
+	Brock Solutions
+	Cellular Manufacturing Systems
+	Maunfacturing Optimization
+	Reverse Engineering
+	Rapid Prototyping
+	Lean Manufacturing
+	Just In Time
+	3D Printing
+T-Test
+f-Test
+z-Test
+Tukey`s quick test
+Value Analysis
+TQM
+Specifications and statistical tolerance
+Statistical Process Control
+TPM
+Safety margin
+Six Sigma
+OEE
+Pareto Analysis
+P-D-C-A for conducting tests
+Plotting methods
+Poke Yoke
+Probability distributions
+Process Charts
+Quality Circles
+QualPro
+Measures of central tendency and dispersion
+Nature of variation
+Kanban
+Kepner Tregoe
+Kaizen
+Ishikawa Diagram
+Correlation and Scatter Plots
+Failure Mode and Effect Analysis
+Gage R&R studies
+Gemba Gembutsu
+Hypothesis testing (tests of significance)
+Corrective And Preventive Action
+Cause and Effect Relationships
+Balanced Score Card
+5S
+Workplace Design
+Re-engineering
+Value Engineering
+Workflow Study
+Productivity Analysis
+Method Improvement
+Plant Layout Study
+Material Handling Study
+Efficiency Calculation
+Fleet Size Study
+Line Balancing Study
+Optimizing Plant Layout
+Motion Study
+Job Study
+Ergonomics
+Statistical Analysis Tool
+Statistical Analysis
+Data Analytics
+Manufacturing Execution Systems
+Manufacturing Technologies
+Quality Improvement Tools
+Quality Improvement Methodologies
+Industrial Engineering Knowledge
+Understanding Business Processes
+Using Information Technology / Software Tools
+Numerical Ability
+Analytical Thinking
+Judgement of Time and Effort
+Eye for detail
+Performing Engineering Calculations
+Problem Solving
+Process Orientation
+Technical Troubleshooting
+Resource planning
+Product Scheduling
+Manpower Allocation
+Load Balancing
+Line Balancing	

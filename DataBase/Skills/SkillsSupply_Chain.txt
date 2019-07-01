@@ -1,0 +1,126 @@
+Production Logistics
+Redistribution Logistics
+Transport Logistics
+Procurement Logistics
+Just In Time
+Logistics Organization
+Distribution Logistics
+Inventory Days
+Lead Time
+Inventory Classification
+ABC Analysis
+Demand Forecasting
+Economic Order Quantity
+Warehouse Productivity
+Lot management
+Space optimization techniques
+Distribution System
+Import and Export Documentation
+Sea Transport
+Freight Invoicing
+Air Freight Forwarding
+Cargo Forwarding
+Customs Clearance
+Options Assessment
+Traffic Flow Management
+Modes of Transportation
+Lead Time
+Freight Cost Management
+Capacity Assessment
+Shipping
+Payments
+Import Procedures
+Export Procedures
+Material Safety
+Space Optimization
+Stocktaking
+Warehouse Organization
+Warehouse Security
+Inspection of Incoming Goods
+Inventory Accounting
+Inventory Control
+Chain Conveyors
+Gantry Crane
+High Bay racking
+Loaders
+Packing Equipments
+Palletizing
+Titling Equipments
+Inbound Logistics
+Outbound Logistics
+Managing Dealer Relationships
+Engaging Franchises
+Enabling Franchises
+Stock Planning for DCs / Warehouses
+Channel Partner Identification
+Distribution Network Planning
+Dealer performance management
+Planning Distribution Centers / Warehouses
+Dealer Identification
+Charting out Franchise Engagement Terms
+Charting Out Dealer Terms
+Channel Partner Performance Management
+Network Planning
+CPIM
+CSCP
+CFPIM
+Transaction Setup
+Inventory Definition
+Inventory Replenishment
+Issuing and transferring Material
+Lot and Serial Control
+Material Status Control
+Material Master Data Management
+Maintaining Optimum Inventory Levels
+Inventory Accuracy
+Inventory Organization Structure
+Defining Items
+Risk Management
+Vendor Master Data Management
+Vendor Audit
+Technical Assessment
+Tax Risk
+Accounting Risk
+Governance Risk
+Invoice Verification
+Release Payment
+Releasing Purchase Orders
+Awarding Negotiations
+Bidding
+Identifying Sources
+Market Research
+Master Data Management
+Negotiations
+Spot Buying
+Reverse Auction
+Request for Proposal
+Forward Auction
+Request for Costing
+Request for Information
+Negotiating Contracts
+RFI/RFP/RFQ responses
+RFP Roll-out
+Contract Laws
+Drafting Contracts
+Purchase Price Variance
+Spend Analysis
+Oracle
+SAP
+IBM
+HighJump - SCM
+IFS
+Inspur Genersoft
+Kinaxis
+Logility
+Totvs
+IBS
+Infor
+GTNexus
+Kewill
+PTC
+Quintiq
+Unit4
+Manhattan Associates
+Epicor
+Descartes
+JDA

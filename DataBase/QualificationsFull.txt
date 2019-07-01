@@ -1,0 +1,1192 @@
+//ASSOCIATE
+ Associate in Science 
+ Associate in Nursing 
+ Associate of Arts 
+ Associate of Applied Science 
+ Associate in Applied Tech 
+ Associate in Occupational Technology 
+ Associate of Science 
+ Associate in Arts 
+ Associate Degree 
+ Associate Degree in Administration of Justice 
+ Associate Degree in Advertising 
+ Associate Degree in Agribusiness 
+ Associate Degree in Animal Management 
+ Associate Degree in Architectural Building Engineering Technology 
+ Associate Degree in Architecture and Career Options 
+ Associate Degree in Art 
+ Associate Degree in Automotive Maintenance Technology 
+ Associate Degree in Aviation Mechanics 
+ Associate Degree in Behavioral Science 
+ Associate Degree in Boat Mechanics 
+ Associate Degree in Boat Repair and Maintenance 
+ Associate Degree in Cabinet Design Technology 
+ Associate Degree in Child Development: Program Summary 
+ Associate Degree in Christian Ministry 
+ Associate Degree in Cosmetology Business 
+ Associate Degree in Digital Media 
+ Associate Degree in Early Childhood Special Education 
+ Associate Degree in Elementary Education 
+ Associate Degree in English 
+ Associate Degree in Environmental Science 
+ Associate Degree in Environmental Studies 
+ Associate Degree in General Psychology 
+ Associate Degree in History and Information 
+ Associate Degree in Interdisciplinary Studies 
+ Associate Degree in International Relations 
+ Associate Degree in Landscape Architecture 
+ Associate Degree in Landscaping Design 
+ Associate Degree in Library Science 
+ Associate Degree in Music 
+ Associate Degree in Wildlife Management 
+ Associate Degree in Education 
+ Associate of Applied Science in Accelerated Culinary Arts 
+ Associate of Applied Science in Accounting Specialist 
+ Associate of Applied Science in Administrative Support 
+ Associate of Applied Science in Baking and Pastry 
+ Associate of Applied Science in Business Administration 
+ Associate of Applied Science in Business Administration - Finance 
+ Associate of Applied Science in Business Information Systems 
+ Associate of Applied Science in Civil Justice - Law Enforcement 
+ Associate of Applied Science in Clinical Medical Assisting 
+ Associate of Applied Science in Computer Applications 
+ Associate of Applied Science in Computer Electronics 
+ Associate of Applied Science in Computer Game Design 
+ Associate of Applied Science in Computer Information Systems 
+ Associate of Applied Science in Culinary Arts 
+ Associate of Applied Science in Digital Media Communications 
+ Associate of Applied Science in Digital Photography 
+ Associate of Applied Science in Electronic Engineering 
+ Associate of Applied Science in Emergency Medical Services 
+ Associate of Applied Science in Health Care Management 
+ Associate of Applied Science in Health Information Management 
+ Associate of Applied Science in Healthcare Administration 
+ Associate of Applied Science in Legal Office E-ministration 
+ Associate of Applied Science in Telecommunications Technology 
+ Associate of Applied Science in Television Production 
+ Associate of Applied Science in Visual Communications 
+ Associate of Arts in Computer Information Systems 
+ Associate of Arts in Internetworking Technology 
+ Associate of Arts in Psychology 
+ Associate of Arts in Interior Architecture and Design 
+ Associate of Biotechnology 
+ Associate of Business Science 
+ Associate of Business Science in Individualized Studies 
+ Associate of Early Childhood Education 
+ Associate of Occupational Studies 
+ Associate of Occupational Studies in Legal Office Administration 
+ Associate of Science in Computer Information Science 
+ Associate of Science in Computer Science 
+ Associate of Science in Corrections, Probation & Parole 
+ Associate of Science in Electronics Engineering Technology 
+ Associate of Science in Interactive & Graphic Art 
+ Associate in Applied Technology 
+//BACHELORS
+ BTech 
+ Bachelor of Architecture 
+ Bachelor of Biomedical Science 
+ Bachelor of Business Administration 
+ Bachelor of Clinical Science 
+ Bachelor of Commerce 
+ Bachelor of Computer Applications 
+ Bachelor of Computer Information Systems 
+ Bachelor of Science in Construction Technology 
+ Bachelor of Criminal Justice 
+ Bachelor of Divinity 
+ Bachelor of Economics 
+ Bachelor of Education 
+ Bachelor of Engineering 
+ Bachelor of Fine Arts 
+ Bachelor of Letters 
+ Bachelor of Information Systems 
+ Bachelor of Management 
+ Bachelor of Music 
+ Bachelor of Pharmacy 
+ Bachelor of Philosophy 
+ Bachelor of Social Work 
+ Bachelor of Technology 
+ Bachelor of Accountancy 
+ Bachelor of Arts in American Studies 
+ Bachelor of Arts in American Indian Studies 
+ Bachelor of Arts in Applied Psychology 
+ Bachelor of Arts in Biology 
+ Bachelor of Arts in Anthropology 
+ Bachelor of Arts in Child Advocacy 
+ Bachelor of Arts in Clinical Psychology 
+ Bachelor of Arts in Forensic Psychology 
+ Bachelor of Arts in Organizational Psychology 
+ Bachelor of Science in Aerospace Engineering 
+ Bachelor of Science in Actuarial 
+ Bachelor of Science in Agriculture 
+ Bachelor of Science in Architecture 
+ Bachelor of Science in Architectural Engineering 
+ Bachelor of Science in Athletic Training 
+ Bachelor of Science in Biology 
+ Bachelor of Science in Biomedical Engineering 
+ Bachelor of Science in Bible 
+ Bachelor of Science in Business Administration 
+ Bachelor of Science in Business and Technology 
+ Bachelor of Science in Chemical Engineering 
+ Bachelor of Science in Chemistry 
+ Bachelor of Science in Civil Engineering 
+ Bachelor of Science in Clinical Laboratory Science 
+ Bachelor of Science in Cognitive Science 
+ Bachelor of Science in Computer Engineering 
+ Bachelor of Science in Computer Science 
+ Bachelor of Science in Construction Engineering 
+ Bachelor of Science in Construction Management 
+ Bachelor of Science in Criminal Justice 
+ Bachelor of Science in Criminology 
+ Bachelor of Science in Diagnostic Radiography 
+ Bachelor of Science in Education 
+ Bachelor of Science in Electrical Engineering 
+ Bachelor of Science in Engineering Physics 
+ Bachelor of Science in Engineering Science 
+ Bachelor of Science in Engineering Technology 
+ Bachelor of Science in English Literature 
+ Bachelor of Science in Environmental Engineering 
+ Bachelor of Science in Environmental Science 
+ Bachelor of Science in Environmental Studies 
+ Bachelor of Science in Food Science 
+ Bachelor of Science in Foreign Service 
+ Bachelor of Science in Forensic Science 
+ Bachelor of Science in Forestry 
+ Bachelor of Science in History 
+ Bachelor of Science in Hospitality Management 
+ Bachelor of Science in Human Resources Management 
+ Bachelor of Science in Industrial Engineering 
+ Bachelor of Science in Information Technology 
+ Bachelor of Science in Information Systems 
+ Bachelor of Science in Integrated Science 
+ Bachelor of Science in International Relations 
+ Bachelor of Science in Journalism 
+ Bachelor of Science in Legal Management 
+ Bachelor of Science in Management 
+ Bachelor of Science in Manufacturing Engineering 
+ Bachelor of Science in Marketing 
+ Bachelor of Science in Mathematics 
+ Bachelor of Science in Mechanical Engineering 
+ Bachelor of Science in Medical Technology 
+ Bachelor of Science in Metallurgical Engineering 
+ Bachelor of Science in Meteorology 
+ Bachelor of Science in Microbiology 
+ Bachelor of Science in Mining Engineering 
+ Bachelor of Science in Molecular Biology 
+ Bachelor of Science in Neuroscience 
+ Bachelor of Science in Nursing 
+ Bachelor of Science in Nutrition science 
+ Bachelor of Science in Software Engineering 
+ Bachelor of Science in Petroleum Engineering 
+ Bachelor of Science in Podiatry 
+ Bachelor of Science in Pharmacology 
+ Bachelor of Science in Pharmacy 
+ Bachelor of Science in Physical Therapy 
+ Bachelor of Science in Physics 
+ Bachelor of Science in Plant Science 
+ Bachelor of Science in Politics 
+ Bachelor of Science in Psychology 
+ Bachelor of Science in Public Safety 
+ Bachelor of Science in Quantity Surveying Engineering 
+ Bachelor of Science in Radiologic Technology 
+ Bachelor of Science in Real-Time Interactive Simulation 
+ Bachelor of Science in Religion 
+ Bachelor of Science in Respiratory Therapy 
+ Bachelor of Science in Risk Management and Insurance 
+ Bachelor of Science in Science Education 
+ Bachelor of Science in Sports Management 
+ Bachelor of Science in Systems Engineering 
+ Bachelor of Music in Jazz Studies 
+ Bachelor of Music in Composition 
+ Bachelor of Music in Performance 
+ Bachelor of Music in Theory 
+ Bachelor of Music in Music Education 
+ Bachelor of Science in Veterinary Technology 
+ Bachelor of Arts 
+ Bachelor of Accounting 
+ Bachelor of Animal and Veterinary Bioscience 
+ Bachelor of Applied Science 
+ Bachelor of Civil Engineering 
+ Bachelor of Communications 
+ Bachelor of Dental Medicine 
+ Bachelor of Dental Science 
+ Bachelor of Dental Surgery 
+ Bachelor of Dentistry 
+ Bachelor of Design 
+ Bachelor of Design Computing 
+ Bachelor of Design in Architecture 
+ Bachelor of Electronic Commerce 
+ Bachelor of Electrical Engineering 
+ Bachelor of Health Sciences 
+ Bachelor of Information Technology 
+ Bachelor of International and Global Studies 
+ Bachelor of Law 
+ Bachelor of Liberal Arts and Sciences 
+ Bachelor of Library Science 
+ Bachelor of Literature 
+ Bachelor of Mathematics 
+ Bachelor of Mechanical Engineering 
+ Bachelor of Medical Science 
+ Bachelor of Medicine 
+ Bachelor of Music Studies 
+ Bachelor of Nursing 
+ Bachelor of Political, Economic and Social Sciences 
+ Bachelor of Resource Economics 
+ Bachelor of Science 
+ Bachelor of Socio-Legal Studies 
+ Bachelor of Surgery 
+ Bachelor of Veterinary Science 
+ Bachelor of Visual Arts 
+ Bachelor of Arts of Business Administration 
+ Bachelor of Arts in Communication 
+ Bachelor of Arts in Education 
+ Bachelor of Art Education 
+ Bachelor of Aerospace Engineering 
+ Bachelor of Agriculture 
+ Bachelor of Chemical Engineering 
+ Bachelor of Industrial Design 
+ Bachelor of Journalism 
+ Bachelor of Liberal Arts 
+ Bachelor of Music Education 
+ Bachelor of Science in Engineering 
+ Bachelor of Science in Social Work 
+ Bachelor of Theology 
+ Bachelor in Global and International Studies 
+ Bachelor of Accounting and Financial Management 
+ Bachelor of Administration 
+ Bachelor of Administrative Studies 
+ Bachelor of Applied Arts 
+ Bachelor of Architectural Science 
+ Bachelor of Architectural Studies 
+ Bachelor of Arts and Science 
+ Bachelor of Arts and Sciences 
+ Bachelor of Laws 
+ Bachelor of Bio-Resource Management 
+ Bachelor of Computer Science 
+ Bachelor of Business Economics 
+ Bachelor of Business Technology Management 
+ Bachelor of Cognitive Science 
+ Bachelor of Communication and Media Studies 
+ Bachelor of Computing 
+ Bachelor of Computing and Financial Management 
+ Bachelor of Disaster and Emergency Management 
+ Bachelor of Engineering and Management 
+ Bachelor of Engineering and Society 
+ Bachelor of Engineering Science 
+ Bachelor of Engineering Technology 
+ Bachelor of Environmental Management 
+ Bachelor of Environmental Science 
+ Bachelor of Environmental Studies 
+ Bachelor of Fine & Applied Arts 
+ Bachelor of Forensic Science 
+ Bachelor of Global Business and Digital Arts 
+ Bachelor of Health Promotion 
+ Bachelor of Health Science 
+ Bachelor of Health Studies 
+ Bachelor of Humanities 
+ Bachelor of Human Kinetics 
+ Bachelor of Human Resources Management 
+ Bachelor of Informatics 
+ Bachelor of Interior Design 
+ Bachelor of International Business 
+ Bachelor of Journalism and Humanities 
+ Bachelor of Kinesiology 
+ Bachelor of Knowledge Integration 
+ Bachelor of Landscape Architecture 
+ Bachelor of Management and Organizational Studies 
+ Bachelor of Medical Radiation Science 
+ Bachelor of Musical Arts 
+ Bachelor of Music Theatre 
+ Bachelor of Outdoor Recreation 
+ Bachelor of Physical and Health Education 
+ Bachelor of Physical Education 
+ Bachelor of Public Administration 
+ Bachelor of Public Affairs and Policy Management 
+ Bachelor of Public Health 
+ Bachelor of Recreation & Leisure Studies 
+ Bachelor of Science and Management 
+ Bachelor of Science in Kinesiology 
+ Bachelor of Social Science 
+ Bachelor of Software Engineering 
+ Bachelor of Sport Management 
+ Bachelor of Urban and Regional Planning 
+ Bachelor of Medicine and Surgery 
+ Bachelor of Medicine Bachelor of Surgery 
+ Bachelor of Sacred Theology 
+ Bachelor of ScienceBachelor of Arts 
+ Bachelor of Agriculture Science 
+ Bachelor of Arts in Music 
+ Bachelor of Arts in Religion 
+ Bachelor of Business Management 
+ Bachelor of Chemistry 
+ Bachelor of Civil Law 
+ Bachelor of Health Administration 
+ Bachelor of Healthcare Administration 
+ Bachelor of Humanities and Arts 
+ Bachelor of Health Science in Physiotherapy 
+ Bachelor of Independent Studies 
+ Bachelor of Interdisciplinary Studies 
+ Bachelor of Liberal Studies 
+ Bachelor of Medical Library Science 
+ Bachelor of Medical Rehabilitation in Physical Therapy 
+ Bachelor of Nursing Science 
+ Bachelor of Occupational Therapy 
+ Bachelor of Physical Health and Education 
+ Bachelor of Physiotherapy 
+ Bachelor of Science and Arts 
+ Bachelor of Science in Accounting 
+ Bachelor of Science in Community Development 
+ Bachelor of Science in Computer and Communications Engineering 
+ Bachelor of Science in Dentistry 
+ Bachelor of Science in Medicine 
+ Bachelor of Science in Occupational Therapy 
+ Bachelor of Arts in Administration 
+ Bachelor of Arts in Financial Studies 
+ Bachelor of Arts Bachelor of Science 
+ Bachelor of Arts in Commerce 
+ Bachelor of Arts in Economics 
+ Bachelor of Animal Health 
+ Bachelor of Arts in Law 
+ Bachelor of Obstetrics 
+ Bachelor of Arts on Religious Studies 
+ Bachelor of Arts in Sociology 
+ Bachelor of Arts in Theology 
+ Bachelor of Business and Legal Studies 
+ Bachelor of Business Studies 
+ Bachelor of Business 
+ Bachelor of Community Learning and Development in Social Sciences 
+ Bachelor of Combined Studies 
+ Bachelor of Community Education and Community Development 
+ Bachelor of Commercial Science 
+ Bachelor of Economic Science 
+ Bachelor of Science in Economics 
+ Bachelor of Engineering Studies 
+ Bachelor of Engineering in Technology 
+ Bachelor of Engineering Bachelor of Science 
+ Bachelor of Fine Art 
+ Bachelor of Finance 
+ Bachelor of Financial and Legal Studies 
+ Bachelor of Food Science and Technology 
+ Bachelor of Hygiene 
+ Bachelor of International Business Administration 
+ Bachelor of Jurisprudence 
+ Bachelor of Land Economy 
+ Bachelor of Legal Science 
+ Bachelor of Librarianship 
+ Bachelor of Linguistics 
+ Bachelor of Letters or Bachelor of Literature 
+ Bachelor of Celtic Letters 
+ Bachelor of Library Studies 
+ Bachelor of Midwifery 
+ Bachelor of Medical Sciences 
+ Bachelor of Metallurgy 
+ Bachelor of Ministry 
+ Bachelor of Midwifery Studies 
+ Bachelor of Music Performance 
+ Bachelor of Natural Science 
+ Bachelor of Nursing Studies 
+ Bachelor of Optometry 
+ Bachelor of Osteopathy 
+ Bachelor of Performing Arts 
+ Bachelor of Philosophy in Education 
+ Bachelor of Physics 
+ Bachelor of Planning 
+ Bachelor of Radiography 
+ Bachelor of Science in Dairying 
+ Bachelor of Science in Domestic Science 
+ Bachelor of Science in Health Science 
+ Bachelor of Science in Horticulture 
+ Bachelor of Science in Marine and Coastal Reserve Management 
+ Bachelor of Science in Midwifery 
+ Bachelor of Science in Mining 
+ Bachelor of Economic and Social Studies 
+ Bachelor of Economic Science or Bachelor of Economic and Social Studies 
+ Bachelor of Science in Public Health 
+ Bachelor of Science in Technology 
+ Bachelor of Social Sciences 
+ Bachelor of Social Studies 
+ Bachelor of Deaf Studies 
+ Bachelor of Town and County Planning 
+ Bachelor of Technological Education 
+ Bachelor of Theatre Studies 
+ Bachelor of Literature or Bachelor of Letters 
+ Bachelor of Applied Arts and Science 
+ Bachelor of Applied Science in Information Technology 
+ Bachelor of Science in Business 
+ Bachelor of Management Studies 
+ Bachelor of International Business Economics 
+ Bachelor of Business Science 
+ Bachelor of Comptrolling 
+ Bachelor of Arts in Organizational Management 
+ Bachelor of Business Information Systems 
+ Intercalated Bachelor of Science 
+ Bachelor of Medical Biology 
+ Bachelor of Arts for Teaching 
+ Bachelor of Aviation 
+ Bachelor of Religious Education 
+ Bachelor of Religious Studies 
+ Bachelor of Film and Television 
+ Bachelor of Integrated studies 
+ Bachelor of General Studies 
+ Bachelor of Science in Human Biology 
+ Bachelor of Applied Studies 
+ Bachelor of Professional Studies 
+ Bachelor of Library and Information Science 
+ Bachelor of Art in Music 
+ Bachelor of Arts in Psychology 
+ Bachelor of Mortuary Science 
+ Bachelor of Science in Law 
+ Bachelor of Arts in Social Work 
+ Bachelor of Talmudic Law 
+ Bachelor of Tourism Studies 
+ Bachelor of Mathematical Sciences 
+ Bachelor of Political Economic and Social Sciences 
+ Bachelor of SocioLegal Studies 
+ Bachelor of Education Bachelor of Engineering 
+ Bachelor of Science Aerospace Engineering 
+ Bachelor of Science Business Administration 
+ Bachelor of Science Computer Science 
+ Bachelor of Science Chemistry 
+ Bachelor of Science Engineering 
+ Bachelor of Science Education 
+ Bachelor of Science Mechanical Engineering 
+ Bachelor of Science Microbiology 
+ Bachelor of Science Social Work 
+ Bachelor in Arts 
+ Bachelor in Architecture 
+ Bachelor in Business Administration 
+ Bachelor in City Planning 
+ Bachelor of Theological Studies 
+//MASTERS
+ Master of Nursing 
+ Master of Nurse Anesthesia 
+ Master of Arts 
+ Master of Laws 
+ International Business Economics 
+ Master of Accounting 
+ Master of Architecture 
+ Master of Applied Science 
+ Master of Arts in Teaching 
+ Master of Biotechnology 
+ Master of Business Administration 
+ Master of Counselling 
+ Master of Chemistry 
+ Master of Clinical Science 
+ Master of Computer Sciences 
+ Master of Divinity 
+ Master of Dental Surgery 
+ Master of Engineering 
+ Master of Economics 
+ Master of Education 
+ Master of Engineering in Cities Engineering and Management 
+ Master of Engineering in Design and Manufacturing 
+ Master of Engineering in Telecommunications 
+ Master of Environmental Science 
+ Master of Earth Science 
+ Master of Finance 
+ Master of Fine Arts 
+ Master of Forest Conservation 
+ Master of Financial Economics 
+ Master of Forest Science 
+ Master of Global Affairs 
+ Master of Health Informatics 
+ Master of Human Kinetics 
+ Master of Health Professions Education 
+ Master of Health Services Administration 
+ Master of Health Science 
+ Master of International Affairs 
+ Master of Information 
+ Master of Industrial Relations 
+ Master of Industrial Relations and Human Resources 
+ Master of Information Studies 
+ Master of Landscape Architecture 
+ Master of Library and Information Science 
+ Master of Library Science 
+ Master of Music 
+ Master of Management 
+ Master of Mathematics 
+ Master of Medicine 
+ Master of Management and Professional Accounting 
+ Master of Management of Innovation 
+ Master of Mathematical Finance 
+ Master of Museum Studies 
+ Master of Aquaculture 
+ Master of Communication Disorders 
+ Master of Computer Science 
+ Master of Forestry 
+ Master of Library & Information Studies 
+ Master of Political Science 
+ Master of Science 
+ Master of Science in Criminal Justice 
+ Master of Science in Computer Science 
+ Master of Science in Chemistry 
+ Master of Science in Forensic Science 
+ Master of Science in Marine Science 
+ Master of Science in Metallurgical Engineering 
+ Master of Software Engineering 
+ Master of Social Work 
+ Master of Theology 
+ Master of Commerce 
+ Master of International Studies 
+ Master of Liberal Arts 
+ Master of Public Health 
+ Master of Strategic Foresight 
+ Master of Accountancy 
+ Master of Accounting and Information Systems 
+ Master of Advanced Study 
+ Master of Applied Finance 
+ Master of Applied Mathematical Sciences 
+ Master of Applied Psychology 
+ Master of Arts in Archives and Records Management 
+ Master of Arts in Liberal Studies 
+ Master of Arts in Museum Studies 
+ Master of Arts in Strategic Communication Management 
+ Master of Arts in Teaching 
+ Master of Athletic Training 
+ Master of Bioinformatics 
+ Master of Business Administration Management of Technology 
+ Master of Business 
+ Master of Business Economics 
+ Master of Business Engineering 
+ Master of Business Informatics 
+ Master of City Planning 
+ Master of Science in Computational Finance 
+ Master of Computational Finance 
+ Master of Computer Applications 
+ Master of Communication 
+ Master of Counseling 
+ Master of Criminal Justice 
+ Master in Creative Technologies 
+ Master of Design 
+ Master of Educational Technology 
+ Master of Engineering Management 
+ Master of Enterprise 
+ Master of European Law 
+ Master of Financial Engineering 
+ Master of Financial Mathematics 
+ Master of Health Administration 
+ Master of Humanities 
+ Master of Industrial and Labor Relations 
+ Master of International Business 
+ Master of International Economics 
+ Master of International Public Policy 
+ Master of Information Management 
+ Master of Information Systems 
+ Master of Information System Management 
+ Master of Islamic Studies 
+ Master of IT 
+ Master of Jurisprudence 
+ Master of Studies in Law 
+ Master of Letters 
+ Master of Mass Communication and Journalism 
+ Master of Mathematics and Computer Science 
+ Master of Mathematics and Philosophy 
+ Master of Medical Science 
+ Master of Military Art and Science 
+ Master of Network and Communications Management 
+ Master of Occupational Therapy 
+ Master of Pharmacy 
+ Master of Philosophy 
+ Master of Physician Assistant Studies 
+ Master of Physics 
+ Master of Professional Studies 
+ Master of Psychology 
+ Master of Public Administration 
+ Master of Public Affairs 
+ Master of Public Diplomacy 
+ Master of Public Management 
+ Master of Public Policy 
+ Master of Public Relations 
+ Master of Public Service 
+ Master of Quantitative Finance 
+ Master of Rabbinic Studies 
+ Master of Real Estate Development 
+ Master of Religious Education 
+ Master of Research 
+ Master of Sacred Music 
+ Master of Sacred Theology 
+ Master of Science in Applied Cognition and Neuroscience 
+ Master of Science in Athletic Training 
+ Master of Science in Bioinformatics 
+ Master of Science in Clinical Epidemiology 
+ Master of Science in Computing Research 
+ Master of Science in Cyber Security 
+ Master of Science in Education 
+ Master of Science in Engineering 
+ Master of Science in Development Administration 
+ Master of Science in Finance 
+ Master of Science in Governance & Organizational Sciences 
+ Master of Science in Government Contracts 
+ Master of Science in Health Informatics 
+ Master of Science in Human Resource Development 
+ Master of Science in Information Assurance 
+ Master of Science in Information Systems 
+ Master of Science in Information Technology 
+ Master of Science in Leadership 
+ Master of Science in Management 
+ Master of Science in Nursing 
+ Master of Science in Project Management 
+ Master of Science in Quality Assurance 
+ Master of Science in Risk Management 
+ Master of Science in Supply Chain Management 
+ Master of Science in Teaching 
+ Master of Science in Taxation 
+ Master of Social Science 
+ Master of Statistics 
+ Master of Strategic Studies 
+ Master of Studies 
+ Master of Surgery 
+ Master of Theological Studies 
+ Master of Technology 
+ Master of Urban Planning 
+ Master of Veterinary Science 
+ Master of Professional Accountancy 
+ Master of Physical Education 
+ Master of Regional Planning 
+ Master of Science in Administration 
+ Master of Applied Computing 
+ Master of Science in Biomedical Communications 
+ Master of Science in Community Health 
+ Master of Science in Dentistry 
+ Master of Science in Electrical Engineering 
+ Master of Science in Forestry 
+ Master of Science in Occupational Therapy 
+ Master of Science in Pharmacy 
+ Master of Science in Planning 
+ Master of Science in Physical Therapy 
+ Master of Science in Sustainability Management 
+ Master of Social Service 
+ Masters in Education 
+ Master of Mechnaical Engineering 
+ Master of Electrical Engineering 
+ Master of Teaching 
+ Master of Urban Design 
+ Master of Urban Design Studies 
+ Master of Visual Studies 
+ Master of Theology 
+ Master of Accountancy 
+ Master of Computational Finance or Quantitative Finance 
+ Master of European 
+ Master of Financial Mathematics 
+ Master of Quantitative Finance 
+ Masters in International Economics 
+ Master of Information System Management 
+ Master of Letters 
+ Master of Science in Information Systems Management 
+ Master in Management 
+ Master in Public Health Administration 
+ Master in Public Health 
+ Master in Patent Law 
+ Master of Research Development 
+ Master in Architecture Advanced Studies 
+ Master of Arts Teaching 
+ Masters in Business Administration 
+ Master in City Planning 
+ Master of Arts in Special Education 
+ Master of Mass Communication 
+ Masters of Military Art and Science 
+ Master of Science in Counselling 
+ Global Professional Master of Laws 
+//DOCTORS
+ Doctor of Letters 
+ Doctor of Musical Arts 
+ Doctor of Medical Dentistry 
+ Doctor of Paediatrics 
+ Doctor of Public Health 
+ Doctor of Philosophy 
+ Doctor of Podiatric Medicine 
+ Doctor of Psychology 
+ Doctor of Engineering 
+ Doctor of Medicine 
+ Doctorate in Dental Medicine 
+ Doctor of Medical Sciences 
+ Doctorate in Veterinary Medicine 
+ Doctorate in Natural Sciences 
+ Doctor of Economics and Social Sciences 
+ Doctor of Science 
+ Doctor of Social Work 
+ Doctor of Theology 
+ Doctor of Veterinary Medicine 
+ Doctor of Education 
+ Doctor of Laws 
+ Doctor of Juridical Science 
+ Doctor of Music 
+ Doctor of Medical Science 
+ Doctor of Medicine and Master of Surgery 
+ Doctor of Health Administration 
+ Doctor of Arts 
+ Doctor of Business Administration 
+ Doctor of Chemistry 
+ Doctor of Civil Law 
+ Doctor of Dental Surgery 
+ Doctor of Dental Science 
+ Doctor of Fine Arts 
+ Doctor of Audiology 
+ Doctor of Chiropractic 
+ Doctor of Divinity 
+ Doctor of Jurisprudence 
+ Doctor of Ministry 
+ Doctor of Naturopathy 
+ Doctor of Nursing Practice 
+ Doctor of Optometry 
+ Doctor of Osteopathy 
+ Doctor of Pharmacy 
+ Doctor of Physical Therapy 
+//DIPLOMAS
+ Diploma in Gynecology and Obstetrics 
+ Diploma of the Imperial College 
+ Diploma in Investigative and Forensic Accounting 
+ Graduate Diploma in Community Health 
+ Diploma in Chemistry 
+ Diploma in Criminology 
+ Diploma of Education 
+ Diploma in Forestry 
+ Diploma of Engineer 
+ Diploma in Geology 
+ Diploma in Librarianship 
+ Diploma in Oral Health 
+ Diploma in Occupational Therapy 
+ Diploma in Physiotherapy 
+ Diploma in Physical Education 
+ Diploma in Periodontics 
+ Diploma of Physical Education 
+ Diploma in Sport and Exercise Medicine 
+ Diploma in Foundry Technology 
+ Diploma in Industrial Electronics 
+ Diploma in Instrumentation Engineering 
+ Diploma in Metallurgical Engineering 
+ Diploma in Medical Electronics 
+ Diploma in Modern Office Practice 
+ Diploma in Petrochemical Engineering 
+ Diploma in Plastics Technology 
+ Diploma in Production Engineering 
+ Diploma in Robotics 
+ Diploma in Rubber Technology 
+ Diploma in Telecommunication Engineering 
+ Diploma in Sugar Technology 
+ Diploma in Welding Technology 
+ Diploma in Anaesthesiology 
+ Diploma in Medical Laboratory Technology 
+ Diploma in Vetrinary Pharmacy 
+ Diploma in Dental Mechanics 
+ Diploma in Dieteticsand Nutrition 
+ Diploma in Dieteticsand Applied Nutrition 
+ Diploma in E.N.T.-D.L.O 
+ Diploma in Forensic Medicine 
+ Diploma in Health Administration 
+ Diploma in Health Assistant 
+ Diploma in Hearing Languageand Speech 
+ Diploma in Herbal Medicine 
+ Diploma in Industrial Health 
+ Diploma in Industrial Hygiene 
+ Diploma in Medical Imaging Technology 
+ Diploma in Medical Record Technology 
+ Diploma in Nursing Administration 
+ Diploma in Operation Theatre Techniques 
+ Diploma in Ophthalmic Assistant 
+ Diploma in Panchkarma 
+ Diploma in Pharmaceutical Management 
+ Diploma in Psychiatric Nursing 
+ Diploma in Psychological Medicine 
+ Diploma in Radiological Technology 
+ Diploma in Veterinary Pharmacy 
+ Diploma in X-Ray Technology 
+ Diploma in General Nursing and Midwifery 
+ Advanced Diploma in Bioinformatics 
+ Advanced Diploma in Software Development 
+ Diploma in Food and Nutrition 
+ Diploma in Advanced Computing 
+ Graduate Diploma in Anaesthesia Care 
+ Graduate Diploma of Advanced Study in Information 
+ Diploma in Mechanical Engineering 
+ Diploma in Business Administration 
+ Diploma in Civil Engineering 
+ Diploma in Management 
+ Diploma in Information Technology 
+ Diploma in Hotel Management 
+ Diploma in Taxation 
+ Commercial Pilot Licence 
+ Diploma in Photography 
+ Diploma in Early Childhood Education 
+ Diploma in English 
+ Diploma in Fine Arts 
+ Diploma in Electrical Engineering 
+ Diploma in Financial Management 
+ Diploma in Human Resource Management 
+ Diploma in Computer Engineering 
+ Diploma in Interior Design 
+ Diploma in Dermatology 
+ Diploma in Electronics 
+ Diploma in Journalism 
+ Diploma in Aeronautical Engineering 
+ Diploma in Public Health 
+ Diploma in Retail Management 
+ Diploma in Hospitality Management 
+ Diploma in Event Management 
+ Diploma in Chemical Engineering 
+ Diploma in Electronicsand Communication Engineering 
+ Diploma in Marine Engineering 
+ Diploma in Hoteland Catering Management 
+ Diploma in Library Science 
+ Diploma in Theology 
+ Diploma in Software Engineering 
+ Diploma in Food Technology 
+ Diploma in Marketing Management 
+ Diploma in Insurance 
+ Diploma in Hospital Management 
+ Diploma in French 
+ Diploma in Office Management 
+ Diploma in Child Psychology 
+ Diploma in Diabetology 
+ Diploma in Spanish 
+ Diploma in Yoga 
+ Diploma in Hospital Administration 
+ Diploma in Fashion Design 
+ Diploma in Web Designing 
+ Diploma In Aviation Management 
+ Diploma in Computer Technology 
+ Diploma in Optometry 
+ Diploma in Human Rights 
+ Diploma in Mining Engineering 
+ Diploma in Petroleum Engineering 
+ Diploma in Mechatronics 
+ Diploma in Astrology 
+ Diploma in Ophthalmology 
+ Diploma in Commercial Practice 
+ Diploma in Export Management 
+ Advanced Diploma in Information Technology 
+ Diploma in Dance 
+ Diploma in Textile Technology 
+ Diploma in Counselling Psychology 
+ Diploma in Exportand Import Management 
+ Diploma in Materials Management 
+ Diploma in Dairy Technology 
+ Diploma in Cyber Security 
+ Diploma in Secretarial Practice 
+ Diploma in Cosmetology 
+ International Diploma in Hotel Management 
+ Diploma in Mass Media 
+ Diploma in Advertisingand Public Relations 
+ Diploma in Film Editing 
+ Diploma in Mass Communication 
+ Diploma in Video Editing 
+ Diploma in Aquaculture 
+ Advanced Diploma in International Business 
+ Diploma in Agribusiness Management 
+ Diploma in Business Management 
+ Diploma in Commodities Market 
+ Diploma in Computer Management 
+ Diploma in Energy Management 
+ Diploma in Environmental Law 
+ Diploma in Home Science 
+ Diploma in Nautical Science 
+ Diploma in Investment Management 
+ Diploma in Modern Office Management 
+ Diploma in Salesand Marketing Management 
+ Diploma in Insuranceand Risk Management 
+ Diploma in Industrial Relationsand Personnel Management 
+ Diploma in Food Production 
+ Diploma in Foreign Trade Management 
+ Diploma in Hotel Managementand Catering Technology 
+ Faculty Development Programme 
+ Diploma in Labour Laws and Labour Welfare 
+ Diploma in Medical Jurisprudence 
+ Diploma in Taxation Laws and Practice 
+ Diploma in Cyber Law 
+ Diploma in Business Law 
+ Diploma in Textile Design 
+ Diploma in Aviation Hospitality and Travel Management 
+ Advanced Diploma in 3D Animation 
+ Advanced Diploma in Animation 
+ Diploma in 3D Animation 
+ Diploma in Apparel Merchandising 
+ Advanced Diploma in Interior Design 
+ Diploma in Beauty Culture 
+ Diploma in Mobile Repairing 
+ Diploma in Videography 
+ Diploma in Animation Film Making 
+ Honours Diploma in Computer Application 
+ Diploma in Footwear Technology 
+ Diploma in Gemology 
+ Diploma in Intellectual Property Law 
+ Diploma in Bankingand Insurance 
+ Advanced Diploma in Taxation 
+ Diploma in Banking Management 
+ Diploma in E-Commerce 
+ Diploma in Tally Software 
+ Diploma in Visual Merchandising 
+ Advanced Diploma in Computer Application 
+ Diploma in Computer Hardwareand Networking 
+ Diploma in Computer Accounting 
+ Diploma in Watershed Management 
+ Diploma in Food Processing 
+ Diploma of Engineering 
+ Diploma in Agriculture 
+ Diploma in Animal Husbandry 
+ Diploma in Automobile Engineering 
+ Diploma in Biomedical Engineering 
+ Diploma in Electrical & Electronics Engineering 
+ Diploma in Environmental Engineering 
+ Diploma in Fashion Technology 
+ Diploma in Fire Engineering 
+ Diploma in Fire Safety Engineering 
+ Diploma in Digital Electronics 
+ Diploma in Architecture Engineering 
+ Diploma in Automation 
+ Diploma in Cement Technology 
+ Diploma in Ceramic Technology 
+ Diploma in Computer Scienceand Technology 
+ Diploma in Computer Scienceand Engineering 
+ Advanced Diploma in French 
+ Diploma in Acting 
+ Diploma in Artand Craft 
+ Diploma in Commercial Art 
+ Diploma in Graphic Design 
+ Diploma In Counseling 
+ Diploma in Creative Writing in English 
+ Diploma in Creative Writing in Hindi 
+ Diploma in Drawingand Painting 
+ Diploma in Education 
+ Diploma in Fireand Safety Management 
+ Diploma in Hindi 
+ Diploma in HIV and Family Education 
+ Diploma in Jewellery Design 
+ Diploma in Libraryand Information Science 
+ Diploma in Linguistics 
+ Diploma in Music 
+ Diploma in Numerology 
+ Diploma in Nursery Teacher Training 
+ Diploma in Philosophy 
+ Diploma in Police Administration 
+ Diploma in Rural Development 
+ Diploma in Sanskrit 
+ Diploma in Tamil 
+ Diploma in Tourism Studies 
+ Diploma in Urdu 
+ Diploma in Social Service Administration 
+ Diploma in Public Health Nursing 
+//PostGrads
+ Post Master's Nurse Practitioner Diploma 
+ Post Graduate Diploma in Thermal Power Plant Engineering 
+ Post Graduate Diploma in Industrial Safety 
+ Post Graduate Diploma in Paediatrics 
+ Post Graduate Diploma in Orthopaedics 
+ Post Graduate Diploma in Clinical Pathology 
+ Post Graduate Diploma in Pharmacovigilance 
+ Post Graduate Diploma in Medico Legal Systems 
+ Post Graduate Diploma in Guidance And Counselling 
+ Post Graduate Diploma in NGO Management 
+ Post Graduate Diploma in Tourism 
+ Post Graduate Diploma in Renewable Energy 
+ Post Graduate Diploma in VLSI Design 
+ Post Graduate Diploma in Geriatric Medicine 
+ Post Graduate Diploma in Acupuncture 
+ Post Graduate Diploma in Computer Applications 
+ Post Graduate Diploma in Information Security 
+ Post Graduate Diploma in Bank Management 
+ Post Graduate Diploma in Accounting Software 
+ Post Graduate Programme in Management 
+ Post Graduate Diploma in Management 
+ Post Graduate Diploma in Child Health 
+ Post Graduate Diploma in Translation 
+ Post Graduate Diploma in Information Technology 
+ Post Graduate Diploma in Business Administration 
+ Post Graduate Diploma in Business Management 
+ Post Graduate Diploma in Financial Management 
+ Post Graduate Diploma in Social Work 
+ Post Graduate Diploma in Counselling Psychology 
+ Post Graduate Diploma in Nanotechnology 
+ Post Graduate Diploma in Rural Management 
+ Post Graduate Diploma in Construction Management 
+ Post Graduate Diploma in Gynaecology and Obstetrics 
+ Post Graduate Diploma in Clinical Research 
+ Post Graduate Diploma in Bioinformatics 
+ Post Graduate Diploma in Financial Planning 
+ Post Graduate Diploma in International Business 
+ Post Graduate Diploma in Hospital Management 
+ Post Graduate Diploma in Environmental Law 
+ Post Graduate Diploma in Economics 
+ Post Graduate Diploma in Sports Management 
+ Post Graduate Diploma in Intellectual Property Rights 
+ Post Graduate Program in Family Managed Business 
+ Post Graduate Diploma in Event Management 
+ Post Graduate Diploma in Foreign Trade 
+ Post Graduate Diploma in International Marketing 
+ Post Graduate Diploma in Clinical Data Management 
+ Post Graduate Diploma in Disaster Management 
+ Post Graduate Diploma in Hospitaland Health Management 
+ Post Graduate Diploma in Operations Management 
+ Post Graduate Diploma in Personnel Management 
+ Post Graduate Diploma in Business Finance 
+ Post Graduate Diploma in Marketing Management 
+ Post Graduate Programme in Business Management 
+ Post Graduate Diploma in Pharmaceutical Management 
+ Post Graduate Diploma in Retail Management 
+ Post Graduate Diploma in Rural Development 
+ Post Graduate Diploma in Rural Developmentand Management 
+ Post Graduate Diploma in Advertising 
+ Post Graduate Diploma in Analytical Chemistry 
+ Post Graduate Diploma in Microbiology 
+ Post Graduate Diploma in Geo Informatics 
+ Post Graduate Diploma in Dietetics 
+ Post Graduate Diploma in Embedded Systems 
+ Post Graduate Diploma in Business Law 
+ Post Graduate Diploma in Corporate Law 
+ Post Graduate Diploma in Cyber Law 
+ Post Graduate Diploma in IPR and Patent Law 
+ Post Graduate Diploma in Computer Programming 
+ Post Graduate Diploma in E-Governance 
+ Post Graduate Diploma in Web Designing 
+ Post Graduate Diploma in Cyber Security 
+ Post Graduate Diploma in Medical Lawand Ethics 
+ Post Graduate Diploma in Taxation Law 
+ Post Graduate Diploma in Taxation Practice 
+ Post Graduate Diploma in Fashion Designing 
+ Post Graduate Diploma in Journalism 
+ Post Graduate Diploma in Company Secretaryship 
+ Post Graduate Diploma in Professional Accounting 
+ Post Graduate Diploma in Mass Communication 
+ Post Graduate Diploma in Insurance Management 
+ Post Graduate Diploma in Photography 
+ Post Graduate Diploma in Higher Education 
+ Post Graduate Diploma in Public Administration 
+ Post Graduate Diploma in Public Relations 
+ Post Graduate Diploma in Rehabilitation Psychology 
+ Post Graduate Diploma in Special Education 
+ Post Graduate Diploma in Travel and Tourism Management 
+ Post Graduate Diploma in Yoga 
+ Post Graduate Diploma in Instructional Design 
+ Post Graduate Diploma in English 
+ Post Graduate Diploma in Instrumentation 
+ Post Graduate Diploma in Actuarial Science 
+ Post Graduate Diploma in Archaeology 
+ Post Graduate Diploma in Clinical Psychology 
+ Post Graduate Diploma in Distance Education 
+ Post Graduate Diploma in Educational Technology 
+ Post Master's Nurse Practitioner 
+ Post Graduate in Thermal Power Plant Engineering 
+ Post Graduate in Industrial Safety 
+ Post Graduate in Paediatrics 
+ Post Graduate in Orthopaedics 
+ Post Graduate in Clinical Pathology 
+ Post Graduate in Pharmacovigilance 
+ Post Graduate in Medico Legal Systems 
+ Post Graduate in Guidance And Counselling 
+ Post Graduate in NGO Management 
+ Post Graduate in Tourism 
+ Post Graduate in Renewable Energy 
+ Post Graduate in VLSI Design 
+ Post Graduate in Geriatric Medicine 
+ Post Graduate in Acupuncture 
+ Post Graduate in Computer Applications 
+ Post Graduate in Information Security 
+ Post Graduate in Bank Management 
+ Post Graduate in Accounting Software 
+ Post Graduate in Management 
+ Post Graduate in Child Health 
+ Post Graduate in Translation 
+ Post Graduate in Information Technology 
+ Post Graduate in Business Administration 
+ Post Graduate in Business Management 
+ Post Graduate in Financial Management 
+ Post Graduate in Social Work 
+ Post Graduate in Counselling Psychology 
+ Post Graduate in Nanotechnology 
+ Post Graduate in Rural Management 
+ Post Graduate in Construction Management 
+ Post Graduate in Gynaecology and Obstetrics 
+ Post Graduate in Clinical Research 
+ Post Graduate in Bioinformatics 
+ Post Graduate in Financial Planning 
+ Post Graduate in International Business 
+ Post Graduate in Hospital Management 
+ Post Graduate in Environmental Law 
+ Post Graduate in Economics 
+ Post Graduate in Sports Management 
+ Post Graduate in Intellectual Property Rights 
+ Post Graduate in Event Management 
+ Post Graduate in Foreign Trade 
+ Post Graduate in International Marketing 
+ Post Graduate in Clinical Data Management 
+ Post Graduate in Disaster Management 
+ Post Graduate in Hospitaland Health Management 
+ Post Graduate in Operations Management 
+ Post Graduate in Personnel Management 
+ Post Graduate in Business Finance 
+ Post Graduate in Marketing Management 
+ Post Graduate in Pharmaceutical Management 
+ Post Graduate in Retail Management 
+ Post Graduate in Rural Development 
+ Post Graduate in Rural Developmentand Management 
+ Post Graduate in Advertising 
+ Post Graduate in Analytical Chemistry 
+ Post Graduate in Microbiology 
+ Post Graduate in Geo Informatics 
+ Post Graduate in Dietetics 
+ Post Graduate in Embedded Systems 
+ Post Graduate in Business Law 
+ Post Graduate in Corporate Law 
+ Post Graduate in Cyber Law 
+ Post Graduate in IPR and Patent Law 
+ Post Graduate in Computer Programming 
+ Post Graduate in E-Governance 
+ Post Graduate in Web Designing 
+ Post Graduate in Cyber Security 
+ Post Graduate in Medical Lawand Ethics 
+ Post Graduate in Taxation Law 
+ Post Graduate in Taxation Practice 
+ Post Graduate in Fashion Designing 
+ Post Graduate in Journalism 
+ Post Graduate in Company Secretaryship 
+ Post Graduate in Professional Accounting 
+ Post Graduate in Mass Communication 
+ Post Graduate in Insurance Management 
+ Post Graduate in Photography 
+ Post Graduate in Higher Education 
+ Post Graduate in Public Administration 
+ Post Graduate in Public Relations 
+ Post Graduate in Rehabilitation Psychology 
+ Post Graduate in Special Education 
+ Post Graduate in Travel and Tourism Management 
+ Post Graduate in Yoga 
+ Post Graduate in Instructional Design 
+ Post Graduate in English 
+ Post Graduate in Instrumentation 
+ Post Graduate in Actuarial Science 
+ Post Graduate in Archaeology 
+ Post Graduate in Clinical Psychology 
+ Post Graduate in Distance Education 
+ Post Graduate in Educational Technology 
+//Inter
+ Higher Secondary 
+ Senior Secondary 
+ Higher Secondary School 
+ Senior Secondary School 
+ Higher Secondary Education 
+ Inter 
+ Intermediate 
+//School
+ Secondary Education 
+ Secondary School 
+//NonDeg
+ Aeronautical Engineer 
+ Building Engineer 
+ Civil Engineer 
+ Chemical Engineer 
+ Certificate of Public Health 
+ Engineering in Computer Science 
+ Aeronautical & Astronautical Engineer 
+ Electrical Engineer 
+ Environmental Engineer 
+ Honorary Degree 
+ Materials Engineer 
+ Mechanical Engineer 
+ Mineral Engineer 
+ Marine Mechanical Engineer 
+ Metallurgical Engineer 
+ Pharmaceutical Chemist 
+ Public Health Service 
+ Sanitary Engineer 
+ Art Teaching Diploma 
+ Certified Psychologist 
+ License in Chemical Physics 
+ License in Theology

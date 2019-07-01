@@ -1,0 +1,324 @@
+Creative Thinking
+Judgement of People
+Spotting Business Opportunities
+Chasing Number Goals
+Crunching Data
+Customer Service Orientation
+Negotiation Skills
+Productizing
+Selling Skills
+Understanding of Trends
+Using Information Technology / Software Tools
+Virtue Mart
+Zen Cart
+Shopify
+Prostores
+OsCommerce
+Oracle ATG Commerce
+Martjack
+Hybris
+IBM WebSphere Commerce
+Magento
+Adobe Business Catalyst
+Amazon Webstore
+Bigcommerce
+Social Media
+Search Engines
+Podcast Sites
+Mobile Apps
+Forums
+Blog
+Article Directories
+IBM Campaign
+Marketo
+Operative
+Responsys
+SocialGuide
+Eloqua
+DemandBase
+Adobe Social
+Adobe Marketing Cloud
+WhatRunsWhere
+YouTube Content Manager
+Webtrends
+Unica
+ComScore
+Conductor
+Crimson Hexagon
+Facebook Insights
+Google Analytics
+Google Trends
+Jive
+Moz
+Omniture
+Radian6
+SEMRush
+Spyfu
+Sysomos
+Twitter Analytics
+Buddy Media
+AdClarity
+Adobe Analytics
+Tracking Activity and Results
+Negotiating on the Sale
+Making the Sales Pitch
+Making the Sales Closure
+Following up on the Sales Call
+Lead Prospecting
+Door to Door Selling
+Cold Mailing
+Collecting Data on Competitor Product, Service
+Collecting Data on Product, Service
+Cold Calling
+Appointment Setting
+White Papers
+Testimonials
+Vouchers, Coupons
+Discounts, Rebates
+Flyers
+Free Gifts
+Free Samples
+Loyalty Programs
+Point of Sale
+Promotion events
+Promotional Pricing
+Telemarketing
+Contests
+Data Sheets
+Direct Mailers
+Co Branding
+Brochures
+Setting Sales Targets
+Salesforce training
+Salesforce productivity
+Salesforce recruitment
+Preparing Templates for Emails
+Salesforce Incentives
+Salesforce performance management
+Preparing Scripts for Sales Calls
+Engaging Franchises
+Managing Dealer Relationships
+Charting out Franchise Engagement Terms
+Dealer Identification
+Dealer performance management
+Distribution Network Planning
+Enabling Franchises
+Channel Partner Performance Management
+Charting Out Dealer Terms
+Stock Planning for DCs / Warehouses
+Channel Partner Identification
+Network Planning
+Planning Distribution Centers / Warehouses
+Responding to RFPs
+RFP / RFQ /TFI / Tender Responses
+Pre sales
+Lead Generation
+Key Account Management
+Contract Negotiation
+Facilitate Promotional Activities
+Merchandising at Dealer place
+Create Incentive Programs
+Replenishing Stocks, Taking Orders
+Presenting / Selling New Products
+Arrange for POS equipments
+Relationship Management
+Revenue Planning
+Up Selling
+Making Collections
+Negotiating and Finalizing Terms
+Cross Selling
+Deciding Credit Terms
+Deciding on Contract Terms
+Invoicing
+Making Collections
+Resolving Customer Issues
+Processing Purchase Orders
+Processing Collections
+Processing Invoices
+Processing Delivery
+Resolving Customer Issues
+Processing Purchase Orders
+Processing Collections
+Processing Invoices
+Processing Delivery
+Qualifying Leads
+Preparing RFP Response
+Preparing Pricing Quotations
+Preparing RFI Response
+Lead Prospecting
+Appointments Booking
+Collateral Preparation
+Creating Customer Pitches
+Analyzing Visitor Traffic
+Conversion Tracking
+Keyword Analysis
+Analyzing Source of Traffic
+Analyzing Engagement
+Using Groups
+Advertising in LinkedIn
+Creating and Maintaining LinkedIn Pages
+Networking / Building Network
+Twitter Advertising
+Tracking Conversations
+Non Organic Growth
+Organic Growth
+Reputation Management
+Advertising in Facebook
+Creating and Maintaining Facebook Page
+Creating Facebook Apps
+Using Facebook APIs
+URL rewriting
+Submission to search engines
+Sitemap creation
+Site Analysis
+Competitor Analysis
+H1, H2, H3 Tags
+HTML Validation
+Image Optimization
+Keyword Research
+Met Tag Creation
+Canonical / 404 Implementation
+Anchor Text
+Display Ads
+Linking Google Analytics and AdWords
+Search Ads
+Analyzing and Optimizing with Google AdWords
+Running the Email Campaigns
+Lead Generation
+Maintaining Mailing Lists
+Planning the Email Campaigns
+Facebook Paid Campaigns
+LinkedIn Paid Campaigns
+Twitter Paid Campaigns
+Directory Submission
+Geo Listing
+Guest Posting
+Local Listing
+Podcast Submissions
+Press Release Submission
+RSS
+Search Engine Indexing
+Video Submissions
+Article Submission
+Blog Promotion
+Press Releases
+Web, Social Media
+Newsletters
+Company Intranet
+Company Website
+Brochures
+Trends Update
+White Papers
+Financial Updates
+Open House
+Competition Update
+Thought Leadership
+Policy Communication
+Crisis Communication
+Case Studies
+PR with Industrial Bodies
+PR with Market Influencers
+PR for Celebrities
+PR with Education Institutions
+PR with Government Agencies
+Email Marketing
+Fulfillment
+In-store Merchandising
+Inventory Management
+Logistics, Distribution, Delivery
+Mobile Marketing
+Online Marketing
+Online Merchandising
+Sales Support
+Salesman/Saleswomen
+Vendor Management
+Website Design
+Content Writing
+Analytics / Research
+Billing
+Buying
+Catalog Management
+Category Management
+Developing Go to market Strategy
+Developing the Product Branding
+Involving in New Product Development
+Involving in Product Improvement
+Making Financial Plans
+Making Forecast on RoI
+Market Sizing
+Product Positioning
+Revenue Forecast
+Developing Brand Promotion Campaign
+Analyzing Consumer Behavior
+Deciding on Product Pricing
+Media Calendar Planning
+Media Research
+Media Selection
+Offering Media Services to Companies (as Agency)
+Engaging Media Agency (as Company)
+Budgeting Media Spend
+Analyzing Media Effectiveness
+Cross Selling
+Festival
+Discounts and Deals
+Television
+UpSelling
+Product Launch
+Loyalty Programs
+Radio
+Sponsorships
+Events
+Hostesses
+Magazines
+Newspapers
+Outdoor Promotion
+Brand Ambassadors
+Running Marketing Campaign
+Re-Branding
+Media Planning
+Evolving the Brand Strategy
+Campaign Creation
+Branding Strategy & Planning
+Brand Re-engineering
+Brand Positioning
+Brand Localization
+Long Sales Cycle
+CXOs
+CXO's
+CXO
+Publishing
+Advertising
+Media Production
+Plastic Products
+Aeronautics
+Automotive
+Ceramics
+Chemicals
+Electrical Equipments
+Electronics
+Gems and Jewelry
+Heavy Engineering
+Metallurgy
+Paper & Pulp
+Petrochemicals
+Pharmaceuticals
+Biotechnology
+Insurance
+Financial Services
+Banking
+Department Head
+Function Head
+Manager
+Team Leader
+Individual Contributor
+Risk Taking
+Interpersonal Skills
+Taking Responsibility
+Leading People
+Influencing
+Assertiveness
+Emotional Balance
+Personal Discipline
+Time Management
+Decision Making
+Numerical Ability 

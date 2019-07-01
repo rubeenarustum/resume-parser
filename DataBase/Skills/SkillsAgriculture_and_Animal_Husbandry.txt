@@ -1,0 +1,105 @@
+Test Samples for Diseases
+Perform Test on Agricultural Inputs
+Collect Crop Samples
+Collect Animal Samples
+Activities in Agriculture Research
+Fishing
+Horticulture
+Farming
+Animal Husbandry
+Deep Sea Fishing
+Inland Fishery
+Mussel Farming
+Lobster Fishing
+Crab Farming
+Carp Farming
+Prawn Fishing
+Scallop Farming
+Trout Farming
+Seaweed Farming
+Greenhouse Cultivation
+Hotbed Cultivation
+Landscaping
+Nursery
+Vegetable Production
+Fruit Growing
+Floral
+Tangerines
+Tea
+Tobacco
+Tomatoes
+Turnips
+Vegetables
+Walnuts
+Watermelons
+Wheat
+Yams
+Sugar Beets
+Sugarcane
+Sunflower
+Soybeans
+Strawberries
+Onions
+Mangos
+Mangosteens
+Oil Bearing Plants
+Olives
+Rubber
+Root Crops
+Rice
+Rapeseed
+Potatoes
+Peppers
+Peanuts
+Peaches
+Palm Oil
+Oranges
+Guavas
+Lemons
+Lettuce
+Maize
+Chilies
+Coconuts
+Coffee
+Cotton
+Cucumbers
+Grains
+Grapes
+Carrots
+Cassava
+Chicory
+Bananas
+Beans
+Cacao
+Almonds
+Apples
+Asparagus
+Fertilizers
+Grafting
+Harvesting
+Hoeing
+Irrigation
+Manures
+Pest Control
+Ploughing
+Water Conservation
+Weed Management
+Cropping Scheme
+Cropping Intensity
+Fattening
+Milking
+Meat Production
+Maintaining Health
+Breeding
+Feeding
+Birds
+Cats
+Dogs
+Fishes
+Horses
+Poultry
+Pig
+Rabbits
+Goats
+Cattle
+Bees

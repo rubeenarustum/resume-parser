@@ -1,0 +1,94 @@
+AA	Associate of Arts
+AAS	Associate of Applied Science
+AS	Associate of Science
+BA	Bachelor of Arts
+BAAS	Bachelor of Applied Arts and Science
+BArch	Bachelor of Architecture
+BASc	Bachelor of Applied Science
+BATD	Bachelor of Arts Theater & Dance
+BBA	Bachelor of Business Administration
+BBS	Bachelor of Business Science
+BComm	Bachelor of Commerce
+BD	Bachelor of Divinity
+BEd	Bachelor of Education
+BEng	Bachelor of Engineering
+BFA	Bachelor of Fine Arts
+BIArch	Bachelor of Interior Architecture
+BLA	Bachelor of Landscape Architecture
+BM	Bachelor of Music
+BS	Bachelor of Science
+BSASE	Bachelor of Science Aerospace Engineering
+BSBC	Bachelor of Science Biochemistry
+BSBIO	Bachelor of Science Biology
+BSCHM	Bachelor of Science Chemistry
+BSCS	Bachelor of Science Computer Science
+BSCE	Bachelor of Science Civil Engineering
+BSECO	Bachelor of Science Economics
+BSEE	Bachelor of Science Electircal Engineering
+BSEP	Bachelor of Science Engineering Physics
+BSET	Bachelor of Science Engineering Technology
+BSF	Bachelor of Science in Forestry
+BSMT	Bachelor of Science Medical Technology
+BSMTH	Bachelor of Science Mathematics
+BSN	Bachelor of Science Nursing
+BSPHY	Bachelor of Science Physics
+BST	Bachelor of Sacred Theology
+BSW	Bachelor of Social Work
+CA	Chartered Accountant
+CE	Civil Engineer
+ChE	Chemical Engineer
+CP	Certificate of Proficiency
+CPA	Certified Public Accountant
+CRC	Ceritified Rehabilitation Counselor
+CVE	Certified Vocational Evaluator
+DCL	Doctor of Civil Law
+DDS	Doctor of Dental Surgery
+DEd	Doctor of Education
+DO	Doctor of Osteopathy
+DMA	Doctor of Musical Arts
+DS	Doctor of Science
+DVM	Doctor of Veterinary Medicine
+EBMA	Executive Master of Business Administration
+EdD	Doctor of Education
+EE	Electrical Engineer
+GED	Graduate Equivalency Diploma
+JD	Doctor of Jurisprudence
+LHD	Doctor of Humanities
+LLB	Bachelor of Legal Letters
+LLD	Doctor of Laws
+LPC	Licensed Professional Counselor
+LSW	Licensed Social Worker
+LSWA	Licensed Social Work Associate
+LLB	Bachelor of Laws
+MA	Master of Arts
+MActg	Master of Accounting
+MArch	Master of Architecture
+MAT	Master of Arts in Teaching
+MBA	Master of Business Administration
+MCC	Master of Christian Counseling
+MCE	Master of Civil Engineering
+MCRP	Master of Community & Regional Planning
+MD	Medical Doctor
+ME	Mechanical Engineer
+MEd	Master of Education
+MFA	Master of Fine Arts
+MJ	Master of Journalism
+MHRIR	Master of Human Resources & Industrial Relations
+MIArch	Master of Interior Architecture
+MLA	Master of Landscape Architecture
+MLS	Master of Liberal Studies
+MM	Master of Music
+MMEd	Master of Music Education
+MPA	Master of Public Administration
+MPH	Master of Public Health
+MS	Master of Science
+MSE	Master of Software Engineering
+MSEd	Master of Science Education
+MSW	Master of Social Work
+MTPW	Master of Technical and Professional Writing
+PharmD	Doctor of Pharmacy
+PhB	Bachelor of Philosophy
+PhD	Doctor of Philosophy
+PhG	Graduate in Pharmacy
+RN	Registered Nurse
+VS	Veterinary Surgeon
